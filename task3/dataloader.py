@@ -1,8 +1,9 @@
 import torch
-from torch.utils.data import DataLoader, Dataset
+from torch.utils.data import Dataset
+
 
 class Parser:
-    def __init__(self, part_seperator="\t", tag_seperator=";", parse_all=False,):
+    def __init__(self, part_seperator="\t", tag_seperator=";"):
         
         self.part_seperator = part_seperator
         self.tag_seperator  = tag_seperator 
@@ -81,25 +82,17 @@ class Vocab:
 
         
 class WordLoader(Dataset):
-    def __init__(self, data, pad_to=-1, start_token="<s>", eos_token="</s>", pad_token="<p>", padding_mode="symmetric", unk_token="<unk>", cached=False):
-        
+    def __init__(self, data, pad_to=-1, start_token="<s>", eos_token="</s>", pad_token="<p>"):
         assert pad_to != -1
         
         self.vocab  = Vocab(data, pad_to=pad_to, start_token=start_token, eos_token=eos_token, pad_token=pad_token)
-        self.cached = cached
-        
+        self.data   = data
+
     def __getitem__(self, idx):
-        if self.cached:
-            return self.data[idx]            
-        else:
-            return self.vocab.encode(self.data[idx])
+        return self.vocab.encode(self.data[idx])
             
     def __len__(self):
         return len(self.data)
 
-
-analysis = Parser()
-data     = analysis.parse_file("/analysis/tur.dev")
-vocab    = Vocab(data)
 
 
