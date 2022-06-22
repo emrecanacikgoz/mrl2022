@@ -1,5 +1,5 @@
 import torch
-from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 
 
 class Parser:
@@ -14,13 +14,22 @@ class Parser:
         for line in open(file):
 
             line =line.rstrip().split(self.part_seperator)
+            src, tgt = line[0], line[1]
+            space_num = tgt.count(" ")
             src, tgt = line[0], line[1].replace(" ", self.tag_seperator).split(self.tag_seperator)
+
             source = [char for char in src]
-            #print(f"Source: {src} ===> Target: {tgt}")
-            target = [char for char in tgt[0]] + tgt[1:]
-            #print(f"Source: {source} ===> Target: {target}\n")
+            target = []
+            for lemma in tgt[:space_num]:
+                lemmas = [char for char in lemma]
+                target.append(lemmas)
+
+            if space_num == 2:
+                target[0].extend(" ")
+
+            lemma_tgt = [char for lemma in target for char in lemma]
+            target    = lemma_tgt + tgt[space_num:]
             data.append([source, target])
-            
         return data
             
 
