@@ -4,7 +4,7 @@ from torch import optim
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 from dataloader import Parser, WordLoader
-from model.morse2 import Morse
+from model.model import Morse
 from training import train
 
 #### DON'T FORGET TO CHANGE THIS !!! ######
@@ -81,18 +81,18 @@ logger.info(f"Dropout rate: {dropout_rate}\n")
 
 # File Operations
 modelname = args.mname+'/results/'+str(len(train_data))+'_instances'
-results_file_name = os.path.join(logger_folder_name, modelname)
+args.results_file_name = os.path.join(logger_folder_name, modelname)
 try:
-    os.makedirs(results_file_name)
-    print("Directory " , results_file_name,  " Created ")
+    os.makedirs(args.results_file_name)
+    print("Directory " , args.results_file_name,  " Created ")
 except FileExistsError:
-    print("Directory " , results_file_name,  " already exists")
-save_path = results_file_name + str(args.epochs)+'epochs.pt'
-fig_path  = results_file_name + str(args.epochs)+'epochs.png'
+    print("Directory " , args.results_file_name,  " already exists")
+args.save_path = args.results_file_name + str(args.epochs)+'epochs.pt'
+fig_path  = args.results_file_name + str(args.epochs)+'epochs.png'
 
 # plotting
-fig, axs = plt.subplots(1)
-plt_style = pstyle = '-'
+args.fig, args.axs = plt.subplots(1)
+args.plt_style = pstyle = '-'
 
 # Training
 train(train_loader, val_loader, logger, args)
