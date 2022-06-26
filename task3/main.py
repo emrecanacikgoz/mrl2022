@@ -24,9 +24,9 @@ file_handler = logging.FileHandler(logger_file_name,'w')
 file_handler.setFormatter(formatter)
 logger.addHandler(file_handler)
 logger.info('Code started \n')
-# CONFIG
-parser = argparse.ArgumentParser(description='')
-args = parser.parse_args()
+# set args
+parser      = argparse.ArgumentParser(description='')
+args        = parser.parse_args()
 args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
@@ -80,7 +80,7 @@ logger.info(f"Number of heads in Attention: {num_heads}")
 logger.info(f"Dropout rate: {dropout_rate}\n")
 
 # File Operations
-modelname = args.mname+'/results/'+str(len(train_data))+'_instances'
+modelname              = args.mname+'/results/'+str(len(train_data))+'_instances'
 args.results_file_name = os.path.join(logger_folder_name, modelname)
 try:
     os.makedirs(args.results_file_name)
@@ -88,11 +88,11 @@ try:
 except FileExistsError:
     print("Directory " , args.results_file_name,  " already exists")
 args.save_path = args.results_file_name + str(args.epochs)+'epochs.pt'
-fig_path  = args.results_file_name + str(args.epochs)+'epochs.png'
+fig_path       = args.results_file_name + str(args.epochs)+'epochs.png'
 
 # Plotting
 args.fig, args.axs = plt.subplots(1)
-args.plt_style = pstyle = '-'
+args.plt_style     = pstyle = '-'
 
 # Training
 train(train_loader, val_loader, logger, args)
