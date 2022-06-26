@@ -9,8 +9,8 @@ from test import test
 
 
 def train(train_loader, val_loader, logger, args):
-    random.seed(0)
     scheduler = ReduceLROnPlateau(args.optimizer, mode='min', factor=0.5, patience=5, verbose=True)
+
     best_loss = 1e4
     start_time = time.time()
     trn_loss_values, trn_acc_values= [], []
@@ -22,16 +22,14 @@ def train(train_loader, val_loader, logger, args):
         for i, (source, target) in enumerate(train_loader):
             args.model.zero_grad()
 
-            # source: (b, word*txchar)
-            # target: (b, word*tychar)
+            # source: (B, Tx), target: (B, Ty)
             source, target = source.to(args.device), target.to(args.device)
 
-            # (b, word*tychar)
+            # (B, Ty)
             target_input  = target[:, :-1]
             target_output = target[:, 1:]
             
-            # src_mask: (b, 1 ,word*txchar)
-            # tgt_mask: (b, word*tychar, word*tychar)
+            # src_mask: (B, 1 ,Tx), tgt_mask: (B, Ty, Ty)
             src_mask, trg_mask = create_masks(source, target_input, args)
 
             loss, acc, output = args.model(source, target_input, target_output, epoch, trg_mask, src_mask)
@@ -41,7 +39,7 @@ def train(train_loader, val_loader, logger, args):
             args.optimizer.step()
 
             correct_tokens, num_tokens, wrong_tokens, wrong_predictions, correct_predictions = acc
-            epoch_loss       += loss.sum().item() #
+            epoch_loss       += loss.sum().item()
             epoch_num_tokens += num_tokens
             epoch_acc        += correct_tokens
             epoch_error      += wrong_tokens
@@ -73,8 +71,9 @@ def train(train_loader, val_loader, logger, args):
             loss = nll_test
         val_loss_values.append(nll_test)
         val_acc_values.append(acc_test)
-        #scheduler.step(nll_test)
+        scheduler.step(nll_test)
 
+        # Savings
         if loss < best_loss:
             logger.info('Update best val loss\n')
             best_loss = loss

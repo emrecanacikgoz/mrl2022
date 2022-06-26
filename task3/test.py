@@ -7,16 +7,15 @@ def test(val_loader, epoch, logger, args):
     epoch_wrong_predictions = []
     epoch_correct_predictions = []
     for i, (source, target) in enumerate(val_loader):
-        # source: (b, word*txchar)
-        # target: (b, word*tychar)
+
+        # source: (B, Tx), target: (B, Ty)
         source, target = source.to(args.device), target.to(args.device)
 
-        # (b, word*tychar)
+        # (B, Ty)
         target_input  = target[:, :-1]
         target_output = target[:, 1:]
         
-        # src_mask: (b, 1 ,word*txchar)
-        # tgt_mask: (b, word*tychar, word*tychar)
+        # src_mask: (B, 1 ,Tx), tgt_mask: (B, Ty, Ty)
         src_mask, trg_mask = create_masks(source, target_input, args)
 
         loss, acc, output = args.model(source, target_input, target_output, epoch, trg_mask, src_mask)
