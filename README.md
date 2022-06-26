@@ -36,16 +36,16 @@ Check "EXPERIMENTS" for the results.<br/>
 **Please, do not forget to edit experiments name before you run the code.**
 
 # Models
-### Task1 (Inflection) ver1
+## Task1 (Inflection) ver1
 ![alt text](https://github.com/ecacikgoz97/competation/blob/main/task3/figures/t1_ver1.png)
 
-### Task2 (Re-Inflection) ver1
+## Task2 (Re-Inflection) ver1
 ![alt text](https://github.com/ecacikgoz97/competation/blob/main/task3/figures/t2_ver1.png)
 
-### Task3 (Analysis) ver1
+## Task3 (Analysis) ver1
 ![alt text](https://github.com/ecacikgoz97/competation/blob/main/task3/figures/t3_ver1.png)
 
-### Task3 (Analysis) ver2
+## Task3 (Analysis) ver2
 ![alt text](https://github.com/ecacikgoz97/competation/blob/main/task3/figures/t3_ver2.png)
 
 # Suggested Research Materials:
