@@ -32,8 +32,6 @@ class MultiHead_Attention(nn.Module):
 
     def forward(self, q, k, v, mask=None):
         Bq, Tq, Cq = q.shape
-        #Bk, Tk, Ck = k.shape
-        #Bv, Tv, Cv = v.shape
 
         # calculate query, key, values for all heads in batch and move head forward to be the batch dim
         q = self.query(q).view(Bq, -1, self.num_heads, Cq//self.num_heads).transpose(1, 2) # (B, num_heads, T, C//num_heads)

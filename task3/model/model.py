@@ -16,28 +16,25 @@ class Morse(nn.Module):
 
 
     def forward(self, input, target_in, target_out, epoch, trg_mask=None, src_mask=None):
-        # input:    (b, word*txchar) 
-        # src_mask: (b, 1 ,word*txchar)
-        # trg_mask: (b*word, tychar, tychar)
 
-        # (b, word*txchar) 
+        # (B, Tx) 
         encoder_output = self.encoder(input, src_mask)
-        # (b, word*txchar, embed)
+        # (B, Tx, embed)
         decoder = self.decoder(target_in, encoder_output, trg_mask, src_mask)
-        # (b, word*tychar, embed)
+        # (B, Ty, embed)
         output = self.linear(decoder)
-        # (b, word*tychar, vocab_size)
+        # (B, Ty, vocab_size)
         _output = output.view(-1, output.size(-1))
-        # (b*word*tychar, vocab)
+        # (Ty, vocab)
         _target = target_out.contiguous().view(-1)
-        # (b*word*tychar)
+        # (B*Ty)
         loss = F.cross_entropy(_output, _target, ignore_index=0, reduction='none')
-        # (b*word*tychar)
+        # (B*Ty)
         return loss, self.accuracy(output, target_out, epoch), output
     
     
     def accuracy(self, outputs, targets, epoch):
-        # output_logits: (B, T, vocab_size), targets: (B,T)
+        # output_logits: (B, T, vocab_size), targets: (B, T)
         surf_vocab = self.surf
         feat_vocab = self.feat
 
