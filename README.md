@@ -6,7 +6,7 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 - [x] **Task3 (Analysis):** Implement Encoder-Decoder (Vaswani) model-ver1.
 - [x] **Task3 (Analysis):** Implement Morse-based-ver2.
 - [x] **Task3 (Analysis):** Train Encoder-Decoder (Vaswani) model ver1. <br/>
-`Epoch: 499/500 |  avg_test_loss: 2.1593554 | perplexity: 8.6655498 |  test_accuracy: 76.10%` 
+`Epoch: 500/500 |  avg_test_loss: 2.1593554 | perplexity: 8.6655498 |  test_accuracy: 76.10%` 
 - [ ] **Task1 (Inflection):** Train Encoder-Decoder (Vaswani) model.
 - [ ] **Task2 (Reinflection):** Implement Encoder-Decoder (Vaswani) model with [SEP] token as AB[SEP]C.
 - [ ] **Task3 (Analysis):** Fix dimension problem during cross-attention in Morse-based-ver2.
