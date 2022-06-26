@@ -27,6 +27,8 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   ├── training.py
 │   └── utils.py
 └── README.md
+
+*To run the code, create a folder with name "EXPERIMENTS" at: ./task3/EXPERIMENTS/
 ```
 
 # Models
