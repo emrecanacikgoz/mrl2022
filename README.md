@@ -28,10 +28,10 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   ├── training.py
 │   └── utils.py
 └── README.md
-
-*Check "EXPERIMENTS" for the results.
-**Please, do not forget to edit experiments name before you run the code.**
 ```
+
+Check "EXPERIMENTS" for the results.<br/>
+**Please, do not forget to edit experiments name before you run the code.**
 
 # Models
 ### Task1 (Inflection) ver1
