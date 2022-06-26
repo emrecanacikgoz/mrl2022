@@ -1,4 +1,4 @@
-# Competation
+# Competition
 KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/st2022-mrl.html) and [website](https://sigtyp.github.io/st2022-mrl.html).
 
 ## To Do's
@@ -22,7 +22,7 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   ├── figures
 │   ├── model
 │   ├── dataloader
-│   ├── main.py
+│   ├── main.py # run this
 │   ├── test.py
 │   ├── training.py
 │   └── utils.py
