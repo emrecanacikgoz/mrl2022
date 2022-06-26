@@ -9,7 +9,7 @@ from training import train
 
 #### DON'T FORGET TO CHANGE THIS !!! ######
 logger_file_name   = 'experiment0'        # Add ExpNUMBER !!!         
-logger_folder_name = "EXPERIMENTS/exp0" # Add ExpNUMBER !!!
+logger_folder_name = "EXPERIMENTS/exp0"   # Add ExpNUMBER !!!
 ###########################################
 
 
@@ -32,7 +32,7 @@ args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Configurations
 args.task       = "task3_analysis"
-args.pad_to     = 50
+args.pad_to     = 60
 args.epochs     = 100
 args.batch_size = 16
 args.lr         = 5e-4
@@ -42,8 +42,8 @@ args.lr         = 5e-4
 parser        = Parser()
 train_data    = parser.parse_file("./analysis/tur.trn") # 10,000
 val_data      = parser.parse_file("./analysis/tur.dev") # 1,000
-train_dataset = WordLoader(train_data[:5], pad_to=args.pad_to)
-val_dataset   = WordLoader(val_data[:5],   pad_to=args.pad_to)
+train_dataset = WordLoader(train_data, pad_to=args.pad_to)
+val_dataset   = WordLoader(val_data,   pad_to=args.pad_to)
 train_loader  = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=False)
 val_loader    = DataLoader(val_dataset,   batch_size=args.batch_size, shuffle=False)
 print(len(train_loader))
@@ -58,7 +58,7 @@ print(f"feat: {len(feature_vocab)}") # 129
 
 
 # Model
-args.mname   = 'Morse4'
+args.mname   = '3Encoder_3Decoder'
 embed_dim    = 256
 num_heads    = 16
 dropout_rate = 0.15 
@@ -90,7 +90,7 @@ except FileExistsError:
 args.save_path = args.results_file_name + str(args.epochs)+'epochs.pt'
 fig_path  = args.results_file_name + str(args.epochs)+'epochs.png'
 
-# plotting
+# Plotting
 args.fig, args.axs = plt.subplots(1)
 args.plt_style = pstyle = '-'
 
