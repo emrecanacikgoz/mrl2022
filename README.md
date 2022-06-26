@@ -17,6 +17,8 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 ## Repository Map
 ```
 .
+├── task1 (To Do)
+├── task2 (To Do)
 ├── task3
 │   ├── EXPERIMENTS
 │   ├── analysis
