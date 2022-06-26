@@ -18,6 +18,7 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 ```
 .
 ├── task3
+│   ├── EXPERIMENTS
 │   ├── analysis
 │   ├── figures
 │   ├── model
@@ -28,7 +29,8 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   └── utils.py
 └── README.md
 
-*To run the code, create an empty folder with name "EXPERIMENTS" at: ./task3/EXPERIMENTS/
+*Check "EXPERIMENTS" for the results.
+**Please, do not forget to edit experiments name before you run the code.**
 ```
 
 # Models
