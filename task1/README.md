@@ -1,11 +1,11 @@
 # Task 1: Inflection
 In this task the input is verbal lemma (the form given as a lexicon entry) and a specific set of inflectional features. The task requires generating the desired output clause manifesting the features. See Example:
 ```
-Languages	Input	Output
-English	give IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)	I will give him to her
-German	geben IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)	Ich werde ihn ihr geben
-Turkish	vermek IND;FUT;NOM(1,SG);ACC(3,SG);DAT(3,SG)	Onu ona vereceğim
-Hebrew	נתן IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)	אתן אותו לה
+Languages                           Input	                                Output
+English       give IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)       I will give him to her
+German        geben IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)      Ich werde ihn ihr geben
+Turkish       vermek IND;FUT;NOM(1,SG);ACC(3,SG);DAT(3,SG)              Onu ona vereceğim
+Hebrew        נתן IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)        אתן אותו לה
 ```
 
 ## To Do's for Task1
@@ -45,5 +45,3 @@ Check "EXPERIMENTS" folder for the results.<br/>
 # Model
 ## Task1 (Inflection) ver1
 ![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t1_ver1.png)
-
-
