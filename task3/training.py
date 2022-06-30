@@ -45,13 +45,14 @@ def train(train_loader, val_loader, logger, args):
             epoch_error      += wrong_tokens
             epoch_wrong_predictions   += wrong_predictions
             epoch_correct_predictions += correct_predictions
-            print(f"\nBatch: {i+1}/{len(train_loader)} Loss: {batch_loss:.5f} Acc: {correct_tokens/num_tokens:.5f}\n")
+            #print(f"\nBatch: {i+1}/{len(train_loader)} Loss: {batch_loss:.5f} Acc: {correct_tokens/num_tokens:.5f}\n")
 
         nll_train = epoch_loss / epoch_num_tokens #len(train_loader)
         ppl_train = np.exp(epoch_loss / epoch_num_tokens)
         acc_train = epoch_acc / epoch_num_tokens
         trn_loss_values.append(nll_train)
         trn_acc_values.append(acc_train)
+        #print(f"Epoch: {epoch}/{args.epochs} | avg_train_loss: {nll_train:.7f} | perplexity: {ppl_train:.7f} | train_accuracy: {acc_train:.7f}")
         logger.info(f"Epoch: {epoch}/{args.epochs} | avg_train_loss: {nll_train:.7f} | perplexity: {ppl_train:.7f} | train_accuracy: {acc_train:.7f}")
 
         # File Operations
@@ -71,7 +72,7 @@ def train(train_loader, val_loader, logger, args):
             loss = nll_test
         val_loss_values.append(nll_test)
         val_acc_values.append(acc_test)
-        scheduler.step(nll_test)
+        #scheduler.step(nll_test)
 
         # Savings
         if loss < best_loss:

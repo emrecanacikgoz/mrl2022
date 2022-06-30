@@ -42,8 +42,8 @@ args.lr         = 5e-4
 parser        = Parser()
 train_data    = parser.parse_file("./analysis/tur.trn") # 10,000
 val_data      = parser.parse_file("./analysis/tur.dev") # 1,000
-train_dataset = WordLoader(train_data, pad_to=args.pad_to)
-val_dataset   = WordLoader(val_data,   pad_to=args.pad_to)
+train_dataset = WordLoader(train_data[:5], pad_to=args.pad_to)
+val_dataset   = WordLoader(val_data[:5],   pad_to=args.pad_to)
 train_loader  = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=False)
 val_loader    = DataLoader(val_dataset,   batch_size=args.batch_size, shuffle=False)
 print(len(train_loader))
@@ -62,7 +62,7 @@ args.mname   = '3Encoder_3Decoder'
 embed_dim    = 256
 num_heads    = 16
 dropout_rate = 0.15 
-args.model = Morse(input_vocab=surf_vocab, output_vocab=feature_vocab, embed_dim=embed_dim, num_heads=num_heads, dropout_rate=dropout_rate)
+args.model   = Morse(input_vocab=surf_vocab, output_vocab=feature_vocab, embed_dim=embed_dim, num_heads=num_heads, dropout_rate=dropout_rate)
 args.model.to(args.device)
 
 # Loss and optimizer
