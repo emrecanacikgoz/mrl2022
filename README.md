@@ -17,12 +17,20 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 ## Repository Map
 ```
 .
-├── task1 (To Do)
+├── figures
+├── task1
+│   ├── EXPERIMENTS
+│   ├── inf
+│   ├── model
+│   ├── dataloader
+│   ├── main.py # run this
+│   ├── test.py
+│   ├── training.py
+│   └── utils.py
 ├── task2 (To Do)
 ├── task3
 │   ├── EXPERIMENTS
 │   ├── analysis
-│   ├── figures
 │   ├── model
 │   ├── dataloader
 │   ├── main.py # run this
@@ -32,8 +40,8 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 └── README.md
 ```
 
-Check "EXPERIMENTS" for the results.<br/>
-**Please, do not forget to edit experiments name before you run the code.**
+Check "EXPERIMENTS" folder for the results.<br/>
+**Please, do not forget to edit experiment name before you run the code.**
 
 # Models
 ## Task1 (Inflection) ver1
