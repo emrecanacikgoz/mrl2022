@@ -17,7 +17,9 @@ class Encoder(nn.Module):
     def forward(self, input, source_mask=None):
 
         x    = self.input_embedding(input)
+        #print(f"Positional Encoding Input (Encoder): {x.shape}")
         x    = self.pos_encoding(x)
+        #print(f"Positional Encoding Output (Encoder): {x.shape}")
         x    = self.encoder1(x, source_mask)
         x    = self.encoder2(x, source_mask)
         out  = self.encoder3(x, source_mask)
@@ -37,7 +39,9 @@ class Decoder(nn.Module):
     def forward(self, input, word_encoder_outputs, target_mask=None, source_mask=None):
 
         x   = self.input_embedding(input)
+        #print(f"Positional Encoding Input (Decoder): {x.shape}")
         x   = self.pos_encoding(x)
+        #print(f"Positional Encoding Output (Decoder): {x.shape}")
         x   = self.decoder1(x, word_encoder_outputs, target_mask, source_mask)
         x   = self.decoder2(x, word_encoder_outputs, target_mask, source_mask)
         out = self.decoder3(x, word_encoder_outputs, target_mask, source_mask)
