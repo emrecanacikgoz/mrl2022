@@ -24,16 +24,28 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   ├── inf
 │   ├── model
 │   ├── dataloader
+│   ├── README.md
 │   ├── main.py # run this
 │   ├── test.py
 │   ├── training.py
 │   └── utils.py
-├── task2 (To Do)
+├── task2 
+│   ├── EXPERIMENTS
+│   ├── model
+│   ├── reinf
+│   ├── dataloader
+│   ├── README.md
+│   ├── main.py # run this
+│   ├── test.py
+│   ├── training.py
+│   └── utils.py
+├── task2 
 ├── task3
 │   ├── EXPERIMENTS
 │   ├── analysis
 │   ├── model
 │   ├── dataloader
+│   ├── README.md
 │   ├── main.py # run this
 │   ├── test.py
 │   ├── training.py
