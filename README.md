@@ -39,7 +39,6 @@ KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/
 │   ├── test.py
 │   ├── training.py
 │   └── utils.py
-├── task2 
 ├── task3
 │   ├── EXPERIMENTS
 │   ├── analysis
