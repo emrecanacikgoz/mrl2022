@@ -1,7 +1,7 @@
 # Competition
 KUIS-AI Shared Task Repository, see competition [repo](https://sigtyp.github.io/st2022-mrl.html) and [website](https://sigtyp.github.io/st2022-mrl.html).
 
-### Kind Rules of Our Repo
+### Kind Rules for our Repo
 Please try to obey the "rules" of our repo, to make everything as convenient as possible. These are to make everything more easier for everyone. :)
 1. Set your environment from scratch. If you installed new packages, please document each of the packges with their versions.
 2. When you are implementing a new model, for a specific task, create a subfolder as `taskX_name_vY`, where X and Y is the task and model versions respectively. For example:
@@ -16,7 +16,7 @@ First subfolders are already created for you.
 4. Try to add helper comments to your code. This way, others can read your code easily.
 At the end, lets beat this competition!
 
-## Calendar of The Competition
+## Calendar of the Competition
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |28|27|28|29|30|1|2|3|
@@ -27,7 +27,7 @@ At the end, lets beat this competition!
 |33|1|2|3|4|5|6|**7***|
 |34|8|9|10|11|12|13|**14***|
 |35|15|16|17|18|19|20|21|
-|36|***22*** :dart:|23|24|**25**|26|27|28|
+|36|**22*** :dart:|23|24|**25**|26|27|28|
 |37|29|30|31|1|2|3|4|
 ```
 ===> August 7, 2022: Release of testing data (including surprise languages)
