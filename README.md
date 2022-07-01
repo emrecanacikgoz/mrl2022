@@ -17,6 +17,7 @@ First subfolders are already created for you.
 At the end, lets beat this competition!
 
 ## Calendar of the Competition
+**Days left:** 53 <br/>
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |28|27|28|29|30|1|2|3|
