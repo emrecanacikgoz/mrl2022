@@ -1,0 +1,30 @@
+# packages in environment at /opt/anaconda3/envs/taskx_emrecan_v1:
+#
+# Name                    Version                   Build  Channel
+ca-certificates           2022.4.26            hecd8cb5_0  
+certifi                   2022.6.15        py37hecd8cb5_0  
+cycler                    0.11.0                   pypi_0    pypi
+fonttools                 4.33.3                   pypi_0    pypi
+kiwisolver                1.4.3                    pypi_0    pypi
+libcxx                    12.0.0               h2f01273_0  
+libffi                    3.3                  hb1e8313_2  
+matplotlib                3.5.2                    pypi_0    pypi
+ncurses                   6.3                  hca72f7f_2  
+numpy                     1.21.6                   pypi_0    pypi
+openssl                   1.1.1p               hca72f7f_0  
+packaging                 21.3                     pypi_0    pypi
+pillow                    9.1.1                    pypi_0    pypi
+pip                       21.2.2           py37hecd8cb5_0  
+pyparsing                 3.0.9                    pypi_0    pypi
+python                    3.7.13               hdfd78df_0  
+python-dateutil           2.8.2                    pypi_0    pypi
+readline                  8.1.2                hca72f7f_1  
+setuptools                61.2.0           py37hecd8cb5_0  
+six                       1.16.0                   pypi_0    pypi
+sqlite                    3.38.5               h707629a_0  
+tk                        8.6.12               h5d9f67b_0  
+torch                     1.12.0                   pypi_0    pypi
+typing-extensions         4.2.0                    pypi_0    pypi
+wheel                     0.37.1             pyhd3eb1b0_0  
+xz                        5.2.5                hca72f7f_1  
+zlib                      1.2.12               h4dc903c_2  
