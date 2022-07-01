@@ -27,7 +27,7 @@ At the end, lets beat this competition!
 
 **Important Deadlines:**
 ```
-===> August 5, 2022: Get a baseline score for each task with each language (6 Language x 3 task = 18 results).
+===> August 5, 2022: Get a baseline score for each task with each language (6 Languages x 3 tasks = 18 results).
 ===> August 7, 2022: Release of testing data (including surprise languages)
 ===> August 14, 2022: Deadline to release external data and resources used in systems
 ===> August 22, 2022: Deadline for submission of systems
