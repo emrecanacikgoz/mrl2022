@@ -29,6 +29,8 @@ At the end, lets beat this competition!
 |35|15|16|17|18|19|20|21|
 |36|**22*** :dart:|23|24|**25***|26|27|28|
 |37|29|30|31|1|2|3|4|
+
+**Important Deadlines:**
 ```
 ===> August 7, 2022: Release of testing data (including surprise languages)
 ===> August 8, 2022: Get a baseline score for each task with each language (6 Language x 3 task = 18 results).
@@ -39,7 +41,6 @@ At the end, lets beat this competition!
 ===> October 10, 2022: Paper notifications
 ===> November 9, 2022: Camera-ready papers and posters due
 ===> December 8, 2022: Workshop
-
 ```
 
 ## To Do's
