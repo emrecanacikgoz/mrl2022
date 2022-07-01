@@ -8,8 +8,8 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 ```
 .
 task1
-│   ├── task1_emrecan_v1
-│   └── task1_tilek_v1
+    ├── task1_emrecan_v1
+    └── task1_tilek_v1
 ```
 First subfolders are already created for you.
 3. Update your To Do's in your **subfolder**, frequently. By this, others can follow your progress easily. I will add your To Do's inside the top-level README, one by one.
