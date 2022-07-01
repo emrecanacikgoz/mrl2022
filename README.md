@@ -19,7 +19,7 @@ At the end, lets beat this competition!
 |30|11|12|13|14|15|16|17|
 |31|18|19|20|21|22|23|24|
 |32|25|26|27|28|29|30|31|
-|33|1|2|3|4|5|6|**7***|
+|33|1|2|3|4|**5***|6|**7***|
 |34|8|9|10|11|12|13|**14***|
 |35|15|16|17|18|19|20|21|
 |36|**22*** :dart:|23|24|**25***|26|27|28|
@@ -27,8 +27,8 @@ At the end, lets beat this competition!
 
 **Important Deadlines:**
 ```
+===> August 5, 2022: Get a baseline score for each task with each language (6 Language x 3 task = 18 results).
 ===> August 7, 2022: Release of testing data (including surprise languages)
-===> August 8, 2022: Get a baseline score for each task with each language (6 Language x 3 task = 18 results).
 ===> August 14, 2022: Deadline to release external data and resources used in systems
 ===> August 22, 2022: Deadline for submission of systems
 ===> August 25, 2022: Release of rankings and results
