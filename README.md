@@ -6,7 +6,8 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 1. Set your environment from scratch. If you installed new packages, please document each of the packges with their versions.
 2. When you are implementing a new model, for a specific task, create a subfolder as `taskX_name_vY`, where X and Y is the task and model versions respectively. For example: `./task1/task1_emrecan_v1` and `./task1/task1_tilek_v1`. Initial subfolders are already created for you.
 3. Update your To Do's in your **subfolder**, frequently. By this, others can follow your progress easily. I will add your To Do's inside the top-level README, one by one.
-4. Try to add helper comments to your code. This way, others can read your code easily.<br/>
+4. Try to add helper comments to your code. This way, others can read your code easily.
+5. Add your research materials or your suggested materials to **Suggested Research Materials** section in this README file.<br/>
 
 At the end, lets beat this competition!
 
