@@ -27,7 +27,7 @@ At the end, lets beat this competition!
 |33|1|2|3|4|5|6|**7***|
 |34|8|9|10|11|12|13|**14***|
 |35|15|16|17|18|19|20|21|
-|36|**22*** :dart:|23|24|**25**|26|27|28|
+|36|**22*** :dart:|23|24|**25***|26|27|28|
 |37|29|30|31|1|2|3|4|
 ```
 ===> August 7, 2022: Release of testing data (including surprise languages)
