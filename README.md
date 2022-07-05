@@ -39,17 +39,13 @@ At the end, lets beat this competition!
 ```
 
 ## To Do's
-- [x] **Task1 (Emre Can):** Implement Encoder-Decoder (Vaswani) model.
-- [x] **Task2 (Emre Can):** Implement Encoder-Decoder (Vaswani) model with [SEP] token as AB[SEP]C.
-- [x] **Task3 (Emre Can):** Implement Encoder-Decoder (Vaswani) model-ver1.
-- [x] **Task3 (Emre Can):** Implement Morse-based-ver2.
-- [x] **Task3 (Emre Can):** Train Encoder-Decoder (Vaswani) model ver1. <br/>
-`Epoch: 500/500 |  avg_test_loss: 2.1593554 | perplexity: 8.6655498 |  test_accuracy: 76.10%` 
-- [x] **Task3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [ ] **Task1 (Emre Can):** Train Encoder-Decoder (Vaswani) model.
-- [ ] **Task2 (Emre Can):** Train Encoder-Decoder (Vaswani) model.
+- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
+- [x] **Task3 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.<br>
+`Epoch: 99/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`
+- [ ] **Task1 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.
+- [ ] **Task2 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.
 - [ ] **Task3 (Emre Can):** Fix dimension problem during cross-attention in Morse-based-ver2.
-- [ ] Check Gözde Hoca's papers and implement: a pointer network solution and a monotonic hard attention based solution
+- [ ] Check Gözde Hoca's papers and implement: a pointer network solution and a monotonic hard attention based solution.
 
 ## Environment Set-up
 Please do the followings to run the baselines successfully, i.e. "taskx_emrecan_v1":
