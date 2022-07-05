@@ -38,13 +38,15 @@ At the end, lets beat this competition!
 ===> December 8, 2022: Workshop
 ```
 
+
 ## To Do's
 - [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [x] **Task3 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.<br>
+- [x] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.<br>
 `Epoch: 99/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`
-- [ ] **Task1 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.
-- [ ] **Task2 (Emre Can):** Train Encoder-Decoder (Vaswani) model for Turkish.
-- [ ] **Task3 (Emre Can):** Fix dimension problem during cross-attention in Morse-based-ver2.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
+- [ ] **Task3 (Emre Can):** Fix dimension problem during cross-attention in version-2.
 - [ ] Check Gözde Hoca's papers and implement: a pointer network solution and a monotonic hard attention based solution.
 
 ## Environment Set-up
