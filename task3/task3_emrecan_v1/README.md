@@ -17,6 +17,7 @@ Hebrew      	אתן                   אותו לה	נתן IND;FUT;NOM(1,SG);ACC
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
+- [ ] **Task3 (Emre Can):** Fix dimension problem during cross-attention in version-2.
 
 ## Code Map
 ```
