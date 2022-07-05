@@ -45,6 +45,7 @@ At the end, lets beat this competition!
 `Epoch: 99/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`
 - [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
 - [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
+- [ ] **Task2 (Muge):** Train version-1 (Prompts) for 6xLanguages.
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
 - [ ] **Task3 (Emre Can):** Fix dimension problem during cross-attention in version-2.
 - [ ] Check Gözde Hoca's papers and implement: a pointer network solution and a monotonic hard attention based solution.
