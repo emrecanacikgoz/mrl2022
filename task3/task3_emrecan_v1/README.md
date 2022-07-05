@@ -9,12 +9,14 @@ Hebrew      	אתן                   אותו לה	נתן IND;FUT;NOM(1,SG);ACC
 ```
 
 ## To Do's for Task3
-- [x] **Task3 (Analysis):** Implement Encoder-Decoder (Vaswani) model-ver1.
-- [x] **Task3 (Analysis):** Implement Morse-based-ver2.
-- [x] **Task3 (Analysis):** Train Encoder-Decoder (Vaswani) model ver1. <br/>
-`Epoch: 500/500 |  avg_test_loss: 2.1593554 | perplexity: 8.6655498 |  test_accuracy: 76.10%` 
-- [x] **Task3 (Analysis):** Check Positional Encodings bug (there was a bug, fixed now).
-- [ ] **Task3 (Analysis):** Fix dimension problem during cross-attention in Morse-based-ver2.
+- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
+- [x] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.<br>
+`Epoch: 99/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
+- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
 
 ## Code Map
 ```
