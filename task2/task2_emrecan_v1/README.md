@@ -3,8 +3,13 @@ In this task the input is an inflected clause, accompanied by its features, and 
 
 
 ## To Do's for Task1
-- [x] **Task2 (Reinflection):** Implement Encoder-Decoder (Vaswani) model with [SEP] token as AB[SEP]C.
-- [ ] **Task2 (Reinflection):** Train reinflection.
+- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
 
 ## Code Map
 ```
