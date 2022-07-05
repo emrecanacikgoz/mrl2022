@@ -2,8 +2,12 @@
 In this task the input is an inflected clause, accompanied by its features, and a new set of features representing the desired form. The task is to generate the desired output that will represent the desired features. See Example:
 
 ## To Do's for Task2
-- [x] **Task2 (Reinflection):** Implement Encoder-Decoder (Vaswani) model with [SEP] token as AB[SEP]C.
-- [ ] **Task2 (Reinflection):** Train reinflection.
+- [ ] **Task2 (Muge):** Train prompts for Turkish.
+- [ ] **Task2 (Muge):** Train prompts for English.
+- [ ] **Task2 (Muge):** Train prompts for German.
+- [ ] **Task2 (Muge):** Train prompts for Russian.
+- [ ] **Task2 (Muge):** Train prompts for French.
+- [ ] **Task2 (Muge):** Train prompts for Hebrew.
 
 ## Environment Set-up
 Please set your environment from scratch and document it, i.e.:
