@@ -11,8 +11,8 @@ Hebrew      	אתן                   אותו לה	נתן IND;FUT;NOM(1,SG);ACC
 ## To Do's for Task3
 - [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
 - [x] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.<br>
-`Epoch:  100/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`<br>
-`Epoch: 300/300 |  avg_test_loss: 0.6192018 | perplexity: 1.8574449 |  test_accuracy: 93.47%`
+`Epoch: 300/300 | avg_train_loss: 0.0022792 | perplexity: 1.0022818 | train_accuracy: 99.91%`<br>
+`Epoch: 300/300 |  avg_test__loss: 0.6192018 | perplexity: 1.8574449 |  test_accuracy: 93.47%`
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
 - [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
