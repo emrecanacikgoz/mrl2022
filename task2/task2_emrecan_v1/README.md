@@ -4,7 +4,9 @@ In this task the input is an inflected clause, accompanied by its features, and 
 
 ## To Do's for Task1
 - [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.
+- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.<br>
+`Epoch: 200/200 | avg_train_loss: 0.0072144 | perplexity: 1.0072404 | train_accuracy: 99.79%`<br>
+`Epoch: 200/200 |  avg_test__loss: 0.4347873 | perplexity: 1.5446344 | test__accuracy: 94.34%`
 - [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
 - [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
 - [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
