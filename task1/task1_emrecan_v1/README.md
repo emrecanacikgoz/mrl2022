@@ -9,8 +9,13 @@ Hebrew        נתן IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)        את�
 ```
 
 ## To Do's for Task1
-- [x] **Task1 (Inflection):** Implement Encoder-Decoder (Vaswani) model.
-- [ ] **Task1 (Inflection):** Train Encoder-Decoder (Vaswani) model.
+- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
+- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
 
 ## Code Map
 ```
