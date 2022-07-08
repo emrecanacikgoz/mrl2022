@@ -32,5 +32,4 @@ python src/train.py \
     --label_smooth $label_smooth --total_eval $total_eval \
     --src_layer $layers --trg_layer $layers --max_norm 1 --lr $lr --shuffle \
     --arch $arch --gpuid 0 --estop 1e-8 --bs $bs --max_steps $max_steps \
-    --scheduler $scheduler --warmup_steps $warmup --cleanup_anyway --beta2 $beta2 --bestacc \
-    --load $ckpt_dir/tagtransformer/sigmorphon17-task1-dropout0.3/turkish-high-.nll_0.7510.acc_97.9.dist_0.04.epoch_256
+    --scheduler $scheduler --warmup_steps $warmup --cleanup_anyway --beta2 $beta2 --bestacc
