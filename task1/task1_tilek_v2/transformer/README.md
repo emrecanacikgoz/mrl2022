@@ -20,9 +20,6 @@ cd data
 git clone https://github.com/sigmorphon/conll2017.git
 cd ..
 
-# the data for the Shared Task is under the "data" folder
-
 # Run feature-invariant transformer (`arch=tagtransformer`). For regular transformer, `arch=transformer`.
-# Use "tur" for Shared Task
 sh example/transformer/trm-sig17.sh $lang
 ```
