@@ -1,13 +1,13 @@
-# Task 2: Reinflection
-In this task the input is an inflected clause, accompanied by its features, and a new set of features representing the desired form. The task is to generate the desired output that will represent the desired features. See Example:
+# Task 1: Inflection
+In this task the input is verbal lemma (the form given as a lexicon entry) and a specific set of inflectional features. The task requires generating the desired output clause manifesting the features. 
 
-## To Do's for Task2
-- [X] **Task2 (Muge):** Train baseline prompts for Turkish.
-- [X] **Task2 (Muge):** Train baseline rompts for English.
-- [X] **Task2 (Muge):** Train baseline prompts for German.
-- [X] **Task2 (Muge):** Train baseline prompts for Russian.
-- [X] **Task2 (Muge):** Train baseline prompts for French.
-- [X] **Task2 (Muge):** Train baseline prompts for Hebrew.
+## To Do's for Task1
+- [ ] **Task1 (Muge):** Train baseline prompts for Turkish.
+- [X] **Task1 (Muge):** Train baseline rompts for English.
+- [X] **Task1 (Muge):** Train baseline prompts for German.
+- [ ] **Task1 (Muge):** Train baseline prompts for Russian.
+- [ ] **Task1 (Muge):** Train baseline prompts for French.
+- [ ] **Task1 (Muge):** Train baseline prompts for Hebrew.
 
 ## Environment Set-up
 Please set your environment from scratch and document it, i.e.:
