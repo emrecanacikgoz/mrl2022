@@ -9,6 +9,11 @@ In this task the input is an inflected clause, accompanied by its features, and 
 - [X] **Task2 (Muge):** Train baseline prompts for French.
 - [X] **Task2 (Muge):** Train baseline prompts for Hebrew.
 
+- [ ] **Task2 (Muge):** Train different pretrained LMs for all languages, especially for Hebrew.
+- [ ] **Task2 (Muge):** Literature review for different prompting techniques other than prefix tuning for all languages.
+- [ ] **Task2 (Muge):** Train different prompting techniques other than prefix tuning for all languages.
+- [ ] **Task2 (Muge):** Train prompts to Masked LMs (such as BERT), for all languages.
+
 ## Environment Set-up
 Please set your environment from scratch and document it, i.e.:
 ```
