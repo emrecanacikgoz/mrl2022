@@ -6,7 +6,7 @@ In this task the input is verbal lemma (the form given as a lexicon entry) and a
 - [X] **Task1 (Muge):** Train baseline rompts for English.
 - [X] **Task1 (Muge):** Train baseline prompts for German.
 - [ ] **Task1 (Muge):** Train baseline prompts for Russian.
-- [ ] **Task1 (Muge):** Train baseline prompts for French.
+- [X] **Task1 (Muge):** Train baseline prompts for French.
 - [ ] **Task1 (Muge):** Train baseline prompts for Hebrew.
 
 ## Environment Set-up
