@@ -98,4 +98,7 @@ Please add/update this section whenever you find something useful.
 4. [Monotonic Multihead Attention](https://arxiv.org/pdf/1909.12406.pdf)
 5. [Applying the Transformer to Character-level Transduction](https://arxiv.org/pdf/2005.10213.pdf)
 6. [Pushing the Limits of Low-Resource Morphological Inflection](https://arxiv.org/pdf/1908.05838.pdf)
+7. [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)
+8. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
+9. [OpenPrompt repo](https://github.com/thunlp/OpenPrompt)
 
