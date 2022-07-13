@@ -97,4 +97,5 @@ Please add/update this section whenever you find something useful.
 3. [On Biasing Transformer Attention Towards Monotonicity](https://arxiv.org/pdf/2104.03945.pdf)
 4. [Monotonic Multihead Attention](https://arxiv.org/pdf/1909.12406.pdf)
 5. [Applying the Transformer to Character-level Transduction](https://arxiv.org/pdf/2005.10213.pdf)
+6. [Pushing the Limits of Low-Resource Morphological Inflection](https://arxiv.org/pdf/1908.05838.pdf)
 
