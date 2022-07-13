@@ -12,10 +12,9 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 At the end, lets beat this competition!
 
 ## Calendar of the Competition
-**Days left:** 45 <br/>
+**Days left:** 41 <br/>
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|29|4|5|6|7|**8***|9|10|
 |30|11|12|13|14|15|16|17|
 |31|18|19|20|21|22|23|24|
 |32|25|26|27|28|29|30|31|
@@ -27,7 +26,7 @@ At the end, lets beat this competition!
 
 **Important Deadlines:**
 ```
-===> July 8, 2022: Get a baseline score for each task with each language (6 Languages x 3 tasks = 18 results).
+July 8, 2022: Get a baseline score for each task with each language (6 Languages x 3 tasks = 18 results).
 ===> August 7, 2022: Release of testing data (including surprise languages)
 ===> August 14, 2022: Deadline to release external data and resources used in systems
 ===> August 22, 2022: Deadline for submission of systems
