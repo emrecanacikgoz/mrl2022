@@ -8,16 +8,21 @@ Turkish       vermek IND;FUT;NOM(1,SG);ACC(3,SG);DAT(3,SG)              Onu ona 
 Hebrew        נתן IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)        אתן אותו לה
 ```
 
+## Results
+
+| Language  |  Acc.(token)  |  EM.    |    Edit Distance |
+|---------- |-------------: |------:  | ----------------:|
+|deu        |     0.965     | 0.505   |        0.995     |
+|eng        |     0.982     | 0.686   |        0.421     |
+|fra        |     0.987     | 0.530   |        0.847     |
+|heb        |     0.991     | 0.065   |        4.338     |
+|rus        |     0.982     | 0.483   |        1.502     |
+|tur        |     0.984     | 0.640   |        0.731     |
+|**Average**|   **0.981**   |**0.484**|      **1.472**   |
+
 ## To Do's for Task1
-- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [x] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish:<br>
-`Epoch: 300/300 | avg_train_loss: 0.0003826 | perplexity: 1.0003827 | train_accuracy: 99.988%`<br>
-`Epoch: 300/300 | avg_test__loss: 0.0822139 | perplexity: 1.0856880 |  test_accuracy: 98.821%`
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
+- [ ] **Task1 (Emre Can):** Find the issue in version-1.
+- [ ] **Task1 (Emre Can):** Implement/modify Transducer.
 
 ## Code Map
 ```
