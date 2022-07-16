@@ -101,4 +101,5 @@ Please add/update this section whenever you find something useful.
 7. [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/pdf/2107.13586.pdf)
 8. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 9. [OpenPrompt repo](https://github.com/thunlp/OpenPrompt)
+10. [https://arxiv.org/pdf/1905.06319.pdf](https://arxiv.org/pdf/1905.06319.pdf)
 
