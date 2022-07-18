@@ -1,0 +1,1001 @@
+prediction	target	loss	dist
+w o n ' t   y o u   h a v e   b e e n   a n s w e r i n g   y o u r s e l f ?	w o n ' t   y o u   h a v e   b e e n   a n s w e r i n g   y o u r s e l f ?	0.0003152689605485648	0
+a r e   w e   a n s w e r i n g ?	a r e   w e   a n s w e r i n g ?	1.2587292985699605e-05	0
+h a s n ' t   h e   a n s w e r e d   i t ?	h a s n ' t   h e   a n s w e r e d   i t ?	3.9291666325880215e-05	0
+w o u l d n ' t   i t   a n s w e r   y o u ?	w o u l d n ' t   i t   a n s w e r   y o u ?	0.00017933218623511493	0
+I   a n s w e r e d .	I   a n s w e r e d .	6.40222497167997e-05	0
+h a d   t h e y   b e e n   a n s w e r i n g   t h e m ?	h a d   t h e y   b e e n   a n s w e r i n g   t h e m ?	0.00021431672212202102	0
+w o u l d n ' t   i t   h a v e   a n s w e r e d   y o u ?	w o u l d n ' t   i t   h a v e   a n s w e r e d   y o u ?	0.00011484526476124302	0
+w o u l d n ' t   i t   h a v e   b e e n   a n s w e r i n g   i t s e l f ?	w o u l d n ' t   i t   h a v e   b e e n   a n s w e r i n g   i t s e l f ?	0.00013721994764637202	0
+w i l l   w e   a n s w e r ?	w i l l   w e   a n s w e r ?	5.686024906026432e-06	0
+w o u l d   y o u ' v e   a n s w e r e d   t o   h i m ?	w o u l d   y o u ' v e   a n s w e r e d   t o   h i m ?	0.0007077867048792541	0
+w e ' l l   b e   a n s w e r i n g   h i m .	w e ' l l   b e   a n s w e r i n g   h i m .	0.001172757474705577	0
+w a s   s h e   a n s w e r i n g   h e r s e l f   t o   t h e m ?	w a s   s h e   a n s w e r i n g   t o   h e r s e l f ?	0.030817687511444092	11
+d o e s n ' t   i t   a n s w e r   t o   i t s e l f ?	d o e s n ' t   i t   a n s w e r   t o   i t s e l f ?	0.0008229614468291402	0
+I ' l l   h a v e   a n s w e r e d   h e r .	I ' l l   h a v e   a n s w e r e d   h e r .	0.0002701134653761983	0
+d o n ' t   a n s w e r   t h e m !	d o n ' t   a n s w e r   t h e m !	8.632968092570081e-05	0
+w o u l d   w e ' v e   b e e n   a n s w e r i n g   t o   i t ?	w o u l d   w e ' v e   b e e n   a n s w e r i n g   t o   i t ?	0.00036144728073850274	0
+i t   a n s w e r e d   t o   m e .	i t   a n s w e r e d   t o   m e .	4.1196373786078766e-05	0
+i t ' l l   h a v e   a n s w e r e d .	i t ' l l   h a v e   a n s w e r e d .	1.576571594341658e-05	0
+w o u l d   w e ' v e   a n s w e r e d   t o   h e r ?	w o u l d   w e ' v e   a n s w e r e d   t o   h e r ?	0.0002488147874828428	0
+w i l l   s h e   a n s w e r ?	w i l l   s h e   a n s w e r ?	8.853547114995308e-06	0
+w e r e n ' t   w e   a n s w e r i n g   h i m ?	w e r e n ' t   w e   a n s w e r i n g   h i m ?	0.00029891476151533425	0
+d i d n ' t   w e   a n s w e r   h i m ?	d i d n ' t   w e   a n s w e r   h i m ?	1.360161058983067e-05	0
+s h e ' l l   b e   a p p l y i n g   m e .	s h e ' l l   b e   a p p l y i n g   m e .	8.107053145067766e-05	0
+w o n ' t   i t   b e   a p p l y i n g   f o r   u s ?	w o n ' t   i t   b e   a p p l y i n g   f o r   u s ?	0.006429846398532391	0
+h a s n ' t   s h e   b e e n   a p p l y i n g   f o r   h i m ?	h a s n ' t   s h e   b e e n   a p p l y i n g   f o r   h i m ?	0.01632888801395893	0
+y o u ' l l   a p p l y   t o   y o u r s e l v e s .	y o u ' l l   a p p l y   t o   y o u r s e l v e s .	0.0024397976230829954	0
+w o u l d   h e   b e   a p p l y i n g   t o   h i m ?	w o u l d   h e   b e   a p p l y i n g   t o   h i m ?	3.9257840398931876e-05	0
+w o n ' t   I   h a v e   a p p l i e d   h e r ?	w o n ' t   I   h a v e   a p p l i e d   h e r ?	3.896352427545935e-05	0
+w i l l   s h e   b e   a p p l y i n g   f o r   m e ?	w i l l   s h e   b e   a p p l y i n g   f o r   m e ?	0.015944229438900948	0
+I   d o n ' t   a p p l y   t o   t h e m .	I   d o n ' t   a p p l y   f o r   t h e m .	0.03340640291571617	2
+w o u l d n ' t   i t   h a v e   a p p l i e d   f o r   h i m ?	w o u l d n ' t   i t   h a v e   a p p l i e d   f o r   h i m ?	0.018857480958104134	0
+h a v e n ' t   t h e y   b e e n   a p p l y i n g   h e r ?	h a v e n ' t   t h e y   b e e n   a p p l y i n g   h e r ?	7.660157280042768e-06	0
+h a s   i t   a p p l i e d   i t ?	h a s   i t   a p p l i e d   i t ?	7.494663441320881e-05	0
+w o u l d   w e ' v e   a p p l i e d   t h e m ?	w o u l d   w e ' v e   a p p l i e d   t h e m ?	6.09479466220364e-05	0
+t h e y ' l l   b e   a p p l y i n g   f o r   h i m .	t h e y ' l l   b e   a p p l y i n g   f o r   h i m .	0.015375202521681786	0
+w o n ' t   s h e   h a v e   a p p l i e d   f o r   u s ?	w o n ' t   s h e   h a v e   a p p l i e d   f o r   u s ?	0.030696526169776917	0
+d i d n ' t   w e   a p p l y   t o   i t ?	d i d n ' t   w e   a p p l y   t o   i t ?	0.0015748761361464858	0
+I ' d   a p p l y   h i m .	I ' d   a p p l y   f o r   h i m .	0.031759727746248245	4
+y o u   a p p l i e d   y o u r s e l f .	y o u   a p p l i e d   y o u r s e l f .	0.0002454572531860322	0
+t h e y ' r e   a p p l y i n g   t o   y o u .	t h e y ' r e   a p p l y i n g   f o r   y o u .	0.04416220635175705	2
+h a v e n ' t   y o u   b e e n   a v e r a g i n g   u s ?	h a v e n ' t   y o u   b e e n   a v e r a g i n g   u s ?	1.7942397789738607e-06	0
+t h e y ' l l   b e   a v e r a g i n g   y o u .	t h e y ' l l   b e   a v e r a g i n g   y o u .	4.196548616164364e-06	0
+i t   w o u l d   h a v e   b e e n   a v e r a g i n g   t h e m .	i t   w o u l d   h a v e   b e e n   a v e r a g i n g   t h e m .	2.096844127663644e-06	0
+I ' v e   b e e n   a v e r a g i n g   i t .	I ' v e   b e e n   a v e r a g i n g   i t .	1.4060516377867316e-06	0
+i t   d i d n ' t   a v e r a g e   u s .	i t   d i d n ' t   a v e r a g e   u s .	4.303686182538513e-06	0
+I   w o u l d n ' t   a v e r a g e   i t .	I   w o u l d n ' t   a v e r a g e   i t .	2.136566536137252e-06	0
+w i l l   i t   a v e r a g e   i t ?	w i l l   i t   a v e r a g e   i t ?	1.3968793837193516e-06	0
+I   a v e r a g e d   t h e m .	I   a v e r a g e d   t h e m .	2.32168567890767e-05	0
+d o e s   s h e   a v e r a g e   h e r ?	d o e s   s h e   a v e r a g e   h e r ?	3.0077096653258195e-06	0
+w i l l   y o u   a v e r a g e   h e r ?	w i l l   y o u   a v e r a g e   h e r ?	1.5925082834655768e-06	0
+y o u   h a d n ' t   a v e r a g e d   u s .	y o u   h a d n ' t   a v e r a g e d   u s .	5.3855451369599905e-06	0
+i t   h a d n ' t   a v e r a g e d   y o u .	i t   h a d n ' t   a v e r a g e d   y o u .	1.8920597995020216e-06	0
+w e r e n ' t   w e   a v e r a g i n g   h e r ?	w e r e n ' t   w e   a v e r a g i n g   h e r ?	2.3536015305580804e-06	0
+a r e   w e   a v e r a g i n g   o u r s e l v e s ?	a r e   w e   a v e r a g i n g   o u r s e l v e s ?	6.880155524413567e-06	0
+w i l l   I   a v e r a g e   m y s e l f ?	w i l l   I   a v e r a g e   m y s e l f ?	1.2073733159922995e-06	0
+t h e y   h a v e n ' t   b e e n   a v e r a g i n g   h e r .	t h e y   h a v e n ' t   b e e n   a v e r a g i n g   h e r .	3.3836386137409136e-06	0
+w o u l d n ' t   i t   h a v e   b e e n   a v e r a g i n g   t h e m ?	w o u l d n ' t   i t   h a v e   b e e n   a v e r a g i n g   t h e m ?	1.7606250821700087e-06	0
+t h e y   w o u l d n ' t   b e   a v e r a g i n g   i t .	t h e y   w o u l d n ' t   b e   a v e r a g i n g   i t .	1.7545080481795594e-06	0
+w i l l   w e   b e   a v e r a g i n g   y o u ?	w i l l   w e   b e   a v e r a g i n g   y o u ?	4.75904562335927e-06	0
+t h e y ' d   h a v e   b e e n   a v e r a g i n g   t h e m s e l v e s .	t h e y ' d   h a v e   b e e n   a v e r a g i n g   t h e m s e l v e s .	2.002091832764563e-06	0
+w i l l   t h e y ' v e   a v e r a g e d   h e r ?	w i l l   t h e y ' v e   a v e r a g e d   h e r ?	2.357081029913388e-06	0
+h a d   I   a v e r a g e d   h i m ?	h a d   I   a v e r a g e d   h i m ?	1.7258148545806762e-06	0
+s h e   h a d n ' t   a v o i d e d   h i m .	s h e   h a d n ' t   a v o i d e d   h i m .	8.257359877461568e-05	0
+i t   w o u l d n ' t   h a v e   a v o i d e d   y o u .	i t   w o u l d n ' t   h a v e   a v o i d e d   y o u .	1.7185362594318576e-05	0
+w o u l d   y o u ' v e   b e e n   a v o i d i n g   u s ?	w o u l d   y o u ' v e   b e e n   a v o i d i n g   u s ?	4.880625056102872e-06	0
+h e   h a d n ' t   b e e n   a v o i d i n g   m e .	h e   h a d n ' t   b e e n   a v o i d i n g   m e .	2.187429890909698e-05	0
+w o u l d   y o u ' v e   b e e n   a v o i d i n g   t h e m ?	w o u l d   y o u ' v e   b e e n   a v o i d i n g   t h e m ?	4.146907667745836e-05	0
+w o u l d   I   a v o i d   t h e m ?	w o u l d   I   a v o i d   t h e m ?	1.0371328471592278e-06	0
+d i d   s h e   a v o i d   y o u ?	d i d   s h e   a v o i d   y o u ?	2.736437181738438e-06	0
+a r e   w e   a v o i d i n g   h e r ?	a r e   w e   a v o i d i n g   h e r ?	4.817057742911857e-06	0
+h a d   w e   b e e n   a v o i d i n g   m e ?	h a d   w e   b e e n   a v o i d i n g   m e ?	1.658453584241215e-05	0
+w o u l d   s h e   h a v e   a v o i d e d   h e r ?	w o u l d   s h e   h a v e   a v o i d e d   h e r ?	2.682218791960622e-06	0
+w e ' r e   a v o i d i n g   o u r s e l v e s .	w e ' r e   a v o i d i n g   o u r s e l v e s .	9.678034075477626e-06	0
+y o u   w o u l d n ' t   h a v e   b e e n   a v o i d i n g   y o u r s e l v e s .	y o u   w o u l d n ' t   h a v e   b e e n   a v o i d i n g   y o u r s e l v e s .	1.7648126231506467e-06	0
+I   a v o i d   h i m .	I   a v o i d   h i m .	1.8752074311123579e-06	0
+h a v e   t h e y   a v o i d e d   u s ?	h a v e   t h e y   a v o i d e d   u s ?	5.313215751812095e-06	0
+i t   h a d   a v o i d e d   m e .	i t   h a d   a v o i d e d   m e .	1.5227119547489565e-05	0
+t h e y ' d   b e e n   a v o i d i n g   u s .	t h e y ' d   b e e n   a v o i d i n g   u s .	2.94644087261986e-06	0
+w o u l d n ' t   h e   h a v e   b e e n   a v o i d i n g   h i m ?	w o u l d n ' t   h e   h a v e   b e e n   a v o i d i n g   h i m ?	4.687088676291751e-06	0
+w e   w o u l d n ' t   h a v e   b e e n   a v o i d i n g   t h e m .	w e   w o u l d n ' t   h a v e   b e e n   a v o i d i n g   t h e m .	2.560139364504721e-05	0
+d o e s n ' t   i t   a v o i d   m e ?	d o e s n ' t   i t   a v o i d   m e ?	3.854318947560387e-06	0
+h e   h a d n ' t   b e e n   a v o i d i n g   u s .	h e   h a d n ' t   b e e n   a v o i d i n g   u s .	2.9649525004060706e-06	0
+w o u l d n ' t   w e   h a v e   a v o i d e d   t h e m ?	w o u l d n ' t   w e   h a v e   a v o i d e d   t h e m ?	9.08950823941268e-06	0
+w o n ' t   s h e   b e   b o t t l i n g   t h e m ?	w o n ' t   s h e   b e   b o t t l i n g   t h e m ?	5.379699246077507e-07	0
+w o u l d n ' t   s h e   b e   b o t t l i n g   i t ?	w o u l d n ' t   s h e   b e   b o t t l i n g   i t ?	6.694054945910466e-07	0
+h a d   i t   b e e n   b o t t l i n g   t h e m ?	h a d   i t   b e e n   b o t t l i n g   t h e m ?	8.680870564603538e-07	0
+h a d   s h e   b e e n   b o t t l i n g   y o u ?	h a d   s h e   b e e n   b o t t l i n g   y o u ?	1.0239730272587622e-06	0
+a r e   y o u   b o t t l i n g   y o u r s e l f ?	a r e   y o u   b o t t l i n g   y o u r s e l f ?	2.044867869699374e-06	0
+d o n ' t   y o u   b o t t l e   y o u r s e l f ?	d o n ' t   y o u   b o t t l e   y o u r s e l f ?	5.361117928259773e-06	0
+i s   s h e   b o t t l i n g   m e ?	i s   s h e   b o t t l i n g   m e ?	8.627728675492108e-06	0
+h e ' d   b o t t l e   h i m .	h e ' d   b o t t l e   h i m .	1.4946948567740037e-06	0
+w i l l   y o u   b o t t l e   y o u r s e l v e s ?	w i l l   y o u   b o t t l e   y o u r s e l v e s ?	1.2134858025092399e-06	0
+w o n ' t   s h e   h a v e   b e e n   b o t t l i n g   u s ?	w o n ' t   s h e   h a v e   b e e n   b o t t l i n g   u s ?	1.0025801202573348e-06	0
+w e   d o n ' t   b o t t l e   h e r .	w e   d o n ' t   b o t t l e   h e r .	2.46058539232763e-06	0
+w o n ' t   i t   b o t t l e   i t ?	w o n ' t   i t   b o t t l e   i t ?	1.9164806417393265e-06	0
+w o n ' t   w e   h a v e   b o t t l e d   h i m ?	w o n ' t   w e   h a v e   b o t t l e d   h i m ?	3.557924628694309e-06	0
+h a v e n ' t   w e   b e e n   b o t t l i n g   h e r ?	h a v e n ' t   w e   b e e n   b o t t l i n g   h e r ?	7.305382041522535e-07	0
+y o u ' d   b o t t l e d   i t .	y o u ' d   b o t t l e d   i t .	3.1574884360452415e-06	0
+t h e y   w o u l d n ' t   h a v e   b o t t l e d   t h e m s e l v e s .	t h e y   w o u l d n ' t   h a v e   b o t t l e d   t h e m s e l v e s .	3.5304010452819057e-06	0
+w e r e n ' t   w e   b o t t l i n g   o u r s e l v e s ?	w e r e n ' t   w e   b o t t l i n g   o u r s e l v e s ?	2.787596713460516e-06	0
+d i d n ' t   s h e   b o t t l e   y o u ?	d i d n ' t   s h e   b o t t l e   y o u ?	2.279133013871615e-06	0
+I ' v e   b e e n   b o t t l i n g   t h e m .	I ' v e   b e e n   b o t t l i n g   t h e m .	6.75518776915851e-07	0
+h e   w o n ' t   h a v e   b e e n   b o t t l i n g   y o u .	h e   w o n ' t   h a v e   b e e n   b o t t l i n g   y o u .	6.584890002159227e-07	0
+h e ' d   h a v e   b e e n   b o t t l i n g   i t .	h e ' d   h a v e   b e e n   b o t t l i n g   i t .	1.3283229236549232e-06	0
+w e ' d   h a v e   b o t t l e d   i t .	w e ' d   h a v e   b o t t l e d   i t .	3.0483313366858056e-06	0
+t h e y ' d   b o t t l e d   t h e m s e l v e s .	t h e y ' d   b o t t l e d   t h e m s e l v e s .	3.1249371659214376e-06	0
+w a s   I   b r i n g   y o u   t o   h e r ?	w a s   I   b r i n g i n g   y o u   t o   h e r ?	0.2934349775314331	3
+s h e   w o n ' t   b r i n g   t h e m   t o   h i m .	s h e   w o n ' t   b r i n g   t h e m   t o   h i m .	0.0011876150965690613	0
+d i d n ' t   t h e y   b r i n g   t h e m s e l v e s   t o   i t ?	d i d n ' t   t h e y   b r i n g   t h e m s e l v e s   t o   i t ?	0.000272089964710176	0
+h a v e   t h e y   b r i n g e d   m e   t o   m y s e l f ?	h a v e   t h e y   b r o u g h t   m e   t o   m y s e l f ?	0.42983779311180115	4
+w i l l   t h e y ' v e   b e e n   b r i n g   t h e m   t o   h e r ?	w i l l   t h e y ' v e   b e e n   b r i n g i n g   t h e m   t o   h e r ?	0.28540581464767456	3
+d o   t h e y   b r i n g   m e   t o   i t ?	d o   t h e y   b r i n g   m e   t o   i t ?	4.662614446715452e-05	0
+i t ' s   n o t   b r i n g   i t s e l f   t o   h i m .	i t ' s   n o t   b r i n g i n g   i t s e l f   t o   h i m .	0.418582022190094	3
+h e   w o u l d n ' t   h a v e   b e e n   b r i n g   m e   t o   h e r .	h e   w o u l d n ' t   h a v e   b e e n   b r i n g i n g   m e   t o   h e r .	0.29888230562210083	3
+w o n ' t   I   h a v e   b e e n   b r i n g   u s   t o   h e r ?	w o n ' t   I   h a v e   b e e n   b r i n g i n g   u s   t o   h e r ?	0.3658624291419983	3
+w a s   i t   b r i n g   y o u   t o   i t ?	w a s   i t   b r i n g i n g   y o u   t o   i t ?	0.28378060460090637	3
+h e ' l l   h a v e   b r i n g e d   m e   t o   i t .	h e ' l l   h a v e   b r o u g h t   m e   t o   i t .	0.6063097715377808	4
+d i d n ' t   y o u   b r i n g   h i m   t o   t h e m ?	d i d n ' t   y o u   b r i n g   h i m   t o   t h e m ?	3.9989132346818224e-05	0
+h e ' s   n o t   b r i n g   i t   t o   h i m .	h e ' s   n o t   b r i n g i n g   i t   t o   h i m .	0.34920069575309753	3
+w e r e   t h e y   b r i n g   h e r   t o   m e ?	w e r e   t h e y   b r i n g i n g   h e r   t o   m e ?	0.37789690494537354	3
+w o u l d   h e   b e   b r i n g   h e r   t o   y o u ?	w o u l d   h e   b e   b r i n g i n g   h e r   t o   y o u ?	0.3574948310852051	3
+t h e y   b r i n g   h i m   t o   y o u .	t h e y   b r i n g   h i m   t o   y o u .	5.068846439826302e-05	0
+h a s   h e   b r i n g e d   h i m   t o   t h e m ?	h a s   h e   b r o u g h t   h i m   t o   t h e m ?	0.5774061679840088	4
+h a v e   t h e y   b r i n g e d   m e   t o   t h e m s e l v e s ?	h a v e   t h e y   b r o u g h t   m e   t o   t h e m s e l v e s ?	0.4854309856891632	4
+s h e   w a s n ' t   b r i n g   h e r s e l f   t o   m e .	s h e   w a s n ' t   b r i n g i n g   h e r s e l f   t o   m e .	0.4062221050262451	3
+w e ' d   b e   b r i n g   i t   t o   i t s e l f .	w e ' d   b e   b r i n g i n g   i t   t o   i t s e l f .	0.37377363443374634	3
+w o n ' t   h e   b e   b r i n g   h i m s e l f   t o   t h e m ?	w o n ' t   h e   b e   b r i n g i n g   h i m s e l f   t o   t h e m ?	0.3805733025074005	3
+h e   w o u l d n ' t   b e   b u t t o n i n g   h i m s e l f .	h e   w o u l d n ' t   b e   b u t t o n i n g   h i m s e l f .	2.3998536562430672e-06	0
+w o u l d   h e   b e   b u t t o n i n g   u s ?	w o u l d   h e   b e   b u t t o n i n g   u s ?	1.4932461454009172e-06	0
+h e   b u t t o n s   i t .	h e   b u t t o n s   i t .	0.0005086472956463695	0
+w i l l   w e   b e   b u t t o n i n g   h e r ?	w i l l   w e   b e   b u t t o n i n g   h e r ?	1.9637986952147912e-06	0
+t h e y   w o n ' t   b e   b u t t o n i n g   y o u .	t h e y   w o n ' t   b e   b u t t o n i n g   y o u .	0.0001138216903200373	0
+y o u ' d   b u t t o n e d   u s .	y o u ' d   b u t t o n e d   u s .	2.9237542094051605e-06	0
+h a s n ' t   s h e   b u t t o n e d   t h e m ?	h a s n ' t   s h e   b u t t o n e d   t h e m ?	1.2092348697478883e-05	0
+h a d n ' t   t h e y   b u t t o n e d   u s ?	h a d n ' t   t h e y   b u t t o n e d   u s ?	3.10570135297894e-06	0
+t h e y ' v e   b e e n   b u t t o n i n g   h i m .	t h e y ' v e   b e e n   b u t t o n i n g   h i m .	1.8069551970256725e-06	0
+h a d   t h e y   b u t t o n e d   t h e m s e l v e s ?	h a d   t h e y   b u t t o n e d   t h e m s e l v e s ?	3.786438583119889e-06	0
+w o u l d n ' t   t h e y   b u t t o n   u s ?	w o u l d n ' t   t h e y   b u t t o n   u s ?	9.317138278674975e-07	0
+I   d i d n ' t   b u t t o n   m y s e l f .	I   d i d n ' t   b u t t o n   m y s e l f .	3.820868187176529e-06	0
+a r e n ' t   y o u   b u t t o n i n g   m e ?	a r e n ' t   y o u   b u t t o n i n g   m e ?	4.009096755908104e-06	0
+d i d   h e   b u t t o n   m e ?	d i d   h e   b u t t o n   m e ?	4.119277946301736e-06	0
+w o n ' t   y o u   b u t t o n   y o u r s e l f ?	w o n ' t   y o u   b u t t o n   y o u r s e l f ?	3.503313791952678e-06	0
+w o u l d   t h e y ' v e   b e e n   c e n t e r i n g   h e r ?	w o u l d   t h e y ' v e   b e e n   c e n t e r i n g   h e r ?	1.2285156572033884e-06	0
+s h e   d i d n ' t   c e n t e r   t h e m .	s h e   d i d n ' t   c e n t e r   t h e m .	6.3375809986609966e-06	0
+w o u l d   y o u   b e   c e n t e r i n g   y o u r s e l v e s ?	w o u l d   y o u   b e   c e n t e r i n g   y o u r s e l v e s ?	6.744595793861663e-06	0
+h e   w o u l d n ' t   h a v e   b e e n   c e n t e r i n g   u s .	h e   w o u l d n ' t   h a v e   b e e n   c e n t e r i n g   u s .	9.702308716441621e-07	0
+i t   w o n ' t   c e n t e r   i t .	i t   w o n ' t   c e n t e r   i t .	8.046618518164905e-07	0
+I   c e n t e r e d   t h e m .	I   c e n t e r e d   t h e m .	9.821754065342247e-05	0
+y o u ' r e   n o t   c e n t e r i n g   t h e m .	y o u ' r e   n o t   c e n t e r i n g   t h e m .	3.556353476596996e-06	0
+w i l l   s h e   b e   c e n t e r i n g   t h e m ?	w i l l   s h e   b e   c e n t e r i n g   t h e m ?	1.5695749198130216e-06	0
+i t   h a s n ' t   c e n t e r e d   i t .	i t   h a s n ' t   c e n t e r e d   i t .	1.3930781278759241e-05	0
+d i d n ' t   y o u   c e n t e r   y o u r s e l f ?	d i d n ' t   y o u   c e n t e r   y o u r s e l f ?	2.6821689971257e-06	0
+w o n ' t   t h e y   h a v e   c e n t e r e d   m e ?	w o n ' t   t h e y   h a v e   c e n t e r e d   m e ?	1.632496787351556e-05	0
+a r e n ' t   y o u   c e n t e r i n g   h i m ?	a r e n ' t   y o u   c e n t e r i n g   h i m ?	2.3378051992040128e-06	0
+w o u l d   i t   h a v e   c e n t e r e d   u s ?	w o u l d   i t   h a v e   c e n t e r e d   u s ?	1.7888003640109673e-05	0
+w o u l d   h e   c e n t e r   y o u ?	w o u l d   h e   c e n t e r   y o u ?	9.7685244782042e-07	0
+s h e ' s   c e n t e r i n g   h i m .	s h e ' s   c e n t e r i n g   h i m .	2.175544068450108e-06	0
+h a v e   y o u   c e n t e r e d   y o u r s e l f ?	h a v e   y o u   c e n t e r e d   y o u r s e l f ?	1.545415580039844e-05	0
+I ' m   c e n t e r i n g   h i m .	I ' m   c e n t e r i n g   h i m .	3.5861562537320424e-06	0
+w o n ' t   t h e y   c e n t e r   t h e m ?	w o n ' t   t h e y   c e n t e r   t h e m ?	1.0265235914630466e-06	0
+t h e y ' v e   c e n t e r e d   m e .	t h e y ' v e   c e n t e r e d   m e .	3.123809801763855e-05	0
+s h e   w o n ' t   b e   c h a l l e n g i n g   t h e m .	s h e   w o n ' t   b e   c h a l l e n g i n g   t h e m .	3.09326128444809e-06	0
+t h e y ' r e   n o t   c h a l l e n g i n g   t h e m .	t h e y ' r e   n o t   c h a l l e n g i n g   t h e m .	3.994965481979307e-06	0
+y o u   w o n ' t   b e   c h a l l e n g i n g   m e .	y o u   w o n ' t   b e   c h a l l e n g i n g   m e .	3.065372220589779e-05	0
+s h e   w o n ' t   b e   c h a l l e n g i n g   y o u .	s h e   w o n ' t   b e   c h a l l e n g i n g   y o u .	8.209561201510951e-06	0
+h a d   w e   c h a l l e n g e d   i t ?	h a d   w e   c h a l l e n g e d   i t ?	1.0187325642618816e-05	0
+h e   w a s   c h a l l e n g i n g   h i m s e l f .	h e   w a s   c h a l l e n g i n g   h i m s e l f .	4.4503594835987315e-05	0
+w o u l d n ' t   y o u   c h a l l e n g e   u s ?	w o u l d n ' t   y o u   c h a l l e n g e   u s ?	7.558559445897117e-06	0
+h e ' s   n o t   c h a l l e n g i n g   h i m s e l f .	h e ' s   n o t   c h a l l e n g i n g   h i m s e l f .	1.6940295608947054e-05	0
+w o u l d n ' t   w e   c h a l l e n g e   t h e m ?	w o u l d n ' t   w e   c h a l l e n g e   t h e m ?	1.4115659723756835e-05	0
+h a v e   I   c h a l l e n g e d   t h e m ?	h a v e   I   c h a l l e n g e d   t h e m ?	6.052078788343351e-06	0
+t h e y   w o n ' t   c h a l l e n g e   y o u .	t h e y   w o n ' t   c h a l l e n g e   y o u .	5.355618122848682e-05	0
+w o u l d   y o u ' v e   b e e n   c h a l l e n g i n g   u s ?	w o u l d   y o u ' v e   b e e n   c h a l l e n g i n g   u s ?	8.955410885391757e-05	0
+w o u l d n ' t   h e   h a v e   b e e n   c h a l l e n g i n g   h i m ?	w o u l d n ' t   h e   h a v e   b e e n   c h a l l e n g i n g   h i m ?	1.8533115508034825e-05	0
+y o u   h a v e n ' t   b e e n   c h a l l e n g i n g   i t .	y o u   h a v e n ' t   b e e n   c h a l l e n g i n g   i t .	7.381234354397748e-06	0
+y o u   h a d n ' t   b e e n   c h a l l e n g i n g   y o u r s e l f .	y o u   h a d n ' t   b e e n   c h a l l e n g i n g   y o u r s e l f .	2.1642432329826988e-05	0
+w o n ' t   s h e   h a v e   b e e n   c h a l l e n g i n g   t h e m ?	w o n ' t   s h e   h a v e   b e e n   c h a l l e n g i n g   t h e m ?	2.0509985461103497e-06	0
+t h e y ' l l   h a v e   b e e n   c h a l l e n g i n g   t h e m .	t h e y ' l l   h a v e   b e e n   c h a l l e n g i n g   t h e m .	6.959760412428295e-06	0
+w i l l   I ' v e   c h a l l e n g e d   i t ?	w i l l   I ' v e   c h a l l e n g e d   i t ?	1.7993676010519266e-05	0
+y o u ' d   c h a l l e n g e d   y o u r s e l f .	y o u ' d   c h a l l e n g e d   y o u r s e l f .	5.202395641390467e-06	0
+s h e ' s   n o t   c o d i n g .	s h e ' s   n o t   c o d i n g .	5.4436945902125444e-06	0
+h a v e   y o u   b e e n   c o d i n g ?	h a v e   y o u   b e e n   c o d i n g ?	4.144383638049476e-06	0
+d o n ' t   y o u   c o d e ?	d o n ' t   y o u   c o d e ?	2.9305605494300835e-05	0
+s h e ' l l   c o d e .	s h e ' l l   c o d e .	2.542317088227719e-05	0
+I ' l l   b e   c o d i n g .	I ' l l   b e   c o d i n g .	3.3974206417042296e-06	0
+h e   w o u l d n ' t   h a v e   b e e n   c o d i n g .	h e   w o u l d n ' t   h a v e   b e e n   c o d i n g .	2.165621708627441e-06	0
+w o n ' t   h e   b e   c o d i n g ?	w o n ' t   h e   b e   c o d i n g ?	2.467592366883764e-06	0
+h e ' l l   h a v e   b e e n   c o d i n g .	h e ' l l   h a v e   b e e n   c o d i n g .	6.365504304994829e-06	0
+c o d e !	c o d e !	0.0002254006831208244	0
+h e ' d   c o d e .	h e ' d   c o d e .	0.00035892994492314756	0
+w o n ' t   i t   h a v e   b e e n   c o d i n g ?	w o n ' t   i t   h a v e   b e e n   c o d i n g ?	1.6093198382804985e-06	0
+w i l l   h e   h a v e   c o d e d ?	w i l l   h e   h a v e   c o d e d ?	0.0006718217628076673	0
+w e ' d   b e   c o d i n g .	w e ' d   b e   c o d i n g .	8.634058758616447e-06	0
+t h e y ' d   c o d e .	t h e y ' d   c o d e .	7.106973498594016e-05	0
+w e ' l l   b e   c o d i n g .	w e ' l l   b e   c o d i n g .	1.506176977272844e-05	0
+w e   h a d n ' t   c o d e d .	w e   h a d n ' t   c o d e d .	4.7152552724583074e-05	0
+h a d   s h e   c o d e d ?	h a d   s h e   c o d e d ?	0.0004136685165576637	0
+y o u   h a v e n ' t   c o d e d .	y o u   h a v e n ' t   c o d e d .	1.6346408301615156e-05	0
+I   d i d n ' t   c o d e .	I   d i d n ' t   c o d e .	2.847956602636259e-05	0
+c o d e !	c o d e !	0.0002254006831208244	0
+s h e ' l l   h a v e   b e e n   c o m p l e t i n g   t h e m .	s h e ' l l   h a v e   b e e n   c o m p l e t i n g   t h e m .	2.0200973267492373e-06	0
+h a s   h e   b e e n   c o m p l e t i n g   t h e m ?	h a s   h e   b e e n   c o m p l e t i n g   t h e m ?	2.074856865874608e-06	0
+i t ' s   b e e n   c o m p l e t i n g   h i m .	i t ' s   b e e n   c o m p l e t i n g   h i m .	4.371987870399607e-06	0
+y o u   h a d n ' t   b e e n   c o m p l e t i n g   m e .	y o u   h a d n ' t   b e e n   c o m p l e t i n g   m e .	1.8429029751132475e-06	0
+w i l l   I ' v e   b e e n   c o m p l e t i n g   h e r ?	w i l l   I ' v e   b e e n   c o m p l e t i n g   h e r ?	2.1844132334081223e-06	0
+t h e y   w o u l d n ' t   c o m p l e t e   i t .	t h e y   w o u l d n ' t   c o m p l e t e   i t .	1.3370752185437595e-06	0
+h e ' l l   b e   c o m p l e t i n g   h i m .	h e ' l l   b e   c o m p l e t i n g   h i m .	1.9749923012568615e-06	0
+I   w o u l d n ' t   h a v e   b e e n   c o m p l e t i n g   h e r .	I   w o u l d n ' t   h a v e   b e e n   c o m p l e t i n g   h e r .	1.6592599649811746e-06	0
+h a s n ' t   s h e   c o m p l e t e d   t h e m ?	h a s n ' t   s h e   c o m p l e t e d   t h e m ?	1.6302599306072807e-06	0
+w o n ' t   i t   b e   c o m p l e t i n g   i t ?	w o n ' t   i t   b e   c o m p l e t i n g   i t ?	2.8803085569961695e-06	0
+w o u l d   t h e y   c o m p l e t e   h i m ?	w o u l d   t h e y   c o m p l e t e   h i m ?	1.4917224007149343e-06	0
+d o n ' t   w e   c o m p l e t e   h i m ?	d o n ' t   w e   c o m p l e t e   h i m ?	4.8405880079371855e-05	0
+w o u l d   h e   h a v e   b e e n   c o m p l e t i n g   m e ?	w o u l d   h e   h a v e   b e e n   c o m p l e t i n g   m e ?	1.6012668311304878e-06	0
+w o n ' t   w e   c o m p l e t e   y o u ?	w o n ' t   w e   c o m p l e t e   y o u ?	8.344642878910236e-07	0
+a r e n ' t   t h e y   c o m p l e t i n g   i t ?	a r e n ' t   t h e y   c o m p l e t i n g   i t ?	4.932540832669474e-06	0
+y o u   h a d n ' t   b e e n   c o m p l e t i n g   t h e m .	y o u   h a d n ' t   b e e n   c o m p l e t i n g   t h e m .	2.171531832573237e-06	0
+w i l l   I   c o m p l e t e   h i m ?	w i l l   I   c o m p l e t e   h i m ?	9.472294095758116e-07	0
+i t   w o u l d n ' t   c o m p l e t e   m e .	i t   w o u l d n ' t   c o m p l e t e   m e .	9.44007922498713e-07	0
+h a d   h e   b e e n   c o m p l e t i n g   h i m ?	h a d   h e   b e e n   c o m p l e t i n g   h i m ?	2.5065737645491026e-06	0
+h a s n ' t   s h e   b e e n   c o n t a i n i n g   y o u ?	h a s n ' t   s h e   b e e n   c o n t a i n i n g   y o u ?	9.08595154669456e-07	0
+w o n ' t   w e   h a v e   b e e n   c o n t a i n i n g   i t ?	w o n ' t   w e   h a v e   b e e n   c o n t a i n i n g   i t ?	1.0540604762354633e-06	0
+h a d n ' t   h e   c o n t a i n e d   u s ?	h a d n ' t   h e   c o n t a i n e d   u s ?	9.504306035523769e-06	0
+w i l l   h e   c o n t a i n   t h e m ?	w i l l   h e   c o n t a i n   t h e m ?	2.5284409730375046e-06	0
+w a s   h e   c o n t a i n i n g   u s ?	w a s   h e   c o n t a i n i n g   u s ?	8.313269859172578e-07	0
+w o u l d n ' t   I   c o n t a i n   h i m ?	w o u l d n ' t   I   c o n t a i n   h i m ?	1.032100271913805e-06	0
+y o u ' v e   c o n t a i n e d   y o u r s e l v e s .	y o u ' v e   c o n t a i n e d   y o u r s e l v e s .	5.7719703363545705e-06	0
+d i d n ' t   t h e y   c o n t a i n   y o u ?	d i d n ' t   t h e y   c o n t a i n   y o u ?	1.4901130498401471e-06	0
+i s n ' t   s h e   c o n t a i n i n g   m e ?	i s n ' t   s h e   c o n t a i n i n g   m e ?	9.500790838501416e-06	0
+w o n ' t   w e   c o n t a i n   o u r s e l v e s ?	w o n ' t   w e   c o n t a i n   o u r s e l v e s ?	6.044830570317572e-06	0
+d i d n ' t   i t   c o n t a i n   i t s e l f ?	d i d n ' t   i t   c o n t a i n   i t s e l f ?	0.0001062325609382242	0
+w e ' d   h a v e   c o n t a i n e d   h i m .	w e ' d   h a v e   c o n t a i n e d   h i m .	4.448279014468426e-06	0
+t h e y   w o n ' t   h a v e   b e e n   c o n t a i n i n g   t h e m .	t h e y   w o n ' t   h a v e   b e e n   c o n t a i n i n g   t h e m .	1.0634719274094095e-06	0
+s h e   h a d n ' t   c o n t a i n e d   h e r s e l f .	s h e   h a d n ' t   c o n t a i n e d   h e r s e l f .	3.453871840974898e-06	0
+w o n ' t   w e   h a v e   c o n t a i n e d   o u r s e l v e s ?	w o n ' t   w e   h a v e   c o n t a i n e d   o u r s e l v e s ?	1.1367634215275757e-05	0
+w e   w o n ' t   h a v e   c o n t a i n e d   h i m .	w e   w o n ' t   h a v e   c o n t a i n e d   h i m .	4.793322204932338e-06	0
+h a s n ' t   s h e   b e e n   c o n t a i n i n g   h i m ?	h a s n ' t   s h e   b e e n   c o n t a i n i n g   h i m ?	7.623118563060416e-07	0
+h a s n ' t   i t   c o n t a i n e d   h e r ?	h a s n ' t   i t   c o n t a i n e d   h e r ?	8.001949026947841e-06	0
+h a d n ' t   w e   c o n t a i n e d   i t ?	h a d n ' t   w e   c o n t a i n e d   i t ?	6.054186997062061e-06	0
+h e   w o u l d n ' t   b e   c o o k i n g   u s .	h e   w o u l d n ' t   b e   c o o k i n g   u s .	1.0287928944308078e-06	0
+w o n ' t   w e   c o o k   o u r s e l v e s ?	w o n ' t   w e   c o o k   o u r s e l v e s ?	3.990415734733688e-06	0
+t h e y   c o o k e d   m e .	t h e y   c o o k e d   m e .	6.043390021659434e-05	0
+w e   w o n ' t   b e   c o o k i n g   h e r .	w e   w o n ' t   b e   c o o k i n g   h e r .	6.448776730394457e-07	0
+w o u l d   h e   h a v e   c o o k e d   i t ?	w o u l d   h e   h a v e   c o o k e d   i t ?	1.4153227311908267e-05	0
+h e   h a d n ' t   c o o k e d   h i m s e l f .	h e   h a d n ' t   c o o k e d   h i m s e l f .	3.410267026993097e-06	0
+w i l l   t h e y   c o o k   t h e m s e l v e s ?	w i l l   t h e y   c o o k   t h e m s e l v e s ?	1.4261318028729875e-05	0
+h a d n ' t   I   b e e n   c o o k i n g   t h e m ?	h a d n ' t   I   b e e n   c o o k i n g   t h e m ?	1.1524152796482667e-06	0
+w o u l d   i t   h a v e   c o o k e d   h e r ?	w o u l d   i t   h a v e   c o o k e d   h e r ?	8.684891326993238e-06	0
+h e   w a s   c o o k i n g   h e r .	h e   w a s   c o o k i n g   h e r .	3.3178989724547137e-06	0
+w i l l   t h e y ' v e   b e e n   c o o k i n g   h i m ?	w i l l   t h e y ' v e   b e e n   c o o k i n g   h i m ?	1.7129300431406591e-06	0
+s h e   w a s   c o o k i n g   h e r s e l f .	s h e   w a s   c o o k i n g   h e r s e l f .	3.1716822377347853e-06	0
+h a d n ' t   s h e   b e e n   c o o k i n g   u s ?	h a d n ' t   s h e   b e e n   c o o k i n g   u s ?	1.1765822591769393e-06	0
+w o n ' t   y o u   h a v e   b e e n   c o o k i n g   h e r ?	w o n ' t   y o u   h a v e   b e e n   c o o k i n g   h e r ?	1.215134830090392e-06	0
+i t   w o u l d   b e   c o o k i n g   i t .	i t   w o u l d   b e   c o o k i n g   i t .	1.9027868347620824e-06	0
+i t   w o n ' t   b e   c o o k i n g .	i t   w o n ' t   b e   c o o k i n g .	2.9076782084302977e-05	0
+h e ' d   b e e n   c o o k i n g   y o u .	h e ' d   b e e n   c o o k i n g   y o u .	6.890107329127204e-07	0
+w o u l d   y o u ' v e   c o o k e d   m e ?	w o u l d   y o u ' v e   c o o k e d   m e ?	1.8428481780574657e-05	0
+d o e s n ' t   i t   c o o k   u s ?	d o e s n ' t   i t   c o o k   u s ?	3.6940145946573466e-06	0
+i t   w o u l d n ' t   h a v e   d e s i g n e d   i t .	i t   w o u l d n ' t   h a v e   d e s i g n e d   i t .	3.978126642323332e-06	0
+h a d   y o u   b e e n   d e s i g n i n g   y o u r s e l v e s ?	h a d   y o u   b e e n   d e s i g n i n g   y o u r s e l v e s ?	1.232962290487194e-06	0
+y o u   d e s i g n   h i m .	y o u   d e s i g n   h i m .	3.6919873309670947e-06	0
+y o u ' l l   b e   d e s i g n i n g   i t .	y o u ' l l   b e   d e s i g n i n g   i t .	8.311574788422149e-07	0
+i t   w o u l d   h a v e   b e e n   d e s i g n i n g   h i m .	i t   w o u l d   h a v e   b e e n   d e s i g n i n g   h i m .	1.9039723611058434e-06	0
+h e   d e s i g n e d   i t .	h e   d e s i g n e d   i t .	9.325546670879703e-06	0
+i t ' l l   d e s i g n   u s .	i t ' l l   d e s i g n   u s .	2.5471003937127534e-06	0
+w i l l   I ' v e   b e e n   d e s i g n i n g   m y s e l f ?	w i l l   I ' v e   b e e n   d e s i g n i n g   m y s e l f ?	2.3822735784051474e-06	0
+h a d n ' t   I   b e e n   d e s i g n i n g   h i m ?	h a d n ' t   I   b e e n   d e s i g n i n g   h i m ?	1.1290200063740485e-06	0
+w i l l   w e   b e   d e s i g n i n g   h i m ?	w i l l   w e   b e   d e s i g n i n g   h i m ?	1.0168048447667388e-06	0
+h e ' l l   d e s i g n   h e r .	h e ' l l   d e s i g n   h e r .	1.051857793754607e-06	0
+i t   d i d n ' t   d e s i g n   u s .	i t   d i d n ' t   d e s i g n   u s .	4.34804815085954e-06	0
+y o u   d e s i g n   y o u r s e l v e s .	y o u   d e s i g n   y o u r s e l v e s .	3.397747150302166e-06	0
+h a s   s h e   d e s i g n e d   t h e m ?	h a s   s h e   d e s i g n e d   t h e m ?	2.0440904791030334e-06	0
+s h e   d e s i g n e d   h e r s e l f .	s h e   d e s i g n e d   h e r s e l f .	2.8199337975820526e-05	0
+d o   I   d e s i g n   t h e m ?	d o   I   d e s i g n   t h e m ?	3.350515544298105e-05	0
+h a s n ' t   h e   b e e n   d e s i g n i n g   h i m s e l f ?	h a s n ' t   h e   b e e n   d e s i g n i n g   h i m s e l f ?	1.3301461194714648e-06	0
+w o n ' t   t h e y   d e s i g n   t h e m ?	w o n ' t   t h e y   d e s i g n   t h e m ?	9.502923035142885e-07	0
+a m   I   d e s i g n i n g   h e r ?	a m   I   d e s i g n i n g   h e r ?	4.4807839003624395e-06	0
+w o u l d   I   d e s i g n   h i m ?	w o u l d   I   d e s i g n   h i m ?	1.2692643167611095e-06	0
+d i d n ' t   s h e   d e s i g n   h i m ?	d i d n ' t   s h e   d e s i g n   h i m ?	3.534164989105193e-06	0
+i t   w o n ' t   h a v e   b e e n   d i s p l a y i n g   i t .	i t   w o n ' t   h a v e   b e e n   d i s p l a y i n g   i t .	1.8617654404806672e-06	0
+y o u ' d   h a v e   b e e n   d i s p l a y i n g   t h e m .	y o u ' d   h a v e   b e e n   d i s p l a y i n g   t h e m .	3.2045963962445967e-06	0
+s h e   w o u l d n ' t   h a v e   d i s p l a y e d   h i m .	s h e   w o u l d n ' t   h a v e   d i s p l a y e d   h i m .	0.00021786076831631362	0
+w o u l d   h e   b e   d i s p l a y i n g   y o u ?	w o u l d   h e   b e   d i s p l a y i n g   y o u ?	1.5654026128686382e-06	0
+w o u l d   I ' v e   b e e n   d i s p l a y i n g   m y s e l f ?	w o u l d   I ' v e   b e e n   d i s p l a y i n g   m y s e l f ?	3.0460917059826897e-06	0
+w e ' d   h a v e   b e e n   d i s p l a y i n g   y o u .	w e ' d   h a v e   b e e n   d i s p l a y i n g   y o u .	1.737943080115656e-06	0
+w o n ' t   I   d i s p l a y   h i m ?	w o n ' t   I   d i s p l a y   h i m ?	1.3081630640954245e-06	0
+w o u l d n ' t   s h e   h a v e   b e e n   d i s p l a y i n g   u s ?	w o u l d n ' t   s h e   h a v e   b e e n   d i s p l a y i n g   u s ?	2.544170911278343e-06	0
+h a v e n ' t   y o u   b e e n   d i s p l a y i n g   h i m ?	h a v e n ' t   y o u   b e e n   d i s p l a y i n g   h i m ?	1.555991161694692e-06	0
+w i l l   i t   d i s p l a y   m e ?	w i l l   i t   d i s p l a y   m e ?	2.2680985694023548e-06	0
+y o u ' d   h a v e   b e e n   d i s p l a y i n g   y o u r s e l f .	y o u ' d   h a v e   b e e n   d i s p l a y i n g   y o u r s e l f .	2.7543258056539344e-06	0
+h a d n ' t   s h e   d i s p l a y e d   h e r s e l f ?	h a d n ' t   s h e   d i s p l a y e d   h e r s e l f ?	0.00023240405425895005	0
+s h e   w a s   d i s p l a y i n g   m e .	s h e   w a s   d i s p l a y i n g   m e .	3.871120497933589e-06	0
+a m   I   n o t   d i s p l a y i n g   h i m ?	a m   I   n o t   d i s p l a y i n g   h i m ?	1.3976890841149725e-05	0
+w i l l   h e   h a v e   b e e n   d i s p l a y i n g   i t ?	w i l l   h e   h a v e   b e e n   d i s p l a y i n g   i t ?	2.3026098006084794e-06	0
+y o u ' l l   b e   d i s p l a y i n g   m e .	y o u ' l l   b e   d i s p l a y i n g   m e .	2.2241802071221173e-06	0
+y o u ' d   h a v e   b e e n   d i s p l a y i n g   i t .	y o u ' d   h a v e   b e e n   d i s p l a y i n g   i t .	2.3245693228091113e-06	0
+y o u   d o n ' t   d i s p l a y   u s .	y o u   d o n ' t   d i s p l a y   u s .	3.234335599699989e-05	0
+h a d   t h e y   b e e n   d i s p l a y i n g   u s ?	h a d   t h e y   b e e n   d i s p l a y i n g   u s ?	1.9042051917494973e-06	0
+d o n ' t   d i s p l a y   i t !	d o n ' t   d i s p l a y   i t !	0.00012312554463278502	0
+y o u ' l l   h a v e   d i s p l a y e d   m e .	y o u ' l l   h a v e   d i s p l a y e d   m e .	0.0030872109346091747	0
+i t ' s   d i s p l a y i n g   h i m .	i t ' s   d i s p l a y i n g   h i m .	2.340251739951782e-06	0
+a m   I   n o t   d i s p l a y i n g   i t ?	a m   I   n o t   d i s p l a y i n g   i t ?	4.808830453839619e-06	0
+t h e y   w e r e n ' t   d i s t a n c i n g   m e .	t h e y   w e r e n ' t   d i s t a n c i n g   m e   f r o m   m y s e l f .	0.5946445465087891	12
+s h e ' d   d i s t a n c e d   u s   f o r   t h e m .	s h e ' d   d i s t a n c e d   u s   f r o m   t h e m .	0.17085431516170502	2
+w i l l   w e   b e   d i s t a n c i n g   o u r s e l v e s   f o r   t h e m ?	w i l l   w e   b e   d i s t a n c i n g   o u r s e l v e s   f r o m   t h e m ?	0.2326642870903015	2
+I   d i d n ' t   d i s t a n c e   h e r   f o r   h e r .	I   d i d n ' t   d i s t a n c e   h e r   f r o m   h e r .	0.1256120651960373	2
+w o u l d   y o u ' v e   d i s t a n c e d   u s   f o r   t h e m ?	w o u l d   y o u ' v e   d i s t a n c e d   u s   f r o m   t h e m ?	0.144072026014328	2
+h a d n ' t   I   b e e n   d i s t a n c i n g   m y s e l f   f o r   h i m ?	h a d n ' t   I   b e e n   d i s t a n c i n g   m y s e l f   f r o m   h i m ?	0.13140203058719635	2
+d i d n ' t   i t   d i s t a n c e   h i m   f o r   i t ?	d i d n ' t   i t   d i s t a n c e   h i m   f r o m   i t ?	0.15274159610271454	2
+h a d   s h e   b e e n   d i s t a n c i n g   h e r   o n   i t ?	h a d   s h e   b e e n   d i s t a n c i n g   h e r   f r o m   i t ?	0.13820600509643555	3
+w o u l d n ' t   y o u   h a v e   b e e n   d i s t a n c i n g   h i m   f o r   i t ?	w o u l d n ' t   y o u   h a v e   b e e n   d i s t a n c i n g   h i m   f r o m   i t ?	0.14646193385124207	2
+w o u l d   w e ' v e   d i s t a n c e d   h i m   o n   y o u ?	w o u l d   w e ' v e   d i s t a n c e d   h i m   f r o m   y o u ?	0.14893345534801483	3
+w o u l d n ' t   h e   h a v e   b e e n   d i s t a n c i n g   i t   o n   u s ?	w o u l d n ' t   h e   h a v e   b e e n   d i s t a n c i n g   i t   f r o m   u s ?	0.14954771101474762	3
+w i l l   h e   b e   d i s t a n c i n g   h e r   f o r   h e r ?	w i l l   h e   b e   d i s t a n c i n g   h e r   f r o m   h e r ?	0.1671309620141983	2
+h a v e   I   d i s t a n c e d   u s   o n   y o u ?	h a v e   I   d i s t a n c e d   u s   f r o m   y o u ?	0.21664796769618988	3
+w o u l d   s h e   h a v e   d i s t a n c e d   m e   f o r   t h e m ?	w o u l d   s h e   h a v e   d i s t a n c e d   m e   f r o m   t h e m ?	0.1174769178032875	2
+h a v e   I   d i s t a n c e d   m y s e l f ?	h a v e   I   d i s t a n c e d   m y s e l f   f r o m   i t ?	0.3577601909637451	8
+w e   w o u l d n ' t   b e   d o g g i n g .	w e   w o u l d n ' t   b e   d o g g i n g .	0.002532258164137602	0
+t h e y   h a d n ' t   d o g g e d .	t h e y   h a d n ' t   d o g g e d .	0.0007296110852621496	0
+w o n ' t   y o u   h a v e   d o g g e d ?	w o n ' t   y o u   h a v e   d o g g e d ?	0.0010433380957692862	0
+y o u   w o u l d n ' t   h a v e   d o g g e d .	y o u   w o u l d n ' t   h a v e   d o g g e d .	0.0005654264823533595	0
+h a v e   t h e y   d o g g e d ?	h a v e   t h e y   d o g g e d ?	0.004295229911804199	0
+i t   w o u l d   d o g .	i t   w o u l d   d o g .	1.1264510249020532e-05	0
+y o u   w e r e   d o g g i n g .	y o u   w e r e   d o g g i n g .	0.0033938526175916195	0
+w e ' l l   h a v e   b e e n   d o g g i n g .	w e ' l l   h a v e   b e e n   d o g g i n g .	0.0031155089382082224	0
+w o n ' t   I   h a v e   b e e n   d o g g i n g ?	w o n ' t   I   h a v e   b e e n   d o g g i n g ?	0.0009737858199514449	0
+s h e   w o n ' t   h a v e   d o g g e d .	s h e   w o n ' t   h a v e   d o g g e d .	0.002010935451835394	0
+w o u l d   i t   h a v e   b e e n   d o g g i n g ?	w o u l d   i t   h a v e   b e e n   d o g g i n g ?	0.002994806971400976	0
+w o u l d n ' t   s h e   h a v e   b e e n   d o g g i n g ?	w o u l d n ' t   s h e   h a v e   b e e n   d o g g i n g ?	0.0022677211090922356	0
+h a v e   y o u   d o g g e d ?	h a v e   y o u   d o g g e d ?	0.004436051473021507	0
+w o u l d n ' t   y o u   d o g ?	w o u l d n ' t   y o u   d o g ?	2.746618520177435e-05	0
+a r e   w e   d o g g i n g ?	a r e   w e   d o g g i n g ?	0.009146034717559814	0
+s h e   h a s n ' t   b e e n   d o g g i n g .	s h e   h a s n ' t   b e e n   d o g g i n g .	0.004272636491805315	0
+y o u   h a d n ' t   b e e n   d o g g i n g .	y o u   h a d n ' t   b e e n   d o g g i n g .	0.0023953928612172604	0
+h a d   y o u   b e e n   d o g g i n g ?	h a d   y o u   b e e n   d o g g i n g ?	0.0006865013856440783	0
+w o u l d n ' t   t h e y   d o g ?	w o u l d n ' t   t h e y   d o g ?	1.5970928870956413e-05	0
+i t   d o e s n ' t   d o g .	i t   d o e s n ' t   d o g .	1.5154833818087354e-05	0
+a m   I   n o t   d o g g i n g ?	a m   I   n o t   d o g g i n g ?	0.010236900299787521	0
+w i l l   y o u   d r o p   m e ?	w i l l   y o u   d r o p   m e ?	1.7769561964087188e-06	0
+h e ' d   b e e n   d r o p p i n g   y o u .	h e ' d   b e e n   d r o p p i n g   y o u .	5.572874670178862e-06	0
+a r e n ' t   y o u   d r o p p i n g   m e ?	a r e n ' t   y o u   d r o p p i n g   m e ?	2.0354127627797425e-05	0
+w o u l d   y o u   d r o p   y o u r s e l v e s ?	w o u l d   y o u   d r o p   y o u r s e l v e s ?	6.314310667221434e-06	0
+h e   w o n ' t   b e   d r o p p i n g   h i m .	h e   w o n ' t   b e   d r o p p i n g   h i m .	1.0783467587316409e-05	0
+I ' l l   h a v e   b e e n   d r o p p i n g   i t .	I ' l l   h a v e   b e e n   d r o p p i n g   i t .	1.1598046512517612e-05	0
+w o n ' t   i t   d r o p   h i m ?	w o n ' t   i t   d r o p   h i m ?	2.0232107544870814e-06	0
+w e ' d   d r o p   h i m .	w e ' d   d r o p   h i m .	1.3133680113242008e-05	0
+h e   h a s n ' t   d r o p p e d   t h e m .	h e   h a s n ' t   d r o p p e d   t h e m .	5.951174534857273e-05	0
+t h e y ' r e   d r o p p i n g   y o u .	t h e y ' r e   d r o p p i n g   y o u .	6.1224477576615755e-06	0
+t h e y   d o n ' t   d r o p   h e r .	t h e y   d o n ' t   d r o p   h e r .	1.8212443819720647e-06	0
+y o u ' d   d r o p p e d   h e r .	y o u ' d   d r o p p e d   h e r .	1.3466229574987665e-05	0
+w o u l d n ' t   y o u   h a v e   b e e n   d r o p p i n g   i t ?	w o u l d n ' t   y o u   h a v e   b e e n   d r o p p i n g   i t ?	8.022700058063492e-06	0
+w i l l   y o u   b e   d r o p p i n g   h i m ?	w i l l   y o u   b e   d r o p p i n g   h i m ?	4.387420631246641e-06	0
+i s   s h e   d r o p p i n g   t h e m ?	i s   s h e   d r o p p i n g   t h e m ?	3.409944838494994e-05	0
+a r e n ' t   y o u   d r o p p i n g   y o u r s e l f ?	a r e n ' t   y o u   d r o p p i n g   y o u r s e l f ?	1.7189517166116275e-05	0
+i s   h e   d r o p p i n g   t h e m ?	i s   h e   d r o p p i n g   t h e m ?	9.266776032745838e-05	0
+i t   d r o p p e d   u s .	i t   d r o p p e d   u s .	5.9835361753357574e-05	0
+d o e s   s h e   d r o p   h e r ?	d o e s   s h e   d r o p   h e r ?	7.890401320764795e-06	0
+w o n ' t   y o u   h a v e   d r o p p e d   h e r ?	w o n ' t   y o u   h a v e   d r o p p e d   h e r ?	3.4550525015220046e-05	0
+w o n ' t   i t   b e   d r o p p i n g   y o u ?	w o n ' t   i t   b e   d r o p p i n g   y o u ?	3.6424426070880145e-06	0
+w i l l   t h e y ' v e   b e e n   d r o p p i n g   t h e m ?	w i l l   t h e y ' v e   b e e n   d r o p p i n g   t h e m ?	1.007226364890812e-05	0
+t h e y ' v e   f a r m e d .	t h e y ' v e   f a r m e d .	9.003239028970711e-06	0
+w o u l d n ' t   w e   h a v e   b e e n   f a r m i n g ?	w o u l d n ' t   w e   h a v e   b e e n   f a r m i n g ?	2.9033139981038403e-06	0
+h e   w o n ' t   h a v e   b e e n   f a r m i n g .	h e   w o n ' t   h a v e   b e e n   f a r m i n g .	4.914325018035015e-06	0
+w i l l   I ' v e   f a r m e d ?	w i l l   I ' v e   f a r m e d ?	2.1787411242257804e-05	0
+w o u l d n ' t   w e   f a r m ?	w o u l d n ' t   w e   f a r m ?	1.9687187887029722e-05	0
+i t ' s   f a r m i n g .	i t ' s   f a r m i n g .	3.1109570954868104e-06	0
+w o u l d n ' t   i t   b e   f a r m i n g ?	w o u l d n ' t   i t   b e   f a r m i n g ?	1.8227444797958015e-06	0
+w i l l   i t   f a r m ?	w i l l   i t   f a r m ?	6.164058140711859e-05	0
+w a s n ' t   h e   f a r m i n g ?	w a s n ' t   h e   f a r m i n g ?	4.229905243846588e-06	0
+s h e   d o e s n ' t   f a r m .	s h e   d o e s n ' t   f a r m .	0.00020160715212114155	0
+h e   h a d n ' t   f a r m e d .	h e   h a d n ' t   f a r m e d .	1.5649895431124605e-05	0
+w o u l d   I   b e   f a r m i n g ?	w o u l d   I   b e   f a r m i n g ?	3.4301062896702206e-06	0
+w o u l d n ' t   w e   h a v e   b e e n   f a r m i n g ?	w o u l d n ' t   w e   h a v e   b e e n   f a r m i n g ?	2.9033139981038403e-06	0
+h a s n ' t   i t   b e e n   f a r m i n g ?	h a s n ' t   i t   b e e n   f a r m i n g ?	1.8188982267020037e-06	0
+h a v e n ' t   t h e y   f a r m e d ?	h a v e n ' t   t h e y   f a r m e d ?	2.1303852918208577e-05	0
+t h e y ' v e   f a r m e d .	t h e y ' v e   f a r m e d .	1.0455374649609439e-05	0
+I ' d   f a r m .	I ' d   f a r m .	0.00036878278478980064	0
+w o u l d n ' t   t h e y   h a v e   f a r m e d ?	w o u l d n ' t   t h e y   h a v e   f a r m e d ?	4.408107270137407e-05	0
+d o e s   i t   f a r m ?	d o e s   i t   f a r m ?	1.855638765846379e-05	0
+y o u   w o u l d n ' t   f a r m .	y o u   w o u l d n ' t   f a r m .	2.642828803800512e-05	0
+w i l l   s h e   h a v e   f a r m e d ?	w i l l   s h e   h a v e   f a r m e d ?	0.00023625305038876832	0
+i t   w o u l d   h a v e   f i l m e d   h i m .	i t   w o u l d   h a v e   f i l m e d   h i m .	6.312673122010892e-06	0
+i t ' l l   h a v e   b e e n   f i l m i n g   h e r .	i t ' l l   h a v e   b e e n   f i l m i n g   h e r .	1.8384307622909546e-06	0
+h a d   t h e y   b e e n   f i l m i n g   h e r ?	h a d   t h e y   b e e n   f i l m i n g   h e r ?	1.669789071456762e-06	0
+w e r e   t h e y   f i l m i n g   u s ?	w e r e   t h e y   f i l m i n g   u s ?	1.8651580830919556e-06	0
+t h e y ' d   f i l m e d   t h e m .	t h e y ' d   f i l m e d   t h e m .	5.39361917617498e-06	0
+s h e   w a s n ' t   f i l m i n g   u s .	s h e   w a s n ' t   f i l m i n g   u s .	2.7436642540124012e-06	0
+h e   w a s n ' t   f i l m i n g   h i m s e l f .	h e   w a s n ' t   f i l m i n g   h i m s e l f .	1.480192736380559e-06	0
+h e   w o n ' t   f i l m   m e .	h e   w o n ' t   f i l m   m e .	3.5724328881769907e-06	0
+y o u ' r e   n o t   f i l m i n g   h i m .	y o u ' r e   n o t   f i l m i n g   h i m .	2.8038750770065235e-06	0
+w e   h a v e n ' t   f i l m e d   o u r s e l v e s .	w e   h a v e n ' t   f i l m e d   o u r s e l v e s .	4.011575583717786e-06	0
+w e ' l l   b e   f i l m i n g   y o u .	w e ' l l   b e   f i l m i n g   y o u .	4.528455519903218e-06	0
+h a s   s h e   f i l m e d ?	h a s   s h e   f i l m e d ?	5.2036106353625655e-05	0
+I ' l l   h a v e   f i l m e d   u s .	I ' l l   h a v e   f i l m e d   u s .	1.212268034578301e-05	0
+y o u   f i l m   t h e m .	y o u   f i l m   t h e m .	3.8466309888463e-06	0
+h e ' l l   h a v e   b e e n   f i l m i n g   u s .	h e ' l l   h a v e   b e e n   f i l m i n g   u s .	2.796825810946757e-06	0
+h e   w a s n ' t   f i l m i n g   h e r .	h e   w a s n ' t   f i l m i n g   h e r .	2.649387852216023e-06	0
+s h e   h a d n ' t   b e e n   f i l m i n g   i t .	s h e   h a d n ' t   b e e n   f i l m i n g   i t .	3.196126499460661e-06	0
+w e   f i l m   h e r .	w e   f i l m   h e r .	5.858301847183611e-06	0
+w e ' v e   b e e n   f i l m i n g   h i m .	w e ' v e   b e e n   f i l m i n g   h i m .	2.343271717109019e-06	0
+w o n ' t   y o u   b e   f i n i s h i n g   t h e m ?	w o n ' t   y o u   b e   f i n i s h i n g   t h e m ?	1.3524065707315458e-06	0
+h a d n ' t   t h e y   f i n i s h e d   m e ?	h a d n ' t   t h e y   f i n i s h e d   m e ?	2.067319883281016e-06	0
+w o u l d   s h e   b e   f i n i s h i n g   i t ?	w o u l d   s h e   b e   f i n i s h i n g   i t ?	6.80747291426087e-07	0
+w o u l d n ' t   w e   h a v e   b e e n   f i n i s h i n g   h i m ?	w o u l d n ' t   w e   h a v e   b e e n   f i n i s h i n g   h i m ?	1.1952286058658501e-06	0
+y o u ' r e   f i n i s h i n g   h i m .	y o u ' r e   f i n i s h i n g   h i m .	9.881795222099754e-07	0
+h a s n ' t   s h e   b e e n   f i n i s h i n g   i t ?	h a s n ' t   s h e   b e e n   f i n i s h i n g   i t ?	7.309407692446257e-07	0
+h e ' l l   b e   f i n i s h i n g   m e .	h e ' l l   b e   f i n i s h i n g   m e .	1.8539942630013684e-06	0
+a r e n ' t   t h e y   f i n i s h i n g   t h e m s e l v e s ?	a r e n ' t   t h e y   f i n i s h i n g   t h e m s e l v e s ?	0.00018191221170127392	0
+I   h a d n ' t   f i n i s h e d   i t .	I   h a d n ' t   f i n i s h e d   i t .	9.473981208429905e-07	0
+h e   w o n ' t   h a v e   f i n i s h e d   y o u .	h e   w o n ' t   h a v e   f i n i s h e d   y o u .	2.2053575321479e-06	0
+t h e y ' d   f i n i s h   t h e m .	t h e y ' d   f i n i s h   t h e m .	1.9292976958240615e-06	0
+w e   h a d n ' t   b e e n   f i n i s h i n g   m e .	w e   h a d n ' t   b e e n   f i n i s h i n g   m e .	2.3527716166427126e-06	0
+w i l l   y o u ' v e   f i n i s h e d   y o u r s e l v e s ?	w i l l   y o u ' v e   f i n i s h e d   y o u r s e l v e s ?	2.61003992818587e-06	0
+s h e ' s   f i n i s h e d   m e .	s h e ' s   f i n i s h e d   m e .	1.5308902447941364e-06	0
+s h e   d o e s n ' t   f i n i s h   t h e m .	s h e   d o e s n ' t   f i n i s h   t h e m .	4.686649390350794e-06	0
+w o u l d n ' t   t h e y   h a v e   b e e n   f i n i s h i n g   u s ?	w o u l d n ' t   t h e y   h a v e   b e e n   f i n i s h i n g   u s ?	2.732379925873829e-06	0
+w e   w o u l d n ' t   f i n i s h   h e r .	w e   w o u l d n ' t   f i n i s h   h e r .	1.4869667666062014e-06	0
+w i l l   h e   b e   f o u n d i n g   t h e m ?	w i l l   h e   b e   f o u n d i n g   t h e m ?	8.220809490921965e-07	0
+s h e ' d   h a v e   f o u n d e d   m e .	s h e ' d   h a v e   f o u n d e d   m e .	5.3172666412137914e-06	0
+i t   w o u l d n ' t   b e   f o u n d i n g   m e .	i t   w o u l d n ' t   b e   f o u n d i n g   m e .	8.125116437440738e-07	0
+w o n ' t   w e   h a v e   b e e n   f o u n d i n g   t h e m ?	w o n ' t   w e   h a v e   b e e n   f o u n d i n g   t h e m ?	1.116681801249797e-06	0
+h e ' s   f o u n d i n g   h e r .	h e ' s   f o u n d i n g   h e r .	5.722037599298346e-07	0
+h a s   s h e   f o u n d e d   u s ?	h a s   s h e   f o u n d e d   u s ?	2.394388729953789e-06	0
+h a v e   t h e y   f o u n d e d   i t ?	h a v e   t h e y   f o u n d e d   i t ?	9.045342267199885e-06	0
+w o n ' t   i t   h a v e   b e e n   f o u n d i n g   m e ?	w o n ' t   i t   h a v e   b e e n   f o u n d i n g   m e ?	8.038108489927254e-07	0
+d i d   h e   f o u n d   u s ?	d i d   h e   f o u n d   u s ?	7.717430889897514e-06	0
+h a s n ' t   h e   f o u n d e d   m e ?	h a s n ' t   h e   f o u n d e d   m e ?	3.58987676918332e-06	0
+h a d n ' t   I   f o u n d e d   m y s e l f ?	h a d n ' t   I   f o u n d e d   m y s e l f ?	2.5681029001134448e-06	0
+I   f o u n d e d   i t .	I   f o u n d e d   i t .	9.00602390174754e-05	0
+i s   i t   f o u n d i n g   h i m ?	i s   i t   f o u n d i n g   h i m ?	1.5408675608341582e-05	0
+w o u l d n ' t   i t   h a v e   b e e n   f o u n d i n g   m e ?	w o u l d n ' t   i t   h a v e   b e e n   f o u n d i n g   m e ?	1.3828250757796923e-06	0
+w i l l   w e ' v e   b e e n   f o u n d i n g   m e ?	w i l l   w e ' v e   b e e n   f o u n d i n g   m e ?	1.9652413811854785e-06	0
+s h e ' d   f o u n d e d   h e r s e l f .	s h e ' d   f o u n d e d   h e r s e l f .	3.1062493235367583e-06	0
+i t   w o u l d   f o u n d   h e r .	i t   w o u l d   f o u n d   h e r .	3.1028273497213377e-06	0
+y o u ' r e   f o u n d i n g   m e .	y o u ' r e   f o u n d i n g   m e .	1.09331540443236e-06	0
+t h e y ' d   b e   f o u n d i n g   h i m .	t h e y ' d   b e   f o u n d i n g   h i m .	1.1989027370873373e-06	0
+d o e s n ' t   s h e   f o u n d   h e r ?	d o e s n ' t   s h e   f o u n d   h e r ?	1.7949425910046557e-06	0
+h a v e   I   b e e n   g r a d i n g   h e r ?	h a v e   I   b e e n   g r a d i n g   h e r ?	1.2704223308901419e-06	0
+i t   h a s n ' t   g r a d e d   t h e m .	i t   h a s n ' t   g r a d e d   t h e m .	4.8816400521900505e-05	0
+y o u ' d   g r a d e   m e .	y o u ' d   g r a d e   m e .	2.469305627528229e-06	0
+t h e y   w o n ' t   h a v e   g r a d e d   h i m .	t h e y   w o n ' t   h a v e   g r a d e d   h i m .	3.811766509898007e-05	0
+h a v e   w e   g r a d e d   o u r s e l v e s ?	h a v e   w e   g r a d e d   o u r s e l v e s ?	6.322153694782173e-06	0
+w e   w o n ' t   h a v e   b e e n   g r a d i n g   t h e m .	w e   w o n ' t   h a v e   b e e n   g r a d i n g   t h e m .	1.14181727894902e-06	0
+h a d   y o u   g r a d e d   i t ?	h a d   y o u   g r a d e d   i t ?	0.0013150132726877928	0
+w o u l d n ' t   t h e y   g r a d e   m e ?	w o u l d n ' t   t h e y   g r a d e   m e ?	1.243787664861884e-06	0
+i t   d i d n ' t   g r a d e   h i m .	i t   d i d n ' t   g r a d e   h i m .	1.0379395462223329e-05	0
+y o u   h a v e n ' t   b e e n   g r a d i n g   h i m .	y o u   h a v e n ' t   b e e n   g r a d i n g   h i m .	1.5497239473916125e-06	0
+s h e   g r a d e s   h i m .	s h e   g r a d e s   h i m .	4.823857580049662e-06	0
+h a d   I   b e e n   g r a d i n g   h i m ?	h a d   I   b e e n   g r a d i n g   h i m ?	1.7567214172231616e-06	0
+i t   h a s n ' t   g r a d e d   m e .	i t   h a s n ' t   g r a d e d   m e .	0.0030512462835758924	0
+h a v e n ' t   w e   b e e n   g r a d i n g   i t ?	h a v e n ' t   w e   b e e n   g r a d i n g   i t ?	2.592374130472308e-06	0
+w e ' d   h a v e   g r a d e d   i t .	w e ' d   h a v e   g r a d e d   i t .	0.00013044493971392512	0
+s h e   w o u l d n ' t   h a v e   b e e n   g r a d i n g   t h e m .	s h e   w o u l d n ' t   h a v e   b e e n   g r a d i n g   t h e m .	1.2265275017853128e-06	0
+w e r e   w e   g r a d i n g   y o u ?	w e r e   w e   g r a d i n g   y o u ?	4.344191438576672e-06	0
+y o u ' l l   b e   g r a d i n g   t h e m .	y o u ' l l   b e   g r a d i n g   t h e m .	1.1983038348262198e-06	0
+w o n ' t   y o u   h a v e   b e e n   g r a d i n g   m e ?	w o n ' t   y o u   h a v e   b e e n   g r a d i n g   m e ?	1.460578118894773e-06	0
+t h e y ' r e   n o t   i n f l u e n c i n g   h i m .	t h e y ' r e   n o t   i n f l u e n c i n g   h i m .	1.3918472632212797e-06	0
+y o u   w o u l d n ' t   b e   i n f l u e n c i n g   u s .	y o u   w o u l d n ' t   b e   i n f l u e n c i n g   u s .	2.1489820483111544e-06	0
+y o u ' d   h a v e   i n f l u e n c e d   y o u r s e l f .	y o u ' d   h a v e   i n f l u e n c e d   y o u r s e l f .	6.237450179469306e-06	0
+w o n ' t   i t   i n f l u e n c e   t h e m ?	w o n ' t   i t   i n f l u e n c e   t h e m ?	2.5452402496739523e-06	0
+h a d n ' t   I   i n f l u e n c e d   y o u ?	h a d n ' t   I   i n f l u e n c e d   y o u ?	2.519478130125208e-06	0
+w o u l d   y o u   b e   i n f l u e n c i n g   m e ?	w o u l d   y o u   b e   i n f l u e n c i n g   m e ?	1.7789614048524527e-06	0
+y o u   w o u l d n ' t   h a v e   b e e n   i n f l u e n c i n g   m e .	y o u   w o u l d n ' t   h a v e   b e e n   i n f l u e n c i n g   m e .	1.736172748678655e-06	0
+h a s n ' t   s h e   b e e n   i n f l u e n c i n g   y o u ?	h a s n ' t   s h e   b e e n   i n f l u e n c i n g   y o u ?	1.0331464181945194e-06	0
+w o u l d n ' t   y o u   h a v e   b e e n   i n f l u e n c i n g   u s ?	w o u l d n ' t   y o u   h a v e   b e e n   i n f l u e n c i n g   u s ?	2.723460966080893e-06	0
+h a d   y o u   b e e n   i n f l u e n c i n g   u s ?	h a d   y o u   b e e n   i n f l u e n c i n g   u s ?	2.6470211196283344e-06	0
+d i d n ' t   y o u   i n f l u e n c e   i t ?	d i d n ' t   y o u   i n f l u e n c e   i t ?	1.1327024367346894e-05	0
+w o u l d n ' t   t h e y   i n f l u e n c e   t h e m ?	w o u l d n ' t   t h e y   i n f l u e n c e   t h e m ?	4.26688256993657e-06	0
+w o n ' t   I   i n f l u e n c e   m y s e l f ?	w o n ' t   I   i n f l u e n c e   m y s e l f ?	7.576950338261668e-06	0
+w o u l d n ' t   w e   h a v e   b e e n   i n f l u e n c i n g   m e ?	w o u l d n ' t   w e   h a v e   b e e n   i n f l u e n c i n g   m e ?	2.1213088530203095e-06	0
+i t   w o u l d n ' t   i n f l u e n c e   m e .	i t   w o u l d n ' t   i n f l u e n c e   m e .	9.474125545239076e-05	0
+i t   w o u l d n ' t   h a v e   i n f l u e n c e d   h e r .	i t   w o u l d n ' t   h a v e   i n f l u e n c e d   h e r .	5.731158125854563e-06	0
+i t ' s   i n f l u e n c e d   m e .	i t ' s   i n f l u e n c e d   m e .	1.315741246799007e-05	0
+I ' l l   i n f l u e n c e   y o u .	I ' l l   i n f l u e n c e   y o u .	6.348255737975705e-06	0
+w o u l d n ' t   I   b e   i n f l u e n c i n g   h i m ?	w o u l d n ' t   I   b e   i n f l u e n c i n g   h i m ?	1.3938275742475525e-06	0
+w o n ' t   y o u   b e   i n f l u e n c i n g   u s ?	w o n ' t   y o u   b e   i n f l u e n c i n g   u s ?	1.5955648677845602e-06	0
+t h e y   w e r e n ' t   i n f l u e n c i n g   m e .	t h e y   w e r e n ' t   i n f l u e n c i n g   m e .	1.8186997294833418e-06	0
+h a d   I   b e e n   j o i n i n g   m y s e l f ?	h a d   I   b e e n   j o i n i n g   m y s e l f ?	0.0001180548788397573	0
+s h e   d i d n ' t   j o i n   t h e m .	s h e   d i d n ' t   j o i n   t h e m .	1.375451211060863e-05	0
+w i l l   y o u   j o i n   h i m ?	w i l l   y o u   j o i n   h i m ?	1.3639320968650281e-05	0
+w o u l d n ' t   s h e   h a v e   b e e n   j o i n i n g   i t ?	w o u l d n ' t   s h e   h a v e   b e e n   j o i n i n g   i t ?	0.00041592007619328797	0
+w o n ' t   t h e y   j o i n   t h e m s e l v e s ?	w o n ' t   t h e y   j o i n   t h e m s e l v e s ?	0.00012153696297900751	0
+i t   w a s   j o i n i n g   y o u .	i t   w a s   j o i n i n g   y o u .	2.122167825291399e-05	0
+w o u l d   w e   b e   j o i n i n g   m e ?	w o u l d   w e   b e   j o i n i n g   m e ?	0.0016767856432124972	0
+w o u l d   s h e   h a v e   j o i n e d   t h e m ?	w o u l d   s h e   h a v e   j o i n e d   t h e m ?	9.891350055113435e-05	0
+w o n ' t   y o u   j o i n   y o u r s e l v e s ?	w o n ' t   y o u   j o i n   y o u r s e l v e s ?	1.4890656530042179e-05	0
+h e ' d   j o i n .	h e ' d   j o i n .	1.702436748018954e-05	0
+d i d n ' t   h e   j o i n   h i m s e l f ?	d i d n ' t   h e   j o i n   h i m s e l f ?	2.2022744815330952e-05	0
+s h e   w a s   j o i n i n g   t h e m .	s h e   w a s   j o i n i n g   t h e m .	0.010293434374034405	0
+a r e n ' t   y o u   j o i n i n g   y o u r s e l f ?	a r e n ' t   y o u   j o i n i n g   y o u r s e l f ?	0.000140523086884059	0
+j o i n   h e r !	j o i n   h e r !	0.0008356923353858292	0
+s h e   w o n ' t   b e   j o i n i n g   h e r .	s h e   w o n ' t   b e   j o i n i n g   h e r .	0.00054514518706128	0
+w o u l d   y o u ' v e   b e e n   l a s t i n g ?	w o u l d   y o u ' v e   b e e n   l a s t i n g ?	2.3101877104636515e-06	0
+w o n ' t   y o u   b e   l a s t i n g ?	w o n ' t   y o u   b e   l a s t i n g ?	1.5250552678480744e-06	0
+y o u   h a d n ' t   b e e n   l a s t i n g .	y o u   h a d n ' t   b e e n   l a s t i n g .	2.7212443001189968e-06	0
+s h e   l a s t s .	s h e   l a s t s .	0.0006746315630152822	0
+d i d   w e   l a s t ?	d i d   w e   l a s t ?	0.00010730277426773682	0
+h e   l a s t e d .	h e   l a s t e d .	0.006672513671219349	0
+h a d   I   l a s t e d ?	h a d   I   l a s t e d ?	0.0001898218470159918	0
+I   d i d n ' t   l a s t .	I   d i d n ' t   l a s t .	9.226402471540496e-05	0
+w o u l d   I   b e   l a s t i n g ?	w o u l d   I   b e   l a s t i n g ?	1.7346973208987038e-06	0
+h e ' d   b e   l a s t i n g .	h e ' d   b e   l a s t i n g .	1.5112642586245784e-06	0
+h e   h a d n ' t   b e e n   l a s t i n g .	h e   h a d n ' t   b e e n   l a s t i n g .	1.6573952734688646e-06	0
+w i l l   s h e   b e   l a s t i n g ?	w i l l   s h e   b e   l a s t i n g ?	2.0919151211273856e-06	0
+s h e   d o e s n ' t   l a s t .	s h e   d o e s n ' t   l a s t .	0.001004040241241455	0
+y o u   w e r e   l a s t i n g .	y o u   w e r e   l a s t i n g .	2.6302921014575986e-06	0
+h a s n ' t   s h e   b e e n   l a s t i n g ?	h a s n ' t   s h e   b e e n   l a s t i n g ?	1.269001131731784e-06	0
+h a d   h e   l a s t e d ?	h a d   h e   l a s t e d ?	0.00010567438584985211	0
+h a s   h e   l a s t e d ?	h a s   h e   l a s t e d ?	0.00026167911710217595	0
+w o n ' t   I   h a v e   b e e n   l a s t i n g ?	w o n ' t   I   h a v e   b e e n   l a s t i n g ?	1.4535843320118147e-06	0
+s h e ' s   l a s t e d .	s h e ' s   l a s t e d .	0.007653950247913599	0
+h a s   h e   l a s t e d ?	h a s   h e   l a s t e d ?	0.00026167911710217595	0
+w e r e n ' t   y o u   l a s t i n g ?	w e r e n ' t   y o u   l a s t i n g ?	2.7417879664426437e-06	0
+w e   h a d n ' t   b e e n   l a s t i n g .	w e   h a d n ' t   b e e n   l a s t i n g .	2.4418502562184585e-06	0
+h a v e n ' t   y o u   l o n g e d   f o r   h e r ?	h a v e n ' t   y o u   l o n g e d   f o r   h e r ?	0.0022901862394064665	0
+y o u ' v e   l o n g e d   f o r   m e .	y o u ' v e   l o n g e d   f o r   m e .	0.0026682307943701744	0
+w e   w o u l d n ' t   b e   l o n g i n g   f o r   m e .	w e   w o u l d n ' t   b e   l o n g i n g   f o r   m e .	0.0010125896660611033	0
+I   w o n ' t   h a v e   l o n g e d   f o r   t h e m .	I   w o n ' t   h a v e   l o n g e d   f o r   t h e m .	0.016229307278990746	0
+h e ' l l   b e   l o n g i n g   f o r   h i m .	h e ' l l   b e   l o n g i n g   f o r   h i m .	0.004322557244449854	0
+h a v e   t h e y   l o n g e d   f o r   h i m ?	h a v e   t h e y   l o n g e d   f o r   h i m ?	0.011405847035348415	0
+t h e y   h a d n ' t   l o n g e d   f o r   m e .	t h e y   h a d n ' t   l o n g e d   f o r   m e .	0.005349054001271725	0
+w i l l   s h e   h a v e   b e e n   l o n g i n g   f o r   h e r ?	w i l l   s h e   h a v e   b e e n   l o n g i n g   f o r   h e r ?	0.002164695877581835	0
+a r e n ' t   t h e y   l o n g i n g   f o r   h i m ?	a r e n ' t   t h e y   l o n g i n g   f o r   h i m ?	0.006032945122569799	0
+w o n ' t   y o u   b e   l o n g i n g   f o r   h e r ?	w o n ' t   y o u   b e   l o n g i n g   f o r   h e r ?	0.00025490642292425036	0
+w o u l d n ' t   y o u   l o n g   f o r   m e ?	w o u l d n ' t   y o u   l o n g   f o r   m e ?	0.0034636168275028467	0
+w o n ' t   h e   b e   l o n g i n g   f o r   m e ?	w o n ' t   h e   b e   l o n g i n g   f o r   m e ?	0.0019577485509216785	0
+w o u l d n ' t   h e   l o n g   f o r   h i m ?	w o u l d n ' t   h e   l o n g   f o r   h i m ?	0.004258409142494202	0
+h a v e   t h e y   b e e n   l o n g i n g   f o r   h e r ?	h a v e   t h e y   b e e n   l o n g i n g   f o r   h e r ?	0.003263659542426467	0
+s h e ' s   l o n g i n g   f o r   y o u .	s h e ' s   l o n g i n g   f o r   y o u .	0.015647534281015396	0
+y o u   w o u l d n ' t   h a v e   l o n g e d   f o r   i t .	y o u   w o u l d n ' t   h a v e   l o n g e d   f o r   i t .	0.013242047280073166	0
+s h e ' l l   h a v e   b e e n   m a n a g i n g   m e .	s h e ' l l   h a v e   b e e n   m a n a g i n g   m e .	2.7105538720206823e-06	0
+y o u ' l l   h a v e   b e e n   m a n a g i n g   y o u r s e l f .	y o u ' l l   h a v e   b e e n   m a n a g i n g   y o u r s e l f .	2.5629733499954455e-06	0
+I   m a n a g e d   t h e m .	I   m a n a g e d   t h e m .	1.4067444681131747e-05	0
+w o n ' t   t h e y   b e   m a n a g i n g   y o u ?	w o n ' t   t h e y   b e   m a n a g i n g   y o u ?	9.110962082559126e-07	0
+s h e   w o u l d n ' t   h a v e   b e e n   m a n a g i n g   h i m .	s h e   w o u l d n ' t   h a v e   b e e n   m a n a g i n g   h i m .	1.8647538126970176e-06	0
+w i l l   i t   b e   m a n a g i n g   i t ?	w i l l   i t   b e   m a n a g i n g   i t ?	1.722846832308278e-06	0
+w o u l d   i t   m a n a g e   h i m ?	w o u l d   i t   m a n a g e   h i m ?	1.2431786444722093e-06	0
+i t   h a s n ' t   b e e n   m a n a g i n g   i t s e l f .	i t   h a s n ' t   b e e n   m a n a g i n g   i t s e l f .	5.435044386103982e-06	0
+d i d n ' t   h e   m a n a g e   t h e m ?	d i d n ' t   h e   m a n a g e   t h e m ?	2.1457501588884043e-06	0
+w a s   I   m a n a g i n g   h i m ?	w a s   I   m a n a g i n g   h i m ?	4.018958861706778e-06	0
+y o u   w o u l d n ' t   h a v e   b e e n   m a n a g i n g   y o u r s e l f .	y o u   w o u l d n ' t   h a v e   b e e n   m a n a g i n g   y o u r s e l f .	1.0984260825352976e-06	0
+w i l l   I ' v e   b e e n   m a n a g i n g   t h e m ?	w i l l   I ' v e   b e e n   m a n a g i n g   t h e m ?	1.1478363148853532e-06	0
+t h e y   w o n ' t   b e   m a n a g i n g   h i m .	t h e y   w o n ' t   b e   m a n a g i n g   h i m .	1.8546598994362284e-06	0
+w o u l d n ' t   s h e   h a v e   b e e n   m a n a g i n g   m e ?	w o u l d n ' t   s h e   h a v e   b e e n   m a n a g i n g   m e ?	1.5719010661996435e-06	0
+w i l l   y o u ' v e   m a n a g e d   t h e m ?	w i l l   y o u ' v e   m a n a g e d   t h e m ?	5.026035069022328e-06	0
+y o u ' d   b e   m a n a g i n g   y o u r s e l f .	y o u ' d   b e   m a n a g i n g   y o u r s e l f .	2.204927113780286e-06	0
+w o u l d   t h e y ' v e   m a n a g e d   h e r ?	w o u l d   t h e y ' v e   m a n a g e d   h e r ?	1.5718968597866478e-06	0
+w o u l d n ' t   s h e   h a v e   m a n a g e d   y o u ?	w o u l d n ' t   s h e   h a v e   m a n a g e d   y o u ?	1.9544741007848643e-06	0
+w o n ' t   s h e   b e   m a n a g i n g   m e ?	w o n ' t   s h e   b e   m a n a g i n g   m e ?	9.176408752864518e-07	0
+i t   w o u l d n ' t   p r e s e n t   m e   t o   m e .	i t   w o u l d n ' t   p r e s e n t   m e   t o   m y s e l f .	0.021552234888076782	4
+h a s   h e   p r e s e n t e d   t h e m   t o   t h e m s e l v e s ?	h a s   h e   p r e s e n t e d   t h e m   t o   t h e m s e l v e s ?	0.003573149675503373	0
+a r e   y o u   p r e s e n t i n g   y o u r s e l f   t o   h e r ?	a r e   y o u   p r e s e n t i n g   y o u r s e l f   t o   h e r ?	0.003672537859529257	0
+h e   h a d n ' t   b e e n   p r e s e n t i n g   h i m   t o   h e r .	h e   h a d n ' t   b e e n   p r e s e n t i n g   h i m   t o   h e r .	0.0008848404977470636	0
+y o u   w o u l d n ' t   h a v e   p r e s e n t e d   m e   t o   h i m .	y o u   w o u l d n ' t   h a v e   p r e s e n t e d   m e   t o   h i m .	0.0005754114827141166	0
+d o e s n ' t   i t   p r e s e n t   m e   t o   i t s e l f ?	d o e s n ' t   i t   p r e s e n t   m e   t o   i t s e l f ?	0.0012545797508209944	0
+h e   w o u l d n ' t   h a v e   b e e n   p r e s e n t i n g   m e   t o   u s .	h e   w o u l d n ' t   h a v e   b e e n   p r e s e n t i n g   m e   t o   u s .	0.004773728549480438	0
+h a v e   w e   p r e s e n t e d   h i m   t o   t h e m ?	h a v e   w e   p r e s e n t e d   h i m   t o   t h e m ?	0.0007121830713003874	0
+i t   w o n ' t   h a v e   p r e s e n t e d   h i m   t o   m e .	i t   w o n ' t   h a v e   p r e s e n t e d   h i m   t o   m e .	0.007602509111166	0
+i t   w o u l d n ' t   p r e s e n t   m e .	i t   w o u l d n ' t   p r e s e n t   m e .	1.4582194580725627e-06	0
+h a d   h e   p r e s e n t e d   y o u   t o   u s ?	h a d   h e   p r e s e n t e d   y o u   t o   u s ?	0.0018516022246330976	0
+y o u   h a v e n ' t   b e e n   p r e s e n t i n g   u s   t o   t h e m .	y o u   h a v e n ' t   b e e n   p r e s e n t i n g   u s   t o   t h e m .	0.0005201485473662615	0
+h a d n ' t   h e   p r e s e n t e d   h i m   t o   u s ?	h a d n ' t   h e   p r e s e n t e d   h i m   t o   u s ?	0.0001488904090365395	0
+y o u ' d   p r e s e n t   i t   t o   m e .	y o u ' d   p r e s e n t   i t   t o   m e .	0.008282218128442764	0
+i t ' l l   h a v e   p r e s e n t e d   h e r .	i t ' l l   h a v e   p r e s e n t e d   h e r .	1.71405899891397e-05	0
+s h e   h a d n ' t   p r e s e n t e d   u s   t o   h e r s e l f .	s h e   h a d n ' t   p r e s e n t e d   u s   t o   h e r s e l f .	0.0190107561647892	0
+y o u ' d   p r e s e n t e d   m e   t o   u s .	y o u ' d   p r e s e n t e d   m e   t o   u s .	0.003874807385727763	0
+d o n ' t   w e   p r e s e n t   h i m   t o   m e ?	d o n ' t   w e   p r e s e n t   h i m   t o   m e ?	0.00592355290427804	0
+s h e   p r e s e n t   m e   t o   m y s e l f .	s h e   p r e s e n t s   m e   t o   m y s e l f .	0.061056993901729584	1
+h a d   s h e   p r i c e d   y o u ?	h a d   s h e   p r i c e d   y o u ?	1.1439127547419048e-06	0
+h a d n ' t   y o u   b e e n   p r i c i n g   y o u r s e l f ?	h a d n ' t   y o u   b e e n   p r i c i n g   y o u r s e l f ?	3.0271987725427607e-06	0
+i s n ' t   s h e   p r i c i n g   h e r ?	i s n ' t   s h e   p r i c i n g   h e r ?	5.180621883482672e-06	0
+w o u l d n ' t   h e   p r i c e   h i m ?	w o u l d n ' t   h e   p r i c e   h i m ?	1.0536664376559202e-06	0
+w i l l   I ' v e   p r i c e d   u s ?	w i l l   I ' v e   p r i c e d   u s ?	1.7258918205698137e-06	0
+a r e n ' t   w e   p r i c i n g   m e ?	a r e n ' t   w e   p r i c i n g   m e ?	7.005493444012245e-06	0
+i t   d o e s n ' t   p r i c e   h i m .	i t   d o e s n ' t   p r i c e   h i m .	2.8923865102115087e-05	0
+y o u   w o u l d n ' t   h a v e   p r i c e d   i t .	y o u   w o u l d n ' t   h a v e   p r i c e d   i t .	2.902896312662051e-06	0
+h a s n ' t   i t   p r i c e d   h e r ?	h a s n ' t   i t   p r i c e d   h e r ?	1.3830045872964547e-06	0
+y o u   w e r e   p r i c i n g   y o u r s e l v e s .	y o u   w e r e   p r i c i n g   y o u r s e l v e s .	3.967588327213889e-06	0
+h e   p r i c e d   h i m s e l f .	h e   p r i c e d   h i m s e l f .	3.6002004435431445e-06	0
+h a d n ' t   y o u   b e e n   p r i c i n g   y o u r s e l v e s ?	h a d n ' t   y o u   b e e n   p r i c i n g   y o u r s e l v e s ?	4.211068699078169e-06	0
+w o u l d n ' t   t h e y   h a v e   b e e n   p r i c i n g   y o u ?	w o u l d n ' t   t h e y   h a v e   b e e n   p r i c i n g   y o u ?	1.8238375787404948e-06	0
+I   h a v e n ' t   b e e n   p r i c i n g   m y s e l f .	I   h a v e n ' t   b e e n   p r i c i n g   m y s e l f .	1.826187713049876e-06	0
+w o u l d   h e   p r i c e   t h e m ?	w o u l d   h e   p r i c e   t h e m ?	1.927606035678764e-06	0
+s h e ' l l   p r i c e   h e r s e l f .	s h e ' l l   p r i c e   h e r s e l f .	1.5121289834496565e-05	0
+w e r e   w e   p r i c i n g   t h e m ?	w e r e   w e   p r i c i n g   t h e m ?	3.076138227697811e-06	0
+w e ' l l   p r i c e   t h e m .	w e ' l l   p r i c e   t h e m .	1.662490490161872e-06	0
+i t   h a d   b e e n   p r i c i n g   m e .	i t   h a d   b e e n   p r i c i n g   m e .	2.296724005645956e-06	0
+w i l l   s h e   h a v e   b e e n   p r i c i n g   h e r s e l f ?	w i l l   s h e   h a v e   b e e n   p r i c i n g   h e r s e l f ?	3.9247815948328935e-06	0
+h e ' l l   p r i c e   h i m s e l f .	h e ' l l   p r i c e   h i m s e l f .	3.9883339013613295e-06	0
+w e r e   y o u   r e l e a s i n g   m e ?	w e r e   y o u   r e l e a s i n g   m e ?	2.0761974610650213e-06	0
+h e   d i d n ' t   r e l e a s e   u s .	h e   d i d n ' t   r e l e a s e   u s .	5.692073955287924e-06	0
+I   r e l e a s e   i t .	I   r e l e a s e   i t .	1.577410876052454e-05	0
+h a d n ' t   I   r e l e a s e d   h e r ?	h a d n ' t   I   r e l e a s e d   h e r ?	1.2273110769456252e-05	0
+w o n ' t   w e   r e l e a s e   m e ?	w o n ' t   w e   r e l e a s e   m e ?	5.171991688257549e-06	0
+w e ' d   r e l e a s e d   h e r .	w e ' d   r e l e a s e d   h e r .	1.6722337932151277e-06	0
+t h e y   h a d n ' t   b e e n   r e l e a s i n g   h e r .	t h e y   h a d n ' t   b e e n   r e l e a s i n g   h e r .	1.0364570925958105e-06	0
+I   w a s n ' t   r e l e a s i n g   m y s e l f .	I   w a s n ' t   r e l e a s i n g   m y s e l f .	1.347723582512117e-06	0
+i t   w o u l d n ' t   h a v e   r e l e a s e d   u s .	i t   w o u l d n ' t   h a v e   r e l e a s e d   u s .	2.953730017907219e-06	0
+s h e ' s   n o t   r e l e a s i n g   m e .	s h e ' s   n o t   r e l e a s i n g   m e .	1.5828296682229848e-06	0
+w e   w o n ' t   h a v e   r e l e a s e d   i t .	w e   w o n ' t   h a v e   r e l e a s e d   i t .	2.682182866919902e-06	0
+h a s n ' t   i t   r e l e a s e d   u s ?	h a s n ' t   i t   r e l e a s e d   u s ?	3.526560476529994e-06	0
+t h e y ' l l   h a v e   r e l e a s e d   t h e m s e l v e s .	t h e y ' l l   h a v e   r e l e a s e d   t h e m s e l v e s .	5.866376341145951e-06	0
+h a s n ' t   h e   r e l e a s e d   y o u ?	h a s n ' t   h e   r e l e a s e d   y o u ?	1.587369979461073e-06	0
+a m   I   n o t   r e l e a s i n g   y o u ?	a m   I   n o t   r e l e a s i n g   y o u ?	1.2925552255182993e-05	0
+d i d n ' t   I   r e l e a s e   m y s e l f ?	d i d n ' t   I   r e l e a s e   m y s e l f ?	3.0617804895882728e-06	0
+i s n ' t   i t   r e l e a s i n g   h e r ?	i s n ' t   i t   r e l e a s i n g   h e r ?	1.1231807548028883e-05	0
+w i l l   t h e y ' v e   r e l e a s e d   h e r ?	w i l l   t h e y ' v e   r e l e a s e d   h e r ?	3.2845161967998138e-06	0
+h a d   i t   r e l e a s e d   u s ?	h a d   i t   r e l e a s e d   u s ?	2.5319113774457946e-06	0
+w a s n ' t   I   r e l e a s i n g   h i m ?	w a s n ' t   I   r e l e a s i n g   h i m ?	1.8948634306070744e-06	0
+h a s   s h e   b e e n   r e m e m b e r i n g   h e r s e l f ?	h a s   s h e   b e e n   r e m e m b e r i n g   h e r s e l f ?	9.975927923733252e-07	0
+h a s   s h e   r e m e m b e r e d   m e ?	h a s   s h e   r e m e m b e r e d   m e ?	2.9864866064599482e-06	0
+w i l l   i t   b e   r e m e m b e r i n g   h i m ?	w i l l   i t   b e   r e m e m b e r i n g   h i m ?	1.4116850479695131e-06	0
+t h e y ' d   h a v e   r e m e m b e r e d   u s .	t h e y ' d   h a v e   r e m e m b e r e d   u s .	3.915063189197099e-06	0
+h e   w o u l d n ' t   r e m e m b e r   y o u .	h e   w o u l d n ' t   r e m e m b e r   y o u .	1.4587424175260821e-06	0
+y o u   w o u l d n ' t   b e   r e m e m b e r i n g   y o u r s e l f .	y o u   w o u l d n ' t   b e   r e m e m b e r i n g   y o u r s e l f .	1.0854314496100415e-06	0
+t h e y   w o n ' t   b e   r e m e m b e r i n g   h e r .	t h e y   w o n ' t   b e   r e m e m b e r i n g   h e r .	8.783838438830571e-07	0
+h a v e   t h e y   r e m e m b e r e d   i t ?	h a v e   t h e y   r e m e m b e r e d   i t ?	3.33781645167619e-06	0
+s h e   r e m e m b e r s   t h e m .	s h e   r e m e m b e r s   t h e m .	8.98659200174734e-05	0
+i t   w o n ' t   b e   r e m e m b e r i n g   y o u .	i t   w o n ' t   b e   r e m e m b e r i n g   y o u .	1.0446481155668152e-06	0
+w e ' l l   h a v e   b e e n   r e m e m b e r i n g   y o u .	w e ' l l   h a v e   b e e n   r e m e m b e r i n g   y o u .	1.1450354122644057e-06	0
+h a d n ' t   i t   r e m e m b e r e d   u s ?	h a d n ' t   i t   r e m e m b e r e d   u s ?	4.671017904911423e-06	0
+t h e y   w o u l d n ' t   h a v e   r e m e m b e r e d   i t .	t h e y   w o u l d n ' t   h a v e   r e m e m b e r e d   i t .	3.2758071029093117e-06	0
+w i l l   I   b e   r e m e m b e r i n g   u s ?	w i l l   I   b e   r e m e m b e r i n g   u s ?	8.924632766138529e-07	0
+h a d n ' t   s h e   b e e n   r e m e m b e r i n g   h i m ?	h a d n ' t   s h e   b e e n   r e m e m b e r i n g   h i m ?	9.459238299314165e-07	0
+I   w o u l d n ' t   r e m e m b e r   i t .	I   w o u l d n ' t   r e m e m b e r   i t .	1.128365624936123e-06	0
+i t   h a s n ' t   b e e n   r e m e m b e r i n g   y o u .	i t   h a s n ' t   b e e n   r e m e m b e r i n g   y o u .	9.457745591134881e-07	0
+y o u   w e r e   r e m e m b e r i n g   i t .	y o u   w e r e   r e m e m b e r i n g   i t .	1.0068223446069169e-06	0
+t h e y ' d   b e e n   r e m e m b e r i n g   m e .	t h e y ' d   b e e n   r e m e m b e r i n g   m e .	1.4800477856624639e-06	0
+w o n ' t   s h e   h a v e   r e m e m b e r e d   h e r ?	w o n ' t   s h e   h a v e   r e m e m b e r e d   h e r ?	2.744392531894846e-06	0
+h a d n ' t   t h e y   r e m e m b e r e d   h e r ?	h a d n ' t   t h e y   r e m e m b e r e d   h e r ?	4.117813205084531e-06	0
+t h e y ' v e   b e e n   r e p r e s e n t i n g   h e r .	t h e y ' v e   b e e n   r e p r e s e n t i n g   h e r .	1.1298947129034786e-06	0
+h a d   I   r e p r e s e n t e d   h i m ?	h a d   I   r e p r e s e n t e d   h i m ?	1.1434172847657464e-05	0
+s h e ' l l   b e   r e p r e s e n t i n g   y o u .	s h e ' l l   b e   r e p r e s e n t i n g   y o u .	1.2413286185619654e-06	0
+i t   r e p r e s e n t e d   h i m .	i t   r e p r e s e n t e d   h i m .	0.0001340866438113153	0
+h e ' l l   h a v e   b e e n   r e p r e s e n t i n g   i t .	h e ' l l   h a v e   b e e n   r e p r e s e n t i n g   i t .	3.3196286040038103e-06	0
+w o n ' t   w e   h a v e   r e p r e s e n t e d   h i m ?	w o n ' t   w e   h a v e   r e p r e s e n t e d   h i m ?	5.3745666264148895e-06	0
+w i l l   h e   h a v e   b e e n   r e p r e s e n t i n g   i t ?	w i l l   h e   h a v e   b e e n   r e p r e s e n t i n g   i t ?	1.9202961993869394e-06	0
+h e   d i d n ' t   r e p r e s e n t   h i m .	h e   d i d n ' t   r e p r e s e n t   h i m .	3.5839407246385235e-06	0
+d o e s   s h e   r e p r e s e n t   h i m ?	d o e s   s h e   r e p r e s e n t   h i m ?	3.241932063247077e-06	0
+y o u   w o u l d n ' t   h a v e   b e e n   r e p r e s e n t i n g   y o u r s e l f .	y o u   w o u l d n ' t   h a v e   b e e n   r e p r e s e n t i n g   y o u r s e l f .	1.4227346127881901e-06	0
+a r e   t h e y   r e p r e s e n t i n g   u s ?	a r e   t h e y   r e p r e s e n t i n g   u s ?	6.814912467234535e-06	0
+i t ' l l   h a v e   b e e n   r e p r e s e n t i n g   h i m .	i t ' l l   h a v e   b e e n   r e p r e s e n t i n g   h i m .	1.9044355212827213e-06	0
+d o n ' t   t h e y   r e p r e s e n t   m e ?	d o n ' t   t h e y   r e p r e s e n t   m e ?	4.672289378504502e-06	0
+w o u l d n ' t   t h e y   b e   r e p r e s e n t i n g   h i m ?	w o u l d n ' t   t h e y   b e   r e p r e s e n t i n g   h i m ?	1.5613466075592441e-06	0
+w o u l d n ' t   y o u   h a v e   b e e n   r e p r e s e n t i n g   m e ?	w o u l d n ' t   y o u   h a v e   b e e n   r e p r e s e n t i n g   m e ?	2.32311685977038e-06	0
+h a v e   I   b e e n   r e p r e s e n t i n g   i t ?	h a v e   I   b e e n   r e p r e s e n t i n g   i t ?	1.3025767202634597e-06	0
+i t   w o u l d   h a v e   r e p r e s e n t e d   m e .	i t   w o u l d   h a v e   r e p r e s e n t e d   m e .	6.876215593365487e-06	0
+d i d   h e   r e p r e s e n t   h i m s e l f ?	d i d   h e   r e p r e s e n t   h i m s e l f ?	7.024292244750541e-06	0
+w o n ' t   I   r e p r e s e n t   i t ?	w o n ' t   I   r e p r e s e n t   i t ?	1.381078959639126e-06	0
+w i l l   y o u ' v e   b e e n   r e p r e s e n t i n g   h i m ?	w i l l   y o u ' v e   b e e n   r e p r e s e n t i n g   h i m ?	1.9509561752784066e-06	0
+i s   s h e   r e p r e s e n t i n g   i t ?	i s   s h e   r e p r e s e n t i n g   i t ?	2.6646506739780307e-05	0
+i s n ' t   h e   r e p r e s e n t i n g   h i m s e l f ?	i s n ' t   h e   r e p r e s e n t i n g   h i m s e l f ?	4.576299033942632e-06	0
+h a v e n ' t   t h e y   b e e n   r e q u e s t i n g   t h e m s e l v e s ?	h a v e n ' t   t h e y   b e e n   r e q u e s t i n g   t h e m s e l v e s ?	1.7887472267830162e-06	0
+w o u l d n ' t   I   h a v e   r e q u e s t e d   i t ?	w o u l d n ' t   I   h a v e   r e q u e s t e d   i t ?	4.197896487312391e-06	0
+d o e s   s h e   r e q u e s t   h i m ?	d o e s   s h e   r e q u e s t   h i m ?	3.686027639560052e-06	0
+I   h a d n ' t   r e q u e s t e d   h i m .	I   h a d n ' t   r e q u e s t e d   h i m .	1.9259011878602905e-06	0
+h a d   i t   b e e n   r e q u e s t i n g   u s ?	h a d   i t   b e e n   r e q u e s t i n g   u s ?	1.7802485672291368e-06	0
+i t   w o u l d n ' t   r e q u e s t   t h e m .	i t   w o u l d n ' t   r e q u e s t   t h e m .	2.311105163244065e-06	0
+h a s   h e   b e e n   r e q u e s t i n g   h i m s e l f ?	h a s   h e   b e e n   r e q u e s t i n g   h i m s e l f ?	1.6648242535666213e-06	0
+h a d   t h e y   b e e n   r e q u e s t i n g   i t ?	h a d   t h e y   b e e n   r e q u e s t i n g   i t ?	1.3262000493341475e-06	0
+t h e y ' l l   h a v e   r e q u e s t e d   m e .	t h e y ' l l   h a v e   r e q u e s t e d   m e .	1.0258449947286863e-05	0
+i t   h a s n ' t   r e q u e s t e d   m e .	i t   h a s n ' t   r e q u e s t e d   m e .	6.715368726872839e-06	0
+w e ' d   b e   r e q u e s t i n g   h i m .	w e ' d   b e   r e q u e s t i n g   h i m .	1.6936149904722697e-06	0
+h a v e n ' t   t h e y   r e q u e s t e d   i t ?	h a v e n ' t   t h e y   r e q u e s t e d   i t ?	7.628831099282252e-06	0
+w o u l d   w e   r e q u e s t   t h e m ?	w o u l d   w e   r e q u e s t   t h e m ?	2.0582756405929103e-06	0
+w e r e n ' t   w e   r e q u e s t i n g   y o u ?	w e r e n ' t   w e   r e q u e s t i n g   y o u ?	2.7102455533167813e-06	0
+i s   s h e   r e q u e s t i n g   y o u ?	i s   s h e   r e q u e s t i n g   y o u ?	7.69538564782124e-06	0
+a r e n ' t   t h e y   r e q u e s t i n g   m e ?	a r e n ' t   t h e y   r e q u e s t i n g   m e ?	5.248994057183154e-06	0
+i s n ' t   h e   r e q u e s t i n g   h i m ?	i s n ' t   h e   r e q u e s t i n g   h i m ?	6.42290342511842e-06	0
+h a d   h e   b e e n   r e q u e s t i n g   h e r ?	h a d   h e   b e e n   r e q u e s t i n g   h e r ?	1.486686755924893e-06	0
+w e ' d   h a v e   r e q u e s t e d   o u r s e l v e s .	w e ' d   h a v e   r e q u e s t e d   o u r s e l v e s .	6.054230198060395e-06	0
+i t ' s   r e q u e s t i n g   h i m .	i t ' s   r e q u e s t i n g   h i m .	1.7606481605980662e-06	0
+w e ' l l   h a v e   b e e n   r e q u e s t i n g   m e .	w e ' l l   h a v e   b e e n   r e q u e s t i n g   m e .	3.79229754798871e-06	0
+i t   r e s e a r c h e d   t h e m .	i t   r e s e a r c h e d   t h e m .	3.5658860724652186e-05	0
+w i l l   w e ' v e   r e s e a r c h e d   h i m ?	w i l l   w e ' v e   r e s e a r c h e d   h i m ?	2.8995764296269044e-06	0
+I   w o u l d n ' t   h a v e   r e s e a r c h e d   h e r .	I   w o u l d n ' t   h a v e   r e s e a r c h e d   h e r .	3.891784672305221e-06	0
+h a d   w e   r e s e a r c h e d   h e r ?	h a d   w e   r e s e a r c h e d   h e r ?	3.853217094729189e-06	0
+a r e n ' t   w e   r e s e a r c h i n g   h i m ?	a r e n ' t   w e   r e s e a r c h i n g   h i m ?	5.269519533612765e-06	0
+t h e y   w o u l d n ' t   r e s e a r c h   m e .	t h e y   w o u l d n ' t   r e s e a r c h   m e .	1.7145069932666956e-06	0
+d i d n ' t   I   r e s e a r c h   t h e m ?	d i d n ' t   I   r e s e a r c h   t h e m ?	2.1080215447000228e-05	0
+y o u   h a v e n ' t   b e e n   r e s e a r c h i n g   h i m .	y o u   h a v e n ' t   b e e n   r e s e a r c h i n g   h i m .	1.889813120214967e-06	0
+w i l l   t h e y ' v e   r e s e a r c h e d   h e r ?	w i l l   t h e y ' v e   r e s e a r c h e d   h e r ?	2.9921343411842827e-06	0
+t h e y ' l l   r e s e a r c h   m e .	t h e y ' l l   r e s e a r c h   m e .	1.089398665499175e-05	0
+w o u l d n ' t   t h e y   h a v e   b e e n   r e s e a r c h i n g   i t ?	w o u l d n ' t   t h e y   h a v e   b e e n   r e s e a r c h i n g   i t ?	1.5884618278505513e-06	0
+s h e   w o u l d n ' t   h a v e   r e s e a r c h e d   h e r s e l f .	s h e   w o u l d n ' t   h a v e   r e s e a r c h e d   h e r s e l f .	2.5600118078727974e-06	0
+w o u l d n ' t   y o u   h a v e   r e s e a r c h e d   y o u r s e l f ?	w o u l d n ' t   y o u   h a v e   r e s e a r c h e d   y o u r s e l f ?	2.9951204396638786e-06	0
+h e ' d   b e   r e s e a r c h i n g   t h e m .	h e ' d   b e   r e s e a r c h i n g   t h e m .	4.529719717538683e-06	0
+w o u l d n ' t   t h e y   b e   r e s e a r c h i n g   h i m ?	w o u l d n ' t   t h e y   b e   r e s e a r c h i n g   h i m ?	1.2785181979779736e-06	0
+h e ' s   b e e n   r e s e a r c h i n g   u s .	h e ' s   b e e n   r e s e a r c h i n g   u s .	2.71790645456349e-06	0
+s h e ' d   b e e n   r e s e a r c h i n g   t h e m .	s h e ' d   b e e n   r e s e a r c h i n g   t h e m .	4.2109290916414466e-06	0
+w o n ' t   t h e y   h a v e   b e e n   r e s e a r c h i n g   y o u ?	w o n ' t   t h e y   h a v e   b e e n   r e s e a r c h i n g   y o u ?	1.6510465457031387e-06	0
+s h e   r e s e a r c h e s   y o u .	s h e   r e s e a r c h e s   y o u .	0.015763044357299805	0
+h e ' d   h a v e   r i d e d   h i m .	h e ' d   h a v e   r i d d e n   h i m .	0.8865467309951782	2
+y o u   w o n ' t   r i d e   t h e m .	y o u   w o n ' t   r i d e   t h e m .	1.4761462807655334e-06	0
+h a v e n ' t   w e   r i d e d   y o u ?	h a v e n ' t   w e   r i d d e n   y o u ?	0.8640190362930298	2
+i t ' l l   h a v e   b e e n   r i d i n g   u s .	i t ' l l   h a v e   b e e n   r i d i n g   u s .	3.0740454803890316e-06	0
+w i l l   I   b e   r i d i n g   y o u ?	w i l l   I   b e   r i d i n g   y o u ?	2.9482987429219065e-06	0
+y o u ' l l   r i d e   m e .	y o u ' l l   r i d e   m e .	2.8249924071133137e-06	0
+w e r e n ' t   w e   r i d i n g   i t ?	w e r e n ' t   w e   r i d i n g   i t ?	3.916856712748995e-06	0
+h a v e n ' t   y o u   b e e n   r i d i n g   t h e m ?	h a v e n ' t   y o u   b e e n   r i d i n g   t h e m ?	2.740661102507147e-06	0
+i t ' s   b e e n   r i d i n g   u s .	i t ' s   b e e n   r i d i n g   u s .	3.461778533164761e-06	0
+w e ' l l   h a v e   b e e n   r i d i n g   o u r s e l v e s .	w e ' l l   h a v e   b e e n   r i d i n g   o u r s e l v e s .	3.933832886104938e-06	0
+w e   h a d n ' t   b e e n   r i d i n g   y o u .	w e   h a d n ' t   b e e n   r i d i n g   y o u .	2.6163029360759538e-06	0
+w o n ' t   y o u   h a v e   r i d e d   h e r ?	w o n ' t   y o u   h a v e   r i d d e n   h e r ?	0.8190551400184631	2
+y o u ' d   h a v e   r i d e d   y o u r s e l v e s .	y o u ' d   h a v e   r i d d e n   y o u r s e l v e s .	0.8357895612716675	2
+i t   w o u l d   b e   r i d i n g   y o u .	i t   w o u l d   b e   r i d i n g   y o u .	3.2154609925783006e-06	0
+h e ' s   r i d i n g   m e .	h e ' s   r i d i n g   m e .	2.779425813059788e-06	0
+h a d n ' t   i t   r i d e d   u s ?	h a d n ' t   i t   r i d d e n   u s ?	0.94231116771698	2
+w o u l d   y o u   r i d e   h e r ?	w o u l d   y o u   r i d e   h e r ?	8.219151368393796e-07	0
+s h e ' l l   r i d e   u s .	s h e ' l l   r i d e   u s .	5.293756476021372e-05	0
+t h e y   w e r e n ' t   r i d i n g   i t .	t h e y   w e r e n ' t   r i d i n g   i t .	1.2767904991051182e-06	0
+w i l l   t h e y   b e   s a l t i n g   h e r ?	w i l l   t h e y   b e   s a l t i n g   h e r ?	8.313269859172578e-07	0
+t h e y ' d   b e e n   s a l t i n g   h e r .	t h e y ' d   b e e n   s a l t i n g   h e r .	6.305540978246427e-07	0
+t h e y   w o n ' t   h a v e   b e e n   s a l t i n g   y o u .	t h e y   w o n ' t   h a v e   b e e n   s a l t i n g   y o u .	8.12505049907486e-07	0
+w o u l d   i t   h a v e   b e e n   s a l t i n g   u s ?	w o u l d   i t   h a v e   b e e n   s a l t i n g   u s ?	1.3395351743383799e-06	0
+h a v e n ' t   y o u   s a l t e d   m e ?	h a v e n ' t   y o u   s a l t e d   m e ?	0.010619680397212505	0
+y o u ' d   h a v e   b e e n   s a l t i n g   t h e m .	y o u ' d   h a v e   b e e n   s a l t i n g   t h e m .	1.063471358975221e-06	0
+w o u l d n ' t   t h e y   h a v e   s a l t   y o u ?	w o u l d n ' t   t h e y   h a v e   s a l t e d   y o u ?	0.07094209641218185	2
+h a v e n ' t   t h e y   b e e n   s a l t i n g   t h e m s e l v e s ?	h a v e n ' t   t h e y   b e e n   s a l t i n g   t h e m s e l v e s ?	9.724959681989276e-07	0
+h e   w a s n ' t   s a l t i n g   t h e m .	h e   w a s n ' t   s a l t i n g   t h e m .	8.815197816147702e-07	0
+h e   d o e s n ' t   s a l t   h i m s e l f .	h e   d o e s n ' t   s a l t   h i m s e l f .	2.7072799184679752e-06	0
+d o n ' t   w e   s a l t   o u r s e l v e s ?	d o n ' t   w e   s a l t   o u r s e l v e s ?	1.894943488878198e-05	0
+i t   h a s n ' t   s a l t   h e r .	i t   h a s n ' t   s a l t e d   h e r .	0.05486386641860008	2
+y o u ' l l   b e   s a l t i n g   i t .	y o u ' l l   b e   s a l t i n g   i t .	6.650612363046093e-07	0
+i t ' s   s a l t i n g   i t .	i t ' s   s a l t i n g   i t .	1.25483029478346e-06	0
+w o u l d   I   b e   s a l t i n g   m y s e l f ?	w o u l d   I   b e   s a l t i n g   m y s e l f ?	1.3363969628699124e-06	0
+i t ' s   n o t   s a l t i n g   i t s e l f .	i t ' s   n o t   s a l t i n g   i t s e l f .	1.2924766679134336e-06	0
+w o n ' t   h e   s e a t   u s ?	w o n ' t   h e   s e a t   u s ?	6.431023962250038e-07	0
+t h e y   w o u l d n ' t   h a v e   b e e n   s e a t i n g   m e .	t h e y   w o u l d n ' t   h a v e   b e e n   s e a t i n g   m e .	1.239147650267114e-06	0
+w i l l   t h e y ' v e   b e e n   s e a t i n g   u s ?	w i l l   t h e y ' v e   b e e n   s e a t i n g   u s ?	1.2579708936755196e-06	0
+w o n ' t   w e   h a v e   s e a t e d   o u r s e l v e s ?	w o n ' t   w e   h a v e   s e a t e d   o u r s e l v e s ?	0.0026554365176707506	0
+y o u   w o n ' t   h a v e   b e e n   s e a t i n g   y o u r s e l f .	y o u   w o n ' t   h a v e   b e e n   s e a t i n g   y o u r s e l f .	1.0540608172959764e-06	0
+w i l l   y o u   b e   s e a t i n g   y o u r s e l v e s ?	w i l l   y o u   b e   s e a t i n g   y o u r s e l v e s ?	1.8038019788946258e-06	0
+y o u ' d   h a v e   s e a t e d   m e .	y o u ' d   h a v e   s e a t e d   m e .	0.0005329407867975533	0
+s h e   w a s   s e a t i n g   h e r .	s h e   w a s   s e a t i n g   h e r .	1.4179572644934524e-06	0
+s h e ' d   b e   s e a t i n g   y o u .	s h e ' d   b e   s e a t i n g   y o u .	6.995693411226966e-07	0
+w o u l d   y o u   b e   s e a t i n g   m e ?	w o u l d   y o u   b e   s e a t i n g   m e ?	9.473984050600848e-07	0
+w o n ' t   t h e y   s e a t   u s ?	w o n ' t   t h e y   s e a t   u s ?	9.693587799119996e-07	0
+w o u l d   h e   s e a t   y o u ?	w o u l d   h e   s e a t   y o u ?	8.501491493007052e-07	0
+w e   w o u l d n ' t   h a v e   b e e n   s e a t i n g   h i m .	w e   w o u l d n ' t   h a v e   b e e n   s e a t i n g   h i m .	1.0728822417149786e-06	0
+h a d n ' t   s h e   b e e n   s e a t i n g   m e ?	h a d n ' t   s h e   b e e n   s e a t i n g   m e ?	8.376017603950459e-07	0
+w e ' d   b e e n   s e a t i n g   i t .	w e ' d   b e e n   s e a t i n g   i t .	2.0112324818910565e-06	0
+w i l l   t h e y ' v e   s e a t e d   t h e m ?	w i l l   t h e y ' v e   s e a t e d   t h e m ?	0.001897368230856955	0
+i t ' s   s e a t e d   u s .	i t ' s   s e a t e d   u s .	0.0024149755481630564	0
+t h e y   w o n ' t   s e a t   t h e m s e l v e s .	t h e y   w o n ' t   s e a t   t h e m s e l v e s .	1.7275633581448346e-06	0
+s h e   h a d n ' t   s e a t e d   h e r s e l f .	s h e   h a d n ' t   s e a t e d   h e r s e l f .	0.0014203813625499606	0
+i t ' s   s e a t e d   i t s e l f .	i t ' s   s e a t e d   i t s e l f .	0.000247649266384542	0
+w e ' v e   s e a t e d   t h e m .	w e ' v e   s e a t e d   t h e m .	0.0064697242341935635	0
+w o u l d   i t   h a v e   b e e n   s e a t i n g   h e r ?	w o u l d   i t   h a v e   b e e n   s e a t i n g   h e r ?	9.815286148295854e-07	0
+h e ' s   s e a t e d   h e r .	h e ' s   s e a t e d   h e r .	0.0014856366906315088	0
+w o u l d   s h e   b e   s e p a r a t i n g   u s ?	w o u l d   s h e   b e   s e p a r a t i n g   u s   f r o m   h e r s e l f ?	0.8089072704315186	13
+t h e y   w o n ' t   h a v e   b e e n   s e p a r a t i n g   h i m   f o r   m e .	t h e y   w o n ' t   h a v e   b e e n   s e p a r a t i n g   h i m   f r o m   m e .	0.0672840029001236	2
+s h e   w o n ' t   s e p a r a t e   h i m s e l f   f o r   h e r s e l f .	s h e   w o n ' t   s e p a r a t e   h e r s e l f   f r o m   h i m .	0.19572165608406067	10
+h a d   i t   s e p a r a t e d   u s   f o r   y o u ?	h a d   i t   s e p a r a t e d   u s   f r o m   y o u ?	0.03120819851756096	2
+w e r e   y o u   s e p a r a t i n g   h i m   f o r   y o u r s e l f ?	w e r e   y o u   s e p a r a t i n g   h i m   f r o m   y o u r s e l f ?	0.06906718015670776	2
+i s   h e   s e p a r a t i n g   h i m   f o r   i t ?	i s   h e   s e p a r a t i n g   h i m   f r o m   i t ?	0.11764483153820038	2
+w i l l   s h e   h a v e   s e p a r a t e d   h e r   f r o m   h e r ?	w i l l   s h e   h a v e   s e p a r a t e d   h e r   f r o m   h e r ?	0.015471680089831352	0
+w o u l d n ' t   i t   h a v e   s e p a r a t e d   h e r   f r o m   i t ?	w o u l d n ' t   i t   h a v e   s e p a r a t e d   h e r   f r o m   i t ?	0.019868984818458557	0
+w o u l d   s h e   b e   s e p a r a t i n g   y o u   f o r   t h e m ?	w o u l d   s h e   b e   s e p a r a t i n g   y o u   f r o m   t h e m ?	0.0724216178059578	2
+I   h a v e n ' t   b e e n   s e p a r a t i n g   y o u .	I   h a v e n ' t   b e e n   s e p a r a t i n g   y o u .	1.4967326933401637e-06	0
+y o u   h a d n ' t   s e p a r a t e d   i t   f o r   u s .	y o u   h a d n ' t   s e p a r a t e d   i t   f r o m   u s .	0.06868266314268112	2
+y o u   w e r e n ' t   s e p a r a t i n g   u s   f o r   h e r .	y o u   w e r e n ' t   s e p a r a t i n g   u s   f r o m   h e r .	0.1032647117972374	2
+I   h a v e n ' t   s e p a r a t e d   m y s e l f   t o   y o u .	I   h a v e n ' t   s e p a r a t e d   m y s e l f   f r o m   y o u .	0.20250838994979858	3
+h a v e   I   b e e n   s e p a r a t i n g   y o u ?	h a v e   I   b e e n   s e p a r a t i n g   y o u ?	1.7316602907158085e-06	0
+h e ' s   s e p a r a t e d .	h e ' s   s e p a r a t e d .	6.863696398795582e-06	0
+h e ' l l   s e p a r a t e   i t   f o r   h i m s e l f .	h e ' l l   s e p a r a t e   i t   f r o m   h i m s e l f .	0.020374218001961708	2
+w e r e   t h e y   s e p a r a t i n g   m e   f o r   i t ?	w e r e   t h e y   s e p a r a t i n g   m e   f r o m   i t ?	0.06319117546081543	2
+w e ' d   s e p a r a t e d   i t .	w e ' d   s e p a r a t e d   i t   f r o m   i t s e l f .	0.1276317536830902	12
+t h e y ' d   b e e n   s e p a r a t i n g   t h e m   a t   y o u .	t h e y ' d   b e e n   s e p a r a t i n g   t h e m   f r o m   y o u .	0.08721804618835449	4
+I ' d   h a v e   s e p a r a t e d   u s .	I ' d   h a v e   s e p a r a t e d   u s .	2.0965242583770305e-05	0
+h a s   h e   b e e n   s e p a r a t i n g   y o u   f o r   i t ?	h a s   h e   b e e n   s e p a r a t i n g   y o u   f r o m   i t ?	0.057445935904979706	2
+s h e   w a s n ' t   s e p a r a t i n g   h e r   a t   y o u .	s h e   w a s n ' t   s e p a r a t i n g   y o u   f r o m   h e r .	0.08598843216896057	10
+I ' l l   b e   s e p a r a t i n g   u s   a t   y o u .	I ' l l   b e   s e p a r a t i n g   u s   f r o m   y o u .	0.23193277418613434	4
+i t ' l l   h a v e   b e e n   s e r v i n g   u s .	i t ' l l   h a v e   b e e n   s e r v i n g   u s .	5.065001005277736e-06	0
+w o u l d n ' t   s h e   h a v e   s e r v e d   i t ?	w o u l d n ' t   s h e   h a v e   s e r v e d   i t ?	4.994487881049281e-06	0
+w e ' l l   b e   s e r v i n g   h e r .	w e ' l l   b e   s e r v i n g   h e r .	5.6716771723586135e-06	0
+s h e   w o n ' t   s e r v e   u s .	s h e   w o n ' t   s e r v e   u s .	1.6120826558108092e-06	0
+I ' d   b e e n   s e r v i n g   m y s e l f .	I ' d   b e e n   s e r v i n g   m y s e l f .	4.403776983963326e-06	0
+y o u   w o n ' t   b e   s e r v i n g   m e .	y o u   w o n ' t   b e   s e r v i n g   m e .	2.955236595880706e-06	0
+i t ' l l   h a v e   s e r v e d   i t .	i t ' l l   h a v e   s e r v e d   i t .	5.1403712859610096e-06	0
+d i d   y o u   s e r v e   u s ?	d i d   y o u   s e r v e   u s ?	2.3876384602772305e-06	0
+w o u l d n ' t   h e   h a v e   b e e n   s e r v i n g   m e ?	w o u l d n ' t   h e   h a v e   b e e n   s e r v i n g   m e ?	1.4957465282350313e-05	0
+h e   s e r v e s   h i m s e l f .	h e   s e r v e s   h i m s e l f .	1.4689145245938562e-05	0
+i t   w a s n ' t   s e r v i n g   u s .	i t   w a s n ' t   s e r v i n g   u s .	1.5693392924731597e-05	0
+w o u l d n ' t   s h e   h a v e   s e r v e d   u s ?	w o u l d n ' t   s h e   h a v e   s e r v e d   u s ?	4.1268017412221525e-06	0
+w o n ' t   y o u   s e r v e   y o u r s e l v e s ?	w o n ' t   y o u   s e r v e   y o u r s e l v e s ?	7.187614414760901e-07	0
+h a v e   I   b e e n   s e r v i n g   h e r ?	h a v e   I   b e e n   s e r v i n g   h e r ?	4.6208415369619615e-06	0
+t h e y   s e r v e   u s .	t h e y   s e r v e   u s .	3.534145434969105e-06	0
+i s n ' t   s h e   s e r v i n g   y o u ?	i s n ' t   s h e   s e r v i n g   y o u ?	7.891885616118088e-06	0
+h e ' d   h a v e   s e r v e d   t h e m .	h e ' d   h a v e   s e r v e d   t h e m .	5.561753823712934e-06	0
+h a v e   y o u   s e r v e d   h i m ?	h a v e   y o u   s e r v e d   h i m ?	1.956435198735562e-06	0
+d o   w e   s e r v e   m e ?	d o   w e   s e r v e   m e ?	0.00012255455658305436	0
+d o e s   i t   s e r v e   i t s e l f ?	d o e s   i t   s e r v e   i t s e l f ?	4.201788397040218e-05	0
+w e ' l l   h a v e   s e r v e d   o u r s e l v e s .	w e ' l l   h a v e   s e r v e d   o u r s e l v e s .	2.0233861505403183e-05	0
+w o u l d n ' t   i t   h a v e   s e r v e d   i t ?	w o u l d n ' t   i t   h a v e   s e r v e d   i t ?	5.722080913983518e-06	0
+h e   w o u l d n ' t   h a v e   s e r v e d   h e r .	h e   w o u l d n ' t   h a v e   s e r v e d   h e r .	4.323495886637829e-06	0
+w o u l d   h e   b e   s e r v i n g   m e ?	w o u l d   h e   b e   s e r v i n g   m e ?	1.994972990360111e-06	0
+h a v e   y o u   s o i l e d   i t ?	h a v e   y o u   s o i l e d   i t ?	1.2182196769572329e-05	0
+w o n ' t   t h e y   b e   s o i l i n g   t h e m ?	w o n ' t   t h e y   b e   s o i l i n g   t h e m ?	2.1647154426318593e-05	0
+i t   w o u l d n ' t   b e   s o i l i n g   m e .	i t   w o u l d n ' t   b e   s o i l i n g   m e .	2.4227383619290777e-06	0
+w o n ' t   I   h a v e   s o i l e d   i t ?	w o n ' t   I   h a v e   s o i l e d   i t ?	7.783446562825702e-06	0
+w o u l d   i t   h a v e   b e e n   s o i l i n g ?	w o u l d   i t   h a v e   b e e n   s o i l i n g ?	2.4509310605935752e-05	0
+w o n ' t   I   b e   s o i l i n g   t h e m ?	w o n ' t   I   b e   s o i l i n g   t h e m ?	4.770696978084743e-05	0
+i t ' s   b e e n   s o i l i n g   i t .	i t ' s   b e e n   s o i l i n g   i t .	1.0187626685365103e-05	0
+I ' m   n o t   s o i l i n g   h e r .	I ' m   n o t   s o i l i n g   h e r .	7.369992999883834e-06	0
+h e ' d   h a v e   b e e n   s o i l i n g   u s .	h e ' d   h a v e   b e e n   s o i l i n g   u s .	3.1410809242515825e-06	0
+w i l l   h e   s o i l   t h e m ?	w i l l   h e   s o i l   t h e m ?	1.972052587007056e-06	0
+t h e y   w o n ' t   h a v e   s o i l e d   m e .	t h e y   w o n ' t   h a v e   s o i l e d   m e .	1.2240259820828214e-05	0
+I   w o u l d n ' t   h a v e   s o i l e d   u s .	I   w o u l d n ' t   h a v e   s o i l e d   u s .	1.7765958546078764e-05	0
+I   h a v e n ' t   s o i l e d   y o u .	I   h a v e n ' t   s o i l e d   y o u .	1.0322989510314073e-05	0
+a r e   y o u   s o i l i n g   y o u r s e l v e s ?	a r e   y o u   s o i l i n g   y o u r s e l v e s ?	2.3377120669465512e-05	0
+y o u   w o u l d n ' t   h a v e   b e e n   s o i l i n g   u s .	y o u   w o u l d n ' t   h a v e   b e e n   s o i l i n g   u s .	1.5782126183694345e-06	0
+w o u l d n ' t   I   h a v e   b e e n   s o i l i n g   u s ?	w o u l d n ' t   I   h a v e   b e e n   s o i l i n g   u s ?	2.4563216811657185e-06	0
+w o u l d   w e ' v e   s o i l e d   m e ?	w o u l d   w e ' v e   s o i l e d   m e ?	1.224031893798383e-05	0
+w o u l d   w e ' v e   b e e n   s o i l i n g   h i m ?	w o u l d   w e ' v e   b e e n   s o i l i n g   h i m ?	2.0233337636454962e-06	0
+w i l l   h e   h a v e   s o i l e d   u s ?	w i l l   h e   h a v e   s o i l e d   u s ?	2.1765819838037714e-05	0
+y o u   s t a n d e d .	y o u   s t o o d .	0.2442997246980667	4
+h e ' l l   h a v e   b e e n   s t a n d i n g .	h e ' l l   h a v e   b e e n   s t a n d i n g .	2.4931475763878552e-06	0
+w o u l d   s h e   h a v e   b e e n   s t a n d i n g ?	w o u l d   s h e   h a v e   b e e n   s t a n d i n g ?	1.7063929362848285e-06	0
+w i l l   h e   b e   s t a n d i n g ?	w i l l   h e   b e   s t a n d i n g ?	2.448873374305549e-06	0
+w e r e   t h e y   s t a n d i n g ?	w e r e   t h e y   s t a n d i n g ?	3.436594397498993e-06	0
+t h e y   w e r e   s t a n d i n g .	t h e y   w e r e   s t a n d i n g .	2.3046952719596447e-06	0
+s h e ' d   h a v e   s t a n d e d .	s h e ' d   h a v e   s t o o d .	0.14966516196727753	4
+t h e y   w o n ' t   h a v e   b e e n   s t a n d i n g .	t h e y   w o n ' t   h a v e   b e e n   s t a n d i n g .	2.7128892270411598e-06	0
+h e ' s   s t a n d e d .	h e ' s   s t o o d .	0.1753683239221573	4
+y o u   w o n ' t   h a v e   b e e n   s t a n d i n g .	y o u   w o n ' t   h a v e   b e e n   s t a n d i n g .	1.9795936623268062e-06	0
+a r e   t h e y   s t a n d i n g ?	a r e   t h e y   s t a n d i n g ?	6.408225999621209e-06	0
+i t   w o n ' t   s t a n d .	i t   w o n ' t   s t a n d .	3.854376700473949e-06	0
+I ' d   h a v e   b e e n   s t a n d i n g .	I ' d   h a v e   b e e n   s t a n d i n g .	2.6803870696312515e-06	0
+I   s t a n d e d .	I   s t o o d .	0.2891404926776886	4
+w i l l   i t   h a v e   b e e n   s t a n d i n g ?	w i l l   i t   h a v e   b e e n   s t a n d i n g ?	2.10602456718334e-06	0
+w a s   i t   s t a n d i n g ?	w a s   i t   s t a n d i n g ?	3.6231797366781393e-06	0
+i t ' s   b e e n   s t a n d i n g .	i t ' s   b e e n   s t a n d i n g .	1.407205309078563e-05	0
+a m   I   s t a n d i n g ?	a m   I   s t a n d i n g ?	2.5663677661214024e-05	0
+w o u l d n ' t   y o u   h a v e   b e e n   s t a n d i n g ?	w o u l d n ' t   y o u   h a v e   b e e n   s t a n d i n g ?	2.102414100590977e-06	0
+w o u l d n ' t   y o u   s t a n d ?	w o u l d n ' t   y o u   s t a n d ?	2.824861667249934e-06	0
+y o u ' l l   s t o r e   h i m .	y o u ' l l   s t o r e   h i m .	3.21861307384097e-06	0
+w o u l d   y o u   s t o r e   y o u r s e l v e s ?	w o u l d   y o u   s t o r e   y o u r s e l v e s ?	2.073494442811352e-06	0
+h a s   h e   s t o r e d   y o u ?	h a s   h e   s t o r e d   y o u ?	1.8964989294545376e-06	0
+h e ' l l   s t o r e   h i m .	h e ' l l   s t o r e   h i m .	1.7592300309843267e-06	0
+h e ' l l   h a v e   b e e n   s t o r i n g   h i m .	h e ' l l   h a v e   b e e n   s t o r i n g   h i m .	1.1704152029778925e-06	0
+h a d n ' t   w e   s t o r e d   h i m ?	h a d n ' t   w e   s t o r e d   h i m ?	4.450454980542418e-06	0
+w i l l   h e   h a v e   s t o r e d   i t ?	w i l l   h e   h a v e   s t o r e d   i t ?	8.018432708922774e-06	0
+h a s n ' t   s h e   b e e n   s t o r i n g   m e ?	h a s n ' t   s h e   b e e n   s t o r i n g   m e ?	1.9710048491106136e-06	0
+w o n ' t   w e   s t o r e   h i m ?	w o n ' t   w e   s t o r e   h i m ?	5.753532605012879e-06	0
+h a v e n ' t   y o u   s t o r e d   u s ?	h a v e n ' t   y o u   s t o r e d   u s ?	5.849423814652255e-06	0
+h a s   i t   b e e n   s t o r i n g   h i m ?	h a s   i t   b e e n   s t o r i n g   h i m ?	1.4940934534024564e-06	0
+h e   w o u l d n ' t   s t o r e   t h e m .	h e   w o u l d n ' t   s t o r e   t h e m .	2.1678715711459517e-05	0
+h e   w o u l d n ' t   s t o r e   t h e m .	h e   w o u l d n ' t   s t o r e   t h e m .	2.1678715711459517e-05	0
+y o u ' r e   s t o r i n g   i t .	y o u ' r e   s t o r i n g   i t .	1.5819722420928883e-06	0
+i t   w o u l d n ' t   s t o r e   y o u .	i t   w o u l d n ' t   s t o r e   y o u .	2.7735773073800374e-06	0
+i t   w o u l d n ' t   b e   s t o r i n g   h i m .	i t   w o u l d n ' t   b e   s t o r i n g   h i m .	2.5750005079316907e-06	0
+y o u ' l l   b e   s t o r i n g   u s .	y o u ' l l   b e   s t o r i n g   u s .	1.747330088619492e-06	0
+t h e y ' v e   s t o r e d   i t .	t h e y ' v e   s t o r e d   i t .	1.205982880492229e-05	0
+y o u   s t o r e d   u s .	y o u   s t o r e d   u s .	7.17433113095467e-06	0
+s h e   h a s n ' t   b e e n   s t o r i n g   t h e m .	s h e   h a s n ' t   b e e n   s t o r i n g   t h e m .	1.184275447485561e-06	0
+w o n ' t   w e   s t o r e   h i m ?	w o n ' t   w e   s t o r e   h i m ?	5.753532605012879e-06	0
+w e ' d   h a v e   s t r e a m e d .	w e ' d   h a v e   s t r e a m e d .	8.088193862931803e-05	0
+w o n ' t   y o u   s t r e a m   t h e m ?	w o n ' t   y o u   s t r e a m   t h e m ?	1.6331632650690153e-06	0
+w e   h a v e n ' t   s t r e a m e d .	w e   h a v e n ' t   s t r e a m e d .	0.004438518546521664	0
+w e   w o u l d n ' t   s t r e a m   m e .	w e   w o u l d n ' t   s t r e a m   m e .	9.655948360887123e-07	0
+h a v e n ' t   t h e y   b e e n   s t r e a m i n g   m e ?	h a v e n ' t   t h e y   b e e n   s t r e a m i n g   m e ?	1.9744340988836484e-06	0
+w e ' r e   n o t   s t r e a m i n g   t h e m .	w e ' r e   n o t   s t r e a m i n g   t h e m .	6.101167855376843e-06	0
+i s n ' t   h e   s t r e a m i n g ?	i s n ' t   h e   s t r e a m i n g ?	7.298790023924084e-06	0
+h e ' d   b e e n   s t r e a m i n g   y o u .	h e ' d   b e e n   s t r e a m i n g   y o u .	9.446288231629296e-07	0
+w e r e   y o u   s t r e a m i n g   m e ?	w e r e   y o u   s t r e a m i n g   m e ?	2.38496295423829e-06	0
+h a v e n ' t   y o u   s t r e a m e d   h i m ?	h a v e n ' t   y o u   s t r e a m e d   h i m ?	0.0001946177944773808	0
+w i l l   i t   h a v e   s t r e a m e d   u s ?	w i l l   i t   h a v e   s t r e a m e d   u s ?	0.00010329827637178823	0
+y o u ' d   s t r e a m e d   m e .	y o u ' d   s t r e a m e d   m e .	7.616432412760332e-06	0
+y o u ' d   s t r e a m   h i m .	y o u ' d   s t r e a m   h i m .	1.5038262972666416e-06	0
+w e ' l l   s t r e a m   i t .	w e ' l l   s t r e a m   i t .	1.4856236703053582e-06	0
+i t   h a s n ' t   s t r e a m e d   h e r .	i t   h a s n ' t   s t r e a m e d   h e r .	2.2595839254790917e-05	0
+w o n ' t   I   h a v e   b e e n   s t r e a m i n g   u s ?	w o n ' t   I   h a v e   b e e n   s t r e a m i n g   u s ?	3.870819000439951e-06	0
+a m   I   s t r e a m i n g   m y s e l f ?	a m   I   s t r e a m i n g   m y s e l f ?	4.538468783721328e-05	0
+a r e   t h e y   s t r e a m i n g   h i m ?	a r e   t h e y   s t r e a m i n g   h i m ?	2.3570503344672034e-06	0
+t h e y   w o u l d n ' t   h a v e   b e e n   s t r e a m i n g   y o u .	t h e y   w o u l d n ' t   h a v e   b e e n   s t r e a m i n g   y o u .	1.4307894389276044e-06	0
+I   h a v e n ' t   s t r e a m e d   t h e m .	I   h a v e n ' t   s t r e a m e d   t h e m .	0.003696446307003498	0
+h e   s u p p o r t s   h i m .	h e   s u p p o r t s   h i m .	0.004682191647589207	0
+y o u   w o n ' t   s u p p o r t   h e r .	y o u   w o n ' t   s u p p o r t   h e r .	1.0392583362772712e-06	0
+i t ' l l   b e   s u p p o r t i n g   h i m .	i t ' l l   b e   s u p p o r t i n g   h i m .	1.0392586773377843e-06	0
+w e r e n ' t   t h e y   s u p p o r t i n g   h i m ?	w e r e n ' t   t h e y   s u p p o r t i n g   h i m ?	1.6047316648837295e-06	0
+t h e y   w o n ' t   s u p p o r t   m e .	t h e y   w o n ' t   s u p p o r t   m e .	1.4242333463698742e-06	0
+y o u ' d   s u p p o r t   i t .	y o u ' d   s u p p o r t   i t .	2.6539444206719054e-06	0
+y o u ' d   s u p p o r t e d   t h e m .	y o u ' d   s u p p o r t e d   t h e m .	2.72610918727878e-06	0
+h e   w o u l d n ' t   h a v e   s u p p o r t e d   u s .	h e   w o u l d n ' t   h a v e   s u p p o r t e d   u s .	2.2210522274690447e-06	0
+i t   w o u l d n ' t   s u p p o r t   t h e m .	i t   w o u l d n ' t   s u p p o r t   t h e m .	1.3919415323471185e-05	0
+w o u l d   t h e y   b e   s u p p o r t i n g   m e ?	w o u l d   t h e y   b e   s u p p o r t i n g   m e ?	9.975925649996498e-07	0
+y o u ' v e   b e e n   s u p p o r t i n g   t h e m .	y o u ' v e   b e e n   s u p p o r t i n g   t h e m .	1.123074980569072e-06	0
+w a s n ' t   i t   s u p p o r t i n g   y o u ?	w a s n ' t   i t   s u p p o r t i n g   y o u ?	2.606847601782647e-06	0
+w e ' d   h a v e   s u p p o r t e d   o u r s e l v e s .	w e ' d   h a v e   s u p p o r t e d   o u r s e l v e s .	2.2586912109545665e-06	0
+d i d n ' t   s h e   s u p p o r t   m e ?	d i d n ' t   s h e   s u p p o r t   m e ?	1.8100909073837101e-06	0
+I   w a s n ' t   s u p p o r t i n g   i t .	I   w a s n ' t   s u p p o r t i n g   i t .	6.744733695995819e-07	0
+w o u l d n ' t   h e   h a v e   b e e n   s u p p o r t i n g   h e r ?	w o u l d n ' t   h e   h a v e   b e e n   s u p p o r t i n g   h e r ?	1.0885686378969694e-06	0
+I ' d   s u p p o r t e d   t h e m .	I ' d   s u p p o r t e d   t h e m .	1.4775622503293562e-06	0
+y o u   d i d n ' t   s u p p o r t   t h e m .	y o u   d i d n ' t   s u p p o r t   t h e m .	4.921979780192487e-06	0
+t h e y   w e r e n ' t   s u p p o r t i n g   u s .	t h e y   w e r e n ' t   s u p p o r t i n g   u s .	1.4493286926153814e-06	0
+h e   w o n ' t   h a v e   b e e n   s u p p o r t i n g   y o u .	h e   w o n ' t   h a v e   b e e n   s u p p o r t i n g   y o u .	1.0258266911478131e-06	0
+d o e s   i t   s u p p o r t   m e ?	d o e s   i t   s u p p o r t   m e ?	8.598118256486487e-06	0
+w o n ' t   t h e y   h a v e   b e e n   s u p p o r t i n g   u s ?	w o n ' t   t h e y   h a v e   b e e n   s u p p o r t i n g   u s ?	1.3332612525118748e-06	0
+w o n ' t   i t   h a v e   b e e n   t a g g i n g   m e ?	w o n ' t   i t   h a v e   b e e n   t a g g i n g   m e ?	0.00016777102428022772	0
+h e   w o u l d n ' t   h a v e   t a g g e d   y o u .	h e   w o u l d n ' t   h a v e   t a g g e d   y o u .	6.736960494890809e-05	0
+I ' l l   t a g   y o u .	I ' l l   t a g   y o u .	3.259488494222751e-06	0
+i t ' l l   h a v e   b e e n   t a g g i n g   h i m .	i t ' l l   h a v e   b e e n   t a g g i n g   h i m .	0.0004247672623023391	0
+t a g   u s !	t a g   u s !	0.00012345341383479536	0
+w o u l d   s h e   b e   t a g g i n g   h e r ?	w o u l d   s h e   b e   t a g g i n g   h e r ?	3.1628420401830226e-05	0
+i t   w o n ' t   t a g   u s .	i t   w o n ' t   t a g   u s .	2.3228653844853397e-06	0
+h e ' d   t a g g e d   h i m s e l f .	h e ' d   t a g g e d   h i m s e l f .	0.00018052397354040295	0
+I ' d   t a g   t h e m .	I ' d   t a g   t h e m .	1.3598889381682966e-05	0
+w e   h a v e n ' t   t a g g e d   h i m .	w e   h a v e n ' t   t a g g e d   h i m .	0.0005909667233936489	0
+h a v e   t h e y   t a g g e d   h e r ?	h a v e   t h e y   t a g g e d   h e r ?	0.002835652558133006	0
+h a v e   t h e y   b e e n   t a g g i n g   t h e m s e l v e s ?	h a v e   t h e y   b e e n   t a g g i n g   t h e m s e l v e s ?	4.7278932470362633e-05	0
+h e ' d   b e   t a g g i n g   h e r .	h e ' d   b e   t a g g i n g   h e r .	0.0001142813271144405	0
+w o u l d n ' t   I   t a g   t h e m ?	w o u l d n ' t   I   t a g   t h e m ?	2.3514741769758984e-05	0
+h a s   h e   b e e n   t a g g i n g   t h e m ?	h a s   h e   b e e n   t a g g i n g   t h e m ?	0.0004199245013296604	0
+d o   y o u   t a g   h e r ?	d o   y o u   t a g   h e r ?	2.779155875032302e-05	0
+w o n ' t   t h e y   h a v e   b e e n   t a g g i n g   y o u ?	w o n ' t   t h e y   h a v e   b e e n   t a g g i n g   y o u ?	8.518083632225171e-05	0
+w o u l d n ' t   w e   h a v e   t a g g e d   h e r ?	w o u l d n ' t   w e   h a v e   t a g g e d   h e r ?	0.00010359763109590858	0
+i t   w a s   t a g g i n g   h i m .	i t   w a s   t a g g i n g   h i m .	0.0001819060416892171	0
+i s   h e   t a g g i n g   h i m s e l f ?	i s   h e   t a g g i n g   h i m s e l f ?	0.00013457440945785493	0
+w o u l d   s h e   b e   t a g g i n g   y o u ?	w o u l d   s h e   b e   t a g g i n g   y o u ?	8.647690992802382e-05	0
+w i l l   s h e   h a v e   b e e n   t a g g i n g   u s ?	w i l l   s h e   h a v e   b e e n   t a g g i n g   u s ?	0.00046473374823108315	0
+h e   w o u l d n ' t   h a v e   t a l k e d   t o   u s .	h e   w o u l d n ' t   h a v e   t a l k e d   t o   u s .	0.00036984775215387344	0
+t a l k   y o u r s e l f !	t a l k   w i t h   y o u r s e l f !	0.051367759704589844	5
+h a v e n ' t   t h e y   t a l k e d   w i t h   u s ?	h a v e n ' t   t h e y   t a l k e d   w i t h   u s ?	0.00019406060164328665	0
+w o n ' t   h e   h a v e   b e e n   t a l k i n g   w i t h   h i m ?	w o n ' t   h e   h a v e   b e e n   t a l k i n g   w i t h   h i m ?	6.46528133074753e-05	0
+h a s   s h e   t a l k e d   t o   i t ?	h a s   s h e   t a l k e d   t o   i t ?	0.013120109215378761	0
+h a d   y o u   b e e n   t a l k i n g   t o   y o u r s e l f ?	h a d   y o u   b e e n   t a l k i n g   t o   y o u r s e l f ?	0.003507642773911357	0
+w i l l   i t   h a v e   b e e n   t a l k i n g   w i t h   m e ?	w i l l   i t   h a v e   b e e n   t a l k i n g   w i t h   m e ?	0.005759521387517452	0
+w o u l d n ' t   s h e   h a v e   b e e n   t a l k i n g   w i t h   m e ?	w o u l d n ' t   s h e   h a v e   b e e n   t a l k i n g   w i t h   m e ?	8.459635864710435e-05	0
+w e   w o u l d n ' t   b e   t a l k i n g   w i t h   y o u .	w e   w o u l d n ' t   b e   t a l k i n g   w i t h   y o u .	0.0005950843333266675	0
+w o u l d   y o u   t a l k   t o   y o u r s e l v e s ?	w o u l d   y o u   t a l k   t o   y o u r s e l v e s ?	0.0076719666831195354	0
+i t   w o u l d   h a v e   b e e n   t a l k i n g   w i t h   h e r .	i t   w o u l d   h a v e   b e e n   t a l k i n g   w i t h   h e r .	0.0016607105499133468	0
+h a v e   t h e y   t a l k e d   w i t h   m e ?	h a v e   t h e y   t a l k e d   w i t h   m e ?	0.0003633749147411436	0
+t h e y   w o n ' t   t a l k   t o   y o u .	t h e y   w o n ' t   t a l k   t o   y o u .	0.006242060102522373	0
+w o u l d n ' t   I   t a l k ?	w o u l d n ' t   I   t a l k ?	0.004750437568873167	0
+s h e   w a s n ' t   t a l k i n g   t o   h e r .	s h e   w a s n ' t   t a l k i n g   t o   h e r .	0.005939175374805927	0
+h e ' s   t a l k e d   t o   h e r .	h e ' s   t a l k e d   t o   h e r .	0.003892350709065795	0
+d i d n ' t   t h e y   t a l k   t o   h e r ?	d i d n ' t   t h e y   t a l k   t o   h e r ?	0.015313851647078991	0
+t h e y   w o n ' t   t a l k   w i t h   h e r .	t h e y   w o n ' t   t a l k   w i t h   h e r .	0.004558701068162918	0
+w e   w o n ' t   t a l k   f o r   i t .	w e   w o n ' t   t a l k   t o   i t .	0.05616011098027229	2
+w e r e   w e   t e s t i n g   t h e m ?	w e r e   w e   t e s t i n g   t h e m ?	2.785917058645282e-05	0
+t h e y ' l l   h a v e   t e s t e d   t h e m .	t h e y ' l l   h a v e   t e s t e d   t h e m .	0.00859043374657631	0
+h e   w o u l d n ' t   h a v e   t e s t e d   h i m .	h e   w o u l d n ' t   h a v e   t e s t e d   h i m .	0.008042723871767521	0
+h e ' l l   t e s t   y o u .	h e ' l l   t e s t   y o u .	4.957252895110287e-05	0
+t h e y ' l l   h a v e   b e e n   t e s t i n g   m e .	t h e y ' l l   h a v e   b e e n   t e s t i n g   m e .	5.154891368874814e-06	0
+i t   d i d n ' t   t e s t   t h e m .	i t   d i d n ' t   t e s t   t h e m .	9.949627565219998e-05	0
+w e ' l l   t e s t   m e .	w e ' l l   t e s t   m e .	0.00023973657516762614	0
+s h e ' d   t e s t   h e r .	s h e ' d   t e s t   h e r .	0.00027495945687405765	0
+h a d n ' t   y o u   b e e n   t e s t i n g   h e r ?	h a d n ' t   y o u   b e e n   t e s t i n g   h e r ?	1.1066596016462427e-05	0
+h a v e   w e   t e s t e d   h i m ?	h a v e   w e   t e s t e d   h i m ?	0.011351093649864197	0
+h e   h a s n ' t   t e s t e d   t h e m .	h e   h a s n ' t   t e s t e d   t h e m .	0.005261681973934174	0
+w i l l   i t   t e s t   i t s e l f ?	w i l l   i t   t e s t   i t s e l f ?	0.00015554986021015793	0
+w e   w o n ' t   h a v e   b e e n   t e s t i n g   t h e m .	w e   w o n ' t   h a v e   b e e n   t e s t i n g   t h e m .	3.3920459827641025e-06	0
+i s   i t   t e s t i n g   h i m ?	i s   i t   t e s t i n g   h i m ?	2.3534557840321213e-05	0
+h e   h a s n ' t   t e s t e d   y o u .	h e   h a s n ' t   t e s t e d   y o u .	0.003915292676538229	0
+t h e y   w o u l d n ' t   h a v e   t e s t e d   h i m .	t h e y   w o u l d n ' t   h a v e   t e s t e d   h i m .	0.01632780022919178	0
+y o u   t e s t   m e .	y o u   t e s t   m e .	0.0007135682390071452	0
+d i d n ' t   I   t e s t   h e r ?	d i d n ' t   I   t e s t   h e r ?	0.00011669142986647785	0
+I ' m   t e s t i n g   h i m .	I ' m   t e s t i n g   h i m .	4.6946752263465896e-05	0
+t h e y ' d   t e s t   y o u .	t h e y ' d   t e s t   y o u .	5.630286977975629e-05	0
+w o n ' t   t h e y   b e   t e s t i n g   i t ?	w o n ' t   t h e y   b e   t e s t i n g   i t ?	3.194628516212106e-05	0
+w o u l d   t h e y ' v e   t e s t e d   y o u ?	w o u l d   t h e y ' v e   t e s t e d   y o u ?	0.011797891929745674	0
+w i l l   w e   t r e n d ?	w i l l   w e   t r e n d ?	3.0121058443910442e-05	0
+t h e y   w o u l d n ' t   b e   t r e n d i n g .	t h e y   w o u l d n ' t   b e   t r e n d i n g .	1.5441863070009276e-05	0
+h a d   s h e   t r e n d e d ?	h a d   s h e   t r e n d e d ?	0.020209921523928642	0
+h e   t r e n d s .	h e   t r e n d s .	0.009663832373917103	0
+i t   w o u l d n ' t   b e   t r e n d i n g .	i t   w o u l d n ' t   b e   t r e n d i n g .	1.323475044046063e-05	0
+w o u l d   t h e y   t r e n d ?	w o u l d   t h e y   t r e n d ?	2.8105494493502192e-05	0
+a m   I   n o t   t r e n d i n g ?	a m   I   n o t   t r e n d i n g ?	3.803040090133436e-05	0
+i t   d o e s n ' t   t r e n d .	i t   d o e s n ' t   t r e n d .	0.0002548241463955492	0
+w o n ' t   y o u   t r e n d ?	w o n ' t   y o u   t r e n d ?	2.8882957849418744e-05	0
+w e ' d   h a v e   b e e n   t r e n d i n g .	w e ' d   h a v e   b e e n   t r e n d i n g .	1.4884774827805813e-05	0
+w o u l d   y o u ' v e   b e e n   t r e n d i n g ?	w o u l d   y o u ' v e   b e e n   t r e n d i n g ?	9.675258297647815e-06	0
+s h e ' l l   h a v e   b e e n   t r e n d i n g .	s h e ' l l   h a v e   b e e n   t r e n d i n g .	1.9871142285410315e-05	0
+w o n ' t   h e   t r e n d ?	w o n ' t   h e   t r e n d ?	1.9572242308640853e-05	0
+w o n ' t   t h e y   b e   t r e n d i n g ?	w o n ' t   t h e y   b e   t r e n d i n g ?	1.6536192561034113e-05	0
+w e ' l l   t r e n d .	w e ' l l   t r e n d .	6.344373832689598e-05	0
+t h e y   d o n ' t   w a n t   m e   f r o m   h e r .	t h e y   d o n ' t   w a n t   m e   f r o m   h e r .	0.007614233065396547	0
+s h e   h a d n ' t   w a n t e d   y o u   f r o m   i t .	s h e   h a d n ' t   w a n t e d   y o u   f r o m   i t .	0.008957123383879662	0
+w i l l   i t   h a v e   w a n t e d   i t   f r o m   i t ?	w i l l   i t   h a v e   w a n t e d   i t   f r o m   i t ?	0.006307909730821848	0
+w o u l d n ' t   I   h a v e   b e e n   w a n t i n g   h i m ?	w o u l d n ' t   I   h a v e   b e e n   w a n t i n g   h i m   f r o m   m y s e l f ?	0.4628240466117859	12
+a m   I   n o t   w a n t i n g   t h e m   f o r   u s ?	a m   I   n o t   w a n t i n g   t h e m   f r o m   u s ?	0.10175937414169312	2
+h a d n ' t   t h e y   w a n t e d   t h e m s e l v e s   f r o m   t h e m s e l v e s ?	h a d n ' t   y o u   w a n t e d   t h e m   f r o m   t h e m s e l v e s ?	0.7271791696548462	10
+d i d   s h e   w a n t   t h e m   f r o m   t h e m s e l v e s ?	d i d   s h e   w a n t   t h e m   f r o m   t h e m s e l v e s ?	0.004749165382236242	0
+w e ' d   w a n t e d   h e r   a t   y o u .	w e ' d   w a n t e d   y o u   f r o m   h e r .	0.05298281088471413	10
+d o e s n ' t   i t   w a n t   i t   f o r   h e r ?	d o e s n ' t   i t   w a n t   i t   f r o m   h e r ?	0.037216901779174805	2
+w e ' d   w a n t   h i m   a t   h i m .	w e ' d   w a n t   h i m   f r o m   y o u .	0.036395907402038574	7
+i t   w o u l d   w a n t   u s .	i t   w o u l d   w a n t   u s .	1.1224375157325994e-05	0
+w o n ' t   h e   w a n t   u s   a t   y o u ?	w o n ' t   h e   w a n t   u s   f r o m   y o u ?	0.04657060652971268	4
+w o u l d   s h e   h a v e   w a n t e d   h e r s e l f ?	w o u l d   s h e   h a v e   w a n t e d   h e r s e l f ?	9.907934327202383e-06	0
+a r e   w e   w a n t i n g   m e ?	a r e   w e   w a n t i n g   m e   f r o m   m y s e l f ?	0.6568207740783691	12
+i t ' s   w a n t e d   h i m   f r o m   h i m .	i t ' s   w a n t e d   h i m   f r o m   h i m .	0.019108323380351067	0
+w o n ' t   h e   h a v e   b e e n   w a n t i n g   h e r   f r o m   m e ?	w o n ' t   h e   h a v e   b e e n   w a n t i n g   h e r   f r o m   m e ?	0.01779184304177761	0
+t h e y   w o u l d n ' t   h a v e   w a n t e d   m e   f r o m   u s .	t h e y   w o u l d n ' t   h a v e   w a n t e d   m e   f r o m   u s .	0.01709204539656639	0
+i t ' l l   h a v e   w a n t e d   t h e m   f o r   i t s e l f .	i t ' l l   h a v e   w a n t e d   t h e m   f r o m   i t s e l f .	0.06897412240505219	2
+w o n ' t   t h e y   w a n t   t h e m   f r o m   h e r ?	w o n ' t   t h e y   w a n t   t h e m   f r o m   h e r ?	0.00822710245847702	0
+w i l l   w e   b e   w a n t i n g   h i m   a t   y o u ?	w i l l   w e   b e   w a n t i n g   h i m   f r o m   y o u ?	0.04327978193759918	4
+w i l l   i t   b e   w a n t i n g   h i m   f o r   u s ?	w i l l   i t   b e   w a n t i n g   h i m   f r o m   u s ?	0.11672819405794144	2
+w o u l d   i t   w a n t   y o u   f r o m   y o u r s e l f ?	w o u l d   i t   w a n t   y o u   f r o m   y o u r s e l f ?	0.0018529685912653804	0
+h a s   s h e   b e e n   w a n t i n g   h i m   f o r   m e ?	h a s   s h e   b e e n   w a n t i n g   h i m   f r o m   m e ?	0.027851982042193413	2
+w o u l d n ' t   w e   h a v e   b e e n   w a n t i n g   o u r s e l v e s ?	w o u l d n ' t   w e   h a v e   b e e n   w a n t i n g   o u r s e l v e s ?	5.5297564358625095e-06	0
