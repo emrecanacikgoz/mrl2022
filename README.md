@@ -39,13 +39,20 @@ July 8, 2022: Get a baseline score for each task with each language (6 Languages
 
 
 ## To Do's
-- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [x] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish.<br>
-`Epoch: 99/100 |  avg_test_loss: 0.9453075 | perplexity: 2.5736047 |  test_accuracy: 85.81%`
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
-- [ ] **Task2 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
-- [ ] **Task2 (Muge):** Train version-1 (Prompts) for 6xLanguages.
-- [ ] **Task3 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for 6xLanguages.
+- [ ] **Task1 (Emre Can):** Fix/Debug issue, if any.
+- [ ] **Task1 (Emre Can):** Train new Model-ver3 (3xEncoder+1xDecoder).
+- [ ] **Task1 (Emre Can):** Repeat Muge's prompts.
+- [ ] **Task1 (Tilek):** Implement and train an additional LSTM baseline mode.
+- [ ] **Task1 (Tilek):** Experiment with Neural Transducer model's hyperparameters.
+- [ ] **Task1 (Tilek):** Implement pretraining for baseline models.
+- [ ] **Task2 (Emre Can):** Fix/Debug issue, if any.
+- [ ] **Task2 (Emre Can):** Repeat Muge's prompts.
+- [ ] **Task2 (Muge):** Train different pretrained LMs for all languages, especially for Hebrew.
+- [ ] **Task2 (Muge):** Literature review for different prompting techniques other than prefix tuning for all languages.
+- [ ] **Task2 (Muge):** Train different prompting techniques other than prefix tuning for all languages.
+- [ ] **Task2 (Muge):** Train prompts to Masked LMs (such as BERT), for all languages.
+- [ ] **Task3 (Emre Can):** Fix/Debug issue, if any.
+- [ ] **Task3 (Emre Can):** Train and get good results as baseline model.
 - [ ] Check Gözde Hoca's papers and implement: a pointer network solution and a monotonic hard attention based solution.
 
 ## Environment Set-up
