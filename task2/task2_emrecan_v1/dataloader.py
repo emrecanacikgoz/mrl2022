@@ -62,10 +62,10 @@ class Vocab:
         self.source_encoder, self.source_decoder = source_encoder, source_decoder
         self.target_encoder, self.target_decoder = target_encoder, target_decoder
 
-        print(f"Source Encoder: {self.source_encoder}")
-        print(f"Source Decoder: {self.source_decoder}")
-        print(f"Target Encoder: {self.target_encoder}")
-        print(f"Target Decoder: {self.target_decoder}\n")
+        #print(f"Source Encoder: {self.source_encoder}")
+        #print(f"Source Decoder: {self.source_decoder}")
+        #print(f"Target Encoder: {self.target_encoder}")
+        #print(f"Target Decoder: {self.target_decoder}\n")
         
         self.data = data
 

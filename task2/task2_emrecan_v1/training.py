@@ -9,7 +9,7 @@ from test import test
 
 
 def train(train_loader, val_loader, logger, args):
-    scheduler = ReduceLROnPlateau(args.optimizer, mode='min', factor=0.5, patience=5, verbose=True)
+    scheduler = ReduceLROnPlateau(args.optimizer, mode='min', factor=0.8, patience=3, verbose=True)
 
     best_loss = 1e4
     start_time = time.time()
@@ -38,7 +38,7 @@ def train(train_loader, val_loader, logger, args):
             batch_loss.backward()
             args.optimizer.step()
 
-            correct_tokens, num_tokens, wrong_tokens, wrong_predictions, correct_predictions = acc
+            correct_tokens, num_tokens, wrong_tokens, wrong_predictions, correct_predictions, _ = acc
             epoch_loss       += loss.sum().item()
             epoch_num_tokens += num_tokens
             epoch_acc        += correct_tokens
@@ -72,7 +72,7 @@ def train(train_loader, val_loader, logger, args):
             loss = nll_test
         val_loss_values.append(nll_test)
         val_acc_values.append(acc_test)
-        #scheduler.step(nll_test)
+        scheduler.step(nll_test)
 
         # Savings
         if loss < best_loss:
@@ -90,19 +90,3 @@ def train(train_loader, val_loader, logger, args):
     logger.info(f"Epochs: {args.epochs}, Batch Size: {args.batch_size}, lr: {args.lr}, train_loss: {nll_train:.4f}")
     logger.info(f"Training Time: {training_time}\n")
     plot_curves(args.task, args.mname, args.fig, args.axs, trn_loss_values, val_loss_values, args.plt_style, 'loss')
-
-            
-
-
-
-        
-        
-
-
-
-
-
-
-
-
-            

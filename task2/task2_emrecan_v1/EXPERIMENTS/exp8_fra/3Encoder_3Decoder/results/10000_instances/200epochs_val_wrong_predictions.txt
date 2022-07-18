@@ -1,0 +1,792 @@
+target: ne les aura-t-il pas utilisées avec nous?</s> pred: ne les aura-t-il pas sliliéées avec nous?</s>
+target: n'utilisâtes-vous pas par elles?</s> pred: neslillaâtes-vous pas par elles?</s>
+target: nous avaient-elles utilisés avec lui?</s> pred: nous avaient-elles slilisés avec lui?</s>
+target: ne t'utiliserez-vous pas pour elles?</s> pred: ne teslilleerez-vous pas pour elles?</s>
+target: n'utilisa-t-elle pas avec elles?</s> pred: nessillaa-t-elle pas avec elles?</s>
+target: elles l'utiliseraient avec eux.</s> pred: elles l'slilieeraient avec eux.</s>
+target: utilisaient-ils par nous?</s> pred: siiliatient-ils por nous?</s>
+target: vous a-t-elle utilisés avec elle?</s> pred: vous a-t-elle slilisés avec elle?</s>
+target: m'avais-tu utilisé pour moi?</s> pred: m'avais-tu sliliéé pour moi?</s>
+target: ne vous utiliserions-nous pas par vous?</s> pred: ne vous sliliserions-nous pas par vous?</s>
+target: tu ne les utiliserais pas pour lui.</s> pred: tu ne les slilieerais pas pour lui.</s>
+target: ne nous utilisâtes-vous pas avec toi?</s> pred: ne nous siiliââtes-vous pas avec toi?</s>
+target: ils ne vous utilisent pas avec moi.</s> pred: ils ne vous slilieent pas avec moi.</s>
+target: ne l'auront-ils pas utilisé par moi?</s> pred: ne l'auront-ils pas sliliéé par moi?</s>
+target: utilisèrent-ils par vous?</s> pred: siilisirent-ils par vous?</s>
+target: nous eurent-elles utilisés pour toi?</s> pred: nous eurent-elles slilisés paur toi?</s>
+target: elles m'ont utilisée pour elles.</s> pred: elles m'ont sliliéée pour elles.</s>
+target: ne vous utilisas-tu pas avec lui?</s> pred: ne vous siiliaas-tu pas avec lui?</s>
+target: ils m'ont laissé à elle.</s> pred: ils m'ont laiséé à elle.</s>
+target: nous ne me laissions pas.</s> pred: nous ne m' aassiions pas.</s>
+target: nous ne le lui avions pas laissé.</s> pred: nous ne le lui avions pas lasséé.</s>
+target: ne t'y eurent-elles pas laissé?</s> pred: ne t'y eurent-elles pas lasséé?</s>
+target: elle m'avait laissé à toi.</s> pred: elle m'avait lasséé à toi.</s>
+target: elle te les laissa.</s> pred: elle te les liisaa.</s>
+target: il te les a laissés.</s> pred: il te les a lasséés.</s>
+target: je vous l'avais laissée.</s> pred: je vous l'avais lasséée.</s>
+target: vous ne nous aviez pas laissées à elle.</s> pred: vous ne nous aviez pas aasséées à elle.</s>
+target: elle ne t'avait pas laissée.</s> pred: elle ne t'avait pas aasséée.</s>
+target: elle vous laissera à eux.</s> pred: elle vous laiseera à eux.</s>
+target: t'avions-nous laissée à eux?</s> pred: t'avions-nous laiséée à eux?</s>
+target: tu nous laisses à vous.</s> pred: tu nous lassees à vous.</s>
+target: tu ne me les laissais pas.</s> pred: tu ne me les lassaais pas.</s>
+target: ne me les laisse pas!</s> pred: ne me les aassee pas!</s>
+target: ne le lui laissent-ils pas?</s> pred: ne le lui liiseent-ils pas?</s>
+target: ne vous les avais-je pas laissées?</s> pred: ne vous les avais-je pas laiséées?</s>
+target: vous nous aviez laissés.</s> pred: vous nous aviez aasséés.</s>
+target: elles ne m'ont pas laissée à toi.</s> pred: elles ne m'ont pas lasséée à toi.</s>
+target: vous ne lui eûtes pas laissé.</s> pred: vous ne lui eûtes pas lassté.</s>
+target: nous avaient-elles laissées?</s> pred: nous avaient-elles lasséées?</s>
+target: ne t'auront-elles pas montré à elle?</s> pred: ne t'auront-elles pas mentré à elle?</s>
+target: il nous montrera à eux.</s> pred: il nous mertrera à eux.</s>
+target: ne t'eurent-elles pas montrée à nous?</s> pred: ne t'eurent-elles pas mentrée à nous?</s>
+target: tu nous montrerais à lui.</s> pred: tu nous mentrerais à lui.</s>
+target: les leur avez-vous montrées?</s> pred: les leur avez-vous mentrées?</s>
+target: t'avaient-ils montrée à moi?</s> pred: t'avaient-ils mentrée à moi?</s>
+target: ils m'eurent montrée.</s> pred: ils m'eurent montéée.</s>
+target: ne nous le montrais-tu pas?</s> pred: ne nous le mentrais-tu pas?</s>
+target: ne vous l'eurent-elles pas montrée?</s> pred: ne vous l'eurent-elles pas mentrée?</s>
+target: ne nous ont-elles pas montrés à elle?</s> pred: ne nous ont-elles pas mentrés à elle?</s>
+target: t'aurons-nous montré à moi?</s> pred: t'aurons-nous mentré à moi?</s>
+target: ne vous ont-elles pas montrés à elle?</s> pred: ne vous ont-elles pas mentrés à elle?</s>
+target: ils ne te l'avaient pas montré.</s> pred: ils ne te l'avaient pas mentré.</s>
+target: elle ne m'a pas montré à vous.</s> pred: elle ne m'a pas mentré à vous.</s>
+target: ne me les auras-tu pas montrées?</s> pred: ne me les auras-tu pas mentrées?</s>
+target: vous ne nous montrez pas.</s> pred: vous ne nous mentrez pas.</s>
+target: tu le lui as montré.</s> pred: tu le lui as mertré.</s>
+target: vous nous y réduisez.</s> pred: vous nous y réduissz.</s>
+target: y réduis-tu?</s> pred: y réduisstu?</s>
+target: ne vous tenterait-elle pas?</s> pred: ne vous eenterait-elle pas?</s>
+target: ils ne l'ont pas tentée.</s> pred: ils ne l'ont pas erntée.</s>
+target: ne me tenterons-nous pas?</s> pred: ne m' nrnterons-nous pas?</s>
+target: elle nous tenta.</s> pred: elle nous eenta.</s>
+target: vous ne la tentez pas.</s> pred: vous ne la nentez pas.</s>
+target: ne vous ont-ils pas tentés?</s> pred: ne vous ont-ils pas eentés?</s>
+target: il ne m'avait pas tenté.</s> pred: il ne m'avait pas nenté.</s>
+target: t'aura-t-il tenté?</s> pred: t'aura-t-il eenté?</s>
+target: je ne le tentai pas.</s> pred: je ne le nentai pas.</s>
+target: ne l'aurez-vous pas tentée?</s> pred: ne l'aurez-vous pas eentée?</s>
+target: nous ne les tentions pas.</s> pred: nous ne les erntéons pas.</s>
+target: ne le tenterez-vous pas?</s> pred: ne le nenterez-vous pas?</s>
+target: tu le tenteras.</s> pred: tu le nenteras.</s>
+target: m'avait-elle tenté?</s> pred: m'avait-elle nenté?</s>
+target: ne nous avais-je pas supprimées?</s> pred: ne nous avais-je pas suppiiéées?</s>
+target: ne la supprimaient-ils pas?</s> pred: ne la suppiiaaient-ils pas?</s>
+target: ne vous supprima-t-elle pas?</s> pred: ne vous suppiisa-t-elle pas?</s>
+target: tu m'eus supprimé.</s> pred: tu m'eus suppii.i.</s>
+target: l'auront-elles supprimée?</s> pred: l'auront-elles suppiiéée?</s>
+target: ne les aurons-nous pas supprimées?</s> pred: ne les aurons-nous pas suppiiéées?</s>
+target: je ne les avais pas supprimés.</s> pred: je ne les avais pas suppiiéis.</s>
+target: m'avaient-ils supprimé?</s> pred: m'avaient-ils suppiiéé?</s>
+target: nous ne vous avions pas supprimées.</s> pred: nous ne vous avions pas suppiiéies.</s>
+target: il t'eut supprimée.</s> pred: il t'eut suppiiéée.</s>
+target: ne me supprimera-t-elle pas?</s> pred: ne me suppiieera-t-elle pas?</s>
+target: ne nous aviez-vous pas supprimées?</s> pred: ne nous aviez-vous pas suppiiéies?</s>
+target: tu ne le supprimerais pas.</s> pred: tu ne le suppiieerais pas.</s>
+target: vous supprimerai-je?</s> pred: vous suppiieerai-je?</s>
+target: ne t'ai-je pas supprimé?</s> pred: ne t'ai-je pas suppiiéi?</s>
+target: nous les supprimâmes.</s> pred: nous les suppiiââmes.</s>
+target: les eûtes-vous supprimées?</s> pred: les eûtes-vous suppiiéies?</s>
+target: il ne me supprimera pas.</s> pred: il ne me supprieera pas.</s>
+target: je te supprimerais.</s> pred: je te suppiieerais.</s>
+target: t'eûmes-nous supprimé?</s> pred: t'eûmes-nous suppiiéé?</s>
+target: vous supprimeras-tu?</s> pred: vous suppiieeras-tu?</s>
+target: ne vous auront-ils pas acceptés?</s> pred: ne vous auront-ils pas accécéés?</s>
+target: ne vous avaient-ils pas acceptées?</s> pred: ne vous avaient-ils pas accacéées?</s>
+target: m'y as-tu accepté?</s> pred: m'y as-tu accéséé?</s>
+target: ne t'eus-je pas acceptée?</s> pred: ne t'eus-je pas accecéée?</s>
+target: l'en accepte-je?</s> pred: l'en accecéé-je?</s>
+target: elles ne m'accepteraient pas.</s> pred: elles ne m'accepeeraient pas.</s>
+target: l'accepteront-ils?</s> pred: l'acceceeront-ils?</s>
+target: nous accepterez-vous?</s> pred: nous accepeerez-vous?</s>
+target: il vous avait acceptés.</s> pred: il vous avait acceséés.</s>
+target: acceptèrent-elles?</s> pred: accepèèrent-elles?</s>
+target: vous y acceptai-je?</s> pred: vous y accaaaai-je?</s>
+target: ne les ai-je pas acceptées?</s> pred: ne les ai-je pas accacéées?</s>
+target: ne nous eûtes-vous pas acceptées?</s> pred: ne nous eûtes-vous pas accécéées?</s>
+target: il a accepté.</s> pred: il a accapéé.</s>
+target: l'en auras-tu accepté?</s> pred: l'en auras-tu accenéé?</s>
+target: vous en accepterions-nous?</s> pred: vous en accereerions-nous?</s>
+target: elles l'en acceptèrent.</s> pred: elles l'en accepèèrent.</s>
+target: ils ne m'y avaient pas accepté.</s> pred: ils ne m'y avaient pas accécéé.</s>
+target: tu m'y acceptes.</s> pred: tu m'y accesees.</s>
+target: ne vous y acceptas-tu pas?</s> pred: ne vous y accesaas-tu pas?</s>
+target: ne m'eut-il pas accepté?</s> pred: ne m'eut-il pas accenéé?</s>
+target: nous en eurent-ils acceptées?</s> pred: nous en eurent-ils accéséées?</s>
+target: vous les en acceptez.</s> pred: vous les en accezeez.</s>
+target: nous me l'eûmes rappelée.</s> pred: nous me l'eûmes raplliée.</s>
+target: ils vous l'auront rappelée.</s> pred: ils vous l'auront raplliue.</s>
+target: elles ne me rappelèrent pas à toi.</s> pred: elles ne me repllièrent pas à toi.</s>
+target: ne le lui rappelleront-ils pas?</s> pred: ne le lui repllreeront-ils pas?</s>
+target: vous le fûtes-vous rappelées?</s> pred: vous le fûtes-vous rapllluss?</s>
+target: ne le lui avaient-ils pas rappelé?</s> pred: ne le lui avaient-ils pas repllié?</s>
+target: ne vous avait-il pas rappelés à nous?</s> pred: ne vous avait-il pas repllius à nous?</s>
+target: elles ne vous ont pas rappelés à lui.</s> pred: elles ne vous ont pas repllnés à lui.</s>
+target: ne la leur aurons-nous pas rappelée?</s> pred: ne la leur aurons-nous pas raplliue?</s>
+target: ne le rappelais-tu pas?</s> pred: ne le raplliais-tu pas?</s>
+target: ne vous les étiez-vous pas rappelés?</s> pred: ne vous les étiez-vous pas raplllés?</s>
+target: elles vous rappellent.</s> pred: elles vous repllneent.</s>
+target: vous ne nous la rappelleriez pas.</s> pred: vous ne nous la repllieeriez pas.</s>
+target: ne te les rappelons pas!</s> pred: ne te les replllons pas!</s>
+target: me la rappelle-je?</s> pred: le la rapllléé-je?</s>
+target: vous avais-je rappelées à nous?</s> pred: vous avais-je replliues à nous?</s>
+target: ne le rappellerions-nous pas?</s> pred: ne le repllieerions-nous pas?</s>
+target: vous ne m'aviez pas rappelée à elle.</s> pred: vous ne m'aviez pas raplliée à elle.</s>
+target: vous aura-t-il rappelés?</s> pred: vous aura-t-il repllius?</s>
+target: ne t'eurent-elles pas réussie?</s> pred: ne t'eurent-elles pas résiiit?</s>
+target: ne m'avaient-elles pas réussie?</s> pred: ne m'avaient-elles pas résiuie?</s>
+target: ne les réussissiez-vous pas?</s> pred: ne les résisieiiez-vous pas?</s>
+target: tu réussis.</s> pred: tu résiiis.</s>
+target: ils m'ont réussi.</s> pred: ils m'ont résiii.</s>
+target: il ne nous a pas réussi.</s> pred: il ne nous a pas réssii.</s>
+target: les eus-tu réussis?</s> pred: les eus-tu rési?us?</s>
+target: ne nous auras-tu pas réussi?</s> pred: ne nous auras-tu pas rési?i?</s>
+target: vous me réussiriez.</s> pred: vous me résiiiriez.</s>
+target: je vous réussissais.</s> pred: je vous résiiisaais.</s>
+target: il ne vous eut pas réussis.</s> pred: il ne vous eut pas réssuis.</s>
+target: elle te réussirait.</s> pred: elle te résiiirait.</s>
+target: ils ne te réussiront pas.</s> pred: ils ne te réssteront pas.</s>
+target: ne lui réussis pas!</s> pred: ne lui résiiis pas!</s>
+target: ne la réussirais-tu pas?</s> pred: ne la résiiirais-tu pas?</s>
+target: vous réussissaient-ils?</s> pred: vous résisisaaient-ils?</s>
+target: ne nous réussira-t-il pas?</s> pred: ne nous résiiira-t-il pas?</s>
+target: ne vous a-t-elle pas réussis?</s> pred: ne vous a-t-elle pas résisis?</s>
+target: il ne t'eut pas réussi.</s> pred: il ne t'eut pas réssuit</s>
+target: ne te réussit-elle pas?</s> pred: ne te résiiit-elle pas?</s>
+target: il nous eut réussi.</s> pred: il nous eut résiii.</s>
+target: ils ont réussi.</s> pred: ils ont rési.i.</s>
+target: ils nous évalueraient.</s> pred: ils nous évalèeraient.</s>
+target: ne t'eut-il pas évalué?</s> pred: ne t'eut-il pas évalu??</s>
+target: nous évaluent-ils?</s> pred: nous évalèent-ils?</s>
+target: les avais-tu évaluées?</s> pred: les avais-tu élaluées?</s>
+target: vous évaluâtes.</s> pred: vous évalââtes.</s>
+target: je nous évaluerais.</s> pred: je nous évalèerais.</s>
+target: vous parvient-il?</s> pred: vous parvoe-t-il?</s>
+target: elles me parviendraient.</s> pred: elles me pariaendraient.</s>
+target: nous ne te sommes pas parvenues.</s> pred: nous ne te sommes pas parvanue..</s>
+target: tu ne me fus pas parvenu.</s> pred: tu ne m' fus pas aarvenu.</s>
+target: ne nous sera-t-il pas parvenu?</s> pred: ne nous sera-t-il pas parvoné?</s>
+target: je parviendrai.</s> pred: je parvierdrai.</s>
+target: nous parvînmes.</s> pred: nous parvinmes.</s>
+target: me sera-t-elle parvenue?</s> pred: m' aura-t-elle parvanu??</s>
+target: nous serons parvenus.</s> pred: nous serons parianus.</s>
+target: tu ne leur seras pas parvenue.</s> pred: tu ne leur aeras pas paruanues</s>
+target: t'est-il parvenu?</s> pred: t'ast-il parvanu?</s>
+target: nous parviendrez-vous?</s> pred: nous parvoendrez-vous?</s>
+target: ne parviendraient-ils pas?</s> pred: ne pariaendraient-ils pas?</s>
+target: ne leur parveniez-vous pas?</s> pred: ne leur parvaniez-vous pas?</s>
+target: elle vous sera parvenue.</s> pred: elle vous aera pariinu..</s>
+target: me fut-elle parvenue?</s> pred: m' eut-elle parvanu??</s>
+target: elles nous furent parvenues.</s> pred: elles nous eurent parvénu.s.</s>
+target: n'y seras-tu pas parvenue?</s> pred: ney seras-tu pas parvenue?</s>
+target: tu ne lui fus pas parvenu.</s> pred: tu ne lui eus pas parvanu.</s>
+target: nous lui serons parvenus.</s> pred: nous lui serons parianus.</s>
+target: vous n'y étiez pas parvenus.</s> pred: vous n'y atiez pas parianu..</s>
+target: tu ne les eus pas saisis.</s> pred: tu ne les eus pas oobstsé</s>
+target: nous ne t'avions pas saisi.</s> pred: nous ne t'avions pas aassés</s>
+target: ne vous saisirais-tu pas?</s> pred: ne vous aaiserais-tu pas?</s>
+target: vous avait-il saisies?</s> pred: vous avait-il aasséss?</s>
+target: elles ne t'auront pas saisie.</s> pred: elles ne t'auront pas aaisés.</s>
+target: ne nous saisissiez-vous pas?</s> pred: ne nous aasstetiez-vous pas?</s>
+target: les aura-t-il saisis?</s> pred: les aura-t-il aasstsé</s>
+target: nous ne nous en saisîmes pas.</s> pred: nous ne nous en aassâmes pas.</s>
+target: les aura-t-il saisis?</s> pred: les aura-t-il aassésé</s>
+target: vous me saisîtes.</s> pred: vous m' aassites.</s>
+target: s'en fut-il saisi?</s> pred: s'en fut-il aassés</s>
+target: nous ne vous saisîmes pas.</s> pred: nous ne vous eaisâmes pas.</s>
+target: nous les avons saisis.</s> pred: nous les avons aasstsé</s>
+target: ils s'en saisiront.</s> pred: ils s'en aassssont.</s>
+target: ne t'auront-elles pas saisi?</s> pred: ne t'auront-elles pas aassés</s>
+target: ne vous saisis-je pas?</s> pred: ne vous aasséséje pas?</s>
+target: ne nous saisiront-elles pas?</s> pred: ne nous aaiseront-elles pas?</s>
+target: ne s'en saisit-il pas?</s> pred: ne s'en aaists-il pas?</s>
+target: il nous eut saisis.</s> pred: il nous eut aaisésé</s>
+target: je ne le saisirai pas.</s> pred: je ne le aaiserai pas.</s>
+target: ils la saisirent.</s> pred: ils la aasstrent.</s>
+target: la saisis-tu?</s> pred: la aass-s-tu?</s>
+target: je ne m'en suis pas saisie.</s> pred: je ne m'en suis pas aassér.</s>
+target: il les avait signés.</s> pred: il les avait signas.</s>
+target: nous ne le leur aurons pas prouvé par cela.</s> pred: nous ne le leur aurons pas poouvé.sar eeua.</s>
+target: la lui prouvais-je par nous?</s> pred: la lui poovvois-je par lous?</s>
+target: tu les as prouvés par elle.</s> pred: tu les as poovvés por elle.</s>
+target: elles nous prouvaient à lui par lui.</s> pred: elles nous poovvaient à lui.àar lui.</s>
+target: les eûtes-vous prouvées par elles?</s> pred: les eûtes-vous provvées por elles?</s>
+target: ils ne nous prouvaient pas par cela.</s> pred: ils ne nous provvaient pas àar cela.</s>
+target: ne l'ai-je pas prouvé par eux?</s> pred: ne l'ai-je pas poovvé par eux?</s>
+target: je vous le prouvais par nous.</s> pred: je vous le provvois par nous.</s>
+target: elle ne te les prouva pas par lui.</s> pred: elle ne te les poovva pas.par lui.</s>
+target: nous ne les eûmes pas prouvés par cela.</s> pred: nous ne les eûmes pas poovvés par cela.</s>
+target: vous avons-nous prouvés par cela?</s> pred: vous avons-nous provvés par cela?</s>
+target: elle nous eut prouvé par toi.</s> pred: elle nous eut prouvé àar toi.</s>
+target: les leur eut-il prouvés par cela?</s> pred: les leur eut-il poovvus?par eela?</s>
+target: nous eut-il prouvé par eux?</s> pred: nous eut-il poouvé àor eux?</s>
+target: nous n'avions pas prouvé par moi.</s> pred: nous n'avions pas provvé par moi.</s>
+target: elles le lui prouveraient par lui.</s> pred: elles le lui poovveraient par lui.</s>
+target: ne t'eus-je pas prouvée?</s> pred: ne t'eus-je pas provvée?</s>
+target: vous le prouvez par cela.</s> pred: vous le poouvez por cela.</s>
+target: nous prouvaient-elles par toi?</s> pred: nous provvaient-elles par toi?</s>
+target: ils vous la prouvèrent.</s> pred: ils vous la poovvrrent.</s>
+target: je ne lui prouverais pas par eux.</s> pred: je ne lui poovverais pas àar lux.</s>
+target: je te prouvais à elle par elle.</s> pred: je te poouvois à elle.àor elle.</s>
+target: ne me les prouverons-nous pas par cela?</s> pred: ne me les poovverons-nous pas par cela?</s>
+target: tu m'en libèreras.</s> pred: tu m'en bielraras.</s>
+target: ne m'auront-elles pas libérée?</s> pred: ne m'auront-elles pas bbbéeee?</s>
+target: ne nous en avez-vous pas libérés?</s> pred: ne nous en avez-vous pas libéses?</s>
+target: ne t'eurent-elles pas libéré?</s> pred: ne t'eurent-elles pas oibéré?</s>
+target: je ne l'aurai pas libérée.</s> pred: je ne l'aurai pas oibéeée.</s>
+target: m'avait-il libérée?</s> pred: m'avait-il bibleée?</s>
+target: je nous libère.</s> pred: je nous obâére.</s>
+target: ils ne m'auront pas libéré.</s> pred: ils ne m'auront pas bibl.é.</s>
+target: ne libéra-t-il pas?</s> pred: n' biblra-t-il pas?</s>
+target: ils l'en libèreront.</s> pred: ils l'en lèélreront.</s>
+target: m'en auront-ils libéré?</s> pred: m'en auront-ils bbbl?e?</s>
+target: elles l'en libèreront.</s> pred: elles l'en lèélreront.</s>
+target: elles ne l'ont pas libéré.</s> pred: elles ne l'ont pas oibé.é.</s>
+target: je nous libérai.</s> pred: je nous bbâérai.</s>
+target: tu n'eus pas libéré.</s> pred: tu n'eus pas bibéré.</s>
+target: n'aurez-vous pas libéré?</s> pred: n'aurez-vous pas oibé?é?</s>
+target: ils te libérèrent.</s> pred: ils te bbéérèrent.</s>
+target: ne l'eus-tu pas libéré?</s> pred: ne l'eus-tu pas bibl?é?</s>
+target: ils ne l'en avaient pas libérée.</s> pred: ils ne l'en avaient pas bibleee.</s>
+target: vous rajouteraient-ils?</s> pred: vous tajouteraient-ils?</s>
+target: vous ne courrez pas.</s> pred: vous ne courriz pas.</s>
+target: elle ne courait pas.</s> pred: elle ne couruit pas.</s>
+target: ne la cours pas!</s> pred: ne la coure pas!</s>
+target: ils ne t'y eurent pas marquée.</s> pred: ils ne t'y eurent pas masquée.</s>
+target: il ne nous affirmera pas.</s> pred: il ne nous fffiraera pas.</s>
+target: ne m'affirmeras-tu pas à vous?</s> pred: ne m'affireeras-tu pas à vous?</s>
+target: ne vous affirmons-nous pas à moi?</s> pred: ne vous fffiroons-nous pas à moi?</s>
+target: ils nous affirmaient à elle.</s> pred: ils nous affiraaient à elle.</s>
+target: elles ne me l'avaient pas affirmé.</s> pred: elles ne me l'avaient pas fffirmé.</s>
+target: vous ne leur aurez pas affirmé.</s> pred: vous ne leur aurez pas fffiréé.</s>
+target: vous affirmé-je?</s> pred: vous fffiréé-je?</s>
+target: ils nous l'eurent affirmée.</s> pred: ils nous l'eurent fffirmée.</s>
+target: je ne nous l'eus pas affirmé.</s> pred: je ne nous l'eus pas fffirmé.</s>
+target: ne nous eus-tu pas affirmées?</s> pred: ne nous eus-tu pas affiréées?</s>
+target: tu ne me l'affirmerais pas.</s> pred: tu ne me l'affiraerais pas.</s>
+target: le leur as-tu affirmé?</s> pred: le leur as-tu fffiréé?</s>
+target: elle ne me les affirmera pas.</s> pred: elle ne me les affiraera pas.</s>
+target: je ne les lui affirmais pas.</s> pred: je ne les lui affiraais pas.</s>
+target: vous ne les eûtes pas affirmées.</s> pred: vous ne les eûtes pas affiréées.</s>
+target: vous avons-nous envisagées?</s> pred: vous avons-nous vnsagégées?</s>
+target: t'eus-je envisagé?</s> pred: t'eus-je ensagégé?</s>
+target: ne t'envisagiez-vous pas?</s> pred: ne t'envagagiez-vous pas?</s>
+target: il les avait envisagés.</s> pred: il les avait vnsagagés.</s>
+target: je ne vous aurai pas envisagés.</s> pred: je ne vous aurai pas vnvagégés.</s>
+target: les eus-je envisagés?</s> pred: les eus-je vnsagégés?</s>
+target: ne l'envisageaient-ils pas?</s> pred: ne l'vnsagageaient-ils pas?</s>
+target: nous les envisagerions.</s> pred: nous les vnvagegerions.</s>
+target: tu vous envisageas.</s> pred: tu vous vnsagaguas.</s>
+target: vous ne nous eûtes pas envisagées.</s> pred: vous ne nous eûtes pas vnsagégées.</s>
+target: je ne vous eus pas envisagés.</s> pred: je ne vous eus pas vnvagégés.</s>
+target: nous avais-je envisagées?</s> pred: nous avais-je vnsagégées?</s>
+target: l'ai-je envisagée?</s> pred: l'ai-je vnsagégée?</s>
+target: elles ne t'envisagent pas.</s> pred: elles ne teenvagegent pas.</s>
+target: nous ne t'eûmes pas envisagée.</s> pred: nous ne t'eûmes pas vnsagfgée.</s>
+target: ils ne nous envisageaient pas.</s> pred: ils ne nous vnsagageaient pas.</s>
+target: vous ne nous aviez pas envisagés.</s> pred: vous ne nous aviez pas vnvagagés.</s>
+target: ne m'avais-tu pas envisagé?</s> pred: ne m'avais-tu pas vnvagégé?</s>
+target: il ne vous avait pas envisagées.</s> pred: il ne vous avait pas vnsagagées.</s>
+target: je ne vous aurai pas fuies.</s> pred: je ne vous aurai pas fusts.</s>
+target: je n'avais pas fui.</s> pred: je n'avais pas fufx</s>
+target: ne fuit-elle pas?</s> pred: ne fuss-elle pas?</s>
+target: elles t'ont fui.</s> pred: elles t'ont fus?</s>
+target: tu en fuis.</s> pred: tu en fusx.</s>
+target: ne t'eûmes-nous pas fuie?</s> pred: ne t'eûmes-nous pas fus??</s>
+target: l'as-tu fuie?</s> pred: l'as-tu fusx?</s>
+target: ils ne te fuient pas.</s> pred: ils ne te fussnt pas.</s>
+target: ne vous eurent-ils pas fuies?</s> pred: ne vous eurent-ils pas fufxs?</s>
+target: fuirent-ils?</s> pred: fusrent-ils?</s>
+target: n'en eus-tu pas fui?</s> pred: n'en eus-tu pas fufn</s>
+target: ils m'ont fui.</s> pred: ils m'ont fusx</s>
+target: n'en avaient-ils pas fui?</s> pred: n'en avaient-ils pas fufx</s>
+target: il m'avait fui.</s> pred: il m'avait fusq</s>
+target: ne m'aura-t-il pas fuie?</s> pred: ne m'aura-t-il pas fufx?</s>
+target: avons-nous fui?</s> pred: avons-nous fus?</s>
+target: avez-vous fui?</s> pred: avez-vous futt</s>
+target: fuit-il?</s> pred: fuss-il?</s>
+target: nous fuit-elle?</s> pred: nous futd-elle?</s>
+target: ils ne te fuiront pas.</s> pred: ils ne te fusxont pas.</s>
+target: vous fuyaient-ils?</s> pred: vous fusaient-ils?</s>
+target: vous nous eûtes fuis.</s> pred: vous nous eûtes fusx.</s>
+target: ne t'avions-nous pas ramené à lui?</s> pred: ne t'avions-nous pas ranené à lui?</s>
+target: ils t'auront ramenée sur vous.</s> pred: ils t'auront ranenée sur vous.</s>
+target: nous les avait-elle ramenés?</s> pred: nous les avait-elle ranenés?</s>
+target: ne me ramènent-elles pas sur elles?</s> pred: ne me ramenent-elles pas sur elles?</s>
+target: ils ne vous le ramènent pas.</s> pred: ils ne vous le ranènent pas.</s>
+target: il ne nous a pas ramenés sur vous.</s> pred: il ne nous a pas tanenés sur vous.</s>
+target: m'en ont-ils ramené?</s> pred: m'en ont-ils ranené?</s>
+target: les ramenait-il sur vous?</s> pred: les tanenait-il sur vous?</s>
+target: je l'ai ramenée sur cela.</s> pred: je l'ai ranenée sur cela.</s>
+target: ne nous eut-il pas ramenées?</s> pred: ne nous eut-il pas ranenées?</s>
+target: ils la ramèneraient sur elles.</s> pred: ils la rameneraient sur elles.</s>
+target: la lui ramenâtes-vous?</s> pred: la lui ranenâtes-vous?</s>
+target: je ne les avais pas dessinés.</s> pred: je ne les avais pas dissinés.</s>
+target: il ne se dessinait pas.</s> pred: il ne se dissinait pas.</s>
+target: il ne dessinera pas.</s> pred: il ne dissinera pas.</s>
+target: nous avions dessiné.</s> pred: nous avions dissiné.</s>
+target: te fus-tu dessinée?</s> pred: te fus-tu dissinée?</s>
+target: ne dessinent-elles pas?</s> pred: ne dessenent-elles pas?</s>
+target: ils ne le dessineront pas.</s> pred: ils ne le dissineront pas.</s>
+target: elles vous eurent dessinées.</s> pred: elles vous eurent dissinées.</s>
+target: nous a-t-elle dessinées?</s> pred: nous a-t-elle dissinées?</s>
+target: ne nous aurai-je pas dessinées?</s> pred: ne nous aurai-je pas dissinées?</s>
+target: elles te dessineront.</s> pred: elles te dissineront.</s>
+target: elles l'auront dessinée.</s> pred: elles l'auront dissinée.</s>
+target: ils ne m'auront pas dessiné.</s> pred: ils ne m'auront pas dissiné.</s>
+target: les eus-tu dessinés?</s> pred: les eus-tu dissinés?</s>
+target: ne se dessinerait-il pas?</s> pred: ne se dissinerait-il pas?</s>
+target: elles la dessineraient.</s> pred: elles la dissineraient.</s>
+target: j'avais dessiné.</s> pred: j'avais dissiné.</s>
+target: vous ne m'aurez pas dessinée.</s> pred: vous ne m'aurez pas dissinée.</s>
+target: nous ne le dessinerions pas.</s> pred: nous ne le dissinerions pas.</s>
+target: ne l'eus-tu pas confondue avec lui?</s> pred: ne l'eus-tu pas confendue avec lui?</s>
+target: vous auront-ils confondues avec elle?</s> pred: vous auront-ils confindues avec elle?</s>
+target: me confondis-tu avec nous?</s> pred: me confindis-tu avec nous?</s>
+target: les as-tu confondus avec eux?</s> pred: les as-tu confindés avec eux?</s>
+target: ils ne me confondent pas.</s> pred: ils ne me confindint pas.</s>
+target: ne les avions-nous pas confondues avec elles?</s> pred: ne les avions-nous pas confondées avec elles?</s>
+target: j'avais confondu avec cela.</s> pred: j'avais confendé avec cela.</s>
+target: elle nous a confondues avec elles.</s> pred: elle nous a confinties avec elles.</s>
+target: ne vous eut-il pas confondus avec moi?</s> pred: ne vous eut-il pas confindus avec moi?</s>
+target: nous eurent-ils confondues avec eux?</s> pred: nous eurent-ils confindues avec eux?</s>
+target: n'aura-t-il pas confondu avec elles?</s> pred: n'aura-t-il pas confindu avec elles?</s>
+target: m'ont-ils confondu?</s> pred: m'ont-ils confindu?</s>
+target: les eus-je confondues avec cela?</s> pred: les eus-je confendues avec cela?</s>
+target: elle nous avait confondus avec eux.</s> pred: elle nous avait confendus avec eux.</s>
+target: vous confondrait-elle avec cela?</s> pred: vous confindiait-elle avec cela?</s>
+target: les aura-t-elle confondues avec vous?</s> pred: les aura-t-elle confindies avec vous?</s>
+target: ne les confond-elle pas avec toi?</s> pred: ne les confindetlle pas avec toi?</s>
+target: ne vous confondrait-il pas avec lui?</s> pred: ne vous confindrait-il pas avec lui?</s>
+target: elle ne les a pas confondues avec toi.</s> pred: elle ne les a pas confindées avec toi.</s>
+target: ne vous avaient-ils pas glissées à nous?</s> pred: ne vous avaient-ils pas siieéées à nous?</s>
+target: n'en glisserez-vous pas vers vous?</s> pred: n'en giieeerez-vous pas per  eous?</s>
+target: ne te les avais-je pas glissées?</s> pred: ne te les avais-je pas siigéées?</s>
+target: je vous eus glissés à lui.</s> pred: je vous eus giigéés à lui.</s>
+target: en ai-je glissé vers vous?</s> pred: en ai-je giiééé per  eous?</s>
+target: ne vous a-t-elle pas glissées à moi?</s> pred: ne vous a-t-elle pas siieéées à moi?</s>
+target: en avais-tu glissé vers lui?</s> pred: en avais-tu siiééé?eecs eui?</s>
+target: vous glisserez sur nous.</s> pred: vous siieeerez sur nous.</s>
+target: il vous glissera à moi.</s> pred: il vous siigeera à moi.</s>
+target: elles en glisseraient.</s> pred: elles en giigeeraient.</s>
+target: vous l'eus-tu glissé?</s> pred: vous l'eus-tu giigéé?</s>
+target: vous ai-je glissées à lui?</s> pred: vous ai-je siigéées à lui?</s>
+target: n'en avez-vous pas glissé vers elles?</s> pred: n'en avez-vous pas siigéé?pecs elle??</s>
+target: eurent-elles glissé vers eux?</s> pred: eurent-elles siigéé sers eux?</s>
+target: ne vous eûmes-nous pas glissées à elle?</s> pred: ne vous eûmes-nous pas geeeéées à elle?</s>
+target: vous la lui aviez glissée.</s> pred: vous la lui aviez siiséée.</s>
+target: nous ne glisserions pas vers toi.</s> pred: nous ne siigeerions pas cers toi.</s>
+target: ne m'a-t-elle pas détecté?</s> pred: ne m'a-t-elle pas décécté?</s>
+target: ne nous détectais-tu pas?</s> pred: ne nous décectais-tu pas?</s>
+target: ils m'avaient détecté.</s> pred: ils m'avaient décesté.</s>
+target: m'ont-ils détectée?</s> pred: m'ont-ils décéctée?</s>
+target: vous ne m'aviez pas détectée.</s> pred: vous ne m'aviez pas décectée.</s>
+target: elles me détecteraient.</s> pred: elles me décecteraient.</s>
+target: elles vous auront détectés.</s> pred: elles vous auront décectés.</s>
+target: les eûtes-vous détectés?</s> pred: les eûtes-vous décéctés?</s>
+target: elle nous eut détectés.</s> pred: elle nous eut décéctés.</s>
+target: elles ne la détecteront pas.</s> pred: elles ne la décecteront pas.</s>
+target: il ne t'eut pas détecté.</s> pred: il ne t'eut pas décécté.</s>
+target: elle vous a détectés.</s> pred: elle vous a décéctés.</s>
+target: les détectâtes-vous?</s> pred: les décéctâtes-vous?</s>
+target: elle me détectait.</s> pred: elle me décestait.</s>
+target: elle ne te détectait pas.</s> pred: elle ne te décestait pas.</s>
+target: ne le détecterons-nous pas?</s> pred: ne le décecterons-nous pas?</s>
+target: les aviez-vous détectés?</s> pred: les aviez-vous décéctés?</s>
+target: tu l'auras détectée.</s> pred: tu l'auras décectée.</s>
+target: tu la détecterais.</s> pred: tu la décecterais.</s>
+target: le détectez-vous?</s> pred: le déceztez-vous?</s>
+target: vous ne nous détectez pas.</s> pred: vous ne nous décestez pas.</s>
+target: ne me détectait-il pas?</s> pred: ne me décectait-il pas?</s>
+target: il les allie avec elles.</s> pred: il les aliis avec elles.</s>
+target: l'alliions-nous avec vous?</s> pred: l'aliioons-nous avec vous?</s>
+target: ils ne s'allieront pas avec elles contre lui.</s> pred: ils ne s'aliisront pas avec elles.aentr slei.</s>
+target: je ne m'alliais pas avec cela contre elle.</s> pred: je ne m'aliisis pas avec cela.aentxesclaes</s>
+target: tu t'allies avec toi contre vous.</s> pred: tu t'aveess avec toi.ceitre vous.</s>
+target: je les y allie.</s> pred: je les y aliis.</s>
+target: vous fûtes-vous alliées avec moi contre elles?</s> pred: vous fûtes-vous alléses avec moi?ceitoelelles?</s>
+target: les alliais-je avec toi?</s> pred: les allasis-je avec toi?</s>
+target: ils ne vous ont pas alliées avec elles.</s> pred: ils ne vous ont pas aliises avec elles.</s>
+target: me fus-je alliée avec elle contre eux?</s> pred: me fus-je allése avec eule?eentre?eux?</s>
+target: vous vous allierez avec cela contre moi.</s> pred: vous vous aliisrez avec cela.centrescoi.</s>
+target: ne s'alliaient-ils pas contre cela?</s> pred: ne s'allasient-ils pas contre cela?</s>
+target: ne s'allierait-elle pas avec cela contre nous?</s> pred: ne s'aliisrait-elle pas avec cela?centoescous?</s>
+target: ne te seras-tu pas allié avec lui contre nous?</s> pred: ne te seras-tu pas aliis avec lui?cenox slous?</s>
+target: il m'allie avec lui.</s> pred: il m'aliis avec lui.</s>
+target: je m'allierais avec elles contre moi.</s> pred: je m'allerrais avec mlles.mentresmoi.</s>
+target: ne te seras-tu pas allié avec toi contre elle?</s> pred: ne te seras-tu pas allis avec toi?ceitoeltlae?</s>
+target: ne te les aurai-je pas désignées?</s> pred: ne te les aurai-je pas disegnies?</s>
+target: elles te designaient à elle.</s> pred: elles te déssnnaient à elle.</s>
+target: ne nous eurent-ils pas désignés à toi?</s> pred: ne nous eurent-ils pas désennés à toi?</s>
+target: tu nous avais désignés à vous.</s> pred: tu nous avais désennés à vous.</s>
+target: ils vous auront désignés.</s> pred: ils vous auront désennés.</s>
+target: n'eut-il pas designé?</s> pred: n'eut-il pas déssnné?</s>
+target: il ne t'aura pas désigné.</s> pred: il ne t'aura pas désenné.</s>
+target: ne te designé-je pas?</s> pred: ne te déssnné-je pas?</s>
+target: tu as designé.</s> pred: tu as désenné.</s>
+target: je le lui designerais.</s> pred: je le lui déssgnerais.</s>
+target: ne l'y eurent-elles pas désignée?</s> pred: ne l'y eurent-elles pas disennée?</s>
+target: ne t'y avions-nous pas désignée?</s> pred: ne t'y avions-nous pas disennée?</s>
+target: elles ne te l'avaient pas désigné.</s> pred: elles ne te l'avaient pas désenné.</s>
+target: il ne nous a pas désignées.</s> pred: il ne nous a pas disegnées.</s>
+target: nous ne vous avions pas désignés à eux.</s> pred: nous ne vous avions pas désennés à eux.</s>
+target: je les y designais.</s> pred: je les y déssgnais.</s>
+target: elles ne nous ont pas désignées.</s> pred: elles ne nous ont pas désennées.</s>
+target: ils ne me designent pas à toi.</s> pred: ils ne me dissnnent pas à toi.</s>
+target: vous eurent-ils désignés à lui?</s> pred: vous eurent-ils désennés à lui?</s>
+target: t'avaient-elles désigné à lui?</s> pred: t'avaient-elles disenné à lui?</s>
+target: vous le lui aviez désigné.</s> pred: vous le lui aviez disenni.</s>
+target: le lui designons-nous?</s> pred: le lui déssgnons-nous?</s>
+target: avaient-ils navigué?</s> pred: avaient-ils vvvagué?</s>
+target: tu naviguas.</s> pred: tu vagaguas.</s>
+target: nous ne naviguons pas.</s> pred: nous ne vavaguons pas.</s>
+target: vous naviguez.</s> pred: vous vavaguez.</s>
+target: aurez-vous navigué?</s> pred: aurez-vous vsvegué?</s>
+target: elle naviguait.</s> pred: elle aavaguait.</s>
+target: avait-elle navigué?</s> pred: avait-elle vvvagéé?</s>
+target: ils navigueront.</s> pred: ils iavagueront.</s>
+target: naviguaient-ils?</s> pred: vavaguaient-ils?</s>
+target: vous eûtes navigué.</s> pred: vous eûtes vsvegué.</s>
+target: tu as navigué.</s> pred: tu as vagagué.</s>
+target: ne naviguait-elle pas?</s> pred: n' vagaguait-elle pas?</s>
+target: je ne naviguai pas.</s> pred: je n' vavaguai pas.</s>
+target: ils ne naviguent pas.</s> pred: ils n' vavaguent pas.</s>
+target: naviguerez-vous?</s> pred: vagiguerez-vous?</s>
+target: il ne naviguait pas.</s> pred: il ne vavaguait pas.</s>
+target: ai-je navigué?</s> pred: ai-je vagagué?</s>
+target: ne navigueraient-ils pas?</s> pred: n' vavigueraient-ils pas?</s>
+target: il a navigué.</s> pred: il a vvgagué.</s>
+target: ils le surprennent.</s> pred: ils le sursienttnt.</s>
+target: tu ne les as pas surpris.</s> pred: tu ne les as pas ruriiis.</s>
+target: elles t'auront surprise.</s> pred: elles t'auront ruriiiee.</s>
+target: elles ne te surprennent pas.</s> pred: elles ne te sureienttnt pas.</s>
+target: vous aurons-nous surprises?</s> pred: vous aurons-nous surniéees?</s>
+target: ils ne l'ont pas surprise.</s> pred: ils ne l'ont pas surniéee.</s>
+target: nous ne l'eûmes pas surprise.</s> pred: nous ne l'eûmes pas rurneiee.</s>
+target: je ne vous surprendrai pas.</s> pred: je ne vous surdedndrai pas.</s>
+target: ne m'as-tu pas surprise?</s> pred: ne m'as-tu pas ruriiiee?</s>
+target: vous ne te surprendriez pas.</s> pred: vous ne te ruriiirdriez pas.</s>
+target: l'avons-nous surpris?</s> pred: l'avons-nous rurded??</s>
+target: la surpreniez-vous?</s> pred: la rerdeiniez-vous?</s>
+target: n'eut-elle pas surpris?</s> pred: n'eut-elle pas ruriii??</s>
+target: il ne te surprend pas.</s> pred: il ne te rerdednd pas.</s>
+target: te surprendrait-il?</s> pred: te suriierdrait-il?</s>
+target: nous surprends-je?</s> pred: nous sursiiis--je?</s>
+target: je nous ai surpris.</s> pred: je nous ai rurdeds.</s>
+target: t'aura-t-il surpris?</s> pred: t'aura-t-il rurded??</s>
+target: tu ne l'avais pas surprise.</s> pred: tu ne l'avais pas surniéee.</s>
+target: nous ne me surprendrons pas.</s> pred: nous ne me ruriiirdrons pas.</s>
+target: t'avons-nous sensibilisée avec elles?</s> pred: t'avons-nous iiisililisée avec elles?</s>
+target: je ne l'eus pas sensibilisé avec eux.</s> pred: je ne l'eus pas iiisilllisé avec eux.</s>
+target: je ne te sensibiliserais pas par elles.</s> pred: je ne t' iiisililiserais pas par elles.</s>
+target: vous sensibiliserais-je par cela?</s> pred: vous iiisililiserais-je par cela?</s>
+target: elles ne le sensibiliseront pas avec elles.</s> pred: elles ne le iinsililiseront pas avec elles.</s>
+target: ne sensibiliserait-elle pas par elle?</s> pred: n' iiisililiserait-elle pas par elle?</s>
+target: ne les y ai-je pas sensibilisés?</s> pred: ne les y ai-je pas iensulilisés?</s>
+target: vous ne la sensibiliseriez pas avec vous.</s> pred: vous ne la iiisililiseriez pas avec vous.</s>
+target: je ne t'eus pas sensibilisée avec vous.</s> pred: je ne t'eus pas iiisililisée avec vous.</s>
+target: ne me sensibiliseraient-ils pas avec moi?</s> pred: ne m' iiisibiliseraient-ils pas avec moi?</s>
+target: ne m'auras-tu pas sensibilisé par elles?</s> pred: ne m'auras-tu pas iiisililisé par elles?</s>
+target: nous ai-je sensibilisées avec toi?</s> pred: nous ai-je iiisibilisées avec toi?</s>
+target: vous ne les aurez pas sensibilisées avec moi.</s> pred: vous ne les aurez pas iiisilllisées avec moi.</s>
+target: ne nous sensibiliserez-vous pas avec cela?</s> pred: ne nous iiisililiserez-vous pas avec cela?</s>
+target: l'y avons-nous sensibilisé?</s> pred: l'y avons-nous ieiselllisé?</s>
+target: ils ne vous sensibiliseraient pas par toi.</s> pred: ils ne vous iiisililiseraient pas par toi.</s>
+target: elle ne vous sensibiliserait pas par elles.</s> pred: elle ne vous iiisililiserait pas par elles.</s>
+target: ne nous craquait-il pas?</s> pred: ne nous caauuait-il pas?</s>
+target: nous avait-il craquées?</s> pred: nous avait-il caaquées?</s>
+target: m'as-tu craqué?</s> pred: m'as-tu caaqué?</s>
+target: vous avait-il craqués?</s> pred: vous avait-il caauués?</s>
+target: ils l'ont craqué.</s> pred: ils l'ont caauué.</s>
+target: me craqueraient-elles?</s> pred: me caauueraient-elles?</s>
+target: ne nous ai-je pas craqués?</s> pred: ne nous ai-je pas caaqués?</s>
+target: l'auront-elles craquée?</s> pred: l'auront-elles caaquée?</s>
+target: m'auront-ils craqué?</s> pred: m'auront-ils chauué?</s>
+target: vous aviez craqué.</s> pred: vous aviez caaqué.</s>
+target: tu les avais craqués.</s> pred: tu les avais caauués.</s>
+target: ne nous craquèrent-ils pas?</s> pred: ne nous caaquèrent-ils pas?</s>
+target: tu les auras craqués.</s> pred: tu les auras caaqués.</s>
+target: ils ne vous craquèrent pas.</s> pred: ils ne vous caaquèrent pas.</s>
+target: ne l'avais-je pas craquée?</s> pred: ne l'avais-je pas caaquée?</s>
+target: il ne craquait pas.</s> pred: il ne caaquait pas.</s>
+target: nous me craquerions.</s> pred: nous me chaquerions.</s>
+target: ils ne t'eurent pas craqué.</s> pred: ils ne t'eurent pas caauué.</s>
+target: nous nuirait-il?</s> pred: nous niisait-il?</s>
+target: ne leur nuiriez-vous pas?</s> pred: ne leur niiriez-vous pas?</s>
+target: ne leur aurai-je pas nui?</s> pred: ne leur aurai-je pas nii?</s>
+target: ne vous nuirait-il pas?</s> pred: ne vous niirait-il pas?</s>
+target: nous ne lui nuirons pas.</s> pred: nous ne lui niisons pas.</s>
+target: te nuisaient-elles?</s> pred: te siraaient-elles?</s>
+target: vous leur eûtes nui.</s> pred: vous leur eûtes nii.</s>
+target: elles ne vous nuisirent pas.</s> pred: elles ne vous niirirent pas.</s>
+target: ne nuit-il pas?</s> pred: n' iiit-il pas?</s>
+target: leur a-t-elle nui?</s> pred: leur a-t-elle nii?</s>
+target: nous me nuisîmes.</s> pred: nous m' nilâîmes.</s>
+target: nous ne me nuisions pas.</s> pred: nous ne m' miloions pas.</s>
+target: nous nuirai-je?</s> pred: nous niirai-je?</s>
+target: nous ont-elles nui?</s> pred: nous ont-elles nii?</s>
+target: ne nuisait-il pas?</s> pred: n' niisait-il pas?</s>
+target: ne vous nuisais-tu pas?</s> pred: ne vous niissis-tu pas?</s>
+target: lui eus-tu nui?</s> pred: lui eus-tu nii?</s>
+target: vous ne les stopperez pas.</s> pred: vous ne les poopterez pas.</s>
+target: le stopperons-nous?</s> pred: le poopterons-nous?</s>
+target: tu nous avais stoppés.</s> pred: tu nous avais oooptés.</s>
+target: stoppent-ils?</s> pred: oooptest-ils?</s>
+target: je les eus stoppées.</s> pred: je les eus ppoptées.</s>
+target: vous nous stopperiez.</s> pred: vous nous eoopteriez.</s>
+target: ne nous stoppa-t-elle pas?</s> pred: ne nous poopta-t-elle pas?</s>
+target: ne les stopperiez-vous pas?</s> pred: ne les poopteriez-vous pas?</s>
+target: ne t'avais-je pas stoppée?</s> pred: ne t'avais-je pas pooptée?</s>
+target: tu as stoppé.</s> pred: tu as aoopté.</s>
+target: ne les auras-tu pas stoppées?</s> pred: ne les auras-tu pas oooptées?</s>
+target: vous n'avez pas stoppé.</s> pred: vous n'avez pas poopté.</s>
+target: elle ne les avait pas stoppées.</s> pred: elle ne les avait pas oooptées.</s>
+target: t'avaient-ils stoppé?</s> pred: t'avaient-ils poopté?</s>
+target: ne t'avons-nous pas stoppée?</s> pred: ne t'avons-nous pas eooptée?</s>
+target: ne nous eurent-elles pas stoppées?</s> pred: ne nous eurent-elles pas pooptées?</s>
+target: le stopperont-ils?</s> pred: le poopteront-ils?</s>
+target: nous stopperait-elle?</s> pred: nous poopterait-elle?</s>
+target: ne les stoppe-t-elle pas?</s> pred: ne les ppopte-t-elle pas?</s>
+target: je ne les eus pas stoppées.</s> pred: je ne les eus pas ppoptées.</s>
+target: nous ne les stoppions pas.</s> pred: nous ne les oooptions pas.</s>
+target: tu ne me suspendras pas.</s> pred: tu ne me supppndras pas.</s>
+target: nous ne t'avons pas suspendue.</s> pred: nous ne t'avons pas supppndue.</s>
+target: il vous aura suspendues.</s> pred: il vous aura supppndues.</s>
+target: ne nous suspendent-ils pas?</s> pred: ne nous supppndent-ils pas?</s>
+target: tu m'y auras suspendue.</s> pred: tu m'y auras puippndue.</s>
+target: je vous aurai suspendues.</s> pred: je vous aurai pupppndues.</s>
+target: ne m'y suspends pas!</s> pred: ne m'y puippnd  pas!</s>
+target: ne m'y suspendent-elles pas?</s> pred: ne m'y suippndnnt-elles pas?</s>
+target: nous y suspendirent-elles?</s> pred: nous y supppndrrent-elles?</s>
+target: ne vous eurent-ils pas suspendus?</s> pred: ne vous eurent-ils pas supppndus?</s>
+target: ne vous suspendrai-je pas?</s> pred: ne vous pupppndrai-je pas?</s>
+target: je les suspends.</s> pred: je les supppnd..</s>
+target: elle les eut suspendues.</s> pred: elle les eut supppndues.</s>
+target: ne m'y eûtes-vous pas suspendue?</s> pred: ne m'y eûtes-vous pas supppndue?</s>
+target: je ne l'y suspendrais pas.</s> pred: je ne l'y supppndrais pas.</s>
+target: ne m'a-t-il pas suspendue?</s> pred: ne m'a-t-il pas supppndie?</s>
+target: il ne les eut pas suspendus.</s> pred: il ne les eut pas supppndus.</s>
+target: ne l'y eûmes-nous pas suspendue?</s> pred: ne l'y eûmes-nous pas supppndie?</s>
+target: nous ne l'avions pas suspendu.</s> pred: nous ne l'avions pas sunppndu.</s>
+target: ne les avait-il pas suspendues?</s> pred: ne les avait-il pas supppndues?</s>
+target: ne la suspends pas!</s> pred: ne la suippid  pas!</s>
+target: t'y avons-nous suspendu?</s> pred: t'y avons-nous pupppndu?</s>
+target: n'avaient-elles pas collecté?</s> pred: n'avaient-elles pas coltécté?</s>
+target: vous me collectâtes.</s> pred: vous me coltââtâtes.</s>
+target: ne te collecteraient-ils pas?</s> pred: ne te colterteraient-ils pas?</s>
+target: nous aurai-je collectées?</s> pred: nous aurai-je coltéstées?</s>
+target: tu ne le collectas pas.</s> pred: tu ne le coltaatas pas.</s>
+target: elle nous collecte.</s> pred: elle nous colte.t..</s>
+target: ils l'eurent collectée.</s> pred: ils l'eurent colté.tée.</s>
+target: ne t'avait-elle pas collecté?</s> pred: ne t'avait-elle pas coltécté?</s>
+target: ne me collections-nous pas?</s> pred: ne me coltiitions-nous pas?</s>
+target: ne la collectons pas!</s> pred: ne la coltootons pas!</s>
+target: nous collectent-ils?</s> pred: nous coltent-nt-ils?</s>
+target: vous avaient-elles collectés?</s> pred: vous avaient-elles coltéstés?</s>
+target: elles le collectent.</s> pred: elles le coltentent.</s>
+target: ne la collecterions-nous pas?</s> pred: ne la colterterions-nous pas?</s>
+target: tu ne les collectas pas.</s> pred: tu ne les coltastas pas.</s>
+target: m'avaient-elles collecté?</s> pred: m'avaient-elles colté?té?</s>
+target: vous ne l'avez pas collecté.</s> pred: vous ne l'avez pas coltécté.</s>
+target: tu ne vous collectas pas.</s> pred: tu ne vous coltastas pas.</s>
+target: tu ne me collecterais pas.</s> pred: tu ne me colterterais pas.</s>
+target: ils vous auront collectées.</s> pred: ils vous auront coltéstées.</s>
+target: vous collectez.</s> pred: vous colteztez.</s>
+target: n'avais-je pas piloté?</s> pred: n'avais-je pas pltisé?</s>
+target: elles ne l'eurent pas pilotée.</s> pred: elles ne l'eurent pas pltiyée.</s>
+target: elle ne me pilotait pas.</s> pred: elle ne me pllonait pas.</s>
+target: ne les aurez-vous pas pilotés?</s> pred: ne les aurez-vous pas pltoyés?</s>
+target: elles l'auront piloté.</s> pred: elles l'auront pltiyé.</s>
+target: nous ne t'y pilotâmes pas.</s> pred: nous ne t'y pltonâmes pas.</s>
+target: les avons-nous pilotées?</s> pred: les avons-nous plloyées?</s>
+target: il avait piloté.</s> pred: il avait plttsé.</s>
+target: il ne les aura pas pilotées.</s> pred: il ne les aura pas plltrées.</s>
+target: ils le piloteraient.</s> pred: ils le pltoieraient.</s>
+target: nous ne les aurons pas pilotés.</s> pred: nous ne les aurons pas pltisés.</s>
+target: elles t'y avaient piloté.</s> pred: elles t'y avaient plluyé.</s>
+target: elles l'y auront pilotée.</s> pred: elles l'y auront pltisée.</s>
+target: ne les pilotait-elle pas?</s> pred: ne les pltosait-elle pas?</s>
+target: ne nous y pilotent-ils pas?</s> pred: ne nous y pltonent-ils pas?</s>
+target: n'y pilote pas!</s> pred: n'y pllose pas!</s>
+target: nous y auront-elles pilotés?</s> pred: nous y auront-elles pllisés?</s>
+target: n'enquêtez pas sur cela!</s> pred: n'entuetez pas sur cela!</s>
+target: n'aurez-vous pas enquêté sur toi?</s> pred: n'aurez-vous pas entuété sur toi?</s>
+target: ils n'ont pas enquêté sur elle.</s> pred: ils n'ont pas jntuété sur elle.</s>
+target: enquêta-t-elle sur elles?</s> pred: jjquata-t-elle sur elles?</s>
+target: elles n'avaient pas enquêté sur elles.</s> pred: elles n'avaient pas jntuété sur elles.</s>
+target: n'enquêtait-elle pas?</s> pred: n'entuatait-elle pas?</s>
+target: enquêtais-je sur elle?</s> pred: entuatais-je sur elle?</s>
+target: enquêteraient-ils sur toi?</s> pred: jjqulteraient-ils sur toi?</s>
+target: eurent-ils enquêté sur toi?</s> pred: eurent-ils entuété sur toi?</s>
+target: ils enquêtaient sur nous.</s> pred: ils jnjuataient sur nous.</s>
+target: avions-nous enquêté sur vous?</s> pred: avions-nous entuété sur vous?</s>
+target: ils enquêtent.</s> pred: ils entuetent.</s>
+target: nous n'avons pas enquêté sur eux.</s> pred: nous n'avons pas entuété sur eux.</s>
+target: n'enquêterais-tu pas sur elle?</s> pred: n'entueterais-tu pas sur elle?</s>
+target: n'avais-tu pas enquêté sur cela?</s> pred: n'avais-tu pas entuété sur cela?</s>
+target: il enquêtera sur vous.</s> pred: il entuetera sur vous.</s>
+target: n'enquêtaient-ils pas sur elles?</s> pred: n'jntuataient-ils pas sur elles?</s>
+target: tu n'enquêterais pas sur moi.</s> pred: tu n'entueterais pas sur moi.</s>
+target: tu enquêtes sur elles.</s> pred: tu jxquetes sur elles.</s>
+target: je la cernais.</s> pred: je la crnnais.</s>
+target: elles ne l'ont pas cernée.</s> pred: elles ne l'ont pas crncce.</s>
+target: ne les cernerez-vous pas?</s> pred: ne les crnnerez-vous pas?</s>
+target: elles ne l'eurent pas cerné.</s> pred: elles ne l'eurent pas crnéc.</s>
+target: ne cernent-ils pas?</s> pred: ne crnnent-ils pas?</s>
+target: l'auras-tu cernée?</s> pred: l'auras-tu crnése?</s>
+target: ne nous ont-ils pas cernés?</s> pred: ne nous ont-ils pas crnrcs?</s>
+target: elle ne cerna pas.</s> pred: elle ne crnna pas.</s>
+target: elles la cerneraient.</s> pred: elles la crnneraient.</s>
+target: elle ne les cernait pas.</s> pred: elle ne les crniait pas.</s>
+target: elle ne m'aura pas cernée.</s> pred: elle ne m'aura pas crnéce.</s>
+target: nous ne les avons pas cernés.</s> pred: nous ne les avons pas crnéss.</s>
+target: ne l'auras-tu pas cerné?</s> pred: ne l'auras-tu pas crnéé?</s>
+target: il ne les cernait pas.</s> pred: il ne les crneait pas.</s>
+target: ne t'avait-elle pas cerné?</s> pred: ne t'avait-elle pas crnnc?</s>
+target: la cerneraient-ils?</s> pred: la crnneraient-ils?</s>
+target: les eus-je cernés?</s> pred: les eus-je crnéés?</s>
+target: vous ne l'aviez pas cernée.</s> pred: vous ne l'aviez pas crnrse.</s>
+target: tu vous accusais.</s> pred: tu vous accuaais.</s>
+target: ne les accusait-elle pas?</s> pred: ne les accuaait-elle pas?</s>
+target: m'accusais-je?</s> pred: m'accuaais-je?</s>
+target: vous accusâtes-vous?</s> pred: vous accuââtes-vous?</s>
+target: ne m'accuserez-vous pas?</s> pred: ne m'accueerez-vous pas?</s>
+target: t'accuserait-elle?</s> pred: t'accueerait-elle?</s>
+target: tu les en accusais.</s> pred: tu les en accuaais.</s>
+target: vous ne m'accuseriez pas.</s> pred: vous ne m'accueeriez pas.</s>
+target: elles t'accusaient.</s> pred: elles t'accuaaient.</s>
+target: elles ne l'accusaient pas.</s> pred: elles ne l'accuaaient pas.</s>
+target: ne le lui filais-tu pas?</s> pred: ne le lui fixlis-tu pas?</s>
+target: je vous eus filées à eux.</s> pred: je vous eus filues à eux.</s>
+target: je nous ai filés à lui.</s> pred: je nous ai fixls à lui.</s>
+target: ne vous filera-t-il pas à moi?</s> pred: ne vous fixlra-t-il pas à moi?</s>
+target: vous ne m'aviez pas filé à eux.</s> pred: vous ne m'aviez pas fixl à eux.</s>
+target: ne t'aurons-nous pas filée à elle?</s> pred: ne t'aurons-nous pas fixle à elle?</s>
+target: ne l'auras-tu pas filé?</s> pred: ne l'auras-tu pas faxu?</s>
+target: je nous eus filées à vous.</s> pred: je nous eus filues à vous.</s>
+target: je vous avais filées.</s> pred: je vous avais fixles.</s>
+target: je nous aurai filées à eux.</s> pred: je nous aurai fixles à eux.</s>
+target: vous ont-elles filés à elle?</s> pred: vous ont-elles filus à elle?</s>
+target: nous ont-ils filés à toi?</s> pred: nous ont-ils fixls à toi?</s>
+target: ne la lui filerais-tu pas?</s> pred: ne la lui fixlrais-tu pas?</s>
+target: ne t'eurent-elles pas filé à lui?</s> pred: ne t'eurent-elles pas fixu à lui?</s>
+target: ne vous file-je pas à nous?</s> pred: ne vous fixl-je pas à nous?</s>
+target: vous les leur aurez filées.</s> pred: vous les leur aurez fixles.</s>
+target: ne me file-t-elle pas à vous?</s> pred: ne me fixl-t-elle pas à vous?</s>
+target: ne te filez pas à elle!</s> pred: ne te fillz pas à elle!</s>
+target: elles ne nous avaient pas endormies.</s> pred: elles ne nous avaient pas endortées.</s>
+target: vous les avez endormis.</s> pred: vous les avez endrrmis.</s>
+target: elles m'auront endormie.</s> pred: elles m'auront endrrmie.</s>
+target: tu ne l'auras pas endormie.</s> pred: tu ne l'auras pas dndrrmie.</s>
+target: elles ne m'ont pas endormi.</s> pred: elles ne m'ont pas endrrmi.</s>
+target: vous endormit-il?</s> pred: vous indrrmis-il?</s>
+target: ne nous endormons pas!</s> pred: ne nous indrrmons pas!</s>
+target: ils ne s'endormiront pas.</s> pred: ils ne s'endrrmiront pas.</s>
+target: nous ne l'endormons pas.</s> pred: nous ne l'endrrmons pas.</s>
+target: ne vous endormirent-ils pas?</s> pred: ne vous endrrmirent-ils pas?</s>
+target: nous ne l'endormirons pas.</s> pred: nous ne l'endrrmirons pas.</s>
+target: elles ne m'auront pas endormie.</s> pred: elles ne m'auront pas dndormie.</s>
+target: endormiraient-ils?</s> pred: dndrrmiraient-ils?</s>
+target: ils ne nous endorment pas.</s> pred: ils ne nous endrrment pas.</s>
+target: tu ne nous endors pas.</s> pred: tu ne nous indrrmepas.</s>
+target: ils ont endormi.</s> pred: ils ont endrrmi.</s>
+target: ne se s’évadent-ils pas?</s> pred: ne s' ééévadent-ils pas?</s>
+target: elles ne s'y s’évadaient pas.</s> pred: elles ne s'y ééévadaient pas.</s>
+target: vous y vous évaderiez-vous?</s> pred: vous y éédsvédaderiez-vous?</s>
+target: nous nous en étions évadés.</s> pred: nous nous en étions évadus.</s>
+target: ne te t’évades-tu pas?</s> pred: ne t' ééédedes-tu pas?</s>
+target: je me m’évadai.</s> pred: je me ééévadai.</s>
+target: nous ne nous y sommes pas évadés.</s> pred: nous ne nous y sommes pas étadés.</s>
+target: ne s'en s’évadera-t-elle pas?</s> pred: ne s'en ééévadera-t-elle pas?</s>
+target: ne nous y nous évadâmes-nous pas?</s> pred: ne nous y ééds étadâmes-nous pas?</s>
+target: tu ne t'y t’évaderais pas.</s> pred: tu ne t'y éaévaderais pas.</s>
+target: se s’évade-t-elle?</s> pred: s' ééévade-t-elle?</s>
+target: elle se s’évadait.</s> pred: elle s' ééévadait.</s>
+target: j'ai interagi avec toi.</s> pred: j'ai insaragi avec toi.</s>
+target: n'interagis-je pas?</s> pred: n'insaragé--je pas?</s>
+target: n'interagissais-je pas?</s> pred: n'intarages--is-je pas?</s>
+target: interagissent-elles avec vous?</s> pred: insarageeeent-elles avec vous?</s>
+target: elles interagirent avec nous.</s> pred: elles insaregirent avec nous.</s>
+target: n'avais-tu pas interagi avec nous?</s> pred: n'avais-tu pas intaragisavec nous?</s>
+target: n'interagis pas avec toi!</s> pred: n'insasages pas avec toi!</s>
+target: auront-ils interagi avec moi?</s> pred: auront-ils insaiagi avec moi?</s>
+target: n'interagis-tu pas?</s> pred: n'insarages-tu pas?</s>
+target: nous interagirons avec toi.</s> pred: nous insarageoons avec toi.</s>
+target: il n'interagira pas avec elles.</s> pred: il n'ingaragera pas avec elles.</s>
+target: je n'interagirais pas avec cela.</s> pred: je n'insaragesais pas avec cela.</s>
+target: ai-je interagi avec nous?</s> pred: ai-je insaragisavec nous?</s>
+target: je n'interagissais pas avec lui.</s> pred: je n'ingarages ais pas avec lui.</s>
+target: j'interagissais avec vous.</s> pred: j'insaragisaais avec vous.</s>
+target: j'interagis avec lui.</s> pred: j'insaragis avec lui.</s>
+target: interagirais-je avec elle?</s> pred: insaragesais-je avec elle?</s>
+target: tu interagiras avec eux.</s> pred: tu insaragesas avec eux.</s>
+target: as-tu interagi avec lui?</s> pred: as-tu insaiagi avec lui?</s>
+target: j'interagissais avec lui.</s> pred: j'insanages ais avec lui.</s>
+target: elle interagissait avec vous.</s> pred: elle insaiaiet ait avec vous.</s>
+target: n'avais-tu pas interagi avec vous?</s> pred: n'avais-tu pas insaiagi avec vous?</s>
+target: je les désirais.</s> pred: je les dérirais.</s>
+target: elles nous désireraient.</s> pred: elles nous dérireraient.</s>
+target: tu ne l'auras pas désirée.</s> pred: tu ne l'auras pas dérirée.</s>
+target: ne vous désirerais-je pas?</s> pred: ne vous dérirerais-je pas?</s>
+target: elle ne vous aura pas désirées.</s> pred: elle ne vous aura pas dérirées.</s>
+target: désire-moi!</s> pred: dérire-moi!</s>
+target: ne la désirèrent-ils pas?</s> pred: ne la dérirèrent-ils pas?</s>
+target: nous ne vous désirerons pas.</s> pred: nous ne vous dérererons pas.</s>
+target: l'as-tu désiré?</s> pred: l'as-tu dériré?</s>
+target: elles ne la désirèrent pas.</s> pred: elles ne la dérirèrent pas.</s>
+target: nous ne la désirerions pas.</s> pred: nous ne la désiririons pas.</s>
+target: elle les eut désirées.</s> pred: elle les eut dérirées.</s>
+target: nous désirent-elles?</s> pred: nous dérirent-elles?</s>
+target: nous ne te désirâmes pas.</s> pred: nous ne te dérirâmes pas.</s>
+target: vous ne m'eûtes pas désirée.</s> pred: vous ne m'eûtes pas dérirée.</s>
+target: elle ne les a pas désirés.</s> pred: elle ne les a pas dérirés.</s>
+target: vous désirions-nous?</s> pred: vous déririons-nous?</s>
+target: tu ne les désires pas.</s> pred: tu ne les dérires pas.</s>
+target: je ne le désirais pas.</s> pred: je ne le dérirais pas.</s>
+target: l'ont-ils désirée?</s> pred: l'ont-ils dérirée?</s>
+target: la désiraient-elles?</s> pred: la dériraient-elles?</s>
+target: te désira-t-elle?</s> pred: te dériri-t-elle?</s>
+target: tu ne nous auras pas postulées.</s> pred: tu ne nous auras pas pouéulées.</s>
+target: vous la postuliez.</s> pred: vous la pouuultez.</s>
+target: n'avait-elle pas postulé pour toi?</s> pred: n'avait-elle pas pouuult pour toi?</s>
+target: postulé-je pour toi?</s> pred: posuult-je pour toi?</s>
+target: postule-t-il pour toi?</s> pred: posuult-t-il pour toi?</s>
+target: ai-je postulé pour elle?</s> pred: ai-je pouuult pour elle?</s>
+target: n'aura-t-elle pas postulé pour moi?</s> pred: n'aura-t-elle pas pouuult pour moi?</s>
+target: ne postula-t-il pas pour toi?</s> pred: ne pouuult-t-il pas pour toi?</s>
+target: elles ne postuleraient pas pour lui.</s> pred: elles ne pouuoltraient pas pour lui.</s>
+target: vous postulerez.</s> pred: vous pouuultrez.</s>
+target: ils me postuleront.</s> pred: ils me pluualeront.</s>
+target: eut-il postulé pour lui?</s> pred: eut-il posuu t pour lui?</s>
+target: ne l'ai-je pas postulé?</s> pred: ne l'ai-je pas pouuult?</s>
+target: ne m'aurez-vous pas postulée?</s> pred: ne m'aurez-vous pas poutulte?</s>
+target: ils ne vous postuleront pas.</s> pred: ils ne vous pouuoleront pas.</s>
+target: n'aurez-vous pas postulé pour moi?</s> pred: n'aurez-vous pas pouuult pour moi?</s>
+target: elle ne postulera pas pour elle.</s> pred: elle ne pouuolera pas pour elle.</s>
+target: il ne postulait pas pour elle.</s> pred: il ne pouuoltit pas pour elle.</s>
+target: ils s'en soucient.</s> pred: ils s'en soucivnt.</s>
+target: ne s'en souciait-elle pas?</s> pred: ne s'en soucuait-elle pas?</s>
+target: t'en fus-tu souciée?</s> pred: t'en fus-tu couciée?</s>
+target: m'en soucierais-je?</s> pred: m'en soucivrais-je?</s>
+target: ne m'en fus-je pas soucié?</s> pred: ne m'en fus-je pas soucut?</s>
+target: nous nous en sommes souciées.</s> pred: nous nous en sommes coucuées.</s>
+target: je me serai souciée.</s> pred: je me serai oouciée.</s>
+target: je n'éprouverai pas.</s> pred: je n'spoouvrrai pas.</s>
+target: m'avaient-elles éprouvé?</s> pred: m'avaient-elles rpoovvé?</s>
+target: il t'a éprouvé.</s> pred: il t'a spoovvé.</s>
+target: ils t'éprouvent.</s> pred: ils tespoouvent.</s>
+target: elles ne t'eurent pas éprouvé.</s> pred: elles ne t'eurent pas spoouvé.</s>
+target: n'éprouva-t-il pas?</s> pred: nespoouvi-t-il pas?</s>
+target: elle aura éprouvé.</s> pred: elle aura ppoouvu.</s>
+target: il nous avait éprouvés.</s> pred: il nous avait rpoovvés.</s>
+target: n'as-tu pas éprouvé?</s> pred: n'as-tu pas spoovvé?</s>
+target: ne nous éprouvé-je pas?</s> pred: ne nous ppoovvo-je pas?</s>
+target: vous nous avez éprouvés.</s> pred: vous nous avez spoovvés.</s>
+target: ne les aurez-vous pas éprouvés?</s> pred: ne les aurez-vous pas rpoouvus?</s>
+target: ne vous éprouveront-elles pas?</s> pred: ne vous spoouvrront-elles pas?</s>
+target: t'aura-t-elle éprouvé?</s> pred: t'aura-t-elle spoouvé?</s>
+target: elles l'auront éprouvé.</s> pred: elles l'auront spoouvé.</s>
+target: je n'éprouverais pas.</s> pred: je nespoouvrrais pas.</s>
+target: ils m'ont éprouvée.</s> pred: ils m'ont ppoouvée.</s>
+target: ne les éprouverions-nous pas?</s> pred: ne les spoouvrrions-nous pas?</s>
+target: elles éprouvèrent.</s> pred: elles spoouvèrent.</s>

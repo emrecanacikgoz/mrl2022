@@ -8,8 +8,8 @@ from model.model import Morse
 from training import train
 
 #### DON'T FORGET TO CHANGE THIS !!! ######
-logger_file_name   = 'experiment0'        # Add ExpNUMBER !!!         
-logger_folder_name = "EXPERIMENTS/exp0"   # Add ExpNUMBER !!!
+logger_file_name   = 'experiment8_fra'        # Add ExpNUMBER !!!         
+logger_folder_name = "EXPERIMENTS/exp8_fra"   # Add ExpNUMBER !!!
 ###########################################
 
 
@@ -33,21 +33,21 @@ args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Configurations
 args.task       = "task2"
 args.pad_to     = 200
-args.epochs     = 100
+args.epochs     = 200
 args.batch_size = 16
-args.lr         = 1e-3
+args.lr         = 1e-4
 
 
 # Dataset
 parser        = Parser()
-train_data    = parser.parse_file("./reinf/tur.trn") # 10,000
-val_data      = parser.parse_file("./reinf/tur.dev") # 1,000
-train_dataset = WordLoader(train_data[:5], pad_to=args.pad_to)
-val_dataset   = WordLoader(val_data[:5],   pad_to=args.pad_to)
+train_data    = parser.parse_file("./reinf/fra.trn") # 10,000
+val_data      = parser.parse_file("./reinf/fra.dev") # 1,000
+train_dataset = WordLoader(train_data, pad_to=args.pad_to)
+val_dataset   = WordLoader(val_data,   pad_to=args.pad_to)
 train_loader  = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=False)
 val_loader    = DataLoader(val_dataset,   batch_size=args.batch_size, shuffle=False)
-print(len(train_loader))
-print(len(val_loader))
+logger.info(f"Batch Length Train Loader: {len(train_loader)}")
+logger.info(f"Batch Length Val Loader: {len(val_loader)}")
 
 # Set val vocab same with train vocab
 val_dataset.vocab = train_dataset.vocab 
@@ -61,7 +61,7 @@ print(f"feat: {len(target_vocab)}") # 129
 args.mname   = '3Encoder_3Decoder'
 embed_dim    = 256
 num_heads    = 16
-dropout_rate = 0.15 
+dropout_rate = 0.2 
 args.model   = Morse(input_vocab=source_vocab, output_vocab=target_vocab, embed_dim=embed_dim, num_heads=num_heads, dropout_rate=dropout_rate)
 args.model.to(args.device)
 

@@ -50,8 +50,8 @@ class Morse(nn.Module):
         num_wrong   = wrong_tokens.sum().item() 
         num_total   = num_correct + num_wrong # also equal to (targets!=0).sum()
 
-        # Log predictions into file
-        correct_predictions = []; wrong_predictions = []
+         # Log predictions into file
+        correct_predictions = []; wrong_predictions = []; predictions = [];
         if (epoch % 5) == 0:
             for i in range(B):
                 target  = ''.join([surf_vocab[seq.item()] for seq in targets[i]])
@@ -60,9 +60,12 @@ class Morse(nn.Module):
                     continue
                 target = target[:target.index('</s>')+4] #take until eos
                 pred = pred[:len(target)]
+
+                predictions.append('%s' % (pred))
+
                 if target != pred:
                     wrong_predictions.append('target: %s pred: %s' % (target, pred))
                 else:
                     correct_predictions.append('target: %s pred: %s' % (target, pred))
 
-        return  num_correct, num_total, num_wrong, wrong_predictions, correct_predictions
+        return  num_correct, num_total, num_wrong, wrong_predictions, correct_predictions, predictions
