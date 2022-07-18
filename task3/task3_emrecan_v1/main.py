@@ -42,7 +42,7 @@ args.lr         = 5e-4
 parser        = Parser()
 train_data    = parser.parse_file("./analysis/tur.trn") # 10,000
 val_data      = parser.parse_file("./analysis/tur.dev") # 1,000
-train_dataset = WordLoader(train_data[:5], pad_to=args.pad_to)
+train_dataset = WordLoader(train_data[:3], pad_to=args.pad_to)
 val_dataset   = WordLoader(val_data[:5],   pad_to=args.pad_to)
 train_loader  = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=False)
 val_loader    = DataLoader(val_dataset,   batch_size=args.batch_size, shuffle=False)

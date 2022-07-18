@@ -38,10 +38,6 @@ class PositionalEncoding(nn.Module):
         self.register_buffer('pe', pe)
         
     def forward(self, x):
-        print(f"Input Embeddings (ver2): {x.shape}")
-        variable = Variable(self.pe[:, :x.size(1)], requires_grad=False)
-        print(variable[0])
-        print(f"Positional Encodings (ver2): {variable.shape}")
         x = x + Variable(self.pe[:, :x.size(1)], requires_grad=False)
         return self.dropout(x)
 

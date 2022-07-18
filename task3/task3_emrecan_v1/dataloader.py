@@ -16,10 +16,14 @@ class Parser:
             line =line.rstrip().split(self.part_seperator)
             src, tgt = line[0], line[1]
             space_num = tgt.count(" ")
-            src, tgt = line[0], line[1].replace(" ", self.tag_seperator).split(self.tag_seperator)
+            #src, tgt = line[0], line[1].replace(" ", self.tag_seperator).split(self.tag_seperator)
+            src, tgt = line[0], line[1]
+            idx = tgt.rfind(" ")
+            tgt_lemma, tgt_feat =  [char for char in tgt[:idx]], tgt[idx:].split(self.tag_seperator)
+            target = tgt_lemma + tgt_feat
 
             source = [char for char in src]
-            target = []
+            """target = []
             for lemma in tgt[:space_num]:
                 lemmas = [char for char in lemma]
                 target.append(lemmas)
@@ -29,6 +33,8 @@ class Parser:
 
             lemma_tgt = [char for lemma in target for char in lemma]
             target    = lemma_tgt + tgt[space_num:]
+            print([source, target])
+            #breakpoint()"""
             data.append([source, target])
         return data
             
