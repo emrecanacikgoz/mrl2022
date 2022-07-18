@@ -1,0 +1,326 @@
+2022-07-06 12:41:36,161 | | INFO | | Code started 
+
+2022-07-06 12:41:36,253 | | INFO | | 
+Using device: cpu
+2022-07-06 12:41:36,253 | | INFO | | Number of Epochs: 100
+2022-07-06 12:41:36,253 | | INFO | | Batch Size: 16
+2022-07-06 12:41:36,253 | | INFO | | Learning rate: 0.001
+2022-07-06 12:41:36,266 | | INFO | | Number of parameters 5550618
+2022-07-06 12:41:36,267 | | INFO | | Embedding Dimension: 256
+2022-07-06 12:41:36,267 | | INFO | | Number of heads in Attention: 16
+2022-07-06 12:41:36,267 | | INFO | | Dropout rate: 0.15
+
+2022-07-06 12:41:36,609 | | INFO | | Epoch: 0/100 | avg_train_loss: 3.4917927 | perplexity: 32.8447769 | train_accuracy: 0.0214286
+2022-07-06 12:41:36,682 | | INFO | | Epoch: 0/100 |  avg_test_loss: 3.1967770 | perplexity: 24.4535892 |  test_accuracy: 0.1573034
+
+2022-07-06 12:41:36,683 | | INFO | | Update best val loss
+
+2022-07-06 12:41:36,945 | | INFO | | Epoch: 1/100 | avg_train_loss: 2.9977622 | perplexity: 20.0406396 | train_accuracy: 0.1214286
+2022-07-06 12:41:37,017 | | INFO | | Epoch: 1/100 |  avg_test_loss: 3.1442765 | perplexity: 23.2028816 |  test_accuracy: 0.0730337
+
+2022-07-06 12:41:37,017 | | INFO | | Update best val loss
+
+2022-07-06 12:41:37,353 | | INFO | | Epoch: 2/100 | avg_train_loss: 2.9805315 | perplexity: 19.6982841 | train_accuracy: 0.1500000
+2022-07-06 12:41:37,430 | | INFO | | Epoch: 2/100 |  avg_test_loss: 2.8525643 | perplexity: 17.3321692 |  test_accuracy: 0.1685393
+
+2022-07-06 12:41:37,430 | | INFO | | Update best val loss
+
+2022-07-06 12:41:37,691 | | INFO | | Epoch: 3/100 | avg_train_loss: 2.6931460 | perplexity: 14.7780943 | train_accuracy: 0.1857143
+2022-07-06 12:41:37,753 | | INFO | | Epoch: 3/100 |  avg_test_loss: 2.7243891 | perplexity: 15.2470961 |  test_accuracy: 0.1797753
+
+2022-07-06 12:41:37,754 | | INFO | | Update best val loss
+
+2022-07-06 12:41:37,984 | | INFO | | Epoch: 4/100 | avg_train_loss: 2.4615184 | perplexity: 11.7225979 | train_accuracy: 0.2642857
+2022-07-06 12:41:38,041 | | INFO | | Epoch: 4/100 |  avg_test_loss: 2.7275065 | perplexity: 15.2947019 |  test_accuracy: 0.2078652
+
+2022-07-06 12:41:38,238 | | INFO | | Epoch: 5/100 | avg_train_loss: 2.3655742 | perplexity: 10.6501525 | train_accuracy: 0.3357143
+2022-07-06 12:41:38,296 | | INFO | | Epoch: 5/100 |  avg_test_loss: 2.8129608 | perplexity: 16.6591706 |  test_accuracy: 0.2247191
+
+2022-07-06 12:41:38,497 | | INFO | | Epoch: 6/100 | avg_train_loss: 2.1019904 | perplexity: 8.1824400 | train_accuracy: 0.4214286
+2022-07-06 12:41:38,553 | | INFO | | Epoch: 6/100 |  avg_test_loss: 2.9572058 | perplexity: 19.2441243 |  test_accuracy: 0.2471910
+
+2022-07-06 12:41:38,755 | | INFO | | Epoch: 7/100 | avg_train_loss: 1.8747258 | perplexity: 6.5190312 | train_accuracy: 0.5142857
+2022-07-06 12:41:38,810 | | INFO | | Epoch: 7/100 |  avg_test_loss: 3.0877706 | perplexity: 21.9281371 |  test_accuracy: 0.2584270
+
+2022-07-06 12:41:39,014 | | INFO | | Epoch: 8/100 | avg_train_loss: 1.8665329 | perplexity: 6.4658398 | train_accuracy: 0.5142857
+2022-07-06 12:41:39,070 | | INFO | | Epoch: 8/100 |  avg_test_loss: 3.1045261 | perplexity: 22.2986499 |  test_accuracy: 0.2696629
+
+2022-07-06 12:41:39,289 | | INFO | | Epoch: 9/100 | avg_train_loss: 1.7294444 | perplexity: 5.6375211 | train_accuracy: 0.5571429
+2022-07-06 12:41:39,345 | | INFO | | Epoch: 9/100 |  avg_test_loss: 3.1360978 | perplexity: 23.0138859 |  test_accuracy: 0.2696629
+
+2022-07-06 12:41:39,572 | | INFO | | Epoch: 10/100 | avg_train_loss: 1.6075131 | perplexity: 4.9903852 | train_accuracy: 0.5642857
+2022-07-06 12:41:39,631 | | INFO | | Epoch: 10/100 |  avg_test_loss: 3.2045775 | perplexity: 24.6450853 |  test_accuracy: 0.2640449
+
+2022-07-06 12:41:39,841 | | INFO | | Epoch: 11/100 | avg_train_loss: 1.4822305 | perplexity: 4.4027550 | train_accuracy: 0.5642857
+2022-07-06 12:41:39,901 | | INFO | | Epoch: 11/100 |  avg_test_loss: 3.1382439 | perplexity: 23.0633308 |  test_accuracy: 0.2921348
+
+2022-07-06 12:41:40,108 | | INFO | | Epoch: 12/100 | avg_train_loss: 1.4328336 | perplexity: 4.1905569 | train_accuracy: 0.5571429
+2022-07-06 12:41:40,163 | | INFO | | Epoch: 12/100 |  avg_test_loss: 3.2548907 | perplexity: 25.9167817 |  test_accuracy: 0.2865169
+
+2022-07-06 12:41:40,364 | | INFO | | Epoch: 13/100 | avg_train_loss: 1.3400340 | perplexity: 3.8191735 | train_accuracy: 0.5928571
+2022-07-06 12:41:40,420 | | INFO | | Epoch: 13/100 |  avg_test_loss: 3.4133201 | perplexity: 30.3658959 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:40,628 | | INFO | | Epoch: 14/100 | avg_train_loss: 1.3272288 | perplexity: 3.7705797 | train_accuracy: 0.5714286
+2022-07-06 12:41:40,685 | | INFO | | Epoch: 14/100 |  avg_test_loss: 3.4229805 | perplexity: 30.6606628 |  test_accuracy: 0.2865169
+
+2022-07-06 12:41:40,896 | | INFO | | Epoch: 15/100 | avg_train_loss: 1.3043788 | perplexity: 3.6853991 | train_accuracy: 0.5785714
+2022-07-06 12:41:40,953 | | INFO | | Epoch: 15/100 |  avg_test_loss: 3.3057179 | perplexity: 27.2681103 |  test_accuracy: 0.2696629
+
+2022-07-06 12:41:41,165 | | INFO | | Epoch: 16/100 | avg_train_loss: 1.1234748 | perplexity: 3.0755224 | train_accuracy: 0.6785714
+2022-07-06 12:41:41,221 | | INFO | | Epoch: 16/100 |  avg_test_loss: 3.3047935 | perplexity: 27.2429141 |  test_accuracy: 0.2921348
+
+2022-07-06 12:41:41,428 | | INFO | | Epoch: 17/100 | avg_train_loss: 1.1147497 | perplexity: 3.0488049 | train_accuracy: 0.6500000
+2022-07-06 12:41:41,483 | | INFO | | Epoch: 17/100 |  avg_test_loss: 3.3973570 | perplexity: 29.8850107 |  test_accuracy: 0.2752809
+
+2022-07-06 12:41:41,682 | | INFO | | Epoch: 18/100 | avg_train_loss: 1.0226981 | perplexity: 2.7806872 | train_accuracy: 0.6642857
+2022-07-06 12:41:41,738 | | INFO | | Epoch: 18/100 |  avg_test_loss: 3.4519962 | perplexity: 31.5633360 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:41,941 | | INFO | | Epoch: 19/100 | avg_train_loss: 0.9821882 | perplexity: 2.6702930 | train_accuracy: 0.7000000
+2022-07-06 12:41:41,995 | | INFO | | Epoch: 19/100 |  avg_test_loss: 3.4703026 | perplexity: 32.1464693 |  test_accuracy: 0.2471910
+
+2022-07-06 12:41:42,207 | | INFO | | Epoch: 20/100 | avg_train_loss: 0.9974459 | perplexity: 2.7113479 | train_accuracy: 0.6857143
+2022-07-06 12:41:42,264 | | INFO | | Epoch: 20/100 |  avg_test_loss: 3.4474738 | perplexity: 31.4209152 |  test_accuracy: 0.2865169
+
+2022-07-06 12:41:42,463 | | INFO | | Epoch: 21/100 | avg_train_loss: 0.9456964 | perplexity: 2.5746056 | train_accuracy: 0.7071429
+2022-07-06 12:41:42,518 | | INFO | | Epoch: 21/100 |  avg_test_loss: 3.3797443 | perplexity: 29.3632615 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:42,716 | | INFO | | Epoch: 22/100 | avg_train_loss: 0.8638529 | perplexity: 2.3722832 | train_accuracy: 0.7428571
+2022-07-06 12:41:42,773 | | INFO | | Epoch: 22/100 |  avg_test_loss: 3.3944987 | perplexity: 29.7997104 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:42,980 | | INFO | | Epoch: 23/100 | avg_train_loss: 0.8284903 | perplexity: 2.2898591 | train_accuracy: 0.7642857
+2022-07-06 12:41:43,035 | | INFO | | Epoch: 23/100 |  avg_test_loss: 3.7131180 | perplexity: 40.9813860 |  test_accuracy: 0.2640449
+
+2022-07-06 12:41:43,233 | | INFO | | Epoch: 24/100 | avg_train_loss: 0.7843919 | perplexity: 2.1910741 | train_accuracy: 0.7857143
+2022-07-06 12:41:43,289 | | INFO | | Epoch: 24/100 |  avg_test_loss: 3.7439836 | perplexity: 42.2660253 |  test_accuracy: 0.2696629
+
+2022-07-06 12:41:43,500 | | INFO | | Epoch: 25/100 | avg_train_loss: 0.7751334 | perplexity: 2.1708817 | train_accuracy: 0.7428571
+2022-07-06 12:41:43,558 | | INFO | | Epoch: 25/100 |  avg_test_loss: 3.5965484 | perplexity: 36.4721282 |  test_accuracy: 0.2808989
+
+2022-07-06 12:41:43,760 | | INFO | | Epoch: 26/100 | avg_train_loss: 0.6934425 | perplexity: 2.0005908 | train_accuracy: 0.7785714
+2022-07-06 12:41:43,817 | | INFO | | Epoch: 26/100 |  avg_test_loss: 3.5586976 | perplexity: 35.1174321 |  test_accuracy: 0.2921348
+
+2022-07-06 12:41:44,013 | | INFO | | Epoch: 27/100 | avg_train_loss: 0.6673666 | perplexity: 1.9490977 | train_accuracy: 0.7928571
+2022-07-06 12:41:44,069 | | INFO | | Epoch: 27/100 |  avg_test_loss: 3.6348922 | perplexity: 37.8977655 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:44,276 | | INFO | | Epoch: 28/100 | avg_train_loss: 0.6452250 | perplexity: 1.9064159 | train_accuracy: 0.8142857
+2022-07-06 12:41:44,331 | | INFO | | Epoch: 28/100 |  avg_test_loss: 3.7733459 | perplexity: 43.5254553 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:44,535 | | INFO | | Epoch: 29/100 | avg_train_loss: 0.5796726 | perplexity: 1.7854538 | train_accuracy: 0.8071429
+2022-07-06 12:41:44,593 | | INFO | | Epoch: 29/100 |  avg_test_loss: 3.9206732 | perplexity: 50.4343836 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:44,819 | | INFO | | Epoch: 30/100 | avg_train_loss: 0.5429916 | perplexity: 1.7211482 | train_accuracy: 0.8571429
+2022-07-06 12:41:44,878 | | INFO | | Epoch: 30/100 |  avg_test_loss: 3.9265507 | perplexity: 50.7316869 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:45,091 | | INFO | | Epoch: 31/100 | avg_train_loss: 0.4922323 | perplexity: 1.6359642 | train_accuracy: 0.8642857
+2022-07-06 12:41:45,150 | | INFO | | Epoch: 31/100 |  avg_test_loss: 3.9002974 | perplexity: 49.4171415 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:45,353 | | INFO | | Epoch: 32/100 | avg_train_loss: 0.5210672 | perplexity: 1.6838236 | train_accuracy: 0.8571429
+2022-07-06 12:41:45,408 | | INFO | | Epoch: 32/100 |  avg_test_loss: 3.9195416 | perplexity: 50.3773468 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:45,610 | | INFO | | Epoch: 33/100 | avg_train_loss: 0.4692644 | perplexity: 1.5988177 | train_accuracy: 0.8714286
+2022-07-06 12:41:45,670 | | INFO | | Epoch: 33/100 |  avg_test_loss: 3.9693360 | perplexity: 52.9493611 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:45,868 | | INFO | | Epoch: 34/100 | avg_train_loss: 0.4629414 | perplexity: 1.5887403 | train_accuracy: 0.8500000
+2022-07-06 12:41:45,924 | | INFO | | Epoch: 34/100 |  avg_test_loss: 3.9712703 | perplexity: 53.0518784 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:46,129 | | INFO | | Epoch: 35/100 | avg_train_loss: 0.4377911 | perplexity: 1.5492813 | train_accuracy: 0.8714286
+2022-07-06 12:41:46,186 | | INFO | | Epoch: 35/100 |  avg_test_loss: 4.0671747 | perplexity: 58.3917537 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:46,388 | | INFO | | Epoch: 36/100 | avg_train_loss: 0.4516725 | perplexity: 1.5709373 | train_accuracy: 0.8642857
+2022-07-06 12:41:46,445 | | INFO | | Epoch: 36/100 |  avg_test_loss: 4.0822816 | perplexity: 59.2805680 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:46,649 | | INFO | | Epoch: 37/100 | avg_train_loss: 0.3984026 | perplexity: 1.4894436 | train_accuracy: 0.8857143
+2022-07-06 12:41:46,705 | | INFO | | Epoch: 37/100 |  avg_test_loss: 4.1118212 | perplexity: 61.0578153 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:46,907 | | INFO | | Epoch: 38/100 | avg_train_loss: 0.3505911 | perplexity: 1.4199066 | train_accuracy: 0.9214286
+2022-07-06 12:41:46,964 | | INFO | | Epoch: 38/100 |  avg_test_loss: 4.1796470 | perplexity: 65.3427857 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:47,171 | | INFO | | Epoch: 39/100 | avg_train_loss: 0.3325220 | perplexity: 1.3944806 | train_accuracy: 0.9000000
+2022-07-06 12:41:47,226 | | INFO | | Epoch: 39/100 |  avg_test_loss: 4.1893468 | perplexity: 65.9796808 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:47,431 | | INFO | | Epoch: 40/100 | avg_train_loss: 0.3391005 | perplexity: 1.4036844 | train_accuracy: 0.9357143
+2022-07-06 12:41:47,488 | | INFO | | Epoch: 40/100 |  avg_test_loss: 4.2670247 | perplexity: 71.3091531 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:47,687 | | INFO | | Epoch: 41/100 | avg_train_loss: 0.3027652 | perplexity: 1.3535966 | train_accuracy: 0.9428571
+2022-07-06 12:41:47,742 | | INFO | | Epoch: 41/100 |  avg_test_loss: 4.4249809 | perplexity: 83.5112151 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:47,950 | | INFO | | Epoch: 42/100 | avg_train_loss: 0.3251315 | perplexity: 1.3842127 | train_accuracy: 0.9071429
+2022-07-06 12:41:48,006 | | INFO | | Epoch: 42/100 |  avg_test_loss: 4.4755575 | perplexity: 87.8435576 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:48,208 | | INFO | | Epoch: 43/100 | avg_train_loss: 0.3047535 | perplexity: 1.3562906 | train_accuracy: 0.9285714
+2022-07-06 12:41:48,263 | | INFO | | Epoch: 43/100 |  avg_test_loss: 4.3656613 | perplexity: 78.7014263 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:48,466 | | INFO | | Epoch: 44/100 | avg_train_loss: 0.2616646 | perplexity: 1.2990907 | train_accuracy: 0.9428571
+2022-07-06 12:41:48,523 | | INFO | | Epoch: 44/100 |  avg_test_loss: 4.3641957 | perplexity: 78.5861715 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:48,741 | | INFO | | Epoch: 45/100 | avg_train_loss: 0.2433368 | perplexity: 1.2754982 | train_accuracy: 0.9428571
+2022-07-06 12:41:48,798 | | INFO | | Epoch: 45/100 |  avg_test_loss: 4.4742298 | perplexity: 87.7270063 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:49,002 | | INFO | | Epoch: 46/100 | avg_train_loss: 0.2624523 | perplexity: 1.3001145 | train_accuracy: 0.9357143
+2022-07-06 12:41:49,057 | | INFO | | Epoch: 46/100 |  avg_test_loss: 4.5537466 | perplexity: 94.9876230 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:49,266 | | INFO | | Epoch: 47/100 | avg_train_loss: 0.2001243 | perplexity: 1.2215545 | train_accuracy: 0.9500000
+2022-07-06 12:41:49,323 | | INFO | | Epoch: 47/100 |  avg_test_loss: 4.5134655 | perplexity: 91.2374504 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:49,532 | | INFO | | Epoch: 48/100 | avg_train_loss: 0.2017649 | perplexity: 1.2235603 | train_accuracy: 0.9571429
+2022-07-06 12:41:49,587 | | INFO | | Epoch: 48/100 |  avg_test_loss: 4.4672804 | perplexity: 87.1194666 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:49,796 | | INFO | | Epoch: 49/100 | avg_train_loss: 0.2100305 | perplexity: 1.2337157 | train_accuracy: 0.9500000
+2022-07-06 12:41:49,853 | | INFO | | Epoch: 49/100 |  avg_test_loss: 4.5501764 | perplexity: 94.6491015 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:50,080 | | INFO | | Epoch: 50/100 | avg_train_loss: 0.2091524 | perplexity: 1.2326328 | train_accuracy: 0.9428571
+2022-07-06 12:41:50,139 | | INFO | | Epoch: 50/100 |  avg_test_loss: 4.6726352 | perplexity: 106.9792827 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:50,345 | | INFO | | Epoch: 51/100 | avg_train_loss: 0.1762104 | perplexity: 1.1926890 | train_accuracy: 0.9642857
+2022-07-06 12:41:50,402 | | INFO | | Epoch: 51/100 |  avg_test_loss: 4.6714334 | perplexity: 106.8507876 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:50,606 | | INFO | | Epoch: 52/100 | avg_train_loss: 0.1730429 | perplexity: 1.1889171 | train_accuracy: 0.9500000
+2022-07-06 12:41:50,662 | | INFO | | Epoch: 52/100 |  avg_test_loss: 4.6613938 | perplexity: 105.7834156 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:50,876 | | INFO | | Epoch: 53/100 | avg_train_loss: 0.1594322 | perplexity: 1.1728447 | train_accuracy: 0.9714286
+2022-07-06 12:41:50,931 | | INFO | | Epoch: 53/100 |  avg_test_loss: 4.6352326 | perplexity: 103.0518899 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:51,132 | | INFO | | Epoch: 54/100 | avg_train_loss: 0.1385839 | perplexity: 1.1486461 | train_accuracy: 0.9785714
+2022-07-06 12:41:51,188 | | INFO | | Epoch: 54/100 |  avg_test_loss: 4.6738244 | perplexity: 107.1065735 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:51,388 | | INFO | | Epoch: 55/100 | avg_train_loss: 0.1579035 | perplexity: 1.1710532 | train_accuracy: 0.9500000
+2022-07-06 12:41:51,450 | | INFO | | Epoch: 55/100 |  avg_test_loss: 4.7351259 | perplexity: 113.8777994 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:51,657 | | INFO | | Epoch: 56/100 | avg_train_loss: 0.1400928 | perplexity: 1.1503806 | train_accuracy: 0.9642857
+2022-07-06 12:41:51,715 | | INFO | | Epoch: 56/100 |  avg_test_loss: 4.7950079 | perplexity: 120.9053419 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:51,923 | | INFO | | Epoch: 57/100 | avg_train_loss: 0.1135371 | perplexity: 1.1202335 | train_accuracy: 0.9785714
+2022-07-06 12:41:51,981 | | INFO | | Epoch: 57/100 |  avg_test_loss: 4.8922198 | perplexity: 133.2490323 |  test_accuracy: 0.2865169
+
+2022-07-06 12:41:52,194 | | INFO | | Epoch: 58/100 | avg_train_loss: 0.0913230 | perplexity: 1.0956229 | train_accuracy: 0.9857143
+2022-07-06 12:41:52,254 | | INFO | | Epoch: 58/100 |  avg_test_loss: 4.9988438 | perplexity: 148.2416572 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:52,469 | | INFO | | Epoch: 59/100 | avg_train_loss: 0.1440652 | perplexity: 1.1549594 | train_accuracy: 0.9571429
+2022-07-06 12:41:52,534 | | INFO | | Epoch: 59/100 |  avg_test_loss: 5.0173391 | perplexity: 151.0089532 |  test_accuracy: 0.2921348
+
+2022-07-06 12:41:52,767 | | INFO | | Epoch: 60/100 | avg_train_loss: 0.1103296 | perplexity: 1.1166460 | train_accuracy: 0.9714286
+2022-07-06 12:41:52,835 | | INFO | | Epoch: 60/100 |  avg_test_loss: 4.9604348 | perplexity: 142.6558116 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:53,063 | | INFO | | Epoch: 61/100 | avg_train_loss: 0.0800530 | perplexity: 1.0833445 | train_accuracy: 0.9785714
+2022-07-06 12:41:53,121 | | INFO | | Epoch: 61/100 |  avg_test_loss: 4.9617786 | perplexity: 142.8476417 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:53,332 | | INFO | | Epoch: 62/100 | avg_train_loss: 0.1015371 | perplexity: 1.1068710 | train_accuracy: 0.9857143
+2022-07-06 12:41:53,389 | | INFO | | Epoch: 62/100 |  avg_test_loss: 5.0344177 | perplexity: 153.6101126 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:53,602 | | INFO | | Epoch: 63/100 | avg_train_loss: 0.1119276 | perplexity: 1.1184319 | train_accuracy: 0.9642857
+2022-07-06 12:41:53,658 | | INFO | | Epoch: 63/100 |  avg_test_loss: 5.1195041 | perplexity: 167.2524074 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:53,862 | | INFO | | Epoch: 64/100 | avg_train_loss: 0.0745918 | perplexity: 1.0774443 | train_accuracy: 0.9785714
+2022-07-06 12:41:53,921 | | INFO | | Epoch: 64/100 |  avg_test_loss: 5.2619262 | perplexity: 192.8526066 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:54,158 | | INFO | | Epoch: 65/100 | avg_train_loss: 0.0814996 | perplexity: 1.0849128 | train_accuracy: 0.9857143
+2022-07-06 12:41:54,218 | | INFO | | Epoch: 65/100 |  avg_test_loss: 5.3629857 | perplexity: 213.3610231 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:54,425 | | INFO | | Epoch: 66/100 | avg_train_loss: 0.0995923 | perplexity: 1.1047204 | train_accuracy: 0.9785714
+2022-07-06 12:41:54,484 | | INFO | | Epoch: 66/100 |  avg_test_loss: 5.3682299 | perplexity: 214.4828750 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:54,693 | | INFO | | Epoch: 67/100 | avg_train_loss: 0.1046674 | perplexity: 1.1103413 | train_accuracy: 0.9571429
+2022-07-06 12:41:54,750 | | INFO | | Epoch: 67/100 |  avg_test_loss: 5.3865854 | perplexity: 218.4561623 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:54,983 | | INFO | | Epoch: 68/100 | avg_train_loss: 0.0698366 | perplexity: 1.0723330 | train_accuracy: 0.9714286
+2022-07-06 12:41:55,051 | | INFO | | Epoch: 68/100 |  avg_test_loss: 5.4338938 | perplexity: 229.0393407 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:55,285 | | INFO | | Epoch: 69/100 | avg_train_loss: 0.1112417 | perplexity: 1.1176651 | train_accuracy: 0.9785714
+2022-07-06 12:41:55,342 | | INFO | | Epoch: 69/100 |  avg_test_loss: 5.4745305 | perplexity: 238.5384491 |  test_accuracy: 0.3033708
+
+2022-07-06 12:41:55,548 | | INFO | | Epoch: 70/100 | avg_train_loss: 0.0858694 | perplexity: 1.0896641 | train_accuracy: 0.9785714
+2022-07-06 12:41:55,611 | | INFO | | Epoch: 70/100 |  avg_test_loss: 5.4952516 | perplexity: 243.5327918 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:55,823 | | INFO | | Epoch: 71/100 | avg_train_loss: 0.0708439 | perplexity: 1.0734136 | train_accuracy: 0.9857143
+2022-07-06 12:41:55,879 | | INFO | | Epoch: 71/100 |  avg_test_loss: 5.4287127 | perplexity: 227.8557269 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:56,075 | | INFO | | Epoch: 72/100 | avg_train_loss: 0.1819836 | perplexity: 1.1995945 | train_accuracy: 0.9357143
+2022-07-06 12:41:56,130 | | INFO | | Epoch: 72/100 |  avg_test_loss: 5.5491923 | perplexity: 257.0298635 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:56,332 | | INFO | | Epoch: 73/100 | avg_train_loss: 0.0879475 | perplexity: 1.0919308 | train_accuracy: 0.9714286
+2022-07-06 12:41:56,389 | | INFO | | Epoch: 73/100 |  avg_test_loss: 5.6169687 | perplexity: 275.0543552 |  test_accuracy: 0.3202247
+
+2022-07-06 12:41:56,593 | | INFO | | Epoch: 74/100 | avg_train_loss: 0.0754256 | perplexity: 1.0783430 | train_accuracy: 0.9714286
+2022-07-06 12:41:56,649 | | INFO | | Epoch: 74/100 |  avg_test_loss: 5.6621855 | perplexity: 287.7768915 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:56,857 | | INFO | | Epoch: 75/100 | avg_train_loss: 0.0583951 | perplexity: 1.0601338 | train_accuracy: 0.9785714
+2022-07-06 12:41:56,928 | | INFO | | Epoch: 75/100 |  avg_test_loss: 5.7278302 | perplexity: 307.3017548 |  test_accuracy: 0.2921348
+
+2022-07-06 12:41:57,151 | | INFO | | Epoch: 76/100 | avg_train_loss: 0.0662753 | perplexity: 1.0685208 | train_accuracy: 0.9785714
+2022-07-06 12:41:57,208 | | INFO | | Epoch: 76/100 |  avg_test_loss: 5.7743016 | perplexity: 321.9195254 |  test_accuracy: 0.2865169
+
+2022-07-06 12:41:57,416 | | INFO | | Epoch: 77/100 | avg_train_loss: 0.0692011 | perplexity: 1.0716517 | train_accuracy: 0.9928571
+2022-07-06 12:41:57,474 | | INFO | | Epoch: 77/100 |  avg_test_loss: 5.7426137 | perplexity: 311.8785089 |  test_accuracy: 0.2977528
+
+2022-07-06 12:41:57,680 | | INFO | | Epoch: 78/100 | avg_train_loss: 0.0564549 | perplexity: 1.0580789 | train_accuracy: 0.9928571
+2022-07-06 12:41:57,748 | | INFO | | Epoch: 78/100 |  avg_test_loss: 5.7130617 | perplexity: 302.7967321 |  test_accuracy: 0.3089888
+
+2022-07-06 12:41:57,985 | | INFO | | Epoch: 79/100 | avg_train_loss: 0.1033596 | perplexity: 1.1088901 | train_accuracy: 0.9857143
+2022-07-06 12:41:58,044 | | INFO | | Epoch: 79/100 |  avg_test_loss: 5.6590370 | perplexity: 286.8722640 |  test_accuracy: 0.3146067
+
+2022-07-06 12:41:58,257 | | INFO | | Epoch: 80/100 | avg_train_loss: 0.0636414 | perplexity: 1.0657101 | train_accuracy: 0.9785714
+2022-07-06 12:41:58,322 | | INFO | | Epoch: 80/100 |  avg_test_loss: 5.6178267 | perplexity: 275.2904314 |  test_accuracy: 0.3258427
+
+2022-07-06 12:41:58,543 | | INFO | | Epoch: 81/100 | avg_train_loss: 0.0844749 | perplexity: 1.0881456 | train_accuracy: 0.9714286
+2022-07-06 12:41:58,606 | | INFO | | Epoch: 81/100 |  avg_test_loss: 5.5995261 | perplexity: 270.2982697 |  test_accuracy: 0.3426966
+
+2022-07-06 12:41:58,812 | | INFO | | Epoch: 82/100 | avg_train_loss: 0.0428252 | perplexity: 1.0437554 | train_accuracy: 0.9928571
+2022-07-06 12:41:58,868 | | INFO | | Epoch: 82/100 |  avg_test_loss: 5.6377368 | perplexity: 280.8264331 |  test_accuracy: 0.3595506
+
+2022-07-06 12:41:59,067 | | INFO | | Epoch: 83/100 | avg_train_loss: 0.0488080 | perplexity: 1.0500187 | train_accuracy: 0.9857143
+2022-07-06 12:41:59,123 | | INFO | | Epoch: 83/100 |  avg_test_loss: 5.6872850 | perplexity: 295.0913606 |  test_accuracy: 0.3483146
+
+2022-07-06 12:41:59,336 | | INFO | | Epoch: 84/100 | avg_train_loss: 0.0326710 | perplexity: 1.0332105 | train_accuracy: 1.0000000
+2022-07-06 12:41:59,394 | | INFO | | Epoch: 84/100 |  avg_test_loss: 5.7329366 | perplexity: 308.8749675 |  test_accuracy: 0.3426966
+
+2022-07-06 12:41:59,600 | | INFO | | Epoch: 85/100 | avg_train_loss: 0.0598713 | perplexity: 1.0616999 | train_accuracy: 0.9857143
+2022-07-06 12:41:59,658 | | INFO | | Epoch: 85/100 |  avg_test_loss: 5.7784280 | perplexity: 323.2506347 |  test_accuracy: 0.3370787
+
+2022-07-06 12:41:59,867 | | INFO | | Epoch: 86/100 | avg_train_loss: 0.0568173 | perplexity: 1.0584624 | train_accuracy: 0.9928571
+2022-07-06 12:41:59,924 | | INFO | | Epoch: 86/100 |  avg_test_loss: 5.7947086 | perplexity: 328.5564270 |  test_accuracy: 0.3314607
+
+2022-07-06 12:42:00,137 | | INFO | | Epoch: 87/100 | avg_train_loss: 0.0455666 | perplexity: 1.0466207 | train_accuracy: 0.9857143
+2022-07-06 12:42:00,197 | | INFO | | Epoch: 87/100 |  avg_test_loss: 5.8209585 | perplexity: 337.2952004 |  test_accuracy: 0.3258427
+
+2022-07-06 12:42:00,431 | | INFO | | Epoch: 88/100 | avg_train_loss: 0.0327286 | perplexity: 1.0332701 | train_accuracy: 0.9928571
+2022-07-06 12:42:00,488 | | INFO | | Epoch: 88/100 |  avg_test_loss: 5.7814640 | perplexity: 324.2335100 |  test_accuracy: 0.3258427
+
+2022-07-06 12:42:00,695 | | INFO | | Epoch: 89/100 | avg_train_loss: 0.0418327 | perplexity: 1.0427200 | train_accuracy: 1.0000000
+2022-07-06 12:42:00,768 | | INFO | | Epoch: 89/100 |  avg_test_loss: 5.7720879 | perplexity: 321.2076725 |  test_accuracy: 0.3202247
+
+2022-07-06 12:42:01,007 | | INFO | | Epoch: 90/100 | avg_train_loss: 0.0225236 | perplexity: 1.0227792 | train_accuracy: 1.0000000
+2022-07-06 12:42:01,067 | | INFO | | Epoch: 90/100 |  avg_test_loss: 5.7732304 | perplexity: 321.5748694 |  test_accuracy: 0.3146067
+
+2022-07-06 12:42:01,281 | | INFO | | Epoch: 91/100 | avg_train_loss: 0.0281847 | perplexity: 1.0285856 | train_accuracy: 1.0000000
+2022-07-06 12:42:01,341 | | INFO | | Epoch: 91/100 |  avg_test_loss: 5.8383124 | perplexity: 343.1996627 |  test_accuracy: 0.3146067
+
+2022-07-06 12:42:01,565 | | INFO | | Epoch: 92/100 | avg_train_loss: 0.0550166 | perplexity: 1.0565582 | train_accuracy: 0.9928571
+2022-07-06 12:42:01,623 | | INFO | | Epoch: 92/100 |  avg_test_loss: 5.9213771 | perplexity: 372.9249219 |  test_accuracy: 0.2808989
+
+2022-07-06 12:42:01,869 | | INFO | | Epoch: 93/100 | avg_train_loss: 0.0422251 | perplexity: 1.0431293 | train_accuracy: 0.9857143
+2022-07-06 12:42:01,928 | | INFO | | Epoch: 93/100 |  avg_test_loss: 6.1164393 | perplexity: 453.2479401 |  test_accuracy: 0.2752809
+
+2022-07-06 12:42:02,133 | | INFO | | Epoch: 94/100 | avg_train_loss: 0.0244908 | perplexity: 1.0247931 | train_accuracy: 1.0000000
+2022-07-06 12:42:02,193 | | INFO | | Epoch: 94/100 |  avg_test_loss: 6.2520738 | perplexity: 519.0882067 |  test_accuracy: 0.2696629
+
+2022-07-06 12:42:02,409 | | INFO | | Epoch: 95/100 | avg_train_loss: 0.0335848 | perplexity: 1.0341552 | train_accuracy: 0.9928571
+2022-07-06 12:42:02,474 | | INFO | | Epoch: 95/100 |  avg_test_loss: 6.2845582 | perplexity: 536.2273559 |  test_accuracy: 0.2752809
+
+2022-07-06 12:42:02,702 | | INFO | | Epoch: 96/100 | avg_train_loss: 0.0405188 | perplexity: 1.0413509 | train_accuracy: 0.9928571
+2022-07-06 12:42:02,762 | | INFO | | Epoch: 96/100 |  avg_test_loss: 6.2431901 | perplexity: 514.4972048 |  test_accuracy: 0.2696629
+
+2022-07-06 12:42:02,974 | | INFO | | Epoch: 97/100 | avg_train_loss: 0.0448956 | perplexity: 1.0459187 | train_accuracy: 0.9928571
+2022-07-06 12:42:03,031 | | INFO | | Epoch: 97/100 |  avg_test_loss: 6.1799563 | perplexity: 482.9708641 |  test_accuracy: 0.2865169
+
+2022-07-06 12:42:03,236 | | INFO | | Epoch: 98/100 | avg_train_loss: 0.0250463 | perplexity: 1.0253626 | train_accuracy: 0.9928571
+2022-07-06 12:42:03,295 | | INFO | | Epoch: 98/100 |  avg_test_loss: 6.1233232 | perplexity: 456.3788371 |  test_accuracy: 0.2752809
+
+2022-07-06 12:42:03,498 | | INFO | | Epoch: 99/100 | avg_train_loss: 0.0569744 | perplexity: 1.0586287 | train_accuracy: 0.9928571
+2022-07-06 12:42:03,558 | | INFO | | Epoch: 99/100 |  avg_test_loss: 6.0755067 | perplexity: 435.0698794 |  test_accuracy: 0.2865169
+
+2022-07-06 12:42:03,558 | | INFO | | 
+
+---Final Results---
+2022-07-06 12:42:03,558 | | INFO | | Epochs: 100, Batch Size: 16, lr: 0.001, train_loss: 0.0570
+2022-07-06 12:42:03,558 | | INFO | | Training Time: 27.184223890304565
+

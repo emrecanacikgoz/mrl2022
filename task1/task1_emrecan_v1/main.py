@@ -8,8 +8,8 @@ from model.model import Morse
 from training import train
 
 #### DON'T FORGET TO CHANGE THIS !!! ######
-logger_file_name   = 'experiment0'        # Add ExpNUMBER !!!         
-logger_folder_name = "EXPERIMENTS/exp0"   # Add ExpNUMBER !!!
+logger_file_name   = 'experiment1_tur'        # Add ExpNUMBER !!!         
+logger_folder_name = "EXPERIMENTS/exp1_tur"   # Add ExpNUMBER !!!
 ###########################################
 
 
@@ -33,9 +33,9 @@ args.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Configurations
 args.task       = "task3_analysis"
 args.pad_to     = 60
-args.epochs     = 100
-args.batch_size = 16
-args.lr         = 1e-3
+args.epochs     = 300
+args.batch_size = 64
+args.lr         = 1e-4
 
 
 # Dataset
