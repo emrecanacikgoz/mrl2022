@@ -77,19 +77,6 @@ You can check your installed packages in your environment by doing `conda list`.
 └── README.md
 ```
 
-# Models
-## Task1 (Emre Can) ver1
-![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t1_ver1.png)
-
-## Task2 (Emre Can) ver1
-![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t2_ver1.png)
-
-## Task3 (Emre Can) ver1
-![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t3_ver1.png)
-
-## Task3 (Emre Can) ver2
-![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t3_ver2.png)
-
 # Suggested Research Materials:
 Please add/update this section whenever you find something useful.
 1. [Morphology Without Borders: Clause-Level Morphological Annotation](https://arxiv.org/pdf/2202.12832.pdf)
