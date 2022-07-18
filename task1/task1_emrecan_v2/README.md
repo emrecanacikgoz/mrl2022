@@ -9,15 +9,7 @@ Hebrew        נתן IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM)        את�
 ```
 
 ## To Do's for Task1
-- [x] **Task1-2-3 (Emre Can):** Check Positional Encodings bug (there was a bug, fixed now).
-- [x] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Turkish:<br>
-`Epoch: 300/300 | avg_train_loss: 0.0003826 | perplexity: 1.0003827 | train_accuracy: 99.988%`<br>
-`Epoch: 300/300 | avg_test__loss: 0.0822139 | perplexity: 1.0856880 |  test_accuracy: 98.821%`
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for English.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Germain.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Russian.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for French.
-- [ ] **Task1 (Emre Can):** Train version-1 (Encoder-Decoder Vaswani) for Hebrew.
+- [ ] **Task1 (Emre Can):** Train new Model-ver2 (3xEncoder+1xDecoder).
 
 ## Code Map
 ```
@@ -51,4 +43,4 @@ Check "EXPERIMENTS" folder for the results.<br/>
 
 # Model
 ## Task1 (Inflection) ver1
-![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t1_ver1.png)
+![alt text](https://github.com/ecacikgoz97/competation/blob/main/figures/t1_ver2.png)
