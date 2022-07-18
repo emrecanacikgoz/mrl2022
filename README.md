@@ -39,8 +39,8 @@ July 8, 2022: Get a baseline score for each task with each language (6 Languages
 
 
 ## To Do's
-- [ ] **Task1 (Emre Can):** Fix/Debug issue, if any.
-- [ ] **Task1 (Emre Can):** Train new Model-ver2 (3xEncoder+1xDecoder).
+- [x] **Task1 (Emre Can):** Fix/Debug issue, if any (Shuffle Training set).
+- [x] **Task1 (Emre Can):** Train new Model-ver2 (3xEncoder+1xDecoder).
 - [ ] **Task1 (Emre Can):** Repeat Muge's prompts.
 - [ ] **Task1 (Tilek):** Implement and train an additional LSTM baseline mode.
 - [ ] **Task1 (Tilek):** Experiment with Neural Transducer model's hyperparameters.
