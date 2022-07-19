@@ -74,13 +74,15 @@ You can check your installed packages in your environment by doing `conda list`.
 ├── requirments
 │   └── package_list.txt
 ├── task1
-│   ├── task1_emrecan_v1
-│   └── task1_tilek_v1
+│   ├── emrecan
+│   ├── muge
+│   └── tilek
 ├── task2 
-│   ├── task2_emrecan_v1
-│   └── task2_muge_v1
+│   ├── emrecan
+│   └── muge
 ├── task3
-│   └── task3_emrecan_v1
+│   ├── emrecan
+│   └── muge
 └── README.md
 ```
 
