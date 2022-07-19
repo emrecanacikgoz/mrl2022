@@ -1,2 +1,0 @@
- \
-    --load $ckpt_dir/tagtransformer/sigmorphon17-task1-dropout0.3/turkish-high-.nll_0.7510.acc_97.9.dist_0.04.epoch_256
