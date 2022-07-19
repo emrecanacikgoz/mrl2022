@@ -1,0 +1,9 @@
+target: ıslık çalmakNECINFRPSTNOM(3,SG)NEGQ</s> pred: ıllık çalmakNECINFRPSTNOM(3,SG)NEGQ</s>
+target: çalışmakINDPSTNOM(3,SG)NEGQLOC(3,SG,RFLX)</s> pred: çalışmakINDPSTNOM(3,SG)NEGQDAT(3,SG)</s></s><
+target: ateşe vermekINDFUTNOM(3,PL)ACC(1,PL)</s> pred: ateşe vemmekINDFUTNOM(3,PL)ACC(1,PL)</s>
+target: bekletmekINFRFUTPERFNOM(3,PL)NEGACC(3,SG)BEN(3,SG,RFLX)</s> pred: bekletmekINFRFUTPERFNOM(3,PL)NEGACC(3,SG)DAT(3,SG)</s></s><
+target: bekletmekINFRFUTNOM(3,SG)QACC(1,SG)BEN(2,PL)</s> pred: bekletmekINFRFUTNOM(3,SG)QACC(1,SG)ABL(1,SG,RFLX
+target: çalışmakINDFUTPRSPNOM(3,PL)NEGLOC(3,PL,RFLX)</s> pred: çalışmakINDFUTPRSPNOM(3,PL)NEGACC(2,PL,RFLX)</s>
+target: ayarlanmakINDPSTPRSPPROGNOM(3,PL)</s> pred: ayrrlanmakINDPSTPRSPPROGNOM(3,PL)</s>
+target: öldürtmekINFRLGSPEC1PSTNOM(3,SG)ACC(2,SG)</s> pred: öldürtüekINFRLGSPEC1PSTNOM(3,SG)ACC(2,SG)</s>
+target: kırılmakINFRPRSHABNOM(2,PL)QDAT(2,SG)</s> pred: kırılmakINFRPRSHABNOM(2,PL)DAT(2,SG)DAT(2

@@ -1,0 +1,271 @@
+target: sizi <unk>ürkçeleştiriyor olmamalıydık.</s> pred: sizi iürkeeleştiriyor olmamalıydık.</s></s>
+target: kendimizi <unk>ürkçeleştirmemişiz.</s> pred: kendimizi iürkelleştirmemişiz.</s></s>
+target: kendilerini <unk>ürkçeleştiriyor olmamalılar mı?</s> pred: kendilerini iürkelleştiriyor olmamalılar mı?</s>mı??
+target: seni <unk>ürkçeleştirdim mi?</s> pred: seni kürkeeleştirdim mi?</s></s>
+target: onu <unk>ürkçeleştirdiydin.</s> pred: onu kürkeeleştirdiydin.</s></s>
+target: bizi <unk>ürkçeleştirmiş olmayacak mıydınız?</s> pred: bizi iürkeeleştirmiş olmayacak mıydınız?</s>z???
+target: seni <unk>ürkçeleştirin!</s> pred: seni kürkeeleştirin!</s></s>
+target: beni <unk>ürkçeleştirmiş olacak mı?</s> pred: beni kürkeeleştirmiş olacak mı?</s>?   
+target: onları <unk>ürkçeleştiriyor olmaz mıydım?</s> pred: onları iürkeeleştiriyor olmaz mıydım?</s>d???
+target: sizi <unk>ürkçeleştirmeyecekmişiz.</s> pred: sizi iürkeeleştirmeyecekmişiz.</s></s>
+target: kendinizi <unk>ürkçeleştirir miydiniz?</s> pred: kendinizi iürkeeleştir r miydiniz?</s></s>
+target: seni <unk>ürkçeleştirmiş olacak mıyım?</s> pred: seni iürkeeleştirmiş olacak mıyım?</s>rmm?
+target: beni <unk>ürkçeleştirmemiş miydiniz?</s> pred: beni iürkeeleştirmemiş miydiniz?</s></s>
+target: beni <unk>ürkçeleştirmiş miymişiz?</s> pred: beni iürkeeleştirmiş miymişiz?</s></s>
+target: onu <unk>ürkçeleştirmiş olacak.</s> pred: onu iürkelleştirmiş olacak.</s></s>
+target: onları <unk>ürkçeleştirmeyecek miymişsiniz?</s> pred: onları iürkelleştirmeyecek miymişsiniz?</s></s>
+target: onu <unk>ürkçeleştirmedin.</s> pred: onu kürkeeleştirmedin.</s></s>
+target: ağlameliler.</s> pred: ağlamaliler.</s>
+target: ağlamameli mi?</s> pred: ağlamamali mi?</s>
+target: ağlameliler mi?</s> pred: ağlamaliler mi?</s>
+target: bana aşık olacak mısınız?</s> pred: bana aşık alacak mısınız?</s>
+target: bana aşık olmadık.</s> pred: bana aşık almadık.</s>
+target: kendinize aşık oluyor olacaktınız.</s> pred: kendinize aşık aluyor olacaktınız.</s>
+target: kendine aşık olacak olacak mı?</s> pred: kendine aşık alacak olacak mı?</s>
+target: bize aşık olduydu.</s> pred: bize aşık alduydu.</s>
+target: kendine aşık olmamış.</s> pred: kendine aşık almamış.</s>
+target: bize aşık olmalı mıyım?</s> pred: bize aşık almalı mıyım?</s>
+target: size aşık olmadıydık.</s> pred: size aşık almadıydık.</s>
+target: onlara aşık olmadılardı.</s> pred: onlara aşık almadılardı.</s>
+target: onu başarıyor olacak mıydım?</s> pred: onu başırıyor olacak mıydım?</s>
+target: kendilerini onlara daldırmayacaklar mıymış?</s> pred: kendilerini onlara daldırdayacaklar mıymış?</s>
+target: onu size dayayacak olacaklar mıymış?</s> pred: onu size dayacacak olacaklar mıymış?</s>
+target: onları bana dayayacaktınız.</s> pred: onları bana dayacacaktınız.</s>
+target: kendilerini demlemediler.</s> pred: kendilerini demledediler.</s>
+target: kendilerini demlemeyecekler miydi?</s> pred: kendilerini demleyeyecekler miydi?</s>
+target: seni ona dolamıyor muyuz?</s> pred: seni ona dolamuyor muyuz?</s>
+target: kendimi ona dolamış olacaktım.</s> pred: kendimi ona dollmış olacaktım.</s>
+target: bizi bana dolamamalıymışsın.</s> pred: bizi bana dolalamalıymışsın.</s>
+target: onu onlara dolardık.</s> pred: onu onlara dolaldık.</s>
+target: beni size dolamış olmayacaksın.</s> pred: beni size dolamuş olmayacaksın.</s>
+target: bizi kendilerine dolayacak olmayacaklar mı?</s> pred: bizi kendilerine dolayacak olmayacarlar mı?</s>
+target: eskimeli miymişim?</s> pred: esimmeli miymişim?</s>
+target: eskimeyecektim.</s> pred: esimmeyecektim.</s>
+target: eskir miymişsiniz?</s> pred: esiir miymişsiniz?</s>
+target: eskimiyorsun.</s> pred: esimmiyorsun.</s>
+target: eskimeliyiz.</s> pred: esimmeliyiz.</s>
+target: eskimeyecek misin?</s> pred: esimmeyecek misin?</s>
+target: eskidiydim.</s> pred: esiiyiydim.</s>
+target: eskimiş misiniz?</s> pred: esimmiş misiniz?</s>
+target: eskimediler.</s> pred: esimlediler.</s>
+target: eskiyor olacak.</s> pred: esiiyor olacak.</s>
+target: eskiyor olmamalıydı.</s> pred: esiiyor olmamalıydı.</s>
+target: eskimeliydi.</s> pred: esimyeliydi.</s>
+target: eskiyorlar mıydı?</s> pred: esiiyorlar mıydı?</s>
+target: eskiyiniz!</s> pred: esiininiz!</s>
+target: eskimeli miydin?</s> pred: esimmeli miydin?</s>
+target: eskiyor olacak mıyım?</s> pred: esiiyor olacak mıyım?</s>
+target: eskiyor olacak mısınız?</s> pred: esiiyor olacak mısınız?</s>
+target: eskimemiş miydin?</s> pred: esimmemiş miydin?</s>
+target: eskimeli miydim?</s> pred: esimmeli miydim?</s>
+target: eskiyor olmayacaklar mıymış?</s> pred: esiiyor olmayacaklar mıymış?</s>
+target: bizimle hava atmış olacaktı.</s> pred: bizimle havatatmış olacaktı.</s>
+target: kendiyle hava atacak olacakmış.</s> pred: kendiyle havatatacak olacakmış.</s>
+target: sizinle hava atıyor olmayacak mıyız?</s> pred: sizinle havatatıyor olmayacak mıyız?</s>
+target: hava atıyor olmalıyım.</s> pred: havatatıyor olmalıyım.</s>
+target: sizinle hava atar mıyız?</s> pred: sizinle havatatar mıyız?</s>
+target: onunla hava atacak olacaklar mıymış?</s> pred: onunla havatatacak olacaklar mıymış?</s>
+target: onunla hava atmayacaklarmış.</s> pred: onunla havatatmayacaklarmış.</s>
+target: bizimle hava atmamalısınız.</s> pred: bizimle havatatmamalısınız.</s>
+target: onunla hava atacakmışsın.</s> pred: onunla havatatacakmışsın.</s>
+target: onunla hava atar olmayacakmışız.</s> pred: onunla havatatar olmayacakmışız.</s>
+target: onlarınla hava atacak olmayacaklar.</s> pred: onlarınla havatatacak olmayacaklar.</s>
+target: seninle hava atıyor olacak mıydınız?</s> pred: seninle havatatıyor olacak mıydınız?</s>
+target: onunla hava atmadınız mı?</s> pred: onunla havatatmadınız mı?</s>
+target: onlarınla hava atmış mıydın?</s> pred: onlarınla havatatmış mıydın?</s>
+target: hava atmamışsın.</s> pred: havatatmamışsın.</s>
+target: seninle hava atmayacaklarmış.</s> pred: seninle havatatmayacaklarmış.</s>
+target: benimle hava atmadıydı.</s> pred: benimle havatatmadıydı.</s>
+target: onunla hava atmışlar.</s> pred: onunla havatatmışlar.</s>
+target: onunla hava atmamışsın.</s> pred: onunla havatatmamışsın.</s>
+target: hava atıyor olur muydum?</s> pred: havatatıyor olur muydum?</s>
+target: heyecanlanıyor olmalı mıydık?</s> pred: heyelellanıyor olmalı mıydık?</s>
+target: heyecanlanıyorlar mıydı?</s> pred: heyelellanıyorlar mıydı?</s>
+target: heyecanlanmış mıydınız?</s> pred: heyelellanmış mıydınız?</s>
+target: heyecanlanacak olmayacaklar mıymış?</s> pred: heyelellacacak olmayacaklar mıymış?</s>
+target: heyecanlanıyor olmamalılar mıymış?</s> pred: heyelellanıyor olmamalılar mıymış?</s>
+target: heyecanlanmış mıydın?</s> pred: heyelellanmış mıydın?</s>
+target: heyecanlanmazlar mıydı?</s> pred: heyelellanmazlar mıydı?</s>
+target: heyecanlanmaz mıymışım?</s> pred: heyelellanmaz mıymışım?</s>
+target: heyecanlanıyor olmalıydınız.</s> pred: heyelellanıyor olmalıydınız.</s>
+target: heyecanlanır mıydık?</s> pred: heyelellanır mıydık?</s>
+target: heyecanlanmamış mıydım?</s> pred: heyelellanmamış mıydım?</s>
+target: heyecanlanmıştım.</s> pred: heyelellanmıştım.</s>
+target: heyecanlanmazlar mı?</s> pred: heyelellanmazlar mı?</s>
+target: heyecanlanmadı mıydım?</s> pred: heyelellanmadı mıydım?</s>
+target: heyecanlanıyor olacaktın.</s> pred: heyelellanıyor olacaktın.</s>
+target: heyecanlanmamışlar mı?</s> pred: heyelellanmamışlar mı?</s>
+target: heyecanlanıyor olmayacaktın.</s> pred: heyelellanıyor olmayacaktın.</s>
+target: heyecanlanıyor olmamalısınız.</s> pred: heyelellanıyor olmamalısınız.</s>
+target: heyecanlanıyor olmayacak mıydım?</s> pred: heyelellanıyor olmayacak mıydım?</s>
+target: heyecanlanıyor olmamalısın.</s> pred: heyelellanıyor olmamalısın.</s>
+target: heyecanlanmış mıymışız?</s> pred: heyelellanmış mıymışiz?</s>
+target: heyecanlanıyor olmamalı.</s> pred: heyelellanıyor olmamalı.</s>
+target: seni ilettiler miydi?</s> pred: seni iletttler miydi?</s>
+target: beni ilettiniz mi?</s> pred: beni iletttniz mi?</s>
+target: kendinize imrenmez miydiniz?</s> pred: kendinize imeeziez miydiniz?</s>
+target: onlara imrenmiş misin?</s> pred: onlara imeemmiş misin?</s>
+target: ona imrenmemeliymişiz.</s> pred: ona imeenmeleliymişiz.</s>
+target: onlara imrenmez miydik?</s> pred: onlara imeeziez miydik?</s>
+target: onlara imrenmeli misiniz?</s> pred: onlara imeelmeli misiniz?</s>
+target: onlara imreniyor olmayacak mıydınız?</s> pred: onlara imeeniyor olmayacak mıydınız?</s>
+target: ona imrenmiş olacaktım.</s> pred: ona imeenmiş olacaktım.</s>
+target: bize imreniyor olmalıyım.</s> pred: bize imeeniyor olmalıyım.</s>
+target: onlara imrenmemiş miymişsin?</s> pred: onlara imeemmimiş miymişsin?</s>
+target: ona imrenecek misin?</s> pred: ona imeenecek misin?</s>
+target: ona imreniyor olmayacakmışsın.</s> pred: ona imeeniyor olmayacakmışsın.</s>
+target: size imrendi miydik?</s> pred: size imeendi miydik?</s>
+target: onlara imrenmemeli miymişim?</s> pred: onlara imeemmeleli miymişim?</s>
+target: bize imrenmiyorlar mı?</s> pred: bize imeenmiyorlar mı?</s>
+target: onlara imreniyor olmayacaklar mıymış?</s> pred: onlara imeeniyor olmayacaklar mıymış?</s>
+target: size imrenmemeliler.</s> pred: size imeenmeleliler.</s>
+target: onlara imrenmeli miymişsin?</s> pred: onlara imeelmeli miymişsin?</s>
+target: kendinize imrenmeli misiniz?</s> pred: kendinize imeelieli misiniz?</s>
+target: bize imrenmezdi.</s> pred: bize imeenmezdi.</s>
+target: sizi istememeliler miymiş?</s> pred: sizi istmmemeliler miymiş?</s>
+target: bizi benden istemeliler.</s> pred: bizi benden istmmeliler.</s>
+target: onu kendilerinden istemeyeceklermiş.</s> pred: onu kendilerinden ismmmeyeceklermiş.</s>
+target: seni kendinden istemeyecektim.</s> pred: seni kendinden istmmeyecektim.</s>
+target: sizi istememişmiş.</s> pred: sizi istmmemişmiş.</s>
+target: kendini istedi miydin?</s> pred: kendini istidi miydin?</s>
+target: onları sizden isteyecekler mi?</s> pred: onları sizden istececekler mi?</s>
+target: kendilerini ondan istemeyecekler miymiş?</s> pred: kendilerini ondan itimseyecekler miymiş?</s>
+target: beni senden istemiyor muyduk?</s> pred: beni senden ismmmiyor muyduk?</s>
+target: beni kendimden istemiş olacak mıydınız?</s> pred: beni kendimden istmmiş olacak mıydınız?</s>
+target: bizi onlardan istemişlermiş.</s> pred: bizi onlardan istmmişlermiş.</s>
+target: seni istemiyorduk.</s> pred: seni istmmiyorduk.</s>
+target: onu senden istemeli.</s> pred: onu senden istmmeli.</s>
+target: bizi istemezler miymiş?</s> pred: bizi istmmezler miymiş?</s>
+target: işemediler miydi?</s> pred: işmmediler miydi?</s>
+target: işemez miymişsin?</s> pred: işmmez miymişsin?</s>
+target: işememeli miyim?</s> pred: işmmemeli miyim?</s>
+target: işemiyor mu?</s> pred: işmmiyor mu?</s>
+target: işleyecek miymişiz?</s> pred: işlececek miymişiz?</s>
+target: kararacaksın.</s> pred: karararaksın.</s>
+target: kararıyor olmalı mıydınız?</s> pred: kararıror olmalı mıydınız?</s>
+target: kararacak olacakmışsın.</s> pred: karararak olacakmışsın.</s>
+target: kararıyor muydu?</s> pred: kararıror muydu?</s>
+target: kararıyor olmalılardı.</s> pred: kararıror olmalılardı.</s>
+target: kararıyor olmalılar mıymış?</s> pred: kararıror olmalılar mıymış?</s>
+target: onları kasmalı mıyım?</s> pred: onları kasmelı mıyım?</s>
+target: bizi katılaştırmalıyım.</s> pred: bizi katılaştırmelıyım.</s>
+target: komikleşmiş olmayacak mı?</s> pred: komilleşmiş olmayacak mı?</s>
+target: komikleşmiyorsun.</s> pred: komilieşmiyorsun.</s>
+target: komikleşecekler miydi?</s> pred: komilleşecekler miydi?</s>
+target: komikleşiyor olmamalıymış.</s> pred: komilieşiyor olmamalıymış.</s>
+target: komikleşmemeliydi.</s> pred: komilleşmemeliydi.</s>
+target: komikleşmiş olmayacaklardı.</s> pred: komişleşmiş olmayacaklardı.</s>
+target: komikleşir olacak mıymışsınız?</s> pred: komilieşir olacak mıymışsınız?</s>
+target: komikleşiyor olmamalı mıyım?</s> pred: komilieşiyor olmamalı mıyım?</s>
+target: komikleşecek miydi?</s> pred: komilleşecek miydi?</s>
+target: komikleşti mi?</s> pred: komilleşti mi?</s>
+target: komikleşiyormuşsunuz.</s> pred: komilleşiyormuşsunuz.</s>
+target: komikleşmeyecek miymişim?</s> pred: komilleşmeyecek miymişim?</s>
+target: komikleşmeliler.</s> pred: komilleşmeliler.</s>
+target: komikleşiyorlarmış.</s> pred: komilleşiyorlarmış.</s>
+target: komikleştik.</s> pred: komilleştik.</s>
+target: komikleşmiş olmayacaklar.</s> pred: komişleş iş olmayacaklar.</s>
+target: komikleşmelilerdi.</s> pred: komilleşmelilerdi.</s>
+target: komikleşmeyecekmişiz.</s> pred: komilleşmeyecekmişiz.</s>
+target: komikleşmiş olmayacağım.</s> pred: komilleşmiş olmayacağım.</s>
+target: komikleşiyormuşsunuz.</s> pred: komilleşiyormuşsunuz.</s>
+target: bizi kötüleştirmemişmişim.</s> pred: bizi kötüleştirmemişm.mim.</s>
+target: küstü.</s> pred: küsüü.</s>
+target: onu kendinden kıskanmışmışsın.</s> pred: onu kendinden kısıanmışmışsın.</s>
+target: onu bizden kıskanmıyorlar mıymış?</s> pred: onu bizden kısıanmıyorlar mıymış?</s>
+target: kendilerini bizden kıskanıyor olmalılarmış.</s> pred: kendilerini bizden kırıanıyor olmalılarmış.</s>
+target: bizi kendimizden kıskanma!</s> pred: bizi kendimizden kısı!nma!</s>
+target: beni kendimizden kıskanıyor olmamalı mıyız?</s> pred: beni kendimizden kısıanıyor olmamalı mıyız?</s>
+target: kendilerini benden kıskanacak olacaklar.</s> pred: kendilerini benden kısıacacak olacaklar.</s>
+target: kendini ondan kıskanır olacakmışsın.</s> pred: kendini ondan kısıınır olacakmışsın.</s>
+target: onları kendilerinden kıskanmamalı mıymışım?</s> pred: onları kendimerinden kıslanmamalı mıymışım?</s>
+target: beni kıskanmış olmayacak mıydık?</s> pred: beni kısaanmış olmayacak mıydık?</s>
+target: kendilerini onlardan kıskanmayacaklardı.</s> pred: kendilerini onlardan kıtıanmayacaklardı.</s>
+target: onu ondan kıskanmıştınız.</s> pred: onu ondan kısmmnmıştınız.</s>
+target: beni onlardan kıskanıyor olurduk.</s> pred: beni onlardan kısıanıyor olurduk.</s>
+target: beni kendinizden kıskanmamış mıymışsınız?</s> pred: beni kendinizden kısıanmamış mıymışsınız?</s>
+target: seni bizden kıskanıyor olmalı.</s> pred: seni bizden kısıanıyor olmalı.</s>
+target: onları benden kıskanmış olacaksınız.</s> pred: onları benden kıslmnmış olacaksınız.</s>
+target: beni kendimden kıskanıyor olmamalı mıymışsınız?</s> pred: beni kendimden kısıanıyor olmamalı mıymışsınız?</s>
+target: seni ondan kıskanmaz mı?</s> pred: seni ondan kısıanmaz mı?</s>
+target: bizi benden kıskanmış olmayacak mıydı?</s> pred: bizi benden kısıanmış olmayacak mıydı?</s>
+target: seni onlardan kıskanmadık.</s> pred: seni onlardan kısıanmadık.</s>
+target: sizi senden kıskanmalıydık.</s> pred: sizi senden kısıanmalıydık.</s>
+target: sizinle papaz oluyor olmaz mıydık?</s> pred: sizinle pap p oluyor olmaz mıydık?</s>
+target: benimle papaz olurlardı.</s> pred: benimle paplp olurlardı.</s>
+target: onunla papaz olmuş olmayacak.</s> pred: onunla pap p olmuş olmayacak.</s>
+target: kendinizle papaz olmuyorsunuz.</s> pred: kendinizle pap p olmuyorsunuz.</s>
+target: onunla papaz oluyor olmalı mıydık?</s> pred: onunla pap p oluyor olmalı mıydık?</s>
+target: kendileriyle papaz olmuyorlar mıydı?</s> pred: kendileriyle pap p olmuyorlar mıydı?</s>
+target: onunla papaz oluyor olacaktınız.</s> pred: onunla pap p oluyor olacaktınız.</s>
+target: sizinle papaz olmuş olacaktık.</s> pred: sizinle pap p olmuş olacaktık.</s>
+target: onlarınla papaz olmayacak mı?</s> pred: onlarınla pap p olmayacak mı?</s>
+target: onlarınla papaz olacak olacak mıymışsınız?</s> pred: onlarınla pap p olacak olacak mıymışsınız?</s>
+target: seninle papaz oluyor olmalı.</s> pred: seninle pap p oluyor olmalı.</s>
+target: sizinle papaz olmuşlar.</s> pred: sizinle pap p olmuşlar.</s>
+target: onunla papaz olacakmışsınız.</s> pred: onunla pap p olacakmışsınız.</s>
+target: bizimle papaz olmuyorum.</s> pred: bizimle pap p olmuyorum.</s>
+target: onlarınla papaz olmamışlarmış.</s> pred: onlarınla pap p olmamışlarmış.</s>
+target: benimle papaz oldu mu?</s> pred: benimle pap p oldu mu?</s>
+target: kendiyle papaz olacak mıydı?</s> pred: kendiyle papap olacak mıydı?</s>
+target: sizinle papaz olur olacaklar mıymış?</s> pred: sizinle pap p olur olacaklar mıymış?</s>
+target: kendinizle papaz olmuş olacak mıydınız?</s> pred: kendinizle pap p olmuş olacak mıydınız?</s>
+target: onunla papaz olmuş olmayacak mısınız?</s> pred: onunla pap p olmuş olmayacak mısınız?</s>
+target: sizi savunuyor olacaklardı.</s> pred: sizi savunıyor olacaklardı.</s>
+target: beni savunur musun?</s> pred: beni savunır mısın?</s>
+target: bizi savunmuş olacak mıydı?</s> pred: bizi savunmış olacak mıydı?</s>
+target: bizi savunmuş olmayacaktım.</s> pred: bizi savunmış olmayacaktım.</s>
+target: seni savunuyor olmazlar mıydı?</s> pred: seni savunıyor olmazlar mıydı?</s>
+target: beni savunmuşlar mıydı?</s> pred: beni savunmışlar mıydı?</s>
+target: onu savundular mıydı?</s> pred: onu savundılar mıydı?</s>
+target: seni savunur olmayacaklar mıymış?</s> pred: seni savunır olmayacaklar mıymış?</s>
+target: onları savunuyor olmalı mıymışsınız?</s> pred: onları savunıyor olmalı mıymışsınız?</s>
+target: onu savunuyor olmayacaklar.</s> pred: onu savunıyor olmayacaklar.</s>
+target: seni seyretmiş olacağız.</s> pred: seni seyettmiş olacağız.</s>
+target: beni seyretiyor olacakmışsın.</s> pred: beni seyeetiyor olacakmışsın.</s>
+target: beni seyretecek olacakmışsınız.</s> pred: beni seyeetecek olacakmışsınız.</s>
+target: seni seyretmiş olacak.</s> pred: seni seyeetmiş olacak.</s>
+target: sizi seyretti miydi?</s> pred: sizi seyretii miydi?</s>
+target: onları seyretecek miymiş?</s> pred: onları seyeetecek miymiş?</s>
+target: onları seyretecek miymiş?</s> pred: onları seyeetecek miymiş?</s>
+target: seni seyretmeliymiş.</s> pred: seni seyeetmeliymiş.</s>
+target: sikiliniz!</s> pred: sikilinin!</s>
+target: solmamalı mısın?</s> pred: solmamelı mısın?</s>
+target: solmalıyız.</s> pred: solmelıyız.</s>
+target: onları taraacak olacak mıymışsın?</s> pred: onları tarayyak olacak mıymışsın?</s>
+target: onu toplamameli.</s> pred: onu toplamamali.</s>
+target: kendimi verimsizleştirmemeliymişim.</s> pred: kendimi verimiizleştirmemeliymişim.</s>
+target: onu verimsizleştirmeyecek mi?</s> pred: onu verimiizleştirmeyecek mi?</s>
+target: sizi verimsizleştiriyordum.</s> pred: sizi verimiizleştiriyordum.</s>
+target: seni verimsizleştiriyordunuz.</s> pred: seni verimiizleştiriyordunuz.</s>
+target: onları verimsizleştiriyor olacak mıymışım?</s> pred: onları verimiizleştiriyor olacak mıymışım?</s>
+target: onu verimsizleştirmiş olacak mı?</s> pred: onu verimiizleştirmiş olacak mı?</s>
+target: sizi verimsizleştirecek olacak mıymışım?</s> pred: sizi verimiizleştirecek olacak mıymışım?</s>
+target: onu verimsizleştiriyor olmamalıydık.</s> pred: onu verimiizleştiriyor olmamalıydık.</s>
+target: beni verimsizleştirmiyormuşsunuz.</s> pred: beni verimiizleştirmiyormuşsunuz.</s>
+target: onu verimsizleştirir olacaklar mıymış?</s> pred: onu verimiizleştir r olacaklar mıymış?</s>
+target: bizi verimsizleştirir miymiş?</s> pred: bizi verimiizleştir r miymiş?</s>
+target: onu verimsizleştiriyor muymuş?</s> pred: onu verimiizleştiriyor muymuş?</s>
+target: onları verimsizleştirmiş olacağız.</s> pred: onları verimiizleştirmiş olacağız.</s>
+target: beni verimsizleştirmiş olacaktınız.</s> pred: beni verimiizleştirmiş olacaktınız.</s>
+target: kendini verimsizleştirmiş olacak mısın?</s> pred: kendini verimiizleştirmiş olacak mısın?</s>
+target: onları verimsizleştiriyor olmayacağım.</s> pred: onları verimiizleştiriyor olmayacağım.</s>
+target: bizi verimsizleştirecekler mi?</s> pred: bizi verimiizleştirecekler mi?</s>
+target: sizi verimsizleştirmemiştik.</s> pred: sizi verimiizleştirmemiştik.</s>
+target: beni verimsizleştiriyor olmalılar mıymış?</s> pred: beni verimiizleştiriyor olmalılar mıymış?</s>
+target: onu verimsizleştirmiş olmayacağım.</s> pred: onu verimiizleştirmiş olmayacağım.</s>
+target: onları verimsizleştirir olacakmışsın.</s> pred: onları verimiizleştirir olacakmışsın.</s>
+target: bizi size yaptırttıydın.</s> pred: bizi size yaptırtttydın.</s>
+target: beni onlara yaptırttı mıydık?</s> pred: beni onlara yaptırttt mıydık?</s>
+target: kendini yaptırttı.</s> pred: kendini yaptırttt.</s>
+target: onu size yaptırtırız.</s> pred: onu size yaptırtızız.</s>
+target: onları yıkamıyor muyduk?</s> pred: onları yıkmmıyor muyduk?</s>
+target: kendimi yıkayacakmışım.</s> pred: kendimi yıkacacakmışım.</s>
+target: sizi yıkayacak olacak.</s> pred: sizi yıkacacak olacak.</s>
+target: bizi yıkamıştınız.</s> pred: bizi yıkmmıştınız.</s>
+target: sizi yıkameliler.</s> pred: sizi yıkamaliler.</s>
+target: onları yıkamamışmışsınız.</s> pred: onları yıkmmamışmışsınız.</s>
+target: onu yıkamameli miyiz?</s> pred: onu yıkamamali miyiz?</s>
+target: onları yıkamamelisin.</s> pred: onları yıkamamalisin.</s>
+target: onu yıkayacak olacak mıyız?</s> pred: onu yıkacacak olacak mıyız?</s>
+target: üreyeceğiz.</s> pred: ürececeğiz.</s>

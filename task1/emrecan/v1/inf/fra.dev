@@ -1,0 +1,1000 @@
+utiliser	COND;PRS;NOM(3,SG,FEM);COM(3,SG,MASC);ACC(3,PL);	elle les utiliserait avec lui.
+utiliser	IND;PST;PFV;NOM(3,SG,FEM);BEN(3,PL,FEM);ACC(3,PL,MASC);Q	les avait-elle utilisés pour elles?
+utiliser	IND;PST;IPFV;NOM(1,PL);PROL(3,SG,MASC);ACC(3,SG);NEG	nous ne l'utilisions pas par lui.
+utiliser	IND;FUT;NOM(3,PL,MASC);BEN(3,SG,NEUT);ACC(2,SG);NEG;Q	ne t'utiliseront-ils pas pour cela?
+utiliser	IND;PST;PFV;NOM(3,PL,MASC);COM(1,PL);ACC(1,SG,FEM);NEG	ils ne m'avaient pas utilisée avec nous.
+utiliser	IND;PST;IPFV;NOM(1,SG);PROL(3,PL,FEM);ACC(2,PL);	je vous utilisais par elles.
+utiliser	IND;PST;IPFV;NOM(3,PL,FEM);COM(3,SG,FEM);ACC(1,PL);Q	nous utilisaient-elles avec elle?
+utiliser	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);PROL(1,PL);Q	eut-elle utilisé par nous?
+utiliser	IND;FUT;PFV;NOM(3,SG,MASC);ACC(1,PL,FEM);	il nous aura utilisées.
+utiliser	IND;PST;NOM(1,PL);PROL(2,PL);ACC(3,SG,FEM);	nous l'avons utilisée par vous.
+utiliser	IND;PRS;NOM(1,SG);PROL(3,PL,MASC);ACC(2,PL);NEG	je ne vous utilise pas par eux.
+utiliser	IND;PST;PFV;LGSPEC1;NOM(1,PL);COM(1,SG);ACC(3,PL,MASC);	nous les eûmes utilisés avec moi.
+utiliser	COND;PRS;NOM(3,PL,FEM);COM(2,SG);ACC(2,SG);	elles t'utiliseraient avec toi.
+utiliser	IND;FUT;PFV;NOM(1,PL);PROL(3,SG,MASC);ACC(3,PL,MASC);NEG	nous ne les aurons pas utilisés par lui.
+utiliser	IND;PST;PFV;NOM(2,SG);ACC(3,PL,MASC);NEG	tu ne les avais pas utilisés.
+utiliser	IND;FUT;PFV;NOM(1,PL);BEN(1,SG);ACC(2,SG,FEM);NEG;Q	ne t'aurons-nous pas utilisée pour moi?
+utiliser	IND;FUT;PFV;NOM(1,SG);BEN(2,PL);ACC(1,PL,FEM);Q	nous aurai-je utilisées pour vous?
+utiliser	IND;PST;IPFV;NOM(1,SG);COM(3,SG,NEUT);ACC(2,SG);	je t'utilisais avec cela.
+utiliser	IND;PRS;NOM(2,PL);PROL(3,SG,MASC);ACC(1,SG);NEG;Q	ne m'utilisez-vous pas par lui?
+utiliser	IND;PRS;NOM(1,PL);BEN(2,SG);ACC(1,SG);Q	m'utilisons-nous pour toi?
+utiliser	IND;PST;PFV;LGSPEC1;NOM(2,SG);PROL(3,SG,NEUT);NEG	tu n'eus pas utilisé par cela.
+laisser	IND;PST;PFV;NOM(1,SG);ACC(2,PL,MASC);DAT(3,SG,MASC);	je vous avais laissés à lui.
+laisser	IND;PST;NOM(3,PL,FEM);ACC(1,PL,FEM);DAT(2,PL);NEG;Q	ne nous ont-elles pas laissées à vous?
+laisser	IND;PRS;NOM(3,PL,FEM);ACC(2,PL);DAT(3,SG,FEM);Q	vous laissent-elles à elle?
+laisser	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,SG);NEG;Q	ne me laissèrent-ils pas?
+laisser	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(1,SG,MASC);DAT(2,SG);NEG	ils ne m'eurent pas laissé à toi.
+laisser	IND;PST;IPFV;NOM(3,SG,FEM);ACC(2,SG);DAT(1,PL);NEG	elle ne te laissait pas à nous.
+laisser	IND;FUT;PFV;NOM(3,PL,MASC);DAT(1,SG);NEG	ils ne m'auront pas laissé.
+laisser	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,PL);DAT(3,SG,FEM);	ils nous laissèrent à elle.
+laisser	IND;PST;LGSPEC1;NOM(2,SG);DAT(3,SG,FEM);NEG	tu ne lui laissas pas.
+laisser	IND;PRS;NOM(3,PL,FEM);ACC(3,SG,FEM);Q	la laissent-elles?
+laisser	IND;PST;PFV;NOM(3,PL,MASC);ACC(1,PL,MASC);NEG;Q	ne nous avaient-ils pas laissés?
+laisser	IND;FUT;NOM(1,PL);DAT(1,SG);Q	me laisserons-nous?
+laisser	IND;PST;IPFV;NOM(3,PL,FEM);ACC(1,PL);DAT(2,PL);Q	nous laissaient-elles à vous?
+laisser	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,FEM);	je l'aurai laissée.
+laisser	IMP;PRS;NOM(2,SG);ACC(2,PL);DAT(3,SG,FEM);NEG	ne vous laisse pas à elle!
+laisser	IND;PST;PFV;NOM(1,SG);ACC(1,PL,FEM);LOC(3,SG,NEUT);Q	nous y avais-je laissées?
+laisser	COND;PRS;NOM(2,SG);ACC(3,SG,FEM);DAT(1,PL);Q	nous la laisserais-tu?
+laisser	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(2,SG,FEM);DAT(3,SG,MASC);NEG	je ne t'eus pas laissée à lui.
+laisser	IND;FUT;NOM(3,SG,MASC);ACC(2,PL);Q	vous laissera-t-il?
+laisser	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(1,SG,FEM);LOC(3,SG,NEUT);NEG	ils ne m'y eurent pas laissée.
+laisser	IND;FUT;NOM(3,PL,MASC);DAT(2,SG);NEG;Q	ne te laisseront-ils pas?
+montrer	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(2,SG);DAT(3,SG,MASC);	ils te montrèrent à lui.
+montrer	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,PL,MASC);DAT(3,SG,FEM);	tu nous eus montrés à elle.
+montrer	IND;PST;IPFV;NOM(3,SG,MASC);ACC(1,SG);DAT(3,PL);Q	me montrait-il à eux?
+montrer	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,SG,FEM);DAT(3,PL);Q	la leur eûtes-vous montrée?
+montrer	IND;FUT;NOM(2,SG);ACC(3,SG,MASC);DAT(1,PL);Q	nous le montreras-tu?
+montrer	IND;PST;NOM(2,SG);ACC(1,SG,FEM);DAT(3,SG,MASC);NEG;Q	ne m'as-tu pas montrée à lui?
+montrer	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);DAT(1,SG);NEG	nous ne me le montrerons pas.
+montrer	IND;PST;NOM(3,PL,FEM);ACC(1,PL,FEM);DAT(2,PL);	elles nous ont montrées à vous.
+montrer	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,SG,MASC);DAT(1,SG);	ils t'auront montré à moi.
+montrer	IND;FUT;PFV;NOM(1,PL);ACC(3,PL,FEM);	nous les aurons montrées.
+montrer	IND;PRS;NOM(2,SG);ACC(1,SG);DAT(3,PL);	tu me montres à eux.
+montrer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);DAT(3,SG,MASC);Q	nous avaient-elles montrées à lui?
+montrer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,MASC);DAT(3,SG,MASC);NEG;Q	ne nous avaient-elles pas montrés à lui?
+montrer	IND;PST;PFV;NOM(3,SG,MASC);ACC(3,PL,MASC);DAT(1,SG);NEG;Q	ne me les avait-il pas montrés?
+montrer	IND;PST;PFV;NOM(2,SG);ACC(1,SG,FEM);DAT(3,SG,FEM);	tu m'avais montrée à elle.
+montrer	IND;FUT;PFV;NOM(3,SG,MASC);ACC(3,PL,MASC);DAT(2,PL);Q	vous les aura-t-il montrés?
+montrer	IND;PST;NOM(1,SG);ACC(3,PL,FEM);DAT(3,SG,FEM);NEG	je ne les lui ai pas montrées.
+montrer	IND;PST;IPFV;NOM(3,PL,MASC);ACC(2,PL);DAT(3,SG,FEM);	ils vous montraient à elle.
+montrer	IND;PST;PFV;NOM(1,SG);ACC(3,PL,MASC);DAT(3,SG,MASC);	je les lui avais montrés.
+montrer	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,PL);DAT(3,PL);	je nous montrai à eux.
+montrer	IND;PST;IPFV;NOM(3,PL,MASC);ACC(3,SG,FEM);DAT(1,PL);Q	nous la montraient-ils?
+réduire	IND;PRS;NOM(3,PL,MASC);ACC(2,SG);LOC(3,SG,NEUT);NEG	ils ne t'y réduisent pas.
+réduire	IND;PST;LGSPEC1;NOM(1,SG);NEG;Q	ne réduisis-je pas?
+réduire	IND;PRS;NOM(3,SG,MASC);ACC(2,PL);Q	vous réduit-il?
+réduire	IND;FUT;PFV;NOM(3,PL,FEM);ACC(2,PL,FEM);LOC(3,SG,NEUT);	elles vous y auront réduites.
+réduire	IND;FUT;PFV;NOM(1,SG);ACC(2,SG,FEM);LOC(3,SG,NEUT);Q	t'y aurai-je réduite?
+réduire	IND;FUT;PFV;NOM(3,SG,MASC);ACC(1,PL,MASC);	il nous aura réduits.
+réduire	IND;PST;NOM(1,PL);ACC(2,PL,FEM);LOC(3,SG,NEUT);NEG	nous ne vous y avons pas réduites.
+réduire	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,SG,FEM);LOC(3,SG,NEUT);	tu m'y eus réduite.
+réduire	IND;FUT;PFV;NOM(1,SG);ACC(3,PL,MASC);NEG	je ne les aurai pas réduits.
+réduire	IND;FUT;PFV;NOM(2,PL);LOC(3,SG,NEUT);	vous y aurez réduit.
+réduire	IND;FUT;PFV;NOM(1,SG);ACC(3,PL,FEM);LOC(3,SG,NEUT);NEG;Q	ne les y aurai-je pas réduites?
+réduire	IND;PST;IPFV;NOM(1,SG);ACC(2,PL);NEG	je ne vous réduisais pas.
+réduire	IND;FUT;PFV;NOM(1,PL);ACC(3,SG,FEM);NEG;Q	ne l'aurons-nous pas réduite?
+réduire	IND;PST;NOM(3,SG,FEM);ACC(3,PL,FEM);NEG;Q	ne les a-t-elle pas réduites?
+réduire	IND;PST;PFV;NOM(3,PL,MASC);ACC(1,PL,MASC);NEG;Q	ne nous avaient-ils pas réduits?
+réduire	IND;FUT;PFV;NOM(1,PL);ACC(2,PL,FEM);LOC(3,SG,NEUT);	nous vous y aurons réduites.
+réduire	IND;PST;IPFV;NOM(2,PL);ACC(1,PL);LOC(3,SG,NEUT);NEG	vous ne nous y réduisiez pas.
+réduire	IND;PST;PFV;NOM(1,PL);ACC(3,SG,FEM);	nous l'avions réduite.
+réduire	IND;FUT;NOM(3,SG,FEM);ACC(3,PL);Q	les réduira-t-elle?
+réduire	IND;FUT;NOM(3,PL,FEM);ACC(3,SG);LOC(3,SG,NEUT);NEG;Q	ne l'y réduiront-elles pas?
+réduire	IND;PST;PFV;NOM(1,SG);ACC(3,SG,MASC);NEG	je ne l'avais pas réduit.
+tenter	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(2,PL,FEM);	il vous eut tentées.
+tenter	IND;FUT;NOM(3,PL,MASC);ACC(2,SG);	ils te tenteront.
+tenter	IND;PST;LGSPEC1;NOM(2,SG);	tu tentas.
+tenter	IND;PST;NOM(1,SG);ACC(1,PL,MASC);	je nous ai tentés.
+tenter	IND;FUT;NOM(3,PL,FEM);ACC(3,SG,FEM);	elles la tenteront.
+tenter	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(2,SG,MASC);Q	t'eûmes-nous tenté?
+tenter	IND;PST;NOM(3,PL,FEM);ACC(2,SG,FEM);NEG	elles ne t'ont pas tentée.
+tenter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,FEM);	elles l'eurent tentée.
+tenter	IND;PST;NOM(2,PL);ACC(3,PL,MASC);Q	les avez-vous tentés?
+tenter	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG);	elles te tentèrent.
+tenter	IND;PST;IPFV;NOM(3,PL,MASC);ACC(1,PL);Q	nous tentaient-ils?
+tenter	IND;FUT;PFV;NOM(2,PL);ACC(3,PL,FEM);Q	les aurez-vous tentées?
+tenter	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,PL);Q	nous tentèrent-ils?
+tenter	IND;PST;NOM(3,SG,FEM);Q	a-t-elle tenté?
+tenter	IND;PST;PFV;NOM(3,PL,MASC);ACC(1,SG,FEM);Q	m'avaient-ils tentée?
+tenter	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne l'eus-je pas tentée?
+tenter	IND;PST;IPFV;NOM(3,PL,MASC);ACC(2,PL);NEG;Q	ne vous tentaient-ils pas?
+tenter	IND;PST;IPFV;NOM(1,SG);ACC(3,PL);	je les tentais.
+tenter	IND;PST;NOM(3,SG,MASC);ACC(3,PL,FEM);	il les a tentées.
+tenter	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,SG,FEM);Q	m'avaient-elles tentée?
+supprimer	IND;FUT;PFV;NOM(2,PL);ACC(1,PL,FEM);	vous nous aurez supprimées.
+supprimer	IND;PST;NOM(2,PL);ACC(1,PL,MASC);	vous nous avez supprimés.
+supprimer	IND;PST;PFV;NOM(2,PL);ACC(1,PL,FEM);NEG	vous ne nous aviez pas supprimées.
+supprimer	COND;PRS;NOM(1,PL);ACC(2,SG);Q	te supprimerions-nous?
+supprimer	IND;FUT;PFV;NOM(3,PL,MASC);ACC(1,PL,MASC);	ils nous auront supprimés.
+supprimer	COND;PRS;NOM(1,PL);ACC(3,PL);NEG;Q	ne les supprimerions-nous pas?
+supprimer	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(3,SG,MASC);	ils le supprimèrent.
+supprimer	IND;FUT;PFV;NOM(3,SG,MASC);ACC(2,PL,FEM);Q	vous aura-t-il supprimées?
+supprimer	IND;FUT;PFV;NOM(2,SG);ACC(3,PL,FEM);NEG;Q	ne les auras-tu pas supprimées?
+supprimer	IND;FUT;PFV;NOM(3,SG,MASC);ACC(3,PL,FEM);Q	les aura-t-il supprimées?
+supprimer	IND;FUT;NOM(2,PL);ACC(3,PL);NEG;Q	ne les supprimerez-vous pas?
+supprimer	IND;PST;PFV;NOM(2,SG);ACC(3,PL,MASC);NEG;Q	ne les avais-tu pas supprimés?
+supprimer	COND;PRS;NOM(3,SG,FEM);ACC(2,SG);NEG	elle ne te supprimerait pas.
+supprimer	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,PL);Q	vous supprimâmes-nous?
+supprimer	IND;PST;NOM(3,SG,MASC);ACC(2,SG,MASC);	il t'a supprimé.
+supprimer	COND;PRS;NOM(2,SG);ACC(1,SG);	tu me supprimerais.
+supprimer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,MASC);NEG;Q	ne nous avaient-elles pas supprimés?
+supprimer	IND;PST;LGSPEC1;NOM(2,SG);ACC(1,PL);NEG	tu ne nous supprimas pas.
+supprimer	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,SG,FEM);NEG;Q	ne m'eus-tu pas supprimée?
+supprimer	IND;PST;IPFV;NOM(2,SG);ACC(2,PL);NEG;Q	ne vous supprimais-tu pas?
+supprimer	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(2,SG,FEM);	ils t'eurent supprimée.
+supprimer	IND;FUT;NOM(1,PL);ACC(1,SG);	nous me supprimerons.
+accepter	IND;FUT;NOM(1,SG);ACC(2,PL);GEN(3,SG,NEUT);NEG;Q	ne vous en accepterai-je pas?
+accepter	IND;FUT;PFV;NOM(2,PL);ACC(3,SG,FEM);LOC(3,SG,NEUT);	vous l'y aurez acceptée.
+accepter	IND;FUT;PFV;NOM(1,SG);	j'aurai accepté.
+accepter	IND;PST;PFV;NOM(2,SG);ACC(3,PL,MASC);LOC(3,SG,NEUT);NEG;Q	ne les y avais-tu pas acceptés?
+accepter	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(2,PL,MASC);GEN(3,SG,NEUT);NEG;Q	ne vous en eurent-ils pas acceptés?
+accepter	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(2,SG,FEM);NEG	je ne t'eus pas acceptée.
+accepter	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(2,PL,FEM);LOC(3,SG,NEUT);NEG;Q	ne vous y eûmes-nous pas acceptées?
+accepter	IND;PST;PFV;NOM(3,PL,MASC);ACC(1,PL,FEM);LOC(3,SG,NEUT);	ils nous y avaient acceptées.
+accepter	IND;PRS;NOM(1,PL);NEG	nous n'acceptons pas.
+accepter	IND;PST;PFV;NOM(1,SG);ACC(1,PL,FEM);GEN(3,SG,NEUT);Q	nous en avais-je acceptées?
+accepter	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,SG,FEM);GEN(3,SG,NEUT);NEG	tu ne m'en eus pas acceptée.
+accepter	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,SG,FEM);NEG;Q	ne l'auront-ils pas acceptée?
+accepter	IND;PST;NOM(3,PL,MASC);NEG;Q	n'ont-ils pas accepté?
+accepter	IND;PST;IPFV;NOM(1,SG);ACC(3,PL);GEN(3,SG,NEUT);Q	les en acceptais-je?
+accepter	IND;FUT;PFV;NOM(1,SG);ACC(1,PL,MASC);LOC(3,SG,NEUT);NEG	je ne nous y aurai pas acceptés.
+accepter	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(3,PL,FEM);Q	les eut-elle acceptées?
+accepter	COND;PRS;NOM(3,PL,MASC);ACC(1,SG);GEN(3,SG,NEUT);Q	m'en accepteraient-ils?
+accepter	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,SG,MASC);LOC(3,SG,NEUT);NEG;Q	ne m'y eûtes-vous pas accepté?
+accepter	IND;PST;PFV;NOM(3,SG,FEM);ACC(3,PL,MASC);NEG	elle ne les avait pas acceptés.
+accepter	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,PL,MASC);	tu nous eus acceptés.
+accepter	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(1,PL);NEG	il ne nous accepta pas.
+accepter	IND;PST;NOM(2,SG);ACC(3,SG,MASC);Q	l'as-tu accepté?
+rappeler	IND;FUT;NOM(1,SG);ACC(2,SG);LOC(3,SG,NEUT);	je t'y rappellerai.
+rappeler	IND;FUT;PFV;NOM(3,SG,FEM);ACC(1,PL,FEM);NEG	elle ne nous aura pas rappelées.
+rappeler	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,FEM);DAT(3,PL,RFLX);NEG	elles ne se la rappelèrent pas.
+rappeler	IND;PST;PFV;LGSPEC1;NOM(1,PL,MASC);ACC(3,SG,MASC);DAT(1,PL,RFLX);	nous nous le fûmes rappelés.
+rappeler	IND;PST;LGSPEC1;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne la rappelai-je pas?
+rappeler	COND;PRS;NOM(2,SG);ACC(2,PL);DAT(3,SG,MASC);NEG;Q	ne vous rappellerais-tu pas à lui?
+rappeler	IND;PST;IPFV;NOM(2,SG);ACC(3,SG,FEM);NEG	tu ne la rappelais pas.
+rappeler	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,FEM);DAT(1,SG);Q	t'eurent-elles rappelée à moi?
+rappeler	IND;PST;NOM(2,PL);ACC(3,PL,MASC);DAT(3,SG,FEM);Q	les lui avez-vous rappelés?
+rappeler	IND;FUT;NOM(3,PL,MASC);ACC(3,SG,MASC);DAT(1,PL);Q	nous le rappelleront-ils?
+rappeler	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(2,PL,FEM);DAT(1,SG);	nous vous eûmes rappelées à moi.
+rappeler	IND;FUT;PFV;NOM(2,PL);ACC(1,SG,FEM);DAT(3,PL);	vous m'aurez rappelée à eux.
+rappeler	IND;FUT;PFV;NOM(3,SG,FEM);ACC(1,PL,FEM);DAT(2,SG);	elle nous aura rappelées à toi.
+rappeler	IND;PST;PFV;NOM(2,PL);ACC(1,SG,FEM);DAT(3,SG,FEM);NEG	vous ne m'aviez pas rappelée à elle.
+rappeler	IND;PST;NOM(3,PL,FEM);ACC(2,PL,MASC);DAT(1,SG);Q	vous ont-elles rappelés à moi?
+rappeler	IND;FUT;NOM(3,PL,MASC);ACC(1,PL);DAT(2,PL);	ils nous rappelleront à vous.
+rappeler	IND;PRS;NOM(1,PL);ACC(1,PL,RFLX);	nous nous rappelons.
+rappeler	IND;PST;NOM(1,SG);ACC(2,SG,FEM);DAT(3,SG,FEM);Q	t'ai-je rappelée à elle?
+rappeler	IND;FUT;NOM(3,SG,MASC);ACC(3,PL);DAT(2,PL);	il vous les rappellera.
+rappeler	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,MASC);DAT(2,SG);	vous te les eûtes rappelés.
+rappeler	IND;PST;PFV;NOM(1,PL);ACC(2,SG,MASC);DAT(3,SG,FEM);	nous t'avions rappelé à elle.
+réussir	IND;PST;NOM(2,SG);ACC(1,SG,FEM);Q	m'as-tu réussie?
+réussir	IND;FUT;NOM(2,SG);DAT(2,PL);NEG;Q	ne vous réussiras-tu pas?
+réussir	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(2,SG,MASC);NEG;Q	ne t'eurent-ils pas réussi?
+réussir	IND;PST;PFV;NOM(2,SG);ACC(3,PL,FEM);NEG	tu ne les avais pas réussies.
+réussir	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(2,SG,FEM);NEG	il ne t'eut pas réussie.
+réussir	IND;PST;NOM(1,SG);Q	ai-je réussi?
+réussir	IND;PST;PFV;NOM(3,PL,MASC);ACC(2,SG,MASC);NEG	ils ne t'avaient pas réussi.
+réussir	IND;PST;IPFV;NOM(3,SG,MASC);NEG;Q	ne réussissait-il pas?
+réussir	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,FEM);	vous la réussîtes.
+réussir	IND;FUT;NOM(1,SG);ACC(3,SG,MASC);NEG;Q	ne le réussirai-je pas?
+réussir	IND;PST;LGSPEC1;NOM(3,SG,MASC);DAT(1,PL);NEG	il ne nous réussit pas.
+réussir	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,SG,FEM);NEG	ils ne t'auront pas réussie.
+réussir	IND;PST;LGSPEC1;NOM(3,SG,MASC);Q	réussit-il?
+réussir	COND;PRS;NOM(3,SG,MASC);ACC(1,PL);NEG;Q	ne nous réussirait-il pas?
+réussir	IND;FUT;PFV;NOM(3,SG,FEM);DAT(3,PL);	elle leur aura réussi.
+réussir	IND;PST;NOM(3,SG,MASC);ACC(1,SG,MASC);NEG;Q	ne m'a-t-il pas réussi?
+réussir	IND;PRS;NOM(1,SG);DAT(1,PL);NEG;Q	ne nous réussis-je pas?
+réussir	IND;PST;PFV;NOM(2,SG);ACC(3,SG,FEM);NEG;Q	ne l'avais-tu pas réussie?
+réussir	IND;PRS;NOM(2,PL);ACC(2,SG);NEG;Q	ne te réussissez-vous pas?
+réussir	COND;PRS;NOM(1,SG);DAT(3,SG,FEM);	je lui réussirais.
+réussir	COND;PRS;NOM(3,SG,FEM);DAT(2,PL);NEG	elle ne vous réussirait pas.
+évaluer	COND;PRS;NOM(2,SG);ACC(3,PL);NEG;Q	ne les évaluerais-tu pas?
+évaluer	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,PL,MASC);NEG;Q	ne nous eûtes-vous pas évalués?
+évaluer	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,SG);NEG	nous ne t'évaluâmes pas.
+évaluer	IND;PST;PFV;NOM(1,PL);ACC(2,PL,FEM);	nous vous avions évaluées.
+évaluer	IND;PST;NOM(3,PL,FEM);ACC(1,SG,FEM);	elles m'ont évaluée.
+évaluer	IND;PST;PFV;NOM(2,SG);ACC(3,SG,FEM);Q	l'avais-tu évaluée?
+évaluer	IND;PST;IPFV;NOM(2,PL);ACC(3,PL);NEG;Q	ne les évaluiez-vous pas?
+évaluer	IND;PST;NOM(1,PL);ACC(2,SG,MASC);	nous t'avons évalué.
+évaluer	IND;PST;PFV;NOM(2,SG);ACC(1,PL,FEM);NEG;Q	ne nous avais-tu pas évaluées?
+évaluer	IND;PST;NOM(3,SG,FEM);ACC(2,PL,FEM);NEG	elle ne vous a pas évaluées.
+évaluer	IND;PST;PFV;NOM(2,SG);ACC(1,SG,MASC);	tu m'avais évalué.
+évaluer	IND;PST;IPFV;NOM(3,PL,MASC);ACC(1,PL);NEG;Q	ne nous évaluaient-ils pas?
+évaluer	IND;PRS;NOM(3,PL,FEM);ACC(1,PL);NEG;Q	ne nous évaluent-elles pas?
+évaluer	IND;PRS;NOM(3,PL,FEM);Q	évaluent-elles?
+évaluer	COND;PRS;NOM(2,PL);ACC(3,SG);NEG	vous ne l'évalueriez pas.
+évaluer	IND;FUT;PFV;NOM(2,PL);ACC(1,SG,FEM);NEG	vous ne m'aurez pas évaluée.
+évaluer	IND;PST;NOM(3,SG,MASC);ACC(3,PL,MASC);NEG;Q	ne les a-t-il pas évalués?
+évaluer	IND;PST;PFV;NOM(1,PL);ACC(3,PL,FEM);Q	les avions-nous évaluées?
+évaluer	IND;PST;PFV;NOM(3,SG,MASC);ACC(1,SG,MASC);NEG	il ne m'avait pas évalué.
+parvenir	IND;PST;IPFV;NOM(3,PL,MASC);NEG	ils ne parvenaient pas.
+parvenir	IND;PST;PFV;LGSPEC1;NOM(1,SG,FEM);DAT(2,PL);	je vous fus parvenue.
+parvenir	IND;PST;IPFV;NOM(3,SG,MASC);DAT(3,PL);Q	leur parvenait-il?
+parvenir	COND;PRS;NOM(3,SG,FEM);DAT(1,SG);	elle me parviendrait.
+parvenir	IND;PST;IPFV;NOM(3,SG,MASC);	il parvenait.
+parvenir	IND;FUT;PFV;NOM(1,SG,FEM);DAT(2,SG);	je te serai parvenue.
+parvenir	IND;FUT;NOM(2,SG);DAT(2,PL);	tu vous parviendras.
+parvenir	IND;PRS;NOM(3,PL,MASC);DAT(1,SG);NEG;Q	ne me parviennent-ils pas?
+parvenir	IND;PST;PFV;NOM(1,SG,FEM);LOC(3,SG,NEUT);NEG;Q	n'y étais-je pas parvenue?
+parvenir	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);NEG;Q	ne furent-elles pas parvenues?
+parvenir	IND;PST;LGSPEC1;NOM(3,SG,MASC);DAT(2,PL);	il vous parvint.
+parvenir	IND;FUT;PFV;NOM(1,PL,MASC);DAT(2,SG);	nous te serons parvenus.
+parvenir	IND;PST;LGSPEC1;NOM(1,PL);Q	parvînmes-nous?
+parvenir	IND;FUT;NOM(1,PL);DAT(1,SG);NEG;Q	ne me parviendrons-nous pas?
+parvenir	COND;PRS;NOM(2,SG);DAT(1,SG);NEG	tu ne me parviendrais pas.
+parvenir	IMP;PRS;NOM(2,PL);DAT(1,PL);	parvenez-nous!
+parvenir	IND;PST;PFV;NOM(3,PL,FEM);DAT(2,PL);	elles vous étaient parvenues.
+parvenir	IND;PST;NOM(1,SG,MASC);DAT(1,PL);NEG;Q	ne nous suis-je pas parvenu?
+parvenir	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);DAT(2,SG);NEG	elle ne te fut pas parvenue.
+parvenir	IND;PST;LGSPEC1;NOM(3,PL,FEM);DAT(2,PL);	elles vous parvinrent.
+saisir	IND;PST;NOM(3,SG,FEM);ACC(3,PL,FEM);Q	les a-t-elle saisies?
+saisir	IND;PST;NOM(3,SG,MASC);ACC(2,SG,MASC);NEG;Q	ne t'a-t-il pas saisi?
+saisir	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,FEM);Q	t'eurent-elles saisie?
+saisir	COND;PRS;NOM(1,SG);GEN(3,SG,NEUT);ACC(1,SG,RFLX);NEG;Q	ne m'en saisirais-je pas?
+saisir	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,PL,FEM);NEG	nous ne les eûmes pas saisies.
+saisir	IND;PRS;NOM(2,PL);ACC(1,PL);NEG	vous ne nous saisissez pas.
+saisir	IND;PST;PFV;LGSPEC1;NOM(1,SG,FEM);GEN(3,SG,NEUT);ACC(1,SG,RFLX);NEG	je ne m'en fus pas saisie.
+saisir	IND;PST;IPFV;NOM(3,PL,MASC);ACC(1,SG);NEG	ils ne me saisissaient pas.
+saisir	IND;FUT;NOM(3,PL,FEM);ACC(2,SG);NEG	elles ne te saisiront pas.
+saisir	IND;FUT;NOM(3,SG,FEM);GEN(3,SG,NEUT);ACC(3,SG,RFLX);Q	s'en saisira-t-elle?
+saisir	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(2,SG);NEG	elle ne te saisit pas.
+saisir	IND;FUT;NOM(3,PL,MASC);ACC(3,SG,FEM);	ils la saisiront.
+saisir	IND;PRS;NOM(3,SG,FEM);ACC(2,PL);NEG;Q	ne vous saisit-elle pas?
+saisir	IND;FUT;PFV;NOM(3,PL,FEM);ACC(3,SG,FEM);NEG	elles ne l'auront pas saisie.
+saisir	IND;PST;NOM(2,PL);ACC(1,PL,FEM);Q	nous avez-vous saisies?
+saisir	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,MASC);	elles l'eurent saisi.
+saisir	IND;PST;NOM(1,SG);ACC(3,SG,MASC);	je l'ai saisi.
+saisir	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,PL,FEM);	ils vous auront saisies.
+saisir	IND;PST;IPFV;NOM(1,PL);ACC(3,PL);	nous les saisissions.
+signer	IND;PST;NOM(2,SG);NEG	tu n'as pas signé.
+signer	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(3,PL,FEM);	je les eus signées.
+signer	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne l'eus-je pas signée?
+signer	IND;PRS;NOM(2,SG);ACC(1,PL);NEG	tu ne nous signes pas.
+signer	IND;FUT;NOM(3,PL,FEM);Q	signeront-elles?
+signer	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,PL);NEG	je ne nous signai pas.
+signer	IND;PST;NOM(3,SG,FEM);ACC(2,PL,FEM);	elle vous a signées.
+signer	IND;FUT;PFV;NOM(3,PL,FEM);ACC(2,SG,MASC);NEG;Q	ne t'auront-elles pas signé?
+signer	IND;PST;IPFV;NOM(3,PL,FEM);ACC(2,PL);	elles vous signaient.
+signer	IND;PRS;NOM(3,SG,FEM);ACC(2,SG);NEG;Q	ne te signe-t-elle pas?
+signer	COND;PRS;NOM(1,PL);ACC(1,SG);NEG	nous ne me signerions pas.
+signer	IND;FUT;PFV;NOM(3,PL,FEM);ACC(3,SG,FEM);Q	l'auront-elles signée?
+signer	COND;PRS;NOM(3,SG,MASC);ACC(2,PL);NEG	il ne vous signerait pas.
+signer	IND;FUT;NOM(2,PL);ACC(3,SG,FEM);	vous la signerez.
+signer	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,SG,FEM);Q	t'auront-ils signée?
+signer	IND;PST;IPFV;NOM(1,SG);ACC(1,PL);	je nous signais.
+signer	IND;PRS;NOM(3,PL,MASC);ACC(2,PL);NEG	ils ne vous signent pas.
+signer	IND;FUT;NOM(2,PL);ACC(2,SG);Q	te signerez-vous?
+signer	IND;FUT;PFV;NOM(1,PL);NEG;Q	n'aurons-nous pas signé?
+signer	IND;PST;IPFV;NOM(2,SG);ACC(2,PL);NEG;Q	ne vous signais-tu pas?
+prouver	IND;PST;NOM(3,SG,MASC);PROL(3,PL,FEM);ACC(3,PL,MASC);	il les a prouvés par elles.
+prouver	IND;PST;IPFV;NOM(3,PL,MASC);PROL(2,PL);ACC(3,SG,MASC);Q	le prouvaient-ils par vous?
+prouver	IND;PST;LGSPEC1;NOM(1,PL);PROL(3,SG,MASC);ACC(1,SG);DAT(3,PL);Q	me prouvâmes-nous à eux par lui?
+prouver	IND;PRS;NOM(3,PL,MASC);PROL(1,PL);DAT(2,SG);	ils te prouvent par nous.
+prouver	COND;PRS;NOM(3,PL,MASC);ACC(2,SG);DAT(1,PL);Q	te prouveraient-ils à nous?
+prouver	IND;FUT;NOM(3,PL,MASC);DAT(1,PL);NEG;Q	ne nous prouveront-ils pas?
+prouver	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,FEM);DAT(2,SG);NEG	vous ne te les eûtes pas prouvées par cela.
+prouver	COND;PRS;NOM(1,PL);ACC(3,SG,MASC);DAT(3,SG,MASC);	nous le lui prouverions.
+prouver	COND;PRS;NOM(2,PL);PROL(2,SG);ACC(1,SG);DAT(2,SG);NEG;Q	ne me prouveriez-vous pas à toi par toi?
+prouver	IND;PRS;NOM(3,SG,MASC);PROL(1,PL);ACC(2,PL);DAT(1,PL);	il vous prouve à nous par nous.
+prouver	IND;PST;IPFV;NOM(3,SG,FEM);PROL(3,SG,MASC);ACC(1,PL);DAT(2,SG);	elle nous prouvait à toi par lui.
+prouver	COND;PRS;NOM(3,SG,FEM);ACC(3,PL);NEG	elle ne les prouverait pas.
+prouver	IND;PST;IPFV;NOM(1,PL);PROL(3,SG,NEUT);ACC(3,PL);	nous les prouvions par cela.
+prouver	IND;FUT;NOM(1,SG);PROL(3,SG,FEM);ACC(2,SG);DAT(3,SG,MASC);NEG	je ne te prouverai pas à lui par elle.
+prouver	IND;FUT;PFV;NOM(1,PL);PROL(3,SG,MASC);ACC(3,SG,MASC);NEG;Q	ne l'aurons-nous pas prouvé par lui?
+prouver	IND;FUT;NOM(2,PL);PROL(2,PL);ACC(1,SG);DAT(3,SG,FEM);NEG	vous ne me prouverez pas à elle par vous.
+prouver	IND;PST;NOM(3,PL,MASC);PROL(1,SG);ACC(2,PL,MASC);Q	vous ont-ils prouvés par moi?
+prouver	COND;PRS;NOM(3,PL,FEM);PROL(3,SG,MASC);ACC(3,SG,MASC);DAT(3,SG,FEM);NEG;Q	ne le lui prouveraient-elles pas par lui?
+prouver	COND;PRS;NOM(3,PL,FEM);PROL(2,PL);ACC(3,SG,FEM);DAT(2,SG);NEG;Q	ne te la prouveraient-elles pas par vous?
+libérer	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(1,PL,FEM);	il nous eut libérées.
+libérer	IND;FUT;NOM(3,PL,FEM);ACC(3,PL,RFLX);NEG;Q	ne se libèreront-elles pas?
+libérer	IND;PST;PFV;NOM(1,PL);ACC(2,SG,FEM);	nous t'avions libérée.
+libérer	IND;PST;PFV;NOM(1,PL);ACC(3,SG,FEM);Q	l'avions-nous libérée?
+libérer	IND;PST;NOM(2,PL);ACC(1,SG,MASC);Q	m'avez-vous libéré?
+libérer	IND;PST;PFV;NOM(2,PL);ACC(3,PL,MASC);Q	les aviez-vous libérés?
+libérer	IND;PST;NOM(3,SG,FEM);ACC(1,SG,FEM);NEG;Q	ne m'a-t-elle pas libérée?
+libérer	IND;PST;NOM(3,PL,MASC);ACC(2,SG,MASC);NEG;Q	ne t'ont-ils pas libéré?
+libérer	IND;FUT;NOM(1,PL);ACC(3,SG);GEN(3,SG,NEUT);NEG;Q	ne l'en libèrerons-nous pas?
+libérer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);Q	nous avaient-elles libérées?
+libérer	IND;FUT;PFV;NOM(1,SG,MASC);ACC(1,SG,RFLX);Q	me serai-je libéré?
+libérer	IND;FUT;NOM(1,PL);ACC(2,PL);NEG	nous ne vous libèrerons pas.
+libérer	COND;PRS;NOM(3,PL,MASC);	ils libèreraient.
+libérer	IND;FUT;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG	tu ne l'auras pas libéré.
+libérer	IND;FUT;NOM(3,PL,FEM);ACC(1,SG);	elles me libèreront.
+libérer	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG);GEN(3,SG,NEUT);	vous l'en libérâtes.
+libérer	IND;PST;NOM(1,PL);ACC(2,SG,MASC);NEG;Q	ne t'avons-nous pas libéré?
+libérer	COND;PRS;NOM(1,PL);ACC(2,PL);GEN(3,SG,NEUT);	nous vous en libèrerions.
+libérer	IND;PST;NOM(1,SG);ACC(2,SG,FEM);	je t'ai libérée.
+libérer	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,SG,FEM);GEN(3,SG,NEUT);Q	t'en auront-ils libérée?
+libérer	IND;PST;PFV;NOM(1,PL);Q	avions-nous libéré?
+libérer	IND;FUT;NOM(3,SG,FEM);ACC(1,PL);Q	nous libèrera-t-elle?
+rajouter	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,MASC);NEG	je ne l'aurai pas rajouté.
+rajouter	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL);NEG;Q	ne nous rajoutèrent-elles pas?
+rajouter	IND;PST;PFV;NOM(2,SG);ACC(3,PL,FEM);	tu les avais rajoutées.
+rajouter	IND;PST;NOM(1,SG);ACC(2,SG,MASC);Q	t'ai-je rajouté?
+rajouter	IND;PRS;NOM(2,PL);NEG	vous ne rajoutez pas.
+rajouter	IND;PST;IPFV;NOM(1,PL);NEG;Q	ne rajoutions-nous pas?
+rajouter	IND;FUT;PFV;NOM(3,PL,MASC);ACC(1,SG,MASC);Q	m'auront-ils rajouté?
+rajouter	IND;PRS;NOM(3,PL,MASC);ACC(1,SG);Q	me rajoutent-ils?
+rajouter	COND;PRS;NOM(1,SG);ACC(3,SG,FEM);NEG	je ne la rajouterais pas.
+rajouter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);	elles eurent rajouté.
+rajouter	IND;PST;NOM(1,SG);ACC(3,SG,MASC);Q	l'ai-je rajouté?
+rajouter	IND;PST;NOM(3,SG,MASC);ACC(3,PL,FEM);	il les a rajoutées.
+rajouter	IND;FUT;PFV;NOM(3,PL,FEM);ACC(1,PL,MASC);	elles nous auront rajoutés.
+rajouter	IND;PST;NOM(3,PL,MASC);ACC(2,SG,FEM);NEG;Q	ne t'ont-ils pas rajoutée?
+rajouter	IND;PST;NOM(3,SG,FEM);ACC(1,PL,MASC);Q	nous a-t-elle rajoutés?
+rajouter	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,FEM);Q	la rajoutâtes-vous?
+rajouter	IND;FUT;NOM(3,PL,MASC);ACC(2,PL);NEG	ils ne vous rajouteront pas.
+rajouter	COND;PRS;NOM(3,SG,FEM);ACC(2,PL);NEG;Q	ne vous rajouterait-elle pas?
+courir	IND;PST;PFV;NOM(3,SG,MASC);ACC(1,SG,FEM);	il m'avait courue.
+courir	IND;FUT;NOM(2,SG);ACC(1,PL);NEG;Q	ne nous courras-tu pas?
+courir	IND;PST;PFV;NOM(2,SG);ACC(3,SG,FEM);NEG;Q	ne l'avais-tu pas courue?
+courir	IND;PRS;NOM(3,PL,MASC);ACC(3,SG,FEM);Q	la courent-ils?
+courir	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG;Q	ne l'eurent-elles pas couru?
+courir	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(1,PL,FEM);NEG;Q	ne nous eus-je pas courues?
+courir	IND;PST;PFV;NOM(3,PL,MASC);ACC(3,SG,FEM);NEG	ils ne l'avaient pas courue.
+courir	IND;PST;PFV;NOM(3,PL,FEM);ACC(2,PL,FEM);Q	vous avaient-elles courues?
+courir	COND;PRS;NOM(3,SG,MASC);ACC(1,PL);	il nous courrait.
+courir	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(1,PL,FEM);Q	nous eus-je courues?
+courir	IND;FUT;PFV;NOM(3,SG,MASC);ACC(1,SG,FEM);	il m'aura courue.
+courir	IND;PST;PFV;NOM(3,SG,FEM);ACC(2,PL,MASC);	elle vous avait courus.
+courir	IND;PST;NOM(3,PL,FEM);ACC(2,SG,MASC);Q	t'ont-elles couru?
+courir	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,MASC);	vous les eûtes courus.
+courir	COND;PRS;NOM(1,SG);ACC(2,PL);	je vous courrais.
+courir	IND;PRS;NOM(3,PL,MASC);	ils courent.
+courir	IND;FUT;PFV;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG;Q	ne l'auront-elles pas couru?
+courir	COND;PRS;NOM(3,PL,MASC);ACC(1,SG);	ils me courraient.
+courir	IND;FUT;NOM(3,PL,FEM);ACC(1,SG);NEG;Q	ne me courront-elles pas?
+courir	IND;PST;NOM(2,SG);ACC(1,SG,MASC);Q	m'as-tu couru?
+courir	IND;PST;IPFV;NOM(1,SG);ACC(2,SG);	je te courais.
+marquer	IND;FUT;NOM(3,PL,FEM);ACC(1,PL);LOC(3,SG,NEUT);	elles nous y marqueront.
+marquer	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,PL,FEM);Q	les eûmes-nous marquées?
+marquer	IND;FUT;PFV;NOM(1,PL);ACC(2,SG,MASC);LOC(3,SG,NEUT);	nous t'y aurons marqué.
+marquer	IND;PRS;NOM(2,PL);ACC(3,SG);LOC(3,SG,NEUT);	vous l'y marquez.
+marquer	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,SG,FEM);LOC(3,SG,NEUT);NEG	nous ne l'y eûmes pas marquée.
+marquer	COND;PRS;NOM(3,PL,MASC);ACC(2,PL);LOC(3,SG,NEUT);	ils vous y marqueraient.
+marquer	COND;PRS;NOM(3,PL,MASC);ACC(2,PL);NEG	ils ne vous marqueraient pas.
+marquer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);NEG	elles n'eurent pas marqué.
+marquer	IND;PST;NOM(1,SG);ACC(2,SG,FEM);	je t'ai marquée.
+marquer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,MASC);Q	t'eurent-elles marqué?
+marquer	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,SG,FEM);LOC(3,SG,NEUT);NEG;Q	ne l'y auront-ils pas marquée?
+marquer	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG);LOC(3,SG,NEUT);	elles t'y marquèrent.
+marquer	IND;PST;PFV;NOM(1,PL);ACC(3,SG,MASC);GEN(3,SG,NEUT);NEG;Q	ne l'en avions-nous pas marqué?
+marquer	IND;FUT;NOM(3,PL,MASC);ACC(2,PL);GEN(3,SG,NEUT);NEG	ils ne vous en marqueront pas.
+marquer	IND;FUT;PFV;NOM(1,PL);ACC(2,SG,MASC);NEG	nous ne t'aurons pas marqué.
+marquer	IND;FUT;PFV;NOM(1,PL);ACC(2,SG,MASC);GEN(3,SG,NEUT);NEG	nous ne t'en aurons pas marqué.
+marquer	IND;PST;PFV;NOM(3,PL,MASC);ACC(2,SG,MASC);LOC(3,SG,NEUT);	ils t'y avaient marqué.
+marquer	IND;FUT;NOM(2,PL);ACC(3,PL);GEN(3,SG,NEUT);	vous les en marquerez.
+marquer	IND;FUT;PFV;NOM(1,SG);ACC(2,PL,FEM);NEG;Q	ne vous aurai-je pas marquées?
+marquer	COND;PRS;NOM(2,PL);ACC(3,PL);NEG;Q	ne les marqueriez-vous pas?
+affirmer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);	elles nous avaient affirmées.
+affirmer	COND;PRS;NOM(1,PL);ACC(1,SG);DAT(2,SG);NEG	nous ne m'affirmerions pas à toi.
+affirmer	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(2,PL);DAT(1,PL);	elles vous affirmèrent à nous.
+affirmer	IND;PST;LGSPEC1;NOM(2,SG);ACC(3,SG,MASC);DAT(3,PL);NEG	tu ne le leur affirmas pas.
+affirmer	IND;PST;PFV;NOM(2,SG);ACC(3,SG,FEM);DAT(1,PL);Q	nous l'avais-tu affirmée?
+affirmer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,MASC);DAT(3,SG,MASC);NEG;Q	ne t'eurent-elles pas affirmé à lui?
+affirmer	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(1,PL,MASC);DAT(3,PL);NEG	il ne nous eut pas affirmés à eux.
+affirmer	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG,FEM);DAT(3,PL);NEG;Q	ne m'eut-elle pas affirmée à eux?
+affirmer	IND;PST;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG;Q	ne l'avais-tu pas affirmé?
+affirmer	COND;PRS;NOM(3,PL,MASC);ACC(2,SG);NEG;Q	ne t'affirmeraient-ils pas?
+affirmer	COND;PRS;NOM(2,SG);DAT(1,PL);	tu nous affirmerais.
+affirmer	IND;PST;PFV;NOM(3,SG,MASC);ACC(3,PL,MASC);DAT(3,PL);NEG	il ne les leur avait pas affirmés.
+affirmer	IND;PST;PFV;NOM(3,PL,FEM);ACC(2,SG,FEM);DAT(1,SG);NEG	elles ne t'avaient pas affirmée à moi.
+affirmer	IND;FUT;NOM(1,PL);ACC(3,SG);DAT(2,PL);NEG;Q	ne vous l'affirmerons-nous pas?
+affirmer	IND;FUT;NOM(1,PL);ACC(1,SG);DAT(3,SG,MASC);Q	m'affirmerons-nous à lui?
+affirmer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL,MASC);DAT(3,SG,MASC);	elles nous eurent affirmés à lui.
+affirmer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG	elles ne l'eurent pas affirmé.
+affirmer	IND;PST;LGSPEC1;NOM(2,PL);DAT(1,PL);Q	nous affirmâtes-vous?
+affirmer	COND;PRS;NOM(1,SG);ACC(2,SG);DAT(3,SG,MASC);Q	t'affirmerais-je à lui?
+affirmer	IND;PST;NOM(3,PL,MASC);ACC(2,PL,FEM);DAT(3,SG,FEM);Q	vous ont-ils affirmées à elle?
+envisager	COND;PRS;NOM(3,SG,FEM);ACC(1,PL);	elle nous envisagerait.
+envisager	IND;PST;NOM(3,SG,MASC);ACC(3,PL,MASC);NEG;Q	ne les a-t-il pas envisagés?
+envisager	IND;FUT;NOM(3,SG,MASC);ACC(1,PL);NEG;Q	ne nous envisagera-t-il pas?
+envisager	COND;PRS;NOM(2,SG);ACC(3,PL);	tu les envisagerais.
+envisager	IND;PST;NOM(3,PL,FEM);ACC(3,SG,FEM);NEG;Q	ne l'ont-elles pas envisagée?
+envisager	IND;FUT;PFV;NOM(1,SG);ACC(2,SG,FEM);Q	t'aurai-je envisagée?
+envisager	COND;PRS;NOM(3,SG,FEM);ACC(2,PL);	elle vous envisagerait.
+envisager	IND;PRS;NOM(3,PL,MASC);ACC(1,PL);NEG	ils ne nous envisagent pas.
+envisager	IND;FUT;PFV;NOM(2,SG);ACC(1,SG,FEM);NEG;Q	ne m'auras-tu pas envisagée?
+envisager	IND;FUT;PFV;NOM(3,PL,FEM);ACC(3,SG,FEM);NEG	elles ne l'auront pas envisagée.
+envisager	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,MASC);	vous les eûtes envisagés.
+envisager	IND;PST;IPFV;NOM(3,SG,MASC);ACC(3,PL);NEG	il ne les envisageait pas.
+envisager	IND;FUT;PFV;NOM(3,SG,FEM);ACC(2,SG,MASC);Q	t'aura-t-elle envisagé?
+envisager	IND;PRS;NOM(3,PL,FEM);ACC(3,SG);	elles l'envisagent.
+envisager	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(1,PL,FEM);NEG;Q	ne nous eut-elle pas envisagées?
+envisager	IND;PST;NOM(2,SG);ACC(3,PL,MASC);Q	les as-tu envisagés?
+envisager	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,FEM);	elles t'eurent envisagée.
+envisager	IND;FUT;NOM(3,PL,MASC);ACC(2,SG);Q	t'envisageront-ils?
+envisager	IND;PST;NOM(3,PL,FEM);ACC(1,SG,FEM);NEG;Q	ne m'ont-elles pas envisagée?
+envisager	IND;PST;PFV;NOM(3,SG,MASC);ACC(3,PL,FEM);Q	les avait-il envisagées?
+envisager	IND;PRS;NOM(3,SG,MASC);ACC(2,PL);NEG	il ne vous envisage pas.
+fuir	IND;PST;NOM(3,SG,FEM);ACC(1,SG,MASC);NEG;Q	ne m'a-t-elle pas fui?
+fuir	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,SG,MASC);NEG	vous ne m'eûtes pas fui.
+fuir	IND;PRS;NOM(3,SG,FEM);ACC(3,PL);NEG;Q	ne les fuit-elle pas?
+fuir	IND;PST;NOM(1,SG);NEG;Q	n'ai-je pas fui?
+fuir	IND;PRS;NOM(3,SG,MASC);ACC(2,SG);NEG	il ne te fuit pas.
+fuir	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(3,SG,FEM);Q	l'eurent-ils fuie?
+fuir	IND;FUT;PFV;NOM(3,PL,FEM);ACC(2,SG,FEM);	elles t'auront fuie.
+fuir	IND;PST;IPFV;NOM(2,SG);ACC(1,PL);	tu nous fuyais.
+fuir	IND;FUT;PFV;NOM(2,PL);ACC(1,PL,FEM);Q	nous aurez-vous fuies?
+fuir	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(3,PL);NEG;Q	ne les fuit-il pas?
+fuir	IND;PST;LGSPEC1;NOM(3,PL,FEM);NEG	elles ne fuirent pas.
+fuir	IND;PST;IPFV;NOM(2,PL);	vous fuyiez.
+fuir	IND;PST;PFV;NOM(3,PL,MASC);NEG	ils n'avaient pas fui.
+fuir	COND;PRS;NOM(3,PL,FEM);GEN(3,SG,NEUT);Q	en fuiraient-elles?
+fuir	IND;PRS;NOM(1,SG);ACC(3,SG,FEM);NEG	je ne la fuis pas.
+fuir	IND;PRS;NOM(3,SG,FEM);ACC(1,PL);	elle nous fuit.
+fuir	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(2,SG);NEG;Q	ne te fuit-elle pas?
+fuir	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);NEG;Q	n'eurent-ils pas fui?
+fuir	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,FEM);	elles la fuirent.
+fuir	IND;PST;NOM(3,SG,FEM);ACC(2,PL,MASC);Q	vous a-t-elle fuis?
+fuir	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG	elles ne l'avaient pas fui.
+ramener	IND;PST;PFV;NOM(3,SG,FEM);ACC(1,PL,MASC);DAT(3,PL);NEG	elle ne nous avait pas ramenés à eux.
+ramener	COND;PRS;NOM(3,PL,FEM);ON(2,SG);ACC(2,PL);NEG	elles ne vous ramèneraient pas sur toi.
+ramener	IND;PRS;NOM(3,SG,FEM);ON(3,PL,FEM);ACC(2,PL);	elle vous ramène sur elles.
+ramener	COND;PRS;NOM(3,SG,MASC);ON(3,SG,NEUT);ACC(3,PL);NEG;Q	ne les ramènerait-il pas sur cela?
+ramener	IND;FUT;NOM(3,PL,FEM);ACC(2,SG);LOC(3,SG,NEUT);NEG;Q	ne t'y ramèneront-elles pas?
+ramener	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,PL);DAT(3,SG,MASC);NEG	je ne nous ramenai pas à lui.
+ramener	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ON(1,PL);ACC(3,SG,FEM);Q	l'eurent-elles ramenée sur nous?
+ramener	IND;FUT;NOM(3,SG,MASC);ON(2,SG);ACC(2,SG);NEG;Q	ne te ramènera-t-il pas sur toi?
+ramener	IND;FUT;NOM(3,PL,MASC);ON(1,PL);ACC(3,SG,FEM);Q	la ramèneront-ils sur nous?
+ramener	IND;PST;NOM(3,SG,MASC);ON(3,PL,FEM);ACC(1,PL,MASC);	il nous a ramenés sur elles.
+ramener	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,PL,FEM);GEN(3,SG,NEUT);NEG	nous ne les en eûmes pas ramenées.
+ramener	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,PL,FEM);DAT(1,SG);NEG;Q	ne me les eus-tu pas ramenées?
+ramener	IND;FUT;PFV;NOM(2,SG);ACC(3,PL,MASC);GEN(3,SG,NEUT);	tu les en auras ramenés.
+ramener	IND;PRS;NOM(2,PL);ON(3,SG,MASC);ACC(2,SG);NEG;Q	ne te ramenez-vous pas sur lui?
+ramener	IND;PST;LGSPEC1;NOM(1,PL);GEN(3,SG,NEUT);ACC(1,PL,RFLX);NEG;Q	ne nous en ramenâmes-nous pas?
+ramener	IND;FUT;PFV;NOM(3,SG,FEM);ON(3,SG,FEM);ACC(2,SG,MASC);	elle t'aura ramené sur elle.
+ramener	IND;FUT;NOM(1,SG);ACC(3,PL);DAT(2,PL);	je vous les ramènerai.
+ramener	IND;PST;IPFV;NOM(3,SG,FEM);GEN(3,SG,NEUT);ACC(3,SG,RFLX);NEG;Q	ne s'en ramenait-elle pas?
+ramener	IND;PST;NOM(3,PL,FEM);ON(3,PL,MASC);ACC(3,SG,MASC);	elles l'ont ramené sur eux.
+renoncer	COND;PRS;NOM(3,PL,FEM);LOC(3,SG,NEUT);	elles y renonceraient.
+renoncer	IND;PST;LGSPEC1;NOM(3,PL,FEM);LOC(3,SG,NEUT);NEG;Q	n'y renoncèrent-elles pas?
+renoncer	IND;PST;PFV;LGSPEC1;NOM(1,SG);	j'eus renoncé.
+renoncer	IND;FUT;PFV;NOM(1,PL);Q	aurons-nous renoncé?
+renoncer	IND;PST;NOM(1,SG);	j'ai renoncé.
+renoncer	COND;PRS;NOM(3,PL,MASC);LOC(3,SG,NEUT);	ils y renonceraient.
+renoncer	IND;PST;NOM(3,PL,MASC);NEG	ils n'ont pas renoncé.
+renoncer	IND;PST;IPFV;NOM(1,SG);NEG	je ne renonçais pas.
+renoncer	IND;PRS;NOM(1,PL);LOC(3,SG,NEUT);NEG	nous n'y renonçons pas.
+renoncer	IND;PST;LGSPEC1;NOM(3,SG,FEM);NEG	elle ne renonça pas.
+renoncer	COND;PRS;NOM(3,PL,FEM);LOC(3,SG,NEUT);NEG	elles n'y renonceraient pas.
+renoncer	IND;FUT;NOM(1,SG);	je renoncerai.
+renoncer	IND;PST;IPFV;NOM(1,SG);LOC(3,SG,NEUT);	j'y renonçais.
+renoncer	IND;PST;PFV;NOM(1,SG);NEG;Q	n'avais-je pas renoncé?
+renoncer	IND;PST;PFV;NOM(3,PL,MASC);LOC(3,SG,NEUT);NEG	ils n'y avaient pas renoncé.
+renoncer	IND;PST;LGSPEC1;NOM(3,PL,FEM);LOC(3,SG,NEUT);	elles y renoncèrent.
+renoncer	IND;PST;LGSPEC1;NOM(2,PL);LOC(3,SG,NEUT);	vous y renonçâtes.
+renoncer	IND;PST;NOM(1,SG);Q	ai-je renoncé?
+renoncer	IND;FUT;PFV;NOM(1,SG);LOC(3,SG,NEUT);Q	y aurai-je renoncé?
+renoncer	IND;PST;LGSPEC1;NOM(3,PL,FEM);NEG;Q	ne renoncèrent-elles pas?
+dessiner	IND;PRS;NOM(1,SG);ACC(3,SG,MASC);NEG;Q	ne le dessiné-je pas?
+dessiner	IND;FUT;PFV;NOM(3,SG,MASC);ACC(3,SG,RFLX);NEG	il ne se sera pas dessiné.
+dessiner	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);Q	nous avaient-elles dessinées?
+dessiner	IND;PRS;NOM(3,PL,MASC);ACC(2,PL);	ils vous dessinent.
+dessiner	IND;FUT;NOM(3,PL,FEM);ACC(2,PL);NEG;Q	ne vous dessineront-elles pas?
+dessiner	COND;PRS;NOM(3,PL,FEM);ACC(3,PL,RFLX);Q	se dessineraient-elles?
+dessiner	IND;PRS;NOM(1,SG);ACC(3,SG,MASC);NEG;Q	ne le dessiné-je pas?
+dessiner	IND;PST;PFV;NOM(3,PL,MASC);ACC(1,SG,FEM);NEG	ils ne m'avaient pas dessinée.
+dessiner	IND;PST;LGSPEC1;NOM(1,SG);	je dessinai.
+dessiner	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(3,PL,FEM);NEG	il ne les eut pas dessinées.
+dessiner	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,SG,FEM);Q	la dessinâmes-nous?
+dessiner	IND;PST;NOM(1,SG,MASC);ACC(1,SG,RFLX);NEG	je ne me suis pas dessiné.
+dessiner	COND;PRS;NOM(1,SG);ACC(2,PL);NEG;Q	ne vous dessinerais-je pas?
+dessiner	COND;PRS;NOM(1,PL);ACC(1,PL,RFLX);Q	nous dessinerions-nous?
+dessiner	IND;FUT;PFV;NOM(1,SG);ACC(2,SG,MASC);	je t'aurai dessiné.
+dessiner	IND;PST;PFV;LGSPEC1;NOM(1,SG);NEG	je n'eus pas dessiné.
+dessiner	COND;PRS;NOM(2,SG);ACC(1,SG);NEG;Q	ne me dessinerais-tu pas?
+dessiner	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG,MASC);Q	m'eut-il dessiné?
+dessiner	IND;PRS;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG;Q	ne le dessinent-elles pas?
+confondre	IND;PST;PFV;NOM(3,PL,MASC);COM(3,SG,MASC);ACC(1,SG,MASC);NEG	ils ne m'avaient pas confondu avec lui.
+confondre	IND;PRS;NOM(1,SG);COM(3,PL,MASC);ACC(3,SG,MASC);Q	le confonds-je avec eux?
+confondre	COND;PRS;NOM(1,SG);COM(1,PL);ACC(3,SG,FEM);Q	la confondrais-je avec nous?
+confondre	IND;PST;LGSPEC1;NOM(2,SG);COM(2,PL);ACC(3,SG,MASC);NEG;Q	ne le confondis-tu pas avec vous?
+confondre	IND;PST;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne l'ai-je pas confondue?
+confondre	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);COM(3,SG,MASC);ACC(1,SG,MASC);Q	m'eut-il confondu avec lui?
+confondre	IND;FUT;PFV;NOM(3,SG,FEM);COM(1,SG);ACC(1,SG,FEM);Q	m'aura-t-elle confondue avec moi?
+confondre	IND;PST;IPFV;NOM(3,PL,MASC);COM(3,SG,NEUT);ACC(3,SG,FEM);NEG;Q	ne la confondaient-ils pas avec cela?
+confondre	IND;FUT;NOM(1,SG);COM(3,SG,FEM);NEG	je ne confondrai pas avec elle.
+confondre	IND;PST;PFV;NOM(1,SG);COM(3,SG,FEM);ACC(1,PL,FEM);NEG;Q	ne nous avais-je pas confondues avec elle?
+confondre	IND;PRS;NOM(1,SG);COM(1,PL);ACC(2,PL);Q	vous confonds-je avec nous?
+confondre	IND;FUT;NOM(3,PL,FEM);COM(3,SG,NEUT);ACC(1,SG);	elles me confondront avec cela.
+confondre	IND;FUT;PFV;NOM(1,SG);COM(2,PL);ACC(2,SG,FEM);Q	t'aurai-je confondue avec vous?
+confondre	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);COM(3,PL,FEM);ACC(1,SG,MASC);NEG;Q	ne m'eut-il pas confondu avec elles?
+confondre	COND;PRS;NOM(3,SG,FEM);COM(3,PL,MASC);ACC(1,SG);	elle me confondrait avec eux.
+confondre	IND;PST;PFV;LGSPEC1;NOM(1,PL);COM(3,PL,MASC);ACC(2,PL,MASC);	nous vous eûmes confondus avec eux.
+confondre	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);COM(3,SG,FEM);ACC(2,PL,FEM);Q	vous eut-elle confondues avec elle?
+confondre	IND;FUT;PFV;NOM(2,SG);COM(3,PL,FEM);ACC(1,SG,FEM);	tu m'auras confondue avec elles.
+glisser	IND;PST;IPFV;NOM(1,PL);ACC(2,SG);DAT(3,SG,MASC);NEG;Q	ne te glissions-nous pas à lui?
+glisser	IND;PST;LGSPEC1;NOM(1,SG);ACC(2,PL);DAT(3,PL);Q	vous glissai-je à eux?
+glisser	IND;FUT;PFV;NOM(1,SG);ACC(3,PL,MASC);DAT(1,PL);NEG	je ne nous les aurai pas glissés.
+glisser	IND;FUT;PFV;NOM(3,PL,FEM);VERS(3,PL,FEM);GEN(3,SG,NEUT);	elles en auront glissé vers elles.
+glisser	COND;PRS;NOM(2,PL);ACC(3,SG,FEM);DAT(1,SG);NEG;Q	ne me la glisseriez-vous pas?
+glisser	IND;PST;NOM(1,SG);ACC(2,PL,MASC);DAT(3,PL);	je vous ai glissés à eux.
+glisser	IND;PRS;NOM(3,SG,FEM);VERS(1,SG);	elle glisse vers moi.
+glisser	IND;PST;PFV;NOM(1,SG);ACC(3,PL,MASC);LOC(3,SG,NEUT);NEG	je ne les y avais pas glissés.
+glisser	IND;PST;LGSPEC1;NOM(1,SG);VERS(3,PL,MASC);	je glissai vers eux.
+glisser	IND;PST;LGSPEC1;NOM(1,SG);ON(1,SG);	je glissai sur moi.
+glisser	IND;FUT;NOM(2,SG);ON(2,SG);NEG	tu ne glisseras pas sur toi.
+glisser	IND;PRS;NOM(2,PL);ACC(2,SG);LOC(3,SG,NEUT);Q	t'y glissez-vous?
+glisser	IND;PST;LGSPEC1;NOM(2,SG);NEG;Q	ne glissas-tu pas?
+glisser	IND;FUT;NOM(2,PL);ACC(1,SG);DAT(2,SG);NEG;Q	ne me glisserez-vous pas à toi?
+glisser	IND;PST;PFV;NOM(2,PL);ACC(3,PL,FEM);DAT(3,SG,MASC);NEG	vous ne les lui aviez pas glissées.
+glisser	IND;PST;PFV;NOM(1,SG);ACC(2,PL,MASC);DAT(1,PL);NEG	je ne vous avais pas glissés à nous.
+glisser	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(2,SG,FEM);DAT(1,SG);Q	t'eurent-ils glissée à moi?
+glisser	IND;PRS;NOM(1,SG);ACC(2,SG);DAT(3,PL);	je te glisse à eux.
+détecter	IND;PST;NOM(3,SG,MASC);ACC(3,PL,MASC);	il les a détectés.
+détecter	IND;PRS;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne la détecté-je pas?
+détecter	IND;FUT;NOM(3,PL,MASC);ACC(3,SG,MASC);NEG	ils ne le détecteront pas.
+détecter	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(2,SG,MASC);NEG	elle ne t'eut pas détecté.
+détecter	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(2,SG);Q	te détectèrent-ils?
+détecter	COND;PRS;NOM(1,PL);ACC(3,SG,MASC);NEG	nous ne le détecterions pas.
+détecter	IND;PST;PFV;NOM(2,SG);ACC(3,PL,FEM);	tu les avais détectées.
+détecter	IND;PST;LGSPEC1;NOM(2,SG);ACC(1,PL);Q	nous détectas-tu?
+détecter	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(1,PL,FEM);NEG	tu ne nous eus pas détectées.
+détecter	IND;PRS;NOM(3,PL,MASC);ACC(3,SG,FEM);NEG;Q	ne la détectent-ils pas?
+détecter	IND;PRS;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG;Q	ne le détectent-elles pas?
+détecter	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,PL,FEM);NEG;Q	ne les eûmes-nous pas détectées?
+détecter	COND;PRS;NOM(3,SG,MASC);ACC(1,PL);	il nous détecterait.
+détecter	IMP;PRS;NOM(2,SG);ACC(1,PL);	détecte-nous!
+détecter	IND;FUT;PFV;NOM(3,SG,FEM);ACC(2,PL,MASC);NEG	elle ne vous aura pas détectés.
+détecter	IND;PST;PFV;NOM(3,SG,MASC);ACC(2,SG,FEM);NEG	il ne t'avait pas détectée.
+détecter	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,SG,FEM);NEG;Q	ne l'avaient-elles pas détectée?
+détecter	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(2,SG,MASC);Q	t'eûmes-nous détecté?
+détecter	IND;PST;IPFV;NOM(1,SG);ACC(3,SG,FEM);	je la détectais.
+détecter	IND;FUT;NOM(2,PL);ACC(2,SG);Q	te détecterez-vous?
+détecter	IND;FUT;PFV;NOM(2,SG);ACC(1,SG,FEM);NEG;Q	ne m'auras-tu pas détectée?
+allier	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,RFLX);COM(3,SG,NEUT);CONTR(3,SG,NEUT);	il s'alliera avec cela contre cela.
+allier	IND;FUT;PFV;NOM(1,SG,MASC);ACC(1,SG,RFLX);COM(3,SG,FEM);CONTR(3,PL,FEM);	je me serai allié avec elle contre elles.
+allier	IND;PST;PFV;NOM(3,SG,FEM);ACC(3,SG,RFLX);COM(3,SG,MASC);CONTR(3,SG,NEUT);	elle s'était alliée avec lui contre cela.
+allier	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,SG,RFLX);COM(1,PL);CONTR(3,SG,FEM);NEG;Q	ne m'alliai-je pas avec nous contre elle?
+allier	IND;PST;NOM(1,PL,MASC);ACC(1,PL,RFLX);COM(3,SG,MASC);	nous nous sommes alliés avec lui.
+allier	IND;FUT;PFV;NOM(3,SG,FEM);ACC(3,SG,RFLX);COM(2,SG);CONTR(2,PL);NEG	elle ne se sera pas alliée avec toi contre vous.
+allier	IND;FUT;PFV;NOM(2,SG);ACC(1,SG,MASC);NEG;Q	ne m'auras-tu pas allié?
+allier	IND;FUT;NOM(3,PL,MASC);COM(3,SG,FEM);ACC(3,SG);NEG;Q	ne l'allieront-ils pas avec elle?
+allier	IND;FUT;NOM(3,PL,MASC);COM(3,PL,MASC);ACC(2,SG);	ils t'allieront avec eux.
+allier	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,PL,RFLX);COM(3,PL,FEM);CONTR(3,PL,FEM);Q	se seront-ils alliés avec elles contre elles?
+allier	COND;PRS;NOM(3,SG,FEM);ACC(3,SG,RFLX);COM(2,PL);CONTR(2,PL);NEG	elle ne s'allierait pas avec vous contre vous.
+allier	IND;PST;LGSPEC1;NOM(2,SG);COM(3,SG,NEUT);ACC(3,PL);NEG;Q	ne les allias-tu pas avec cela?
+allier	IND;PST;PFV;LGSPEC1;NOM(2,PL,MASC);ACC(2,PL,RFLX);COM(3,SG,MASC);CONTR(3,PL,MASC);	vous vous fûtes alliés avec lui contre eux.
+allier	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,PL,RFLX);COM(3,PL,FEM);CONTR(3,SG,NEUT);Q	s'étaient-elles alliées avec elles contre cela?
+allier	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(3,PL,RFLX);COM(2,PL);CONTR(3,PL,FEM);	elles se furent alliées avec vous contre elles.
+allier	IND;PST;PFV;NOM(2,SG,FEM);ACC(2,SG,RFLX);COM(3,SG,NEUT);NEG	tu ne t'étais pas alliée avec cela.
+allier	COND;PRS;NOM(3,PL,MASC);COM(3,PL,MASC);ACC(1,SG);NEG	ils ne m'allieraient pas avec eux.
+allier	IND;PST;PFV;NOM(3,SG,FEM);COM(3,SG,FEM);ACC(1,SG,MASC);NEG	elle ne m'avait pas allié avec elle.
+allier	IND;PST;PFV;NOM(1,SG,MASC);ACC(1,SG,RFLX);COM(2,PL);CONTR(3,SG,FEM);NEG	je ne m'étais pas allié avec vous contre elle.
+allier	IND;PST;PFV;NOM(2,PL,MASC);ACC(2,PL,RFLX);COM(3,PL,MASC);CONTR(3,SG,FEM);	vous vous étiez alliés avec eux contre elle.
+allier	IND;PST;PFV;NOM(3,SG,FEM);COM(1,SG);ACC(1,PL,FEM);Q	nous avait-elle alliées avec moi?
+designer	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,MASC);Q	le lui aurai-je désigné?
+designer	IND;PRS;NOM(3,PL,FEM);ACC(1,SG);DAT(3,SG,FEM);Q	me designent-elles à elle?
+designer	COND;PRS;NOM(2,SG);ACC(1,SG);DAT(3,SG,MASC);NEG	tu ne me designerais pas à lui.
+designer	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(2,SG,MASC);DAT(1,SG);NEG	il ne t'eut pas désigné à moi.
+designer	IND;PST;IPFV;NOM(1,PL);ACC(1,SG);DAT(3,PL);Q	me designions-nous à eux?
+designer	IND;PST;PFV;NOM(1,SG);ACC(2,PL,MASC);NEG	je ne vous avais pas désignés.
+designer	IND;FUT;PFV;NOM(1,SG);ACC(2,PL,MASC);DAT(3,PL);NEG	je ne vous aurai pas désignés à eux.
+designer	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,PL);DAT(2,SG);NEG	elle ne te les designa pas.
+designer	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,SG);DAT(2,PL);NEG	ils ne me designèrent pas à vous.
+designer	COND;PRS;NOM(3,PL,FEM);ACC(2,SG);DAT(1,SG);Q	te designeraient-elles à moi?
+designer	IND;PST;NOM(1,SG);ACC(3,PL,MASC);DAT(3,PL);NEG;Q	ne les leur ai-je pas désignés?
+designer	IND;FUT;PFV;NOM(2,PL);ACC(1,PL,MASC);DAT(2,SG);Q	nous aurez-vous désignés à toi?
+designer	IND;PRS;NOM(3,SG,MASC);ACC(1,SG);DAT(3,PL);	il me designe à eux.
+designer	COND;PRS;NOM(1,SG);ACC(3,SG,MASC);DAT(1,PL);	je nous le designerais.
+designer	IND;PRS;NOM(1,PL);ACC(3,PL);DAT(3,PL);Q	les leur designons-nous?
+designer	IND;FUT;NOM(2,PL);ACC(3,PL);DAT(2,SG);Q	te les designerez-vous?
+designer	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,MASC);DAT(1,PL);NEG	vous ne nous les eûtes pas désignés.
+designer	IMP;PRS;NOM(2,SG);ACC(3,PL);DAT(2,PL);	designe-vous les!
+designer	IND;PRS;NOM(1,SG);ACC(3,PL);DAT(3,SG,FEM);	je les lui designe.
+designer	IND;PST;NOM(2,PL);ACC(1,SG,FEM);DAT(3,PL);NEG;Q	ne m'avez-vous pas désignée à eux?
+naviguer	IND;PRS;NOM(2,SG);Q	navigues-tu?
+naviguer	COND;PRS;NOM(1,PL);Q	naviguerions-nous?
+naviguer	IND;PST;PFV;NOM(3,PL,FEM);Q	avaient-elles navigué?
+naviguer	IND;PST;PFV;NOM(2,SG);Q	avais-tu navigué?
+naviguer	IND;PRS;NOM(3,PL,MASC);NEG;Q	ne naviguent-ils pas?
+naviguer	IND;FUT;PFV;NOM(1,SG);NEG;Q	n'aurai-je pas navigué?
+naviguer	IND;FUT;NOM(3,SG,MASC);NEG;Q	ne naviguera-t-il pas?
+naviguer	IND;FUT;NOM(3,PL,MASC);NEG;Q	ne navigueront-ils pas?
+naviguer	IND;PST;PFV;NOM(3,PL,FEM);NEG;Q	n'avaient-elles pas navigué?
+naviguer	IND;PST;PFV;NOM(1,PL);Q	avions-nous navigué?
+naviguer	IND;PST;PFV;LGSPEC1;NOM(1,PL);Q	eûmes-nous navigué?
+naviguer	IND;PST;IPFV;NOM(1,SG);Q	naviguais-je?
+naviguer	IND;FUT;NOM(1,SG);NEG;Q	ne naviguerai-je pas?
+naviguer	IND;PST;NOM(2,SG);NEG	tu n'as pas navigué.
+naviguer	IMP;PRS;NOM(2,SG);NEG	ne navigue pas!
+naviguer	COND;PRS;NOM(3,SG,MASC);NEG	il ne naviguerait pas.
+naviguer	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);	elle eut navigué.
+naviguer	IND;PST;PFV;NOM(3,SG,MASC);	il avait navigué.
+naviguer	COND;PRS;NOM(3,PL,MASC);NEG;Q	ne navigueraient-ils pas?
+naviguer	IND;PST;PFV;NOM(2,PL);NEG;Q	n'aviez-vous pas navigué?
+naviguer	IND;PST;NOM(2,PL);NEG	vous n'avez pas navigué.
+surprendre	COND;PRS;NOM(2,PL);ACC(3,SG,MASC);Q	le surprendriez-vous?
+surprendre	IND;PST;PFV;NOM(3,PL,MASC);ACC(2,SG,MASC);Q	t'avaient-ils surpris?
+surprendre	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(3,PL,MASC);	elle les eut surpris.
+surprendre	IND;PST;NOM(3,PL,FEM);ACC(1,SG,FEM);NEG	elles ne m'ont pas surprise.
+surprendre	IND;PST;PFV;NOM(1,PL);ACC(3,SG,MASC);Q	l'avions-nous surpris?
+surprendre	COND;PRS;NOM(1,SG);ACC(3,SG,FEM);NEG;Q	ne la surprendrais-je pas?
+surprendre	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(3,SG,FEM);NEG	elles ne la surprirent pas.
+surprendre	IND;FUT;PFV;NOM(3,SG,MASC);ACC(2,SG,MASC);NEG;Q	ne t'aura-t-il pas surpris?
+surprendre	IND;PST;LGSPEC1;NOM(2,PL);ACC(2,SG);NEG	vous ne te surprîtes pas.
+surprendre	IND;FUT;PFV;NOM(1,PL);ACC(3,SG,MASC);NEG;Q	ne l'aurons-nous pas surpris?
+surprendre	IND;PST;IPFV;NOM(3,PL,FEM);ACC(1,SG);Q	me surprenaient-elles?
+surprendre	IND;PST;NOM(1,SG);ACC(2,SG,FEM);	je t'ai surprise.
+surprendre	IND;PST;PFV;NOM(1,PL);ACC(2,PL,FEM);NEG;Q	ne vous avions-nous pas surprises?
+surprendre	COND;PRS;NOM(2,SG);	tu surprendrais.
+surprendre	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(3,PL,FEM);NEG;Q	ne les eut-elle pas surprises?
+surprendre	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,FEM);	je l'aurai surprise.
+surprendre	IND;PST;PFV;NOM(1,SG);ACC(3,PL,FEM);	je les avais surprises.
+surprendre	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,SG,FEM);Q	l'eus-tu surprise?
+surprendre	IND;FUT;PFV;NOM(3,SG,MASC);ACC(2,SG,FEM);NEG	il ne t'aura pas surprise.
+surprendre	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL);	elles nous surprirent.
+sensibiliser	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);PROL(3,PL,FEM);ACC(2,SG,FEM);Q	t'eurent-elles sensibilisée par elles?
+sensibiliser	IND;FUT;PFV;NOM(3,PL,MASC);ACC(2,SG,FEM);LOC(3,SG,NEUT);Q	t'y auront-ils sensibilisée?
+sensibiliser	IND;PRS;NOM(2,SG);PROL(3,PL,MASC);ACC(1,PL);Q	nous sensibilises-tu par eux?
+sensibiliser	IND;FUT;NOM(1,PL);COM(3,SG,MASC);	nous sensibiliserons avec lui.
+sensibiliser	IND;PST;PFV;NOM(1,PL);PROL(3,PL,FEM);ACC(2,SG,FEM);Q	t'avions-nous sensibilisée par elles?
+sensibiliser	IND;PST;NOM(3,SG,MASC);PROL(2,PL);ACC(2,SG,FEM);	il t'a sensibilisée par vous.
+sensibiliser	IND;PST;NOM(3,PL,MASC);PROL(1,SG);ACC(2,PL,MASC);NEG;Q	ne vous ont-ils pas sensibilisés par moi?
+sensibiliser	IND;PST;PFV;NOM(2,SG);PROL(3,SG,FEM);ACC(1,SG,MASC);NEG	tu ne m'avais pas sensibilisé par elle.
+sensibiliser	IND;FUT;PFV;NOM(3,PL,MASC);COM(1,SG);ACC(1,PL,FEM);NEG	ils ne nous auront pas sensibilisées avec moi.
+sensibiliser	IND;PRS;NOM(2,PL);COM(2,PL);ACC(3,SG,MASC);Q	le sensibilisez-vous avec vous?
+sensibiliser	IND;PST;LGSPEC1;NOM(2,SG);COM(3,PL,MASC);ACC(1,PL);NEG	tu ne nous sensibilisas pas avec eux.
+sensibiliser	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);COM(3,SG,NEUT);ACC(2,PL,MASC);NEG;Q	ne vous eurent-elles pas sensibilisés avec cela?
+sensibiliser	IMP;PRS;NOM(2,PL);COM(3,PL,FEM);ACC(2,SG);	sensibilisez-toi avec elles!
+sensibiliser	IND;PST;IPFV;NOM(3,SG,MASC);COM(3,SG,MASC);ACC(3,PL);NEG;Q	ne les sensibilisait-il pas avec lui?
+sensibiliser	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);COM(2,SG);ACC(1,SG,FEM);NEG;Q	ne m'eurent-ils pas sensibilisée avec toi?
+sensibiliser	IND;PST;NOM(1,PL);COM(2,SG);ACC(2,PL,MASC);	nous vous avons sensibilisés avec toi.
+sensibiliser	IND;PST;LGSPEC1;NOM(3,SG,FEM);COM(3,SG,NEUT);ACC(3,PL);NEG	elle ne les sensibilisa pas avec cela.
+craquer	IND;PST;PFV;NOM(3,SG,MASC);ACC(1,PL,FEM);NEG	il ne nous avait pas craquées.
+craquer	IND;PST;PFV;NOM(3,SG,FEM);NEG	elle n'avait pas craqué.
+craquer	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,PL);	nous vous craquâmes.
+craquer	IND;PST;NOM(1,PL);ACC(3,PL,FEM);Q	les avons-nous craquées?
+craquer	IND;PST;IPFV;NOM(3,SG,FEM);ACC(3,PL);NEG;Q	ne les craquait-elle pas?
+craquer	IND;PST;IPFV;NOM(2,SG);ACC(3,PL);NEG;Q	ne les craquais-tu pas?
+craquer	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,PL);	je nous craquai.
+craquer	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,SG,MASC);NEG	nous ne le craquâmes pas.
+craquer	IND;PST;PFV;NOM(3,PL,MASC);ACC(2,PL,FEM);Q	vous avaient-ils craquées?
+craquer	IND;PST;LGSPEC1;NOM(1,SG);	je craquai.
+craquer	IND;FUT;PFV;NOM(3,SG,FEM);ACC(1,SG,MASC);NEG;Q	ne m'aura-t-elle pas craqué?
+craquer	IND;PRS;NOM(1,SG);ACC(3,SG,FEM);	je la craque.
+craquer	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);	elles nous avaient craquées.
+craquer	IND;PRS;NOM(1,PL);	nous craquons.
+craquer	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL);Q	nous craquèrent-elles?
+craquer	IND;PST;PFV;NOM(1,SG);ACC(2,SG,FEM);NEG	je ne t'avais pas craquée.
+craquer	IND;PST;LGSPEC1;NOM(2,SG);ACC(1,SG);	tu me craquas.
+craquer	IND;PST;NOM(3,PL,MASC);ACC(1,SG,FEM);NEG	ils ne m'ont pas craquée.
+nuire	IND;PST;LGSPEC1;NOM(1,PL);DAT(1,SG);NEG	nous ne me nuisîmes pas.
+nuire	COND;PRS;NOM(2,SG);NEG;Q	ne nuirais-tu pas?
+nuire	IND;FUT;NOM(2,PL);DAT(3,SG,FEM);NEG;Q	ne lui nuirez-vous pas?
+nuire	IND;FUT;PFV;NOM(2,SG);DAT(3,SG,FEM);NEG	tu ne lui auras pas nui.
+nuire	IND;PST;NOM(2,SG);DAT(3,PL);Q	leur as-tu nui?
+nuire	IND;PST;PFV;NOM(1,PL);DAT(2,SG);Q	t'avions-nous nui?
+nuire	IMP;PRS;NOM(1,PL);DAT(3,SG,FEM);	nuisons-lui!
+nuire	IND;PRS;NOM(3,SG,MASC);DAT(2,SG);NEG;Q	ne te nuit-il pas?
+nuire	IND;PST;NOM(3,PL,MASC);DAT(2,SG);NEG	ils ne t'ont pas nui.
+nuire	IND;PST;PFV;NOM(3,SG,FEM);NEG	elle n'avait pas nui.
+nuire	IND;PST;PFV;NOM(3,SG,MASC);DAT(1,SG);	il m'avait nui.
+nuire	IND;PST;LGSPEC1;NOM(1,PL);DAT(1,SG);NEG;Q	ne me nuisîmes-nous pas?
+nuire	IND;PST;PFV;NOM(3,SG,MASC);DAT(2,SG);	il t'avait nui.
+nuire	IND;PST;PFV;LGSPEC1;NOM(1,SG);Q	eus-je nui?
+nuire	IND;FUT;NOM(3,PL,MASC);DAT(3,SG,MASC);	ils lui nuiront.
+stopper	IND;FUT;PFV;NOM(2,PL);ACC(3,PL,FEM);Q	les aurez-vous stoppées?
+stopper	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,SG);Q	te stoppa-t-il?
+stopper	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,PL,FEM);NEG	vous ne nous eûtes pas stoppées.
+stopper	IND;PRS;NOM(3,SG,FEM);ACC(1,SG);NEG;Q	ne me stoppe-t-elle pas?
+stopper	IND;FUT;PFV;NOM(2,PL);ACC(3,SG,FEM);	vous l'aurez stoppée.
+stopper	IND;PST;PFV;NOM(2,SG);ACC(1,SG,MASC);Q	m'avais-tu stoppé?
+stopper	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,FEM);	je l'aurai stoppée.
+stopper	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(1,PL,MASC);NEG	je ne nous eus pas stoppés.
+stopper	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,PL);Q	les stoppâmes-nous?
+stopper	COND;PRS;NOM(3,SG,FEM);ACC(3,PL);NEG;Q	ne les stopperait-elle pas?
+stopper	IND;PST;PFV;NOM(3,PL,MASC);ACC(3,SG,FEM);	ils l'avaient stoppée.
+stopper	IND;PRS;NOM(2,SG);ACC(2,PL);	tu vous stoppes.
+stopper	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,PL,FEM);NEG	tu ne les eus pas stoppées.
+stopper	IND;PRS;NOM(3,PL,MASC);Q	stoppent-ils?
+stopper	IND;PST;IPFV;NOM(3,PL,FEM);ACC(1,PL);Q	nous stoppaient-elles?
+stopper	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,SG,MASC);	tu l'eus stoppé.
+stopper	IND;PRS;NOM(3,SG,MASC);ACC(1,PL);Q	nous stoppe-t-il?
+stopper	IND;FUT;NOM(1,SG);ACC(3,SG,FEM);	je la stopperai.
+stopper	IND;PST;NOM(3,PL,MASC);ACC(2,PL,FEM);	ils vous ont stoppées.
+stopper	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,SG);Q	me stoppâtes-vous?
+suspendre	IND;PRS;NOM(1,PL);ACC(3,PL);LOC(3,SG,NEUT);	nous les y suspendons.
+suspendre	IND;PST;IPFV;NOM(3,PL,FEM);ACC(3,SG,MASC);	elles le suspendaient.
+suspendre	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,SG,MASC);	ils l'auront suspendu.
+suspendre	IND;PST;NOM(2,SG);ACC(1,PL,MASC);LOC(3,SG,NEUT);NEG	tu ne nous y as pas suspendus.
+suspendre	IND;PRS;NOM(1,PL);ACC(2,PL);LOC(3,SG,NEUT);NEG;Q	ne vous y suspendons-nous pas?
+suspendre	IND;FUT;PFV;NOM(1,SG);ACC(1,PL,MASC);Q	nous aurai-je suspendus?
+suspendre	IND;PST;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG;Q	ne l'avais-tu pas suspendu?
+suspendre	IND;FUT;PFV;NOM(3,SG,MASC);ACC(1,PL,MASC);	il nous aura suspendus.
+suspendre	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,FEM);LOC(3,SG,NEUT);	elles t'y eurent suspendue.
+suspendre	IND;FUT;NOM(3,SG,MASC);ACC(2,PL);NEG	il ne vous suspendra pas.
+suspendre	IND;PST;LGSPEC1;NOM(2,SG);ACC(3,SG,MASC);Q	le suspendis-tu?
+suspendre	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,SG,MASC);NEG;Q	ne m'eûtes-vous pas suspendu?
+suspendre	IND;FUT;NOM(2,PL);ACC(3,SG);LOC(3,SG,NEUT);NEG;Q	ne l'y suspendrez-vous pas?
+suspendre	IND;PRS;NOM(1,SG);ACC(2,PL);Q	vous suspends-je?
+suspendre	IND;PST;PFV;NOM(1,SG);ACC(3,SG,MASC);LOC(3,SG,NEUT);	je l'y avais suspendu.
+suspendre	IND;PST;PFV;NOM(3,SG,MASC);ACC(2,PL,FEM);Q	vous avait-il suspendues?
+suspendre	IND;PST;NOM(3,SG,MASC);ACC(2,SG,FEM);NEG	il ne t'a pas suspendue.
+collecter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,SG,FEM);	elles t'eurent collectée.
+collecter	IND;PRS;NOM(3,SG,FEM);Q	collecte-t-elle?
+collecter	IND;PST;PFV;NOM(3,PL,FEM);ACC(2,SG,FEM);NEG	elles ne t'avaient pas collectée.
+collecter	IND;PST;PFV;NOM(3,PL,FEM);ACC(2,PL,MASC);NEG	elles ne vous avaient pas collectés.
+collecter	COND;PRS;NOM(3,PL,MASC);ACC(3,SG,FEM);Q	la collecteraient-ils?
+collecter	IND;FUT;NOM(3,SG,MASC);ACC(1,SG);Q	me collectera-t-il?
+collecter	IND;PRS;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG;Q	ne le collectent-elles pas?
+collecter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(1,SG,FEM);Q	m'eurent-elles collectée?
+collecter	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,PL);NEG	il ne vous collecta pas.
+collecter	IND;PRS;NOM(3,PL,FEM);Q	collectent-elles?
+collecter	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(1,PL,MASC);	il nous eut collectés.
+collecter	IND;FUT;PFV;NOM(2,PL);ACC(3,SG,MASC);	vous l'aurez collecté.
+collecter	IND;FUT;PFV;NOM(1,SG);ACC(2,PL,FEM);	je vous aurai collectées.
+collecter	IND;PST;NOM(3,SG,MASC);ACC(1,PL,MASC);	il nous a collectés.
+collecter	IND;FUT;PFV;NOM(2,SG);	tu auras collecté.
+collecter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(1,SG,MASC);NEG	elles ne m'eurent pas collecté.
+collecter	IND;FUT;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG	tu ne l'auras pas collecté.
+collecter	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(3,SG,MASC);Q	le collectèrent-ils?
+collecter	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,PL,FEM);NEG;Q	ne nous eûtes-vous pas collectées?
+piloter	IND;PRS;NOM(2,PL);ACC(3,SG);LOC(3,SG,NEUT);	vous l'y pilotez.
+piloter	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(3,PL,MASC);LOC(3,SG,NEUT);	vous les y eûtes pilotés.
+piloter	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,PL);	vous les pilotâtes.
+piloter	IND;PST;NOM(2,PL);LOC(3,SG,NEUT);Q	y avez-vous piloté?
+piloter	IND;PST;NOM(3,SG,MASC);ACC(1,PL,MASC);NEG	il ne nous a pas pilotés.
+piloter	IND;PRS;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG	elles ne le pilotent pas.
+piloter	IND;PST;IPFV;NOM(2,PL);ACC(1,PL);LOC(3,SG,NEUT);Q	nous y pilotiez-vous?
+piloter	IND;FUT;NOM(3,SG,FEM);ACC(1,PL);	elle nous pilotera.
+piloter	IND;PRS;NOM(2,SG);ACC(2,PL);NEG	tu ne vous pilotes pas.
+piloter	IND;PST;IPFV;NOM(1,PL);ACC(3,SG,MASC);NEG;Q	ne le pilotions-nous pas?
+piloter	IND;PST;LGSPEC1;NOM(2,SG);ACC(1,PL);NEG;Q	ne nous pilotas-tu pas?
+piloter	IND;PST;PFV;NOM(3,PL,FEM);ACC(2,SG,FEM);LOC(3,SG,NEUT);Q	t'y avaient-elles pilotée?
+piloter	IND;PST;NOM(1,SG);ACC(1,PL,MASC);NEG	je ne nous ai pas pilotés.
+piloter	IND;FUT;PFV;NOM(2,PL);ACC(3,SG,MASC);NEG;Q	ne l'aurez-vous pas piloté?
+piloter	IND;PST;NOM(3,PL,FEM);ACC(3,SG,MASC);LOC(3,SG,NEUT);Q	l'y ont-elles piloté?
+piloter	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(2,PL,MASC);LOC(3,SG,NEUT);NEG;Q	ne vous y eus-je pas pilotés?
+piloter	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG);NEG;Q	ne me pilota-t-elle pas?
+piloter	IND;FUT;NOM(3,SG,FEM);ACC(2,PL);Q	vous pilotera-t-elle?
+piloter	IND;PST;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG	tu ne l'avais pas piloté.
+enquêter	IND;PST;IPFV;NOM(3,SG,FEM);ON(2,PL);Q	enquêtait-elle sur vous?
+enquêter	IND;PST;PFV;LGSPEC1;NOM(1,SG);ON(3,SG,MASC);NEG	je n'eus pas enquêté sur lui.
+enquêter	IND;PST;PFV;NOM(1,PL);ON(2,SG);Q	avions-nous enquêté sur toi?
+enquêter	IND;FUT;NOM(3,SG,MASC);ON(3,SG,FEM);NEG	il n'enquêtera pas sur elle.
+enquêter	IND;PST;PFV;NOM(3,SG,FEM);NEG	elle n'avait pas enquêté.
+enquêter	IND;PST;NOM(1,PL);Q	avons-nous enquêté?
+enquêter	IND;FUT;PFV;NOM(3,SG,MASC);ON(2,SG);Q	aura-t-il enquêté sur toi?
+enquêter	IND;PST;IPFV;NOM(1,SG);ON(1,SG);NEG	je n'enquêtais pas sur moi.
+enquêter	IND;FUT;PFV;NOM(3,PL,MASC);ON(3,SG,NEUT);NEG;Q	n'auront-ils pas enquêté sur cela?
+enquêter	IND;PST;LGSPEC1;NOM(2,SG);ON(3,SG,FEM);NEG;Q	n'enquêtas-tu pas sur elle?
+enquêter	IND;PRS;NOM(1,SG);ON(3,PL,MASC);Q	enquêté-je sur eux?
+enquêter	IND;PST;PFV;LGSPEC1;NOM(2,SG);ON(3,PL,FEM);NEG;Q	n'eus-tu pas enquêté sur elles?
+enquêter	COND;PRS;NOM(3,PL,MASC);ON(2,SG);	ils enquêteraient sur toi.
+enquêter	COND;PRS;NOM(1,PL);ON(3,SG,FEM);Q	enquêterions-nous sur elle?
+enquêter	COND;PRS;NOM(1,SG);ON(3,SG,MASC);Q	enquêterais-je sur lui?
+enquêter	COND;PRS;NOM(3,SG,MASC);ON(3,SG,NEUT);NEG;Q	n'enquêterait-il pas sur cela?
+enquêter	IND;PST;PFV;NOM(3,SG,FEM);ON(3,SG,FEM);	elle avait enquêté sur elle.
+enquêter	IND;FUT;PFV;NOM(3,PL,FEM);ON(2,PL);	elles auront enquêté sur vous.
+doter	IND;PST;PFV;NOM(1,SG);ACC(3,SG,MASC);GEN(3,SG,NEUT);NEG	je ne l'en avais pas doté.
+doter	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,SG,MASC);NEG	elles ne m'avaient pas doté.
+doter	IND;PST;PFV;NOM(1,SG);ACC(2,SG,FEM);GEN(3,SG,NEUT);NEG	je ne t'en avais pas dotée.
+doter	IND;PST;IPFV;NOM(3,PL,FEM);ACC(3,SG,MASC);NEG	elles ne le dotaient pas.
+doter	IND;PST;PFV;NOM(3,PL,FEM);GEN(3,SG,NEUT);	elles en avaient doté.
+doter	IND;PST;IPFV;NOM(3,PL,MASC);ACC(2,SG);	ils te dotaient.
+doter	IND;FUT;NOM(3,PL,MASC);ACC(1,SG);GEN(3,SG,NEUT);Q	m'en doteront-ils?
+doter	IND;PST;NOM(1,PL);ACC(3,PL,MASC);GEN(3,SG,NEUT);NEG	nous ne les en avons pas dotés.
+doter	IND;PST;IPFV;NOM(3,PL,MASC);ACC(1,PL);Q	nous dotaient-ils?
+doter	IND;FUT;NOM(2,SG);ACC(1,PL);NEG	tu ne nous doteras pas.
+doter	IND;PST;PFV;NOM(3,SG,MASC);ACC(1,PL,MASC);NEG	il ne nous avait pas dotés.
+doter	IND;PST;NOM(2,SG);ACC(3,SG,MASC);GEN(3,SG,NEUT);	tu l'en as doté.
+doter	IND;PST;NOM(1,SG);NEG	je n'ai pas doté.
+doter	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(1,PL,FEM);GEN(3,SG,NEUT);NEG;Q	ne nous en eurent-ils pas dotées?
+doter	IND;PST;IPFV;NOM(1,SG);ACC(2,SG);NEG;Q	ne te dotais-je pas?
+doter	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(1,SG,MASC);	elles m'eurent doté.
+doter	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(3,PL);	il les dota.
+doter	IND;PST;PFV;NOM(1,PL);ACC(3,SG,MASC);GEN(3,SG,NEUT);NEG;Q	ne l'en avions-nous pas doté?
+doter	IND;PST;PFV;NOM(2,SG);ACC(1,SG,FEM);Q	m'avais-tu dotée?
+doter	IND;FUT;NOM(3,PL,MASC);NEG;Q	ne doteront-ils pas?
+cerner	IND;FUT;NOM(3,SG,FEM);ACC(2,SG);Q	te cernera-t-elle?
+cerner	IND;FUT;PFV;NOM(1,SG);ACC(2,SG,MASC);	je t'aurai cerné.
+cerner	IND;PRS;NOM(3,SG,MASC);NEG	il ne cerne pas.
+cerner	IND;PST;IPFV;NOM(2,PL);Q	cerniez-vous?
+cerner	IND;PRS;NOM(3,SG,FEM);NEG;Q	ne cerne-t-elle pas?
+cerner	IND;FUT;PFV;NOM(2,SG);ACC(3,SG,MASC);Q	l'auras-tu cerné?
+cerner	IND;PST;IPFV;NOM(3,PL,MASC);ACC(1,PL);Q	nous cernaient-ils?
+cerner	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(2,PL,FEM);Q	vous eûmes-nous cernées?
+cerner	IND;PRS;NOM(3,PL,MASC);ACC(2,SG);NEG	ils ne te cernent pas.
+cerner	IND;PST;IPFV;NOM(3,SG,MASC);ACC(1,SG);NEG	il ne me cernait pas.
+cerner	COND;PRS;NOM(3,PL,MASC);ACC(3,SG,FEM);	ils la cerneraient.
+cerner	COND;PRS;NOM(3,PL,MASC);	ils cerneraient.
+cerner	IND;PRS;NOM(2,SG);	tu cernes.
+cerner	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,MASC);NEG	vous ne le cernâtes pas.
+cerner	IND;PST;NOM(1,PL);ACC(2,PL,FEM);Q	vous avons-nous cernées?
+cerner	IND;PST;PFV;NOM(3,SG,FEM);ACC(3,PL,MASC);	elle les avait cernés.
+cerner	IND;FUT;NOM(3,PL,MASC);ACC(1,PL);	ils nous cerneront.
+cerner	IND;PRS;NOM(1,PL);ACC(2,PL);NEG;Q	ne vous cernons-nous pas?
+cerner	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(1,PL,MASC);Q	nous eut-elle cernés?
+cerner	IND;PST;IPFV;NOM(3,SG,MASC);ACC(1,PL);NEG	il ne nous cernait pas.
+cerner	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(2,SG,FEM);Q	t'eus-je cernée?
+accuser	IND;FUT;NOM(3,SG,MASC);ACC(1,PL);	il nous accusera.
+accuser	COND;PRS;NOM(1,PL);ACC(1,SG);GEN(3,SG,NEUT);Q	m'en accuserions-nous?
+accuser	IND;PST;PFV;LGSPEC1;NOM(2,PL);ACC(1,PL,FEM);NEG	vous ne nous eûtes pas accusées.
+accuser	IND;PRS;NOM(3,PL,MASC);ACC(1,PL);	ils nous accusent.
+accuser	IND;FUT;PFV;NOM(1,PL);ACC(3,PL,FEM);NEG	nous ne les aurons pas accusées.
+accuser	IND;FUT;NOM(2,PL);ACC(1,PL);GEN(3,SG,NEUT);	vous nous en accuserez.
+accuser	IND;PST;NOM(3,SG,FEM);	elle a accusé.
+accuser	COND;PRS;NOM(1,PL);ACC(1,SG);Q	m'accuserions-nous?
+accuser	IND;PRS;NOM(3,SG,FEM);	elle accuse.
+accuser	IND;PST;IPFV;NOM(1,SG);ACC(1,SG,RFLX);NEG;Q	ne m'accusais-je pas?
+accuser	IND;PST;PFV;LGSPEC1;NOM(1,PL,FEM);ACC(1,PL,RFLX);	nous nous fûmes accusées.
+accuser	IND;PST;NOM(3,PL,FEM);ACC(2,SG,MASC);NEG	elles ne t'ont pas accusé.
+accuser	COND;PRS;NOM(3,PL,FEM);ACC(3,SG);GEN(3,SG,NEUT);	elles l'en accuseraient.
+accuser	IND;FUT;PFV;NOM(2,PL);ACC(1,PL,MASC);Q	nous aurez-vous accusés?
+accuser	IND;PST;IPFV;NOM(2,PL);ACC(2,SG);	vous t'accusiez.
+accuser	IND;PST;NOM(2,SG,FEM);ACC(2,SG,RFLX);Q	t'es-tu accusée?
+accuser	IND;PST;NOM(3,PL,FEM);ACC(2,PL,MASC);GEN(3,SG,NEUT);NEG;Q	ne vous en ont-elles pas accusés?
+accuser	IND;PST;PFV;NOM(1,SG);ACC(1,PL,FEM);NEG	je ne nous avais pas accusées.
+accuser	COND;PRS;NOM(3,PL,MASC);ACC(1,PL);GEN(3,SG,NEUT);NEG;Q	ne nous en accuseraient-ils pas?
+accuser	IND;PST;PFV;LGSPEC1;NOM(2,PL,FEM);ACC(2,PL,RFLX);NEG;Q	ne vous fûtes-vous pas accusées?
+accuser	IND;FUT;PFV;NOM(3,SG,MASC);ACC(3,SG,RFLX);Q	se sera-t-il accusé?
+accuser	IND;PRS;NOM(2,PL);ACC(2,SG);GEN(3,SG,NEUT);NEG;Q	ne t'en accusez-vous pas?
+filer	IND;FUT;PFV;NOM(2,SG);ACC(3,PL,FEM);DAT(1,SG);NEG	tu ne me les auras pas filées.
+filer	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,PL);DAT(3,SG,MASC);Q	vous filâmes-nous à lui?
+filer	IND;PST;IPFV;NOM(3,SG,FEM);ACC(1,PL);DAT(3,PL);NEG	elle ne nous filait pas à eux.
+filer	IND;FUT;PFV;NOM(1,SG);ACC(3,PL,MASC);DAT(3,PL);Q	les leur aurai-je filés?
+filer	COND;PRS;NOM(2,SG);ACC(1,SG);DAT(3,PL);NEG;Q	ne me filerais-tu pas à eux?
+filer	IND;PST;NOM(3,PL,FEM);ACC(2,SG,MASC);	elles t'ont filé.
+filer	IND;FUT;PFV;NOM(3,PL,FEM);ACC(3,SG,FEM);DAT(3,SG,FEM);Q	la lui auront-elles filée?
+filer	IND;FUT;PFV;NOM(1,SG);ACC(3,SG,MASC);DAT(3,PL);NEG;Q	ne le leur aurai-je pas filé?
+filer	IND;FUT;NOM(1,SG);ACC(3,SG,FEM);DAT(2,PL);Q	vous la filerai-je?
+filer	IND;FUT;PFV;NOM(3,PL,FEM);ACC(2,SG,MASC);DAT(3,SG,FEM);NEG	elles ne t'auront pas filé à elle.
+filer	IND;PST;NOM(3,SG,FEM);ACC(1,SG,FEM);DAT(2,PL);NEG;Q	ne m'a-t-elle pas filée à vous?
+filer	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(3,SG,MASC);DAT(2,PL);Q	vous le filèrent-ils?
+filer	IND;PST;NOM(1,PL);ACC(2,PL,MASC);DAT(1,SG);Q	vous avons-nous filés à moi?
+filer	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);ACC(2,PL,MASC);DAT(3,SG,FEM);NEG;Q	ne vous eurent-elles pas filés à elle?
+filer	IND;PST;NOM(3,PL,MASC);	ils ont filé.
+filer	IND;PST;PFV;NOM(2,SG);ACC(3,PL,FEM);DAT(3,SG,FEM);NEG	tu ne les lui avais pas filées.
+filer	IND;PST;NOM(3,SG,FEM);ACC(2,PL,FEM);DAT(3,PL);NEG	elle ne vous a pas filées à eux.
+filer	IND;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(1,PL);Q	nous le filerai-je?
+filer	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(3,PL,FEM);DAT(2,PL);NEG	je ne vous les eus pas filées.
+filer	IMP;PRS;NOM(2,SG);ACC(2,PL);DAT(1,PL);	file-vous à nous!
+filer	IMP;PRS;NOM(2,PL);ACC(1,SG);	filez-moi!
+filer	COND;PRS;NOM(3,PL,FEM);ACC(3,SG,FEM);DAT(1,SG);Q	me la fileraient-elles?
+endormir	IND;FUT;PFV;NOM(2,SG);ACC(1,SG,MASC);NEG	tu ne m'auras pas endormi.
+endormir	IND;PST;PFV;LGSPEC1;NOM(1,PL,FEM);ACC(1,PL,RFLX);NEG;Q	ne nous fûmes-nous pas endormies?
+endormir	IND;PST;LGSPEC1;NOM(2,SG);ACC(2,SG,RFLX);Q	t'endormis-tu?
+endormir	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,PL);	ils nous endormirent.
+endormir	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,SG,FEM);NEG;Q	ne l'eus-tu pas endormie?
+endormir	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,SG,MASC);Q	l'avaient-elles endormi?
+endormir	IND;FUT;PFV;NOM(1,SG);ACC(2,PL,FEM);NEG;Q	ne vous aurai-je pas endormies?
+endormir	COND;PRS;NOM(3,SG,MASC);ACC(3,SG,RFLX);NEG	il ne s'endormirait pas.
+endormir	IND;FUT;NOM(3,SG,FEM);ACC(1,SG);NEG	elle ne m'endormira pas.
+endormir	IND;PRS;NOM(1,SG);ACC(3,PL);	je les endors.
+endormir	COND;PRS;NOM(3,PL,MASC);ACC(2,SG);Q	t'endormiraient-ils?
+endormir	IND;PST;IPFV;NOM(2,PL);ACC(3,PL);	vous les endormiez.
+endormir	IND;PST;NOM(1,SG);ACC(3,PL,FEM);	je les ai endormies.
+endormir	IND;FUT;PFV;NOM(2,PL);ACC(1,PL,MASC);Q	nous aurez-vous endormis?
+endormir	IND;PST;PFV;NOM(3,SG,MASC);ACC(2,PL,MASC);Q	vous avait-il endormis?
+endormir	IND;PRS;NOM(3,SG,FEM);ACC(3,PL);	elle les endort.
+endormir	IND;PRS;NOM(3,SG,MASC);ACC(2,PL);NEG;Q	ne vous endort-il pas?
+endormir	IND;PST;PFV;LGSPEC1;NOM(1,SG);ACC(3,SG,MASC);Q	l'eus-je endormi?
+endormir	IND;PST;PFV;NOM(3,SG,MASC);ACC(1,SG,MASC);NEG;Q	ne m'avait-il pas endormi?
+endormir	IND;PST;PFV;NOM(3,PL,FEM);ACC(1,PL,FEM);Q	nous avaient-elles endormies?
+évader	IND;PST;IPFV;NOM(3,PL,MASC);GEN(3,SG,NEUT);ACC(3,PL,RFLX);Q	s'en s’évadaient-ils?
+évader	IND;FUT;PFV;NOM(1,PL,FEM);GEN(3,SG,NEUT);ACC(1,PL,RFLX);Q	nous en serons-nous évadées?
+évader	IND;PST;NOM(1,PL,FEM);ACC(1,PL,RFLX);	nous nous sommes évadées.
+évader	IND;PST;NOM(2,SG,FEM);LOC(3,SG,NEUT);ACC(2,SG,RFLX);Q	t'y es-tu évadée?
+évader	IND;PST;IPFV;NOM(1,SG);LOC(3,SG,NEUT);ACC(1,SG,RFLX);NEG	je ne m'y m’évadais pas.
+évader	IND;PRS;NOM(3,SG,MASC);GEN(3,SG,NEUT);ACC(3,SG,RFLX);	il s'en s’évade.
+évader	IMP;PRS;NOM(1,PL);GEN(3,SG,NEUT);ACC(1,PL,RFLX);	évadons-nous-nous en!
+évader	COND;PRS;NOM(2,SG);LOC(3,SG,NEUT);ACC(2,SG,RFLX);	tu t'y t’évaderais.
+évader	IND;FUT;PFV;NOM(2,PL,FEM);ACC(2,PL,RFLX);Q	vous serez-vous évadées?
+évader	IND;FUT;PFV;NOM(1,PL,FEM);ACC(1,PL,RFLX);NEG;Q	ne nous serons-nous pas évadées?
+évader	IND;PST;PFV;LGSPEC1;NOM(2,SG,MASC);LOC(3,SG,NEUT);ACC(2,SG,RFLX);Q	t'y fus-tu évadé?
+évader	IND;PST;PFV;LGSPEC1;NOM(2,SG,MASC);GEN(3,SG,NEUT);ACC(2,SG,RFLX);	tu t'en fus évadé.
+évader	IND;PST;PFV;LGSPEC1;NOM(2,PL,MASC);GEN(3,SG,NEUT);ACC(2,PL,RFLX);Q	vous en fûtes-vous évadés?
+évader	IND;PST;PFV;LGSPEC1;NOM(1,PL,FEM);GEN(3,SG,NEUT);ACC(1,PL,RFLX);NEG	nous ne nous en fûmes pas évadées.
+évader	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,RFLX);NEG	elle ne se s’évade pas.
+évader	IND;PRS;NOM(3,PL,FEM);LOC(3,SG,NEUT);ACC(3,PL,RFLX);NEG;Q	ne s'y s’évadent-elles pas?
+évader	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,RFLX);NEG	il ne se s’évadera pas.
+évader	IND;PST;NOM(1,SG,MASC);LOC(3,SG,NEUT);ACC(1,SG,RFLX);NEG	je ne m'y suis pas évadé.
+évader	IND;PST;PFV;LGSPEC1;NOM(1,PL,MASC);LOC(3,SG,NEUT);ACC(1,PL,RFLX);Q	nous y fûmes-nous évadés?
+évader	IND;PST;PFV;LGSPEC1;NOM(3,PL,FEM);LOC(3,SG,NEUT);ACC(3,PL,RFLX);NEG;Q	ne s'y furent-elles pas évadées?
+interagir	IND;FUT;NOM(1,PL);COM(3,SG,NEUT);NEG;Q	n'interagirons-nous pas avec cela?
+interagir	COND;PRS;NOM(3,SG,MASC);COM(3,SG,MASC);NEG	il n'interagirait pas avec lui.
+interagir	IND;FUT;PFV;NOM(3,PL,MASC);COM(3,SG,MASC);NEG;Q	n'auront-ils pas interagi avec lui?
+interagir	IND;PRS;NOM(2,SG);COM(1,PL);NEG;Q	n'interagis-tu pas avec nous?
+interagir	IND;PST;PFV;NOM(3,PL,MASC);COM(1,SG);	ils avaient interagi avec moi.
+interagir	IND;PST;IPFV;NOM(3,SG,MASC);COM(3,SG,FEM);NEG	il n'interagissait pas avec elle.
+interagir	IND;FUT;PFV;NOM(2,SG);COM(3,PL,FEM);Q	auras-tu interagi avec elles?
+interagir	IND;FUT;PFV;NOM(3,PL,MASC);COM(3,PL,MASC);Q	auront-ils interagi avec eux?
+interagir	IND;PST;PFV;NOM(3,SG,FEM);COM(1,PL);NEG	elle n'avait pas interagi avec nous.
+interagir	IND;FUT;NOM(1,SG);COM(3,SG,NEUT);NEG	je n'interagirai pas avec cela.
+interagir	IND;PST;IPFV;NOM(1,PL);COM(3,SG,FEM);NEG	nous n'interagissions pas avec elle.
+interagir	IND;PST;LGSPEC1;NOM(1,PL);COM(2,SG);NEG;Q	n'interagîmes-nous pas avec toi?
+interagir	IND;PRS;NOM(2,PL);COM(3,SG,NEUT);	vous interagissez avec cela.
+interagir	IND;PST;PFV;NOM(3,SG,FEM);COM(2,SG);NEG;Q	n'avait-elle pas interagi avec toi?
+interagir	IND;PST;IPFV;NOM(3,PL,MASC);COM(3,SG,NEUT);	ils interagissaient avec cela.
+interagir	IND;PRS;NOM(3,SG,MASC);COM(2,PL);Q	interagit-il avec vous?
+interagir	IND;PST;PFV;LGSPEC1;NOM(2,PL);COM(2,PL);	vous eûtes interagi avec vous.
+interagir	IND;PST;PFV;NOM(3,PL,FEM);COM(3,SG,FEM);Q	avaient-elles interagi avec elle?
+interagir	COND;PRS;NOM(3,SG,FEM);COM(3,SG,FEM);NEG;Q	n'interagirait-elle pas avec elle?
+interagir	IND;PRS;NOM(3,SG,MASC);COM(3,PL,FEM);NEG;Q	n'interagit-il pas avec elles?
+interagir	COND;PRS;NOM(3,SG,MASC);COM(1,PL);Q	interagirait-il avec nous?
+interagir	IND;PST;IPFV;NOM(2,SG);COM(3,PL,FEM);NEG;Q	n'interagissais-tu pas avec elles?
+désirer	COND;PRS;NOM(3,PL,FEM);ACC(3,SG,MASC);Q	le désireraient-elles?
+désirer	IND;PST;PFV;NOM(3,PL,MASC);ACC(3,SG,MASC);NEG	ils ne l'avaient pas désiré.
+désirer	IND;FUT;PFV;NOM(2,SG);ACC(3,SG,MASC);NEG;Q	ne l'auras-tu pas désiré?
+désirer	IND;PST;PFV;NOM(3,SG,FEM);ACC(1,PL,FEM);Q	nous avait-elle désirées?
+désirer	COND;PRS;NOM(3,PL,FEM);ACC(2,PL);NEG	elles ne vous désireraient pas.
+désirer	COND;PRS;NOM(3,PL,FEM);ACC(1,SG);NEG;Q	ne me désireraient-elles pas?
+désirer	IND;PST;PFV;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG,MASC);NEG;Q	ne m'eut-elle pas désiré?
+désirer	IND;PST;PFV;LGSPEC1;NOM(3,PL,MASC);ACC(3,SG,MASC);NEG	ils ne l'eurent pas désiré.
+désirer	IND;PST;NOM(1,SG);ACC(3,SG,MASC);NEG	je ne l'ai pas désiré.
+désirer	IND;PRS;NOM(1,SG);ACC(2,SG);Q	te désiré-je?
+désirer	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,PL);NEG	nous ne vous désirâmes pas.
+désirer	IND;FUT;PFV;NOM(3,PL,FEM);ACC(1,SG,MASC);NEG	elles ne m'auront pas désiré.
+désirer	IND;PST;IPFV;NOM(3,SG,MASC);ACC(2,SG);NEG;Q	ne te désirait-il pas?
+désirer	IND;PST;PFV;NOM(1,PL);ACC(2,PL,FEM);	nous vous avions désirées.
+désirer	COND;PRS;NOM(3,PL,FEM);ACC(3,SG,FEM);Q	la désireraient-elles?
+désirer	IND;PST;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL);NEG;Q	ne nous désirèrent-elles pas?
+désirer	IND;PST;PFV;NOM(3,SG,FEM);ACC(1,SG,FEM);	elle m'avait désirée.
+désirer	IMP;PRS;NOM(1,PL);ACC(3,SG,MASC);NEG	ne le désirons pas!
+désirer	IND;PST;NOM(1,SG);ACC(1,PL,MASC);NEG;Q	ne nous ai-je pas désirés?
+désirer	IND;PST;IPFV;NOM(3,PL,FEM);ACC(3,SG,FEM);	elles la désiraient.
+désirer	IND;FUT;NOM(3,PL,FEM);ACC(3,SG,FEM);Q	la désireront-elles?
+postuler	IND;PST;IPFV;NOM(3,SG,MASC);BEN(3,SG,MASC);NEG	il ne postulait pas pour lui.
+postuler	IND;PST;LGSPEC1;NOM(2,SG);BEN(3,SG,MASC);Q	postulas-tu pour lui?
+postuler	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,SG,MASC);NEG	tu ne l'eus pas postulé.
+postuler	IND;FUT;PFV;NOM(3,SG,MASC);ACC(1,SG,FEM);Q	m'aura-t-il postulée?
+postuler	IMP;PRS;NOM(1,PL);BEN(3,SG,MASC);NEG	ne postulons pas pour lui!
+postuler	IMP;PRS;NOM(2,PL);BEN(3,SG,FEM);NEG	ne postulez pas pour elle!
+postuler	IND;PST;PFV;NOM(1,PL);BEN(2,SG);NEG;Q	n'avions-nous pas postulé pour toi?
+postuler	IND;PST;NOM(3,SG,FEM);BEN(3,PL,MASC);Q	a-t-elle postulé pour eux?
+postuler	IND;PST;PFV;LGSPEC1;NOM(1,PL);BEN(3,SG,NEUT);NEG;Q	n'eûmes-nous pas postulé pour cela?
+postuler	IND;PST;NOM(2,SG);ACC(3,PL,FEM);	tu les as postulées.
+postuler	IND;FUT;NOM(2,PL);ACC(1,PL);Q	nous postulerez-vous?
+postuler	IND;PST;NOM(3,PL,MASC);ACC(1,PL,MASC);NEG	ils ne nous ont pas postulés.
+postuler	IND;PRS;NOM(2,PL);ACC(3,PL);Q	les postulez-vous?
+postuler	IND;PST;PFV;LGSPEC1;NOM(2,SG);ACC(3,SG,FEM);NEG	tu ne l'eus pas postulée.
+postuler	IND;PRS;NOM(2,PL);ACC(3,SG,MASC);	vous le postulez.
+postuler	IND;FUT;NOM(2,PL);BEN(3,PL,FEM);	vous postulerez pour elles.
+postuler	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,SG);Q	me postulâtes-vous?
+postuler	IND;FUT;NOM(2,SG);BEN(3,PL,MASC);Q	postuleras-tu pour eux?
+postuler	IND;PST;PFV;NOM(3,SG,FEM);BEN(3,SG,NEUT);NEG	elle n'avait pas postulé pour cela.
+postuler	IND;PRS;NOM(1,PL);BEN(2,PL);NEG	nous ne postulons pas pour vous.
+postuler	IND;PST;LGSPEC1;NOM(1,SG);	je postulai.
+postuler	COND;PRS;NOM(3,PL,FEM);BEN(1,PL);	elles postuleraient pour nous.
+soucier	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,PL,RFLX);Q	s'étaient-elles souciées?
+soucier	IND;PST;NOM(2,PL,FEM);ACC(2,PL,RFLX);NEG;Q	ne vous êtes-vous pas souciées?
+soucier	IND;PST;NOM(3,PL,FEM);ACC(3,PL,RFLX);NEG;Q	ne se sont-elles pas souciées?
+soucier	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,RFLX);Q	se fut-il soucié?
+soucier	IND;PST;LGSPEC1;NOM(2,PL);ACC(2,PL,RFLX);NEG	vous ne vous souciâtes pas.
+soucier	IND;FUT;PFV;NOM(2,PL,FEM);GEN(3,SG,NEUT);ACC(2,PL,RFLX);	vous vous en serez souciées.
+soucier	IND;PST;PFV;LGSPEC1;NOM(2,SG,MASC);ACC(2,SG,RFLX);NEG;Q	ne te fus-tu pas soucié?
+soucier	IND;PST;PFV;LGSPEC1;NOM(3,SG,MASC);GEN(3,SG,NEUT);ACC(3,SG,RFLX);NEG	il ne s'en fut pas soucié.
+soucier	IND;PST;LGSPEC1;NOM(3,PL,MASC);ACC(3,PL,RFLX);NEG;Q	ne se soucièrent-ils pas?
+soucier	IND;PST;IPFV;NOM(3,SG,FEM);GEN(3,SG,NEUT);ACC(3,SG,RFLX);NEG	elle ne s'en souciait pas.
+soucier	IND;PST;NOM(1,PL,FEM);GEN(3,SG,NEUT);ACC(1,PL,RFLX);	nous nous en sommes souciées.
+soucier	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,RFLX);NEG	elle ne se soucie pas.
+soucier	IND;PST;PFV;NOM(2,PL,MASC);GEN(3,SG,NEUT);ACC(2,PL,RFLX);NEG	vous ne vous en étiez pas souciés.
+soucier	IND;FUT;PFV;NOM(1,PL,MASC);GEN(3,SG,NEUT);ACC(1,PL,RFLX);NEG;Q	ne nous en serons-nous pas souciés?
+soucier	IND;PST;LGSPEC1;NOM(3,PL,FEM);GEN(3,SG,NEUT);ACC(3,PL,RFLX);NEG;Q	ne s'en soucièrent-elles pas?
+soucier	IND;PRS;NOM(2,SG);ACC(2,SG,RFLX);NEG	tu ne te soucies pas.
+soucier	IND;PST;IPFV;NOM(2,SG);ACC(2,SG,RFLX);NEG	tu ne te souciais pas.
+soucier	IND;PST;LGSPEC1;NOM(2,PL);GEN(3,SG,NEUT);ACC(2,PL,RFLX);NEG;Q	ne vous en souciâtes-vous pas?
+soucier	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,RFLX);NEG	elle ne se soucia pas.
+soucier	IND;FUT;NOM(1,PL);ACC(1,PL,RFLX);	nous nous soucierons.
+soucier	COND;PRS;NOM(2,SG);GEN(3,SG,NEUT);ACC(2,SG,RFLX);NEG;Q	ne t'en soucierais-tu pas?
+éprouver	IND;PST;IPFV;NOM(3,SG,FEM);NEG;Q	n'éprouvait-elle pas?
+éprouver	IND;FUT;NOM(3,PL,FEM);ACC(3,SG);Q	l'éprouveront-elles?
+éprouver	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,SG,MASC);	ils l'auront éprouvé.
+éprouver	IND;FUT;PFV;NOM(2,SG);ACC(1,SG,FEM);Q	m'auras-tu éprouvée?
+éprouver	IND;FUT;PFV;NOM(3,PL,MASC);ACC(3,SG,FEM);NEG	ils ne l'auront pas éprouvée.
+éprouver	IND;PST;PFV;NOM(2,PL);ACC(3,PL,MASC);	vous les aviez éprouvés.
+éprouver	IND;PST;PFV;NOM(2,SG);ACC(1,SG,MASC);NEG;Q	ne m'avais-tu pas éprouvé?
+éprouver	IND;PST;PFV;NOM(3,PL,MASC);ACC(2,SG,FEM);Q	t'avaient-ils éprouvée?
+éprouver	IND;PRS;NOM(2,PL);NEG	vous n'éprouvez pas.
+éprouver	IND;FUT;PFV;NOM(2,PL);Q	aurez-vous éprouvé?
+éprouver	IND;FUT;PFV;NOM(1,SG);ACC(2,SG,MASC);NEG	je ne t'aurai pas éprouvé.
+éprouver	IND;FUT;NOM(3,PL,MASC);ACC(3,SG);NEG	ils ne l'éprouveront pas.
+éprouver	IND;FUT;PFV;NOM(2,PL);ACC(3,PL,FEM);NEG;Q	ne les aurez-vous pas éprouvées?
+éprouver	IND;PST;PFV;NOM(3,SG,FEM);ACC(1,PL,MASC);NEG;Q	ne nous avait-elle pas éprouvés?
+éprouver	IND;FUT;NOM(1,PL);ACC(3,SG);NEG;Q	ne l'éprouverons-nous pas?
+éprouver	IND;PST;PFV;LGSPEC1;NOM(1,PL);ACC(3,PL,MASC);	nous les eûmes éprouvés.
+éprouver	IND;PST;PFV;NOM(2,PL);ACC(3,PL,MASC);	vous les aviez éprouvés.
+éprouver	IND;FUT;PFV;NOM(3,PL,FEM);ACC(2,SG,MASC);	elles t'auront éprouvé.
+éprouver	IMP;PRS;NOM(2,PL);ACC(3,SG,FEM);	éprouvez-la!
