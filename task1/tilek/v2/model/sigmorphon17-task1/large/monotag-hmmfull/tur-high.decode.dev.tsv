@@ -1,0 +1,1001 @@
+prediction	target	loss	dist
+s i z i   y ü r k ç e l e ş t i r i y o r   o l m a m a l ı y d ı k .	s i z i   <UNK> ü r k ç e l e ş t i r i y o r   o l m a m a l ı y d ı k .	0.36237841844558716	1
+k e n d i m i z i   c ü r k ç e l e ş t i r m e m i ş i z .	k e n d i m i z i   <UNK> ü r k ç e l e ş t i r m e m i ş i z .	0.32610243558883667	1
+k e n d i l e r i n i   y ü r k ç e l e ş t i r i y o r   o l m a m a l ı l a r   m ı ?	k e n d i l e r i n i   <UNK> ü r k ç e l e ş t i r i y o r   o l m a m a l ı l a r   m ı ?	0.3727112412452698	1
+s e n i   c ü r k ç e l e ş t i r d i m   m i ?	s e n i   <UNK> ü r k ç e l e ş t i r d i m   m i ?	0.2845950424671173	1
+o n u   y ü r k ç e l e ş t i r d i y d i n .	o n u   <UNK> ü r k ç e l e ş t i r d i y d i n .	0.3308976888656616	1
+b i z i   c ü r k ç e l e ş t i r m i ş   o l m a y a c a k   m ı y d ı n ı z ?	b i z i   <UNK> ü r k ç e l e ş t i r m i ş   o l m a y a c a k   m ı y d ı n ı z ?	0.32489579916000366	1
+s e n i   c ü r k ç e l e ş t i r i n !	s e n i   <UNK> ü r k ç e l e ş t i r i n !	0.2604438364505768	1
+b e n i   c ü r k ç e l e ş t i r m i ş   o l a c a k   m ı ?	b e n i   <UNK> ü r k ç e l e ş t i r m i ş   o l a c a k   m ı ?	0.3054233491420746	1
+o n l a r ı   y ü r k ç e l e ş t i r i y o r   o l m a z   m ı y d ı m ?	o n l a r ı   <UNK> ü r k ç e l e ş t i r i y o r   o l m a z   m ı y d ı m ?	0.32289159297943115	1
+s i z i   c ü r k ç e l e ş t i r m e y e c e k m i ş i z .	s i z i   <UNK> ü r k ç e l e ş t i r m e y e c e k m i ş i z .	0.33336761593818665	1
+k e n d i n i z i   y ü r k ç e l e ş t i r i r   m i y d i n i z ?	k e n d i n i z i   <UNK> ü r k ç e l e ş t i r i r   m i y d i n i z ?	0.3448507487773895	1
+s e n i   c ü r k ç e l e ş t i r m i ş   o l a c a k   m ı y ı m ?	s e n i   <UNK> ü r k ç e l e ş t i r m i ş   o l a c a k   m ı y ı m ?	0.3297184407711029	1
+b e n i   c ü r k ç e l e ş t i r m e m i ş   m i y d i n i z ?	b e n i   <UNK> ü r k ç e l e ş t i r m e m i ş   m i y d i n i z ?	0.30975091457366943	1
+b e n i   c ü r k ç e l e ş t i r m i ş   m i y m i ş i z ?	b e n i   <UNK> ü r k ç e l e ş t i r m i ş   m i y m i ş i z ?	0.3299526870250702	1
+o n u   y ü r k ç e l e ş t i r m i ş   o l a c a k .	o n u   <UNK> ü r k ç e l e ş t i r m i ş   o l a c a k .	0.31143736839294434	1
+o n l a r ı   c ü r k ç e l e ş t i r m e y e c e k   m i y m i ş s i n i z ?	o n l a r ı   <UNK> ü r k ç e l e ş t i r m e y e c e k   m i y m i ş s i n i z ?	0.2914421260356903	1
+o n u   c ü r k ç e l e ş t i r m e d i n .	o n u   <UNK> ü r k ç e l e ş t i r m e d i n .	0.2761816382408142	1
+a ğ l ı y o r   o l m a l ı l a r   m ı y d ı ?	a ğ l ı y o r   o l m a l ı l a r   m ı y d ı ?	2.6442939997650683e-06	0
+a ğ l ı y o r   o l m a y a c a k m ı ş .	a ğ l ı y o r   o l m a y a c a k m ı ş .	2.475579549354734e-06	0
+a ğ l a m ı ş t ı .	a ğ l a m ı ş t ı .	2.0906329609715613e-06	0
+a ğ l a m ı ş   m ı y m ı ş ?	a ğ l a m ı ş   m ı y m ı ş ?	1.1546271707629785e-06	0
+a ğ l ı y o r   o l m a m a l ı l a r   m ı ?	a ğ l ı y o r   o l m a m a l ı l a r   m ı ?	2.641709897943656e-06	0
+a ğ l a m ı y o r m u ş s u n u z .	a ğ l a m ı y o r m u ş s u n u z .	3.16817317980167e-06	0
+a ğ l a m a l ı l a r .	a ğ l a m e l i l e r .	0.19573265314102173	3
+a ğ l a m ı ş   m ı y m ı ş s ı n ı z ?	a ğ l a m ı ş   m ı y m ı ş s ı n ı z ?	7.476125460925687e-07	0
+a ğ l a m a y ı n ı z !	a ğ l a m a y ı n ı z !	3.814149749814533e-05	0
+a ğ l a m a l ı   m ı y d ı n ı z ?	a ğ l a m a l ı   m ı y d ı n ı z ?	1.2278557051104144e-06	0
+a ğ l a r   m ı s ı n ?	a ğ l a r   m ı s ı n ?	1.4068824611968012e-06	0
+a ğ l a m a m a l ı   m ı ?	a ğ l a m a m e l i   m i ?	0.14773815870285034	3
+a ğ l ı y o r d u k .	a ğ l ı y o r d u k .	2.1237234250293113e-05	0
+a ğ l a m a z s ı n ı z .	a ğ l a m a z s ı n ı z .	1.9887695543729933e-06	0
+a ğ l a d ı m   m ı ?	a ğ l a d ı m   m ı ?	1.270149732590653e-05	0
+a ğ l a m a l ı l a r   m ı ?	a ğ l a m e l i l e r   m i ?	0.23000378906726837	4
+a ğ l ı y o r   o l a c a ğ ı z .	a ğ l ı y o r   o l a c a ğ ı z .	1.893671537800401e-06	0
+a ğ l ı y o r   o l m a y a c a k m ı ş s ı n .	a ğ l ı y o r   o l m a y a c a k m ı ş s ı n .	2.4007899810385425e-06	0
+b a n a   a ş ı k   o l a c a k   m ı s ı n ı z ?	b a n a   a ş ı k   o l a c a k   m ı s ı n ı z ?	2.941589173133252e-06	0
+b i z e   a ş ı k   o l u y o r l a r .	b i z e   a ş ı k   o l u y o r l a r .	3.6138301311439136e-06	0
+o n a   a ş ı k   o l m u ş   o l m a y a c a ğ ı z .	o n a   a ş ı k   o l m u ş   o l m a y a c a ğ ı z .	0.0007244711741805077	0
+b a n a   a ş ı k   o l m a d ı k .	b a n a   a ş ı k   o l m a d ı k .	3.872676643368322e-06	0
+k e n d i n i z e   a ş ı k   o l u y o r   o l a c a k t ı n ı z .	k e n d i n i z e   a ş ı k   o l u y o r   o l a c a k t ı n ı z .	1.270807388209505e-05	0
+o n a   a ş ı k   o l m a l ı l a r m ı ş .	o n a   a ş ı k   o l m a l ı l a r m ı ş .	3.0210755994630745e-06	0
+b i z e   a ş ı k   o l u y o r   o l m a m a l ı   m ı y m ı ş ?	b i z e   a ş ı k   o l u y o r   o l m a m a l ı   m ı y m ı ş ?	2.817120275722118e-06	0
+s a n a   a ş ı k   o l a c a k   m ı y m ı ş s ı n ı z ?	s a n a   a ş ı k   o l a c a k   m ı y m ı ş s ı n ı z ?	1.770687049429398e-05	0
+s a n a   a ş ı k   o l a c a k t ı .	s a n a   a ş ı k   o l a c a k t ı .	4.8723118197813164e-06	0
+s i z e   a ş ı k   o l u y o r   o l m a m a l ı y d ı .	s i z e   a ş ı k   o l u y o r   o l m a m a l ı y d ı .	1.2928135220136028e-05	0
+k e n d i n e   a ş ı k   o l a c a k   m ı ?	k e n d i n e   a ş ı k   o l a c a k   o l a c a k   m ı ?	0.3932977020740509	7
+b i z e   a ş ı k   o l d u y d u .	b i z e   a ş ı k   o l d u y d u .	0.00012395094381645322	0
+s a n a   a ş ı k   o l u y o r d u n u z .	s a n a   a ş ı k   o l u y o r d u n u z .	1.3974619832879398e-05	0
+k e n d i n e   a ş ı k   o l m a m ı ş .	k e n d i n e   a ş ı k   o l m a m ı ş .	2.14847968891263e-05	0
+b i z e   a ş ı k   o l m a l ı   m ı y ı m ?	b i z e   a ş ı k   o l m a l ı   m ı y ı m ?	4.034171070088632e-06	0
+s i z e   a ş ı k   o l m a d ı y d ı k .	s i z e   a ş ı k   o l m a d ı y d ı k .	4.51678079116391e-06	0
+o n l a r a   a ş ı k   o l m a d ı l a r d ı .	o n l a r a   a ş ı k   o l m a d ı l a r d ı .	5.877339390281122e-06	0
+b i z e   a ş ı k   o l u y o r   o l m a l ı y m ı ş s ı n ı z .	b i z e   a ş ı k   o l u y o r   o l m a l ı y m ı ş s ı n ı z .	4.974804596713511e-06	0
+b i z i   b a ş a r m a m a l ı   m ı y m ı ş ?	b i z i   b a ş a r m a m a l ı   m ı y m ı ş ?	1.145417172665475e-06	0
+s i z i   b a ş a r m a y a c a k m ı ş s ı n .	s i z i   b a ş a r m a y a c a k m ı ş s ı n .	2.3075981516740285e-06	0
+k e n d i n i   b a ş a r m ı y o r   m u y m u ş s u n ?	k e n d i n i   b a ş a r m ı y o r   m u y m u ş s u n ?	7.028088930383092e-06	0
+o n l a r ı   b a ş a r m a y a c a k   m ı y d ı ?	o n l a r ı   b a ş a r m a y a c a k   m ı y d ı ?	3.812889417531551e-06	0
+o n u   b a ş a r m a m ı ş ı m .	o n u   b a ş a r m a m ı ş ı m .	1.714671043373528e-06	0
+k e n d i m i   b a ş a r m ı ş t ı m .	k e n d i m i   b a ş a r m ı ş t ı m .	4.957068995281588e-06	0
+b e n i   b a ş a r ı y o r   o l m a y a c a k m ı ş .	b e n i   b a ş a r ı y o r   o l m a y a c a k m ı ş .	4.634041943063494e-06	0
+o n l a r ı   b a ş a r m a l ı y m ı ş ı m .	o n l a r ı   b a ş a r m a l ı y m ı ş ı m .	2.8073732210032176e-06	0
+o n u   b a ş a r m a y a c a k m ı ş s ı n .	o n u   b a ş a r m a y a c a k m ı ş s ı n .	1.3504633216143702e-06	0
+o n l a r ı   b a ş a r ı y o r   o l m a z d ı n ı z .	o n l a r ı   b a ş a r ı y o r   o l m a z d ı n ı z .	5.58398505745572e-06	0
+s i z i   b a ş a r ı y o r   o l m a l ı y d ı k .	s i z i   b a ş a r ı y o r   o l m a l ı y d ı k .	6.512655545520829e-06	0
+b e n i   b a ş a r a c a k   o l a c a k m ı ş s ı n ı z .	b e n i   b a ş a r a c a k   o l a c a k m ı ş s ı n ı z .	9.914630936691537e-06	0
+o n l a r ı   b a ş a r m ı y o r l a r .	o n l a r ı   b a ş a r m ı y o r l a r .	2.0274397684261203e-05	0
+o n l a r ı   b a ş a r m ı ş m ı ş ı m .	o n l a r ı   b a ş a r m ı ş m ı ş ı m .	2.8495778678916395e-06	0
+b i z i   b a ş a r ı y o r   o l m a l ı y m ı ş s ı n ı z .	b i z i   b a ş a r ı y o r   o l m a l ı y m ı ş s ı n ı z .	2.9573157007689588e-06	0
+b e n i   b a ş a r a c a k l a r   m ı ?	b e n i   b a ş a r a c a k l a r   m ı ?	9.554867574479431e-06	0
+k e n d i l e r i n i   b a ş a r ı r l a r   m ı ?	k e n d i l e r i n i   b a ş a r ı r l a r   m ı ?	0.0002585554320830852	0
+s i z i   b a ş a r a c a k   o l a c a k   m ı s ı n ?	s i z i   b a ş a r a c a k   o l a c a k   m ı s ı n ?	1.7056067008525133e-05	0
+o n u   b a ş a r ı y o r   o l a c a k   m ı y d ı m ?	o n u   b a ş a r ı y o r   o l a c a k   m ı y d ı m ?	4.7435487431357615e-06	0
+o n u   b a ş a r m ı y o r .	o n u   b a ş a r m ı y o r .	1.6389944903494325e-06	0
+s i z i   b a ş a r m ı y o r d u k .	s i z i   b a ş a r m ı y o r d u k .	5.0958083193108905e-06	0
+o n u   b a ş a r m a d ı y d ı n .	o n u   b a ş a r m a d ı y d ı n .	3.0131179755699122e-06	0
+k e n d i n i z i   b a ş a r m a d ı y d ı n ı z .	k e n d i n i z i   b a ş a r m a d ı y d ı n ı z .	7.405233645840781e-06	0
+k e n d i n i   b e k l e m i ş .	k e n d i n i   b e k l e m i ş .	0.0003480839659459889	0
+b e n i   b e k l e m i ş   o l m a y a c a k l a r .	b e n i   b e k l e m i ş   o l m a y a c a k l a r .	0.00012647942639887333	0
+b e n i   b e k l i y o r   o l m a l ı   m ı y m ı ş ı z ?	b e n i   b e k l i y o r   o l m a l ı   m ı y m ı ş ı z ?	6.366144953062758e-05	0
+s i z i   b e k l e m e m e l i l e r .	s i z i   b e k l e m e m e l i l e r .	6.551940168719739e-05	0
+k e n d i l e r i n i   b e k l e m e m i ş l e r d i .	k e n d i l e r i n i   b e k l e m e m i ş l e r d i .	6.172442954266444e-05	0
+b i z i   b e k l i y o r   o l a c a k   m ı s ı n ?	b i z i   b e k l i y o r   o l a c a k   m ı s ı n ?	0.00011498839739942923	0
+b e n i   b e k l e m i y o r d u n .	b e n i   b e k l e m i y o r d u n .	3.9904993172967806e-05	0
+b e n i   b e k l e m e z   m i y d i k ?	b e n i   b e k l e m e z   m i y d i k ?	1.727414201013744e-05	0
+s e n i   b e k l e r   m i y d i m ?	s e n i   b e k l e r   m i y d i m ?	8.863540278980508e-05	0
+s i z i   b e k l i y o r   o l m a l ı y ı z .	s i z i   b e k l i y o r   o l m a l ı y ı z .	0.00021309325529728085	0
+o n u   b e k l i y o r   o l m a y a c a k   m ı y d ı n ?	o n u   b e k l i y o r   o l m a y a c a k   m ı y d ı n ?	1.9603186956373975e-05	0
+o n u   b e k l e m i ş   o l a c a k   m ı y ı m ?	o n u   b e k l e m i ş   o l a c a k   m ı y ı m ?	1.079997127817478e-05	0
+o n u   b e k l e y e c e k   o l m a y a c a k   m ı s ı n ı z ?	o n u   b e k l e y e c e k   o l m a y a c a k   m ı s ı n ı z ?	2.1866042516194284e-05	0
+o n u   b e k l i y o r m u ş u z .	o n u   b e k l i y o r m u ş u z .	4.735240509035066e-05	0
+o n l a r ı   b e k l e m e l i y d i k .	o n l a r ı   b e k l e m e l i y d i k .	8.634350524516776e-05	0
+b i z i   b e k l i y o r   o l m a y a c a k l a r   m ı y d ı ?	b i z i   b e k l i y o r   o l m a y a c a k l a r   m ı y d ı ?	0.00019550271099433303	0
+o n l a r ı   b e k l i y o r   o l a c a k   m ı ?	o n l a r ı   b e k l i y o r   o l a c a k   m ı ?	0.00023918620718177408	0
+b e n i   b e k l i y o r   o l u r   m u y d u k ?	b e n i   b e k l i y o r   o l u r   m u y d u k ?	0.0002352812880417332	0
+b e n i   b e k l e m e z d i n .	b e n i   b e k l e m e z d i n .	3.0667430110042915e-05	0
+b i z i   b o ş l u y o r   o l m a m a l ı   m ı y m ı ş ?	b i z i   b o ş l u y o r   o l m a m a l ı   m ı y m ı ş ?	5.819558737130137e-06	0
+s i z i   b o ş l a m a l ı l a r   m ı ?	s i z i   b o ş l a m a l ı l a r   m ı ?	0.00017387438856530935	0
+o n u   b o ş l a y a c a k   o l m a y a c a ğ ı z .	o n u   b o ş l a y a c a k   o l m a y a c a ğ ı z .	1.0558637768554036e-05	0
+s e n i   b o ş l u y o r   o l a c a k .	s e n i   b o ş l u y o r   o l a c a k .	2.587115886854008e-05	0
+b e n i   b o ş l a y a c a k m ı ş ı z .	b e n i   b o ş l a y a c a k m ı ş ı z .	1.917344707180746e-05	0
+s e n i   b o ş l a m a y a c a k   m ı y m ı ş ı z ?	s e n i   b o ş l a m a y a c a k   m ı y m ı ş ı z ?	4.843058832193492e-06	0
+o n l a r ı   b o ş l u y o r   o l a c a k   m ı ?	o n l a r ı   b o ş l u y o r   o l a c a k   m ı ?	8.729302862775512e-06	0
+o n u   b o ş l a m a m a l ı y d ı k .	o n u   b o ş l a m a m a l ı y d ı k .	4.473554781725397e-06	0
+o n l a r ı   b o ş l a m a z .	o n l a r ı   b o ş l a m a z .	2.360748339924612e-06	0
+o n l a r ı   b o ş l a m a y a c a k   m ı y m ı ş ı z ?	o n l a r ı   b o ş l a m a y a c a k   m ı y m ı ş ı z ?	3.24463690049015e-06	0
+s i z i   b o ş l a y a c a k   o l m a y a c a k   m ı y m ı ş ?	s i z i   b o ş l a y a c a k   o l m a y a c a k   m ı y m ı ş ?	0.0006384208099916577	0
+b i z i   b o ş l u y o r   o l m a m a l ı l a r .	b i z i   b o ş l u y o r   o l m a m a l ı l a r .	1.1562838153622579e-05	0
+b e n i   b o ş l a m a y a c a k   m ı y d ı k ?	b e n i   b o ş l a m a y a c a k   m ı y d ı k ?	1.4188585737429094e-06	0
+o n l a r ı   b o ş l a y a c a k   o l m a y a c a k m ı ş s ı n .	o n l a r ı   b o ş l a y a c a k   o l m a y a c a k m ı ş s ı n .	0.0017013787291944027	0
+k e n d i n i   b o ş l u y o r   o l m a y a c a k s ı n .	k e n d i n i   b o ş l u y o r   o l m a y a c a k s ı n .	2.7099373255623505e-05	0
+s i z i   b o ş l a m ı ş m ı ş ı z .	s i z i   b o ş l a m ı ş m ı ş ı z .	3.866700808430323e-06	0
+s e n i   b o ş l a m ı ş   o l m a y a c a k   m ı y d ı ?	s e n i   b o ş l a m ı ş   o l m a y a c a k   m ı y d ı ?	2.589485575299477e-06	0
+o n l a r ı   b o ş l a r   o l a c a k l a r m ı ş .	o n l a r ı   b o ş l a r   o l a c a k l a r m ı ş .	0.0001374312414554879	0
+k e n d i m i   b o ş l a r   o l m a y a c a k m ı ş ı m .	k e n d i m i   b o ş l a r   o l m a y a c a k m ı ş ı m .	1.0678983926482033e-05	0
+s e n i   k e n d i n e   d a l d ı r a c a k   o l a c a k l a r .	s e n i   k e n d i n e   d a l d ı r a c a k   o l a c a k l a r .	4.227213503327221e-05	0
+o n l a r ı   o n l a r a   d a l d ı r a c a k   o l m a y a c a ğ ı m .	o n l a r ı   o n l a r a   d a l d ı r a c a k   o l m a y a c a ğ ı m .	1.772704672475811e-05	0
+b i z i   o n l a r a   d a l d ı r m ı ş   o l a c a k l a r   m ı y d ı ?	b i z i   o n l a r a   d a l d ı r m ı ş   o l a c a k l a r   m ı y d ı ?	0.00010009979450842366	0
+o n u   k e n d i n e   d a l d ı r ı y o r l a r   m ı y d ı ?	o n u   k e n d i n e   d a l d ı r ı y o r l a r   m ı y d ı ?	5.178614446776919e-05	0
+s e n i   k e n d i n e   d a l d ı r ı y o r   o l u r d u n u z .	s e n i   k e n d i n e   d a l d ı r ı y o r   o l u r d u n u z .	7.91594065958634e-05	0
+o n l a r ı   s a n a   d a l d ı r ı y o r   o l m a l ı l a r   m ı y m ı ş ?	o n l a r ı   s a n a   d a l d ı r ı y o r   o l m a l ı l a r   m ı y m ı ş ?	1.0111705705639906e-05	0
+o n u   s i z e   d a l d ı r ı r m ı ş s ı n .	o n u   s i z e   d a l d ı r ı r m ı ş s ı n .	6.25330358161591e-05	0
+o n u   k e n d i n e   d a l d ı r m ı ş   m ı y m ı ş s ı n ?	o n u   k e n d i n e   d a l d ı r m ı ş   m ı y m ı ş s ı n ı z ?	0.11326195299625397	2
+k e n d i m i   b i z e   d a l d ı r m a l ı   m ı y d ı m ?	k e n d i m i   b i z e   d a l d ı r m a l ı   m ı y d ı m ?	4.627911403076723e-05	0
+o n u   s i z e   d a l d ı r m a y a c a k l a r   m ı ?	o n u   s i z e   d a l d ı r m a y a c a k l a r   m ı ?	5.39780012331903e-06	0
+o n l a r ı   k e n d i m e   d a l d ı r m a m a l ı y d ı m .	o n l a r ı   k e n d i m e   d a l d ı r m a m a l ı y d ı m .	0.0005913452478125691	0
+k e n d i n i   o n a   d a l d ı r m ı y o r   m u y d u ?	k e n d i n i   o n a   d a l d ı r m ı y o r   m u y d u ?	9.208790288539603e-06	0
+o n u   o n l a r a   d a l d ı r ı y o r   o l m a z d ı m .	o n u   o n l a r a   d a l d ı r ı y o r   o l m a z d ı m .	3.465148984105326e-05	0
+s e n i   o n l a r a   d a l d ı r m ı ş t ı k .	s e n i   o n l a r a   d a l d ı r m ı ş t ı k .	4.719341632153373e-06	0
+k e n d i l e r i n i   o n l a r a   d a l d ı r m a y a c a k l a r   m ı y m ı ş ?	k e n d i l e r i n i   o n l a r a   d a l d ı r m a y a c a k l a r   m ı y m ı ş ?	0.0022058363538235426	0
+o n u   k e n d i m i z e   d a l d ı r a c a k   o l a c a k   m ı y m ı ş ı z ?	o n u   k e n d i m i z e   d a l d ı r a c a k   o l a c a k   m ı y m ı ş ı z ?	8.670510578667745e-05	0
+s i z i   k e n d i n e   d a l d ı r m ı ş   o l a c a k   m ı y d ı n ?	s i z i   k e n d i n e   d a l d ı r m ı ş   o l a c a k   m ı y d ı n ?	3.306566213723272e-06	0
+o n u   k e n d i m e   d a l d ı r ı y o r   o l m a y a c a k   m ı y m ı ş ı m ?	o n u   k e n d i m e   d a l d ı r ı y o r   o l m a y a c a k   m ı y m ı ş ı m ?	1.6949585187830962e-05	0
+b i z e   d a y a m a z   m ı y d ı n ?	b i z e   d a y a m a z   m ı y d ı n ?	1.5026466826384421e-06	0
+o n u   o n l a r a   d a y a m a l ı l a r   m ı ?	o n u   o n l a r a   d a y a m a l ı l a r   m ı ?	0.0003479576262179762	0
+s a n a   d a y ı y o r   o l m a m a l ı .	s a n a   d a y ı y o r   o l m a m a l ı .	0.00010555057815508917	0
+o n l a r ı   b a n a   d a y a r l a r   m ı ?	o n l a r ı   b a n a   d a y a r l a r   m ı ?	3.951726830564439e-05	0
+k e n d i m i z i   s a n a   d a y ı y o r   o l u r d u k .	k e n d i m i z i   s a n a   d a y ı y o r   o l u r d u k .	0.000159703879035078	0
+b i z e   d a y a d ı   m ı y d ı n ?	b i z e   d a y a d ı   m ı y d ı n ?	8.188273204723373e-05	0
+b e n i   k e n d i m e   d a y a r   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	b e n i   k e n d i m e   d a y a r   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	1.8635933884070255e-05	0
+k e n d i l e r i n i   s i z e   d a y ı y o r   o l m a l ı l a r   m ı ?	k e n d i l e r i n i   s i z e   d a y ı y o r   o l m a l ı l a r   m ı ?	0.00018886425823438913	0
+b i z e   d a y a d ı n ı z   m ı ?	b i z e   d a y a d ı n ı z   m ı ?	8.784367673797533e-05	0
+b a n a   d a y a m ı y o r   m u y m u ş ?	b a n a   d a y a m ı y o r   m u y m u ş ?	8.828566024021711e-06	0
+b e n i   b i z e   d a y ı y o r l a r m ı ş .	b e n i   b i z e   d a y ı y o r l a r m ı ş .	0.011869239620864391	0
+o n u   s i z e   d a y a y a c a k   o l a c a k l a r   m ı y m ı ş ?	o n u   s i z e   d a y a y a c a k   o l a c a k l a r   m ı y m ı ş ?	0.001943001407198608	0
+b e n i   o n l a r a   d a y ı y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	b e n i   o n l a r a   d a y ı y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	0.00013810434029437602	0
+s i z e   d a y a m ı ş   o l a c a k   m ı y ı m ?	s i z e   d a y a m ı ş   o l a c a k   m ı y ı m ?	1.0506379112484865e-05	0
+b i z i   k e n d i m i z e   d a y ı y o r   o l a c a ğ ı m .	b i z i   k e n d i m i z e   d a y ı y o r   o l a c a ğ ı m .	0.0007266118773259223	0
+o n l a r ı   k e n d i n e   d a y a r m ı ş .	o n l a r ı   k e n d i n e   d a y a r m ı ş .	7.355029083555564e-05	0
+s a n a   d a y a m a z d ı .	s a n a   d a y a m a z d ı .	2.9703025575145148e-05	0
+s i z i   o n a   d a y ı y o r u z .	s i z i   o n a   d a y ı y o r u z .	0.0007918294868431985	0
+o n l a r ı   b a n a   d a y a y a c a k t ı n ı z .	o n l a r ı   b a n a   d a y a y a c a k t ı n ı z .	6.337221566354856e-05	0
+o n u   s i z e   d a y a m a !	o n u   s i z e   d a y a m a !	0.0003973169659730047	0
+o n l a r ı   s i z e   d a y a y a c a k   o l a c a k   m ı y ı m ?	o n l a r ı   s i z e   d a y a y a c a k   o l a c a k   m ı y ı m ?	8.920468826545402e-05	0
+k e n d i l e r i n i   d e m l i y o r   o l a c a k l a r m ı ş .	k e n d i l e r i n i   d e m l i y o r   o l a c a k l a r m ı ş .	1.812512709875591e-05	0
+o n l a r ı   d e m l i y o r   o l m a l ı   m ı y d ı n ?	o n l a r ı   d e m l i y o r   o l m a l ı   m ı y d ı n ?	3.6556350551109063e-06	0
+o n u   d e m l i y o r   o l a c a k m ı ş .	o n u   d e m l i y o r   o l a c a k m ı ş .	4.546612672129413e-06	0
+s e n i   d e m l e m e m e l i   m i ?	s e n i   d e m l e m e m e l i   m i ?	3.1111501357372617e-06	0
+s i z i   d e m l i y o r   o l u r l a r d ı .	s i z i   d e m l i y o r   o l u r l a r d ı .	9.693530046206433e-06	0
+k e n d i l e r i n i   d e m l e m e d i l e r .	k e n d i l e r i n i   d e m l e m e d i l e r .	9.753678568813484e-06	0
+b e n i   d e m l e m e y e c e k   m i y d i n i z ?	b e n i   d e m l e m e y e c e k   m i y d i n i z ?	2.795473164951545e-06	0
+o n l a r ı   d e m l i y o r   o l m a m a l ı   m ı y ı z ?	o n l a r ı   d e m l i y o r   o l m a m a l ı   m ı y ı z ?	4.180833002465079e-06	0
+k e n d i l e r i n i   d e m l e m e y e c e k l e r   m i y d i ?	k e n d i l e r i n i   d e m l e m e y e c e k l e r   m i y d i ?	1.6290077837766148e-05	0
+o n l a r ı   d e m l e d i n i z .	o n l a r ı   d e m l e d i n i z .	3.177226972184144e-05	0
+s i z i   d e m l e m i ş i m .	s i z i   d e m l e m i ş i m .	1.0694290722312871e-05	0
+s i z i   d e m l e m e m e l i y d i n .	s i z i   d e m l e m e m e l i y d i n .	2.0264014892745763e-06	0
+b e n i   d e m l e m e y e c e k   m i y d i ?	b e n i   d e m l e m e y e c e k   m i y d i ?	3.509127509460086e-06	0
+b e n i   d e m l i y o r   o l a c a k   m ı y m ı ş ı z ?	b e n i   d e m l i y o r   o l a c a k   m ı y m ı ş ı z ?	5.5955490097403526e-05	0
+k e n d i n i   d e m l i y o r   o l m a y a c a k   m ı y m ı ş ?	k e n d i n i   d e m l i y o r   o l m a y a c a k   m ı y m ı ş ?	1.2806232916773297e-05	0
+s i z i   d e m l e y e c e k l e r d i .	s i z i   d e m l e y e c e k l e r d i .	1.8761802493827417e-05	0
+o n u   d e m l e m e l i   m i y m i ş i z ?	o n u   d e m l e m e l i   m i y m i ş i z ?	2.76605055660184e-06	0
+b e n i   d e m l e m e z l e r m i ş .	b e n i   d e m l e m e z l e r m i ş .	7.796417776262388e-06	0
+k e n d i l e r i n i   d e m l i y o r   o l a c a k l a r   m ı y m ı ş ?	k e n d i l e r i n i   d e m l i y o r   o l a c a k l a r   m ı y m ı ş ?	2.0376633983687498e-05	0
+o n u   d e m l i y o r   o l a c a k t ı .	o n u   d e m l i y o r   o l a c a k t ı .	3.934637334168656e-06	0
+o n u   d e m l e m i y o r   m u y m u ş ?	o n u   d e m l e m i y o r   m u y m u ş ?	0.0009404427837580442	0
+s e n i   d o k u m a m ı ş l a r d ı .	s e n i   d o k u m a m ı ş l a r d ı .	1.533688737254124e-05	0
+o n u   d o k u m a y a c a k m ı ş ı z .	o n u   d o k u m a y a c a k m ı ş ı z .	2.4594498881924665e-06	0
+o n u   d o k u y a c a k   m ı s ı n ı z ?	o n u   d o k u y a c a k   m ı s ı n ı z ?	1.0613209269649815e-05	0
+o n l a r ı   d o k u y o r   o l m a y a c a k .	o n l a r ı   d o k u y o r   o l m a y a c a k .	1.5028173038444947e-05	0
+o n u   d o k u m u y o r m u ş s u n .	o n u   d o k u m u y o r m u ş s u n .	8.907033588911872e-06	0
+o n u   d o k u m a y a c a k   m ı s ı n ?	o n u   d o k u m a y a c a k   m ı s ı n ?	4.5494620280805975e-05	0
+s e n i   d o k u y o r   o l a c a k t ı n ı z .	s e n i   d o k u y o r   o l a c a k t ı n ı z .	0.00010092416778206825	0
+o n l a r ı   d o k u m a m ı ş l a r   m ı y m ı ş ?	o n l a r ı   d o k u m a m ı ş l a r   m ı y m ı ş ?	1.2527734725154005e-05	0
+k e n d i l e r i n i   d o k u m u ş   o l a c a k l a r   m ı y d ı ?	k e n d i l e r i n i   d o k u m u ş   o l a c a k l a r   m ı y d ı ?	2.3313310521189123e-05	0
+s i z i   d o k u m a y a c a k   m ı y d ı ?	s i z i   d o k u m a y a c a k   m ı y d ı ?	6.118309829616919e-05	0
+k e n d i n i   d o k u m a z   m ı y m ı ş s ı n ?	k e n d i n i   d o k u m a z   m ı y m ı ş s ı n ?	1.0823506272572558e-05	0
+b i z i   d o k u m a z l a r   m ı y m ı ş ?	b i z i   d o k u m a z l a r   m ı y m ı ş ?	2.4616060727566946e-06	0
+b e n i   d o k u r .	b e n i   d o k u r .	0.00014428378199227154	0
+b i z i   d o k u m a y a c a ğ ı m .	b i z i   d o k u m a y a c a ğ ı m .	8.251312101492658e-05	0
+b i z i   d o k u d u   m u y d u m ?	b i z i   d o k u d u   m u y d u m ?	0.0056374045088887215	0
+s e n i   d o k u m a m a l ı y d ı n ı z .	s e n i   d o k u m a m a l ı y d ı n ı z .	1.6746413166401908e-05	0
+o n l a r ı   d o k u m u ş s u n u z .	o n l a r ı   d o k u m u ş s u n u z .	6.5461463236715645e-06	0
+b e n i   d o k u y a c a k   o l m a y a c a k l a r   m ı ?	b e n i   d o k u y a c a k   o l m a y a c a k l a r   m ı ?	2.335904173378367e-05	0
+s e n i   k e n d i n e   d o l a m ı y o r   m u y u z ?	s e n i   k e n d i n e   d o l a m ı y o r   m u y u z ?	2.4304506951011717e-05	0
+o n u   k e n d i m i z e   d o l a d ı k .	o n u   k e n d i m i z e   d o l a d ı k .	7.250205817399547e-05	0
+s e n i   k e n d i n e   d o l u y o r u m .	s e n i   k e n d i n e   d o l u y o r u m .	6.837336695753038e-05	0
+s e n i   o n a   d o l a m ı y o r   m u y u z ?	s e n i   o n a   d o l a m ı y o r   m u y u z ?	3.203651795047335e-05	0
+k e n d i m i   o n a   d o l a m ı ş   o l a c a k t ı m .	k e n d i m i   o n a   d o l a m ı ş   o l a c a k t ı m .	0.0012109316885471344	0
+o n u   k e n d i n e   d o l a m a l ı y d ı k .	o n u   k e n d i n e   d o l a m a l ı y d ı k .	2.7943622626480646e-05	0
+b i z i   b a n a   d o l a m a m a l ı y m ı ş s ı n .	b i z i   b a n a   d o l a m a m a l ı y m ı ş s ı n .	3.3428841561544687e-05	0
+o n u   o n l a r a   d o l a r d ı k .	o n u   o n l a r a   d o l a r d ı k .	0.00010273730003973469	0
+b e n i   k e n d i l e r i n e   d o l a m ı ş   o l m a y a c a k l a r d ı .	b e n i   k e n d i l e r i n e   d o l a m ı ş   o l m a y a c a k l a r d ı .	0.000551351869944483	0
+b e n i   s i z e   d o l a m ı ş   o l m a y a c a k s ı n .	b e n i   s i z e   d o l a m ı ş   o l m a y a c a k s ı n .	0.00011191385419806466	0
+s e n i   o n a   d o l a m a l ı y d ı m .	s e n i   o n a   d o l a m a l ı y d ı m .	2.6620067728799768e-05	0
+s i z i   b i z e   d o l a m a !	s i z i   b i z e   d o l a m a !	0.00040249177254736423	0
+o n l a r ı   o n l a r a   d o l u y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	o n l a r ı   o n l a r a   d o l u y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	0.00014901906251907349	0
+o n u   s i z e   d o l a m a d ı l a r .	o n u   s i z e   d o l a m a d ı l a r .	1.4683460904052481e-05	0
+b i z i   o n l a r a   d o l a m a l ı .	b i z i   o n l a r a   d o l a m a l ı .	0.00025918526807799935	0
+o n l a r ı   b a n a   d o l u y o r   o l m a m a l ı l a r m ı ş .	o n l a r ı   b a n a   d o l u y o r   o l m a m a l ı l a r m ı ş .	7.706556061748415e-06	0
+b i z i   k e n d i l e r i n e   d o l a y a c a k   o l m a y a c a k l a r   m ı ?	b i z i   k e n d i l e r i n e   d o l a y a c a k   o l m a y a c a k l a r   m ı ?	0.0013719159178435802	0
+b i z i   k e n d i l e r i n e   d o l a m a d ı l a r   m ı ?	b i z i   k e n d i l e r i n e   d o l a m a d ı l a r   m ı ?	0.0005560640129260719	0
+s i z i   k e n d i n i z e   d o l a m a m a l ı   m ı ?	s i z i   k e n d i n i z e   d o l a m a m a l ı   m ı ?	0.0005400899681262672	0
+o n u   k e n d i n e   d o l u y o r   o l m a m a l ı l a r   m ı y m ı ş ?	o n u   k e n d i n e   d o l u y o r   o l m a m a l ı l a r   m ı y m ı ş ?	6.855872925370932e-05	0
+d o l a c a k l a r .	d o l a c a k l a r .	1.662054637563415e-05	0
+d o l u y o r   o l a c a k l a r   m ı ?	d o l u y o r   o l a c a k l a r   m ı ?	2.2974882085691206e-06	0
+d o l a c a k   o l m a y a c a k   m ı y ı m ?	d o l a c a k   o l m a y a c a k   m ı y ı m ?	0.0011470993049442768	0
+d o l m a m ı ş   m ı s ı n ?	d o l m a m ı ş   m ı s ı n ?	3.2119048682943685e-06	0
+d o l a c a k   o l m a y a c a k   m ı s ı n ?	d o l a c a k   o l m a y a c a k   m ı s ı n ?	0.0013609000016003847	0
+d o l u n u n u z !	d o l u n u z !	0.06480886042118073	2
+d o l a c a k   o l a c a k   m ı s ı n ?	d o l a c a k   o l a c a k   m ı s ı n ?	2.603372195153497e-05	0
+d o l m a m .	d o l m a m .	0.005734388250857592	0
+d o l m a m a l ı l a r d ı .	d o l m a m a l ı l a r d ı .	1.189260456158081e-05	0
+d o l u y o r d u .	d o l u y o r d u .	7.587447726109531e-06	0
+d o l m u y o r l a r   m ı y d ı ?	d o l m u y o r l a r   m ı y d ı ?	7.647678103239741e-06	0
+d o l m a d ı m   m ı ?	d o l m a d ı m   m ı ?	1.1428336620156188e-05	0
+d o l a c a k l a r   m ı y m ı ş ?	d o l a c a k l a r   m ı y m ı ş ?	0.001491315895691514	0
+d o l u y o r   o l u r d u n u z .	d o l u y o r   o l u r d u n u z .	5.821705144626321e-06	0
+d o l u r s u n .	d o l a r s ı n .	0.07630383223295212	2
+d o l m u ş   o l m a y a c a k .	d o l m u ş   o l m a y a c a k .	4.684827672463143e-06	0
+d o l u y o r   o l m a z d ı .	d o l u y o r   o l m a z d ı .	9.14334668777883e-06	0
+d o l a c a k   o l a c a k m ı ş ı m .	d o l a c a k   o l a c a k m ı ş ı m .	2.39064684137702e-05	0
+d o l u y o r   o l a c a k   m ı y d ı k ?	d o l u y o r   o l a c a k   m ı y d ı k ?	1.6245505776169011e-06	0
+d o l m a m ı ş   m ı y d ı n ı z ?	d o l m a m ı ş   m ı y d ı n ı z ?	7.332363566092681e-06	0
+d o l d u k   m u ?	d o l d u k   m u ?	0.00010178746742894873	0
+d o l m a m a l ı   m ı ?	d o l m a m a l ı   m ı ?	0.011054206639528275	0
+e s k i m e l i   m i y m i ş i m ?	e s k i m e l i   m i y m i ş i m ?	1.3838736094839987e-06	0
+e s k i m e y e c e k t i m .	e s k i m e y e c e k t i m .	0.00034882096224464476	0
+e s k i r   m i y m i ş s i n i z ?	e s k i r   m i y m i ş s i n i z ?	3.9495303099101875e-06	0
+e s k i m i y o r s u n .	e s k i m i y o r s u n .	3.299485251773149e-05	0
+e s k i m e l i y i z .	e s k i m e l i y i z .	3.6070709938940126e-06	0
+e s k i m e y e c e k   m i s i n ?	e s k i m e y e c e k   m i s i n ?	0.00013911130372434855	0
+e s k i d i y d i m .	e s k i d i y d i m .	0.0069237700663506985	0
+e s k i m i ş   m i s i n i z ?	e s k i m i ş   m i s i n i z ?	1.742416429806326e-06	0
+e s k i m e d i l e r .	e s k i m e d i l e r .	3.6406270282896003e-06	0
+e s k i y o r   o l a c a k .	e s k i y o r   o l a c a k .	4.415375315147685e-06	0
+e s k i y o r   o l m a m a l ı y d ı .	e s k i y o r   o l m a m a l ı y d ı .	3.914172793884063e-06	0
+e s k i m e l i y d i .	e s k i m e l i y d i .	3.176836571583408e-06	0
+e s k i y o r l a r   m ı y d ı ?	e s k i y o r l a r   m ı y d ı ?	1.7208827784997993e-06	0
+e s k i n i z !	e s k i y i n i z !	0.2084585279226303	2
+e s k i m e l i   m i y d i n ?	e s k i m e l i   m i y d i n ?	2.8904225928272353e-06	0
+e s k i y o r   o l a c a k   m ı y ı m ?	e s k i y o r   o l a c a k   m ı y ı m ?	1.3418495655059814e-05	0
+e s k i y o r   o l a c a k   m ı s ı n ı z ?	e s k i y o r   o l a c a k   m ı s ı n ı z ?	3.939947873732308e-06	0
+e s k i m e m i ş   m i y d i n ?	e s k i m e m i ş   m i y d i n ?	2.091096121148439e-06	0
+e s k i m e l i   m i y d i m ?	e s k i m e l i   m i y d i m ?	1.954669869519421e-06	0
+e s k i y o r   o l m a y a c a k l a r   m ı y m ı ş ?	e s k i y o r   o l m a y a c a k l a r   m ı y m ı ş ?	9.963641787180677e-07	0
+b i z i m l e   h a v a   a t m ı ş   o l a c a k t ı .	b i z i m l e   h a v a   a t m ı ş   o l a c a k t ı .	5.934599812462693e-06	0
+k e n d i y l e   h a v a   a t a c a k   o l a c a k m ı ş .	k e n d i y l e   h a v a   a t a c a k   o l a c a k m ı ş .	7.572249160148203e-05	0
+s i z i n l e   h a v a   a t ı y o r   o l m a y a c a k   m ı y ı z ?	s i z i n l e   h a v a   a t ı y o r   o l m a y a c a k   m ı y ı z ?	1.048863759933738e-05	0
+h a v a   a t ı y o r   o l m a l ı y ı m .	h a v a   a t ı y o r   o l m a l ı y ı m .	2.2499380065710284e-06	0
+s i z i n l e   h a v a   a t a r   m ı y ı z ?	s i z i n l e   h a v a   a t a r   m ı y ı z ?	6.983978528296575e-05	0
+o n u n l a   h a v a   a t a c a k   o l a c a k l a r   m ı y m ı ş ?	o n u n l a   h a v a   a t a c a k   o l a c a k l a r   m ı y m ı ş ?	7.443324284395203e-05	0
+o n u n l a   h a v a   a t m a y a c a k l a r m ı ş .	o n u n l a   h a v a   a t m a y a c a k l a r m ı ş .	2.565667818998918e-05	0
+b i z i m l e   h a v a   a t m a m a l ı s ı n ı z .	b i z i m l e   h a v a   a t m a m a l ı s ı n ı z .	0.000275769445579499	0
+o n u n l a   h a v a   a t a c a k m ı ş s ı n .	o n u n l a   h a v a   a t a c a k m ı ş s ı n .	1.1779544365708716e-05	0
+o n u n l a   h a v a   a t a r   o l m a y a c a k m ı ş ı z .	o n u n l a   h a v a   a t a r   o l m a y a c a k m ı ş ı z .	0.0018292797030881047	0
+o n l a r ı n l a   h a v a   a t a c a k   o l m a y a c a k l a r .	o n l a r ı n l a   h a v a   a t a c a k   o l m a y a c a k l a r .	3.813489092863165e-05	0
+s e n i n l e   h a v a   a t ı y o r   o l a c a k   m ı y d ı n ı z ?	s e n i n l e   h a v a   a t ı y o r   o l a c a k   m ı y d ı n ı z ?	5.385843542171642e-05	0
+o n u n l a   h a v a   a t m a d ı n ı z   m ı ?	o n u n l a   h a v a   a t m a d ı n ı z   m ı ?	5.635560228256509e-05	0
+o n l a r ı n l a   h a v a   a t m ı ş   m ı y d ı n ?	o n l a r ı n l a   h a v a   a t m ı ş   m ı y d ı n ?	9.063933248398826e-06	0
+h a v a   a t m a m ı ş s ı n .	h a v a   a t m a m ı ş s ı n .	1.8544394606578862e-06	0
+s e n i n l e   h a v a   a t m a y a c a k l a r m ı ş .	s e n i n l e   h a v a   a t m a y a c a k l a r m ı ş .	1.617304587853141e-05	0
+b e n i m l e   h a v a   a t m a d ı y d ı .	b e n i m l e   h a v a   a t m a d ı y d ı .	2.208752448495943e-05	0
+o n u n l a   h a v a   a t m ı ş l a r .	o n u n l a   h a v a   a t m ı ş l a r .	2.660390964592807e-05	0
+o n u n l a   h a v a   a t m a m ı ş s ı n .	o n u n l a   h a v a   a t m a m ı ş s ı n .	1.7881551684695296e-05	0
+h a v a   a t ı y o r   o l u r   m u y d u m ?	h a v a   a t ı y o r   o l u r   m u y d u m ?	2.2689032448397484e-06	0
+h e y e c a n l a n ı y o r   o l m a l ı   m ı y d ı k ?	h e y e c a n l a n ı y o r   o l m a l ı   m ı y d ı k ?	4.13387970183976e-05	0
+h e y e c a n l a n ı y o r l a r   m ı y d ı ?	h e y e c a n l a n ı y o r l a r   m ı y d ı ?	1.6756757759139873e-05	0
+h e y e c a n l a n m ı ş   m ı y d ı n ı z ?	h e y e c a n l a n m ı ş   m ı y d ı n ı z ?	1.7437414498999715e-06	0
+h e y e c a n l a n a c a k   o l m a y a c a k l a r   m ı y m ı ş ?	h e y e c a n l a n a c a k   o l m a y a c a k l a r   m ı y m ı ş ?	0.0001839727337937802	0
+h e y e c a n l a n ı y o r   o l m a m a l ı l a r   m ı y m ı ş ?	h e y e c a n l a n ı y o r   o l m a m a l ı l a r   m ı y m ı ş ?	2.5930463380063884e-05	0
+h e y e c a n l a n m ı ş   m ı y d ı n ?	h e y e c a n l a n m ı ş   m ı y d ı n ?	1.9971612346125767e-06	0
+h e y e c a n l a n m a z l a r   m ı y d ı ?	h e y e c a n l a n m a z l a r   m ı y d ı ?	8.69866107677808e-06	0
+h e y e c a n l a n m a z   m ı y m ı ş ı m ?	h e y e c a n l a n m a z   m ı y m ı ş ı m ?	1.3574985132436268e-05	0
+h e y e c a n l a n ı y o r   o l m a l ı y d ı n ı z .	h e y e c a n l a n ı y o r   o l m a l ı y d ı n ı z .	9.06867062440142e-05	0
+h e y e c a n l a n ı r   m ı y d ı k ?	h e y e c a n l a n ı r   m ı y d ı k ?	2.4852661226759665e-05	0
+h e y e c a n l a n m a m ı ş   m ı y d ı m ?	h e y e c a n l a n m a m ı ş   m ı y d ı m ?	1.0111325536854565e-05	0
+h e y e c a n l a n m ı ş t ı m .	h e y e c a n l a n m ı ş t ı m .	2.016230837398325e-06	0
+h e y e c a n l a n m a z l a r   m ı ?	h e y e c a n l a n m a z l a r   m ı ?	1.4315801308839582e-05	0
+h e y e c a n l a n m a d ı   m ı y d ı m ?	h e y e c a n l a n m a d ı   m ı y d ı m ?	1.2774440619978122e-05	0
+h e y e c a n l a n ı y o r   o l a c a k t ı n .	h e y e c a n l a n ı y o r   o l a c a k t ı n .	0.00012015447282465175	0
+h e y e c a n l a n m a m ı ş l a r   m ı ?	h e y e c a n l a n m a m ı ş l a r   m ı ?	6.62667844153475e-06	0
+h e y e c a n l a n ı y o r   o l m a y a c a k t ı n .	h e y e c a n l a n ı y o r   o l m a y a c a k t ı n .	0.0001868985127657652	0
+h e y e c a n l a n ı y o r   o l m a m a l ı s ı n ı z .	h e y e c a n l a n ı y o r   o l m a m a l ı s ı n ı z .	9.838179539656267e-05	0
+h e y e c a n l a n ı y o r   o l m a y a c a k   m ı y d ı m ?	h e y e c a n l a n ı y o r   o l m a y a c a k   m ı y d ı m ?	6.820965791121125e-05	0
+h e y e c a n l a n ı y o r   o l m a m a l ı s ı n .	h e y e c a n l a n ı y o r   o l m a m a l ı s ı n .	0.00019159122894052416	0
+h e y e c a n l a n m ı ş   m ı y m ı ş ı z ?	h e y e c a n l a n m ı ş   m ı y m ı ş ı z ?	1.7195549162352108e-06	0
+h e y e c a n l a n ı y o r   o l m a m a l ı .	h e y e c a n l a n ı y o r   o l m a m a l ı .	5.954554580966942e-05	0
+o n l a r ı   i l e t i y o r   o l m a y a c a k   m ı s ı n ı z ?	o n l a r ı   i l e t i y o r   o l m a y a c a k   m ı s ı n ı z ?	7.506672773160972e-06	0
+b i z i   i l e t i r s i n .	b i z i   i l e t i r s i n .	3.947466211684514e-06	0
+s e n i   i l e t m e y e c e k l e r   m i y d i ?	s e n i   i l e t m e y e c e k l e r   m i y d i ?	6.703606686642161e-06	0
+s i z i   i l e t m e l i y d i m .	s i z i   i l e t m e l i y d i m .	1.7207639757543802e-06	0
+o n l a r ı   i l e t i y o r   o l m a z d ı .	o n l a r ı   i l e t i y o r   o l m a z d ı .	4.861893103225157e-06	0
+o n l a r ı   i l e t m e m e l i y m i ş s i n .	o n l a r ı   i l e t m e m e l i y m i ş s i n .	5.725811661250191e-06	0
+s e n i   i l e t t i l e r   m i y d i ?	s e n i   i l e t t i l e r   m i y d i ?	2.6184967282461002e-05	0
+b e n i   i l e t m e l i y m i ş .	b e n i   i l e t m e l i y m i ş .	1.584445158187009e-06	0
+b e n i   i l e t m i y o r s u n u z .	b e n i   i l e t m i y o r s u n u z .	2.707150997593999e-06	0
+s e n i   i l e t m e d i m .	s e n i   i l e t m e d i m .	7.94446805230109e-06	0
+k e n d i l e r i n i   i l e t m e y e c e k l e r   m i ?	k e n d i l e r i n i   i l e t m e y e c e k l e r   m i ?	8.821992196317296e-06	0
+s e n i   i l e t i y o r   o l m a z l a r d ı .	s e n i   i l e t i y o r   o l m a z l a r d ı .	1.9970580979133956e-05	0
+k e n d i n i   i l e t m e y e c e k s i n .	k e n d i n i   i l e t m e y e c e k s i n .	1.0654555808287114e-05	0
+b i z i   i l e t e c e k l e r m i ş .	b i z i   i l e t e c e k l e r m i ş .	5.558968950936105e-06	0
+o n l a r ı   i l e t m e d i .	o n l a r ı   i l e t m e d i .	3.0917169624444796e-06	0
+b e n i   i l e t t i n i z   m i ?	b e n i   i l e t t i n i z   m i ?	5.683225026587024e-05	0
+o n l a r ı   i l e t i r s i n i z .	o n l a r ı   i l e t i r s i n i z .	7.317501967918361e-06	0
+s i z i   i l e t m i ş   o l m a y a c a k   m ı s ı n ?	s i z i   i l e t m i ş   o l m a y a c a k   m ı s ı n ?	3.7520958358072676e-06	0
+o n u   i l e t m e l i l e r   m i y m i ş ?	o n u   i l e t m e l i l e r   m i y m i ş ?	2.939049181804876e-06	0
+o n l a r ı   i l e t m i ş   o l a c a k   m ı y ı z ?	o n l a r ı   i l e t m i ş   o l a c a k   m ı y ı z ?	3.7537106436502654e-06	0
+k e n d i n i z e   i m r e n m e z   m i y d i n i z ?	k e n d i n i z e   i m r e n m e z   m i y d i n i z ?	0.0012355492217466235	0
+o n l a r a   i m r e n m i ş   m i s i n ?	o n l a r a   i m r e n m i ş   m i s i n ?	0.0013195909559726715	0
+o n a   i m r e n m e m e l i y m i ş i z .	o n a   i m r e n m e m e l i y m i ş i z .	0.001765092951245606	0
+o n l a r a   i m r e n m e z   m i y d i k ?	o n l a r a   i m r e n m e z   m i y d i k ?	0.0012485956540331244	0
+b a n a   i m r e n m e y e c e k t i k .	b a n a   i m r e n m e y e c e k t i k .	0.0023258859291672707	0
+o n l a r a   i m r e n m e l i   m i s i n i z ?	o n l a r a   i m r e n m e l i   m i s i n i z ?	0.0002669574460014701	0
+o n l a r a   i m r e n i y o r   o l m a y a c a k   m ı y d ı n ı z ?	o n l a r a   i m r e n i y o r   o l m a y a c a k   m ı y d ı n ı z ?	0.006265859119594097	0
+o n a   i m r e n m i ş   o l a c a k t ı m .	o n a   i m r e n m i ş   o l a c a k t ı m .	0.005552882794290781	0
+b i z e   i m r e n i y o r   o l m a l ı y ı m .	b i z e   i m r e n i y o r   o l m a l ı y ı m .	0.001631341059692204	0
+o n l a r a   i m r e n m e m i ş   m i y m i ş s i n ?	o n l a r a   i m r e n m e m i ş   m i y m i ş s i n ?	0.00023296911967918277	0
+o n a   i m r e n e c e k   m i s i n ?	o n a   i m r e n e c e k   m i s i n ?	0.006479988805949688	0
+o n a   i m r e n i y o r   o l m a y a c a k m ı ş s ı n .	o n a   i m r e n i y o r   o l m a y a c a k m ı ş s ı n .	0.003993384074419737	0
+s i z e   i m r e n d i   m i y d i k ?	s i z e   i m r e n d i   m i y d i k ?	0.0013213129714131355	0
+o n l a r a   i m r e n m e m e l i   m i y m i ş i m ?	o n l a r a   i m r e n m e m e l i   m i y m i ş i m ?	0.0004946790286339819	0
+b i z e   i m r e n m i y o r l a r   m ı ?	b i z e   i m r e n m i y o r l a r   m ı ?	0.0008179330034181476	0
+o n l a r a   i m r e n i y o r   o l m a y a c a k l a r   m ı y m ı ş ?	o n l a r a   i m r e n i y o r   o l m a y a c a k l a r   m ı y m ı ş ?	0.0073402817361056805	0
+b a n a   i m r e n m i ş m i ş i z .	b a n a   i m r e n m i ş m i ş i z .	0.0012680846266448498	0
+s i z e   i m r e n m e m e l i l e r .	s i z e   i m r e n m e m e l i l e r .	0.002783191855996847	0
+o n l a r a   i m r e n m e l i   m i y m i ş s i n ?	o n l a r a   i m r e n m e l i   m i y m i ş s i n ?	0.0002504233561921865	0
+k e n d i n i z e   i m r e n m e l i   m i s i n i z ?	k e n d i n i z e   i m r e n m e l i   m i s i n i z ?	0.0003495420969557017	0
+b i z e   i m r e n m e z d i .	b i z e   i m r e n m e z d i .	0.000791406724601984	0
+b i z i   o n l a r d a n   i s t i y o r   o l a c a k   m ı y m ı ş s ı n ı z ?	b i z i   o n l a r d a n   i s t i y o r   o l a c a k   m ı y m ı ş s ı n ı z ?	0.0006690947921015322	0
+s i z i   k e n d i n d e n   i s t i y o r s u n .	s i z i   k e n d i n d e n   i s t i y o r s u n .	0.0015933769755065441	0
+s i z i   i s t e m e m e l i l e r   m i y m i ş ?	s i z i   i s t e m e m e l i l e r   m i y m i ş ?	4.8668921408534516e-06	0
+k e n d i m i   o n d a n   i s t e r   o l a c a k   m ı y m ı ş ı m ?	k e n d i m i   o n d a n   i s t e r   o l a c a k   m ı y m ı ş ı m ?	0.009039507247507572	0
+o n l a r ı   s i z d e n   i s t e r   o l a c a k m ı ş ı m .	o n l a r ı   s i z d e n   i s t e r   o l a c a k m ı ş ı m .	0.0008660256280563772	0
+b i z i   b e n d e n   i s t e m e l i l e r .	b i z i   b e n d e n   i s t e m e l i l e r .	0.0005937169771641493	0
+o n u   k e n d i l e r i n d e n   i s t e m e y e c e k l e r m i ş .	o n u   k e n d i l e r i n d e n   i s t e m e y e c e k l e r m i ş .	0.0032989652827382088	0
+s e n i   k e n d i n d e n   i s t e m e y e c e k t i m .	s e n i   k e n d i n d e n   i s t e m e y e c e k t i m .	0.0058600218035280704	0
+s i z i   i s t e m e m i ş m i ş .	s i z i   i s t e m e m i ş m i ş .	7.549248948635068e-06	0
+k e n d i n i   i s t i y d i n   m i y d i n ?	k e n d i n i   i s t e d i   m i y d i n ?	0.197296604514122	3
+k e n d i n i z i   s e n d e n   i s t i y o r   o l m a l ı y m ı ş s ı n ı z .	k e n d i n i z i   s e n d e n   i s t i y o r   o l m a l ı y m ı ş s ı n ı z .	0.004287830088287592	0
+o n l a r ı   s i z d e n   i s t e y e c e k l e r   m i ?	o n l a r ı   s i z d e n   i s t e y e c e k l e r   m i ?	0.001711236429400742	0
+o n u   o n l a r d a n   i s t e r l e r   m i ?	o n u   o n l a r d a n   i s t e r l e r   m i ?	0.005697033833712339	0
+k e n d i l e r i n i   o n d a n   i s t e m e y e c e k l e r   m i y m i ş ?	k e n d i l e r i n i   o n d a n   i s t e m e y e c e k l e r   m i y m i ş ?	0.0003272688772995025	0
+b e n i   s e n d e n   i s t e m i y o r   m u y d u k ?	b e n i   s e n d e n   i s t e m i y o r   m u y d u k ?	0.007309704553335905	0
+b e n i   k e n d i m i z d e n   i s t e m i ş   o l a c a k   m ı y d ı n ı z ?	b e n i   k e n d i m d e n   i s t e m i ş   o l a c a k   m ı y d ı n ı z ?	0.09894412010908127	2
+b i z i   o n l a r d a n   i s t i m i ş l e r m i ş .	b i z i   o n l a r d a n   i s t e m i ş l e r m i ş .	0.03712436184287071	1
+s e n i   i s t e m i y o r d u k .	s e n i   i s t e m i y o r d u k .	0.01176254078745842	0
+o n u   s e n d e n   i s t e m e l i .	o n u   s e n d e n   i s t e m e l i .	0.001581085380166769	0
+b i z i   i s t e m e z l e r   m i y m i ş ?	b i z i   i s t e m e z l e r   m i y m i ş ?	9.166331437882036e-06	0
+i ş i y o r   o l m a m a l ı   m ı y m ı ş s ı n ı z ?	i ş i y o r   o l m a m a l ı   m ı y m ı ş s ı n ı z ?	6.316999497357756e-05	0
+i ş e m i ş s i n i z .	i ş e m i ş s i n i z .	2.506304099370027e-06	0
+i ş e r   o l a c a k   m ı y m ı ş s ı n ı z ?	i ş e r   o l a c a k   m ı y m ı ş s ı n ı z ?	2.45966725742619e-06	0
+i ş e m e d i l e r   m i y d i ?	i ş e m e d i l e r   m i y d i ?	4.5996976041351445e-06	0
+i ş i y o r   o l a c a k   m ı s ı n ?	i ş i y o r   o l a c a k   m ı s ı n ?	0.00034884014166891575	0
+i ş e m e m e l i y m i ş i z .	i ş e m e m e l i y m i ş i z .	1.4134491266304394e-06	0
+i ş e m e z   m i y m i ş s i n ?	i ş e m e z   m i y m i ş s i n ?	5.4067932069301605e-06	0
+i ş i y o r   o l m a y a c a k   m ı y m ı ş ı z ?	i ş i y o r   o l m a y a c a k   m ı y m ı ş ı z ?	0.00046275361091829836	0
+i ş e y i n !	i ş e y i n !	0.003932035528123379	0
+i ş e m i ş   m i y m i ş ?	i ş e m i ş   m i y m i ş ?	2.5759479740372626e-06	0
+i ş i y o r   o l a c a k l a r m ı ş .	i ş i y o r   o l a c a k l a r m ı ş .	0.00046122181811369956	0
+i ş e m e m e l i   m i y i m ?	i ş e m e m e l i   m i y i m ?	1.474926648370456e-06	0
+i ş e r   o l m a y a c a k   m ı y m ı ş ı z ?	i ş e r   o l m a y a c a k   m ı y m ı ş ı z ?	1.9490478280204115e-06	0
+i ş e m i y o r d u .	i ş e m i y o r d u .	0.0007003521313890815	0
+i ş e m i ş   o l a c a k l a r   m ı y d ı ?	i ş e m i ş   o l a c a k l a r   m ı y d ı ?	4.069060651090695e-06	0
+i ş i y o r d u .	i ş i y o r d u .	8.679314487380907e-05	0
+i ş e d i n .	i ş e d i n .	2.4932462110882625e-05	0
+i ş e m i y o r   m u ?	i ş e m i y o r   m u ?	0.00013995572226122022	0
+i ş l e y e c e k   m i y m i ş i z ?	i ş l e y e c e k   m i y m i ş i z ?	5.068554855824914e-06	0
+o n l a r ı   i ş l i y o r   o l m a m a l ı y m ı ş ı m .	o n l a r ı   i ş l i y o r   o l m a m a l ı y m ı ş ı m .	9.420876267540734e-06	0
+i ş l e r   o l m a y a c a k m ı ş s ı n ı z .	i ş l e r   o l m a y a c a k m ı ş s ı n ı z .	1.0388032023911364e-05	0
+s e n i   i ş l e y e c e k .	s e n i   i ş l e y e c e k .	1.598668131919112e-05	0
+o n l a r ı   i ş l e m i ş m i ş s i n i z .	o n l a r ı   i ş l e m i ş m i ş s i n i z .	1.104717102862196e-05	0
+s e n i   i ş l i y o r   o l m a m a l ı l a r   m ı ?	s e n i   i ş l i y o r   o l m a m a l ı l a r   m ı ?	1.9069544578087516e-05	0
+s e n i   i ş l e m i ş   o l m a y a c a k   m ı y ı z ?	s e n i   i ş l e m i ş   o l m a y a c a k   m ı y ı z ?	5.758731276728213e-06	0
+k e n d i m i z e   i ş l e m e z   m i y d i k ?	k e n d i m i z e   i ş l e m e z   m i y d i k ?	4.8173824325203896e-06	0
+s i z e   i ş l i y o r   o l u r   m u y d u m ?	s i z e   i ş l i y o r   o l u r   m u y d u m ?	3.391483551240526e-05	0
+b i z i   i ş l i y o r   o l m a l ı s ı n .	b i z i   i ş l i y o r   o l m a l ı s ı n .	1.1419839211157523e-05	0
+o n u   i ş l i y o r   o l m a l ı   m ı y d ı n ?	o n u   i ş l i y o r   o l m a l ı   m ı y d ı n ?	4.087898560101166e-06	0
+o n l a r a   i ş l e m i ş   o l m a y a c a k t ı .	o n l a r a   i ş l e m i ş   o l m a y a c a k t ı .	2.826869604177773e-06	0
+o n l a r a   i ş l i y o r   o l m a m a l ı   m ı y d ı n ?	o n l a r a   i ş l i y o r   o l m a m a l ı   m ı y d ı n ?	3.1475938158109784e-06	0
+o n u   i ş l e m e m i ş l e r .	o n u   i ş l e m e m i ş l e r .	3.3764404179237317e-06	0
+k e n d i m i   i ş l i y o r   o l m a l ı y ı m .	k e n d i m i   i ş l i y o r   o l m a l ı y ı m .	2.8536604077089578e-05	0
+b e n i   i ş l i y o r   o l m a l ı y d ı .	b e n i   i ş l i y o r   o l m a l ı y d ı .	4.612854354490992e-06	0
+s i z i   i ş l i y o r   o l m a z d ı .	s i z i   i ş l i y o r   o l m a z d ı .	1.892884392873384e-05	0
+o n l a r ı   i ş l e m i ş   o l a c a k   m ı y d ı ?	o n l a r ı   i ş l e m i ş   o l a c a k   m ı y d ı ?	4.858884494751692e-06	0
+o n l a r ı   i ş l e m e m i ş l e r   m i y m i ş ?	o n l a r ı   i ş l e m e m i ş l e r   m i y m i ş ?	5.461556611408014e-06	0
+i ş l e r m i ş s i n i z .	i ş l e r m i ş s i n i z .	1.067562243406428e-05	0
+k a r a r a c a k s ı n .	k a r a r a c a k s ı n .	1.2784267937604454e-06	0
+k a r a r ı r m ı ş ı m .	k a r a r ı r m ı ş ı m .	0.024275202304124832	0
+k a r a r m ı y o r   m u y m u ş s u n ?	k a r a r m ı y o r   m u y m u ş s u n ?	3.881440534314606e-06	0
+k a r a r ı y o r   o l m a l ı   m ı y d ı n ı z ?	k a r a r ı y o r   o l m a l ı   m ı y d ı n ı z ?	3.862475921323494e-07	0
+k a r a r d ı k .	k a r a r ı r d ı k .	0.12488295882940292	2
+k a r a r m a d ı l a r   m ı y d ı ?	k a r a r m a d ı l a r   m ı y d ı ?	1.6762961649874342e-06	0
+k a r a r m a m a l ı y ı m .	k a r a r m a m a l ı y ı m .	0.013906964100897312	0
+k a r a r m a z m ı ş s ı n .	k a r a r m a z m ı ş s ı n .	7.211559136521828e-07	0
+k a r a r m a l ı s ı n ı z .	k a r a r m a l ı s ı n ı z .	0.0024551325477659702	0
+k a r a r m ı y o r l a r m ı ş .	k a r a r m ı y o r l a r m ı ş .	1.2714135664282367e-06	0
+k a r a r m a l ı   m ı y d ı ?	k a r a r m a l ı   m ı y d ı ?	1.5083322750797379e-06	0
+k a r a r a c a k   o l a c a k m ı ş s ı n .	k a r a r a c a k   o l a c a k m ı ş s ı n .	1.283461529055785e-06	0
+k a r a r m a m ı ş s ı n .	k a r a r m a m ı ş s ı n .	5.593139462689578e-07	0
+k a r a r ı y o r   o l m a y a c a k m ı ş ı m .	k a r a r ı y o r   o l m a y a c a k m ı ş ı m .	5.411135930444289e-07	0
+k a r a r m a y a c a k   m ı y d ı n ı z ?	k a r a r m a y a c a k   m ı y d ı n ı z ?	1.1016412599929026e-06	0
+k a r a r m a l ı l a r .	k a r a r m a l ı l a r .	0.0038535799831151962	0
+k a r a r ı y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	k a r a r ı y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	3.2307806918652204e-07	0
+k a r a r ı y o r   m u y d u ?	k a r a r ı y o r   m u y d u ?	6.087379347263777e-07	0
+k a r a r ı y o r   o l a c a k   m ı ?	k a r a r ı y o r   o l a c a k   m ı ?	5.327062808646588e-07	0
+k a r a r ı y o r   o l m a l ı l a r d ı .	k a r a r ı y o r   o l m a l ı l a r d ı .	7.4731059385158e-07	0
+k a r a r m ı ş l a r   m ı y m ı ş ?	k a r a r m ı ş l a r   m ı y m ı ş ?	5.683208428308717e-07	0
+k a r a r ı y o r   o l m a l ı l a r   m ı y m ı ş ?	k a r a r ı y o r   o l m a l ı l a r   m ı y m ı ş ?	3.9325297507275536e-07	0
+s e n i   k a s m ı ş   o l m a y a c a k   m ı y ı m ?	s e n i   k a s m ı ş   o l m a y a c a k   m ı y ı m ?	8.168816748366226e-06	0
+k e n d i m i z i   k a s a r m ı ş ı z .	k e n d i m i z i   k a s a r m ı ş ı z .	1.849683940235991e-05	0
+b i z i   k a s m a m a l ı   m ı y d ı n ı z ?	b i z i   k a s m a m a l ı   m ı y d ı n ı z ?	2.3489199065807043e-06	0
+o n u   k a s ı y o r l a r .	o n u   k a s ı y o r l a r .	4.481007181311725e-06	0
+o n u   k a s ı y o r   o l m a y a c a k   m ı y m ı ş ?	o n u   k a s ı y o r   o l m a y a c a k   m ı y m ı ş ?	1.9138130937790265e-06	0
+o n u   k a s m ı y o r   m u y d u k ?	o n u   k a s m ı y o r   m u y d u k ?	1.069026802724693e-05	0
+s e n i   k a s ı y o r   o l a c a k s ı n ı z .	s e n i   k a s ı y o r   o l a c a k s ı n ı z .	3.333488348289393e-05	0
+s i z i   k a s m a m ı ş l a r   m ı ?	s i z i   k a s m a m ı ş l a r   m ı ?	2.515201003916445e-06	0
+o n u   k a s ı y o r   o l m a l ı y m ı ş .	o n u   k a s ı y o r   o l m a l ı y m ı ş .	1.9336448531248607e-06	0
+o n l a r ı   k a s ı y o r   o l m a y a c a k m ı ş s ı n ı z .	o n l a r ı   k a s ı y o r   o l m a y a c a k m ı ş s ı n ı z .	5.187795522942906e-06	0
+o n l a r ı   k a s a r .	o n l a r ı   k a s a r .	1.2339067325228825e-05	0
+o n l a r ı   k a s m e l i   m i y i m ?	o n l a r ı   k a s m a l ı   m ı y ı m ?	0.04245491325855255	4
+k e n d i n i z i   k a s a r   m ı y m ı ş s ı n ı z ?	k e n d i n i z i   k a s a r   m ı y m ı ş s ı n ı z ?	6.3864622461551335e-06	0
+o n u   k a s a c a k   o l m a y a c a k   m ı s ı n ı z ?	o n u   k a s a c a k   o l m a y a c a k   m ı s ı n ı z ?	5.711527592211496e-06	0
+o n u   k a s m ı y o r   m u s u n ?	o n u   k a s m ı y o r   m u s u n ?	2.3123095616028877e-06	0
+k e n d i n i   k a s m a y a c a k   m ı y d ı n ?	k e n d i n i   k a s m a y a c a k   m ı y d ı n ?	9.324620805273298e-06	0
+b e n i   k a s t ı   m ı y d ı n ı z ?	b e n i   k a s t ı   m ı y d ı n ı z ?	1.4697366168547887e-05	0
+k e n d i n i   k a s m a y a c a k s ı n .	k e n d i n i   k a s m a y a c a k s ı n .	1.0091900549014099e-05	0
+s i z i   k a s m ı y o r   m u y d u m ?	s i z i   k a s m ı y o r   m u y d u m ?	4.024190275231376e-06	0
+b i z i   k a t ı l a ş t ı r m e l i y i m .	b i z i   k a t ı l a ş t ı r m a l ı y ı m .	0.024372421205043793	3
+o n l a r ı   k a t ı l a ş t ı r ı y o r .	o n l a r ı   k a t ı l a ş t ı r ı y o r .	2.2330685169436038e-05	0
+b e n i   k a t ı l a ş t ı r a c a k   o l m a y a c a k   m ı ?	b e n i   k a t ı l a ş t ı r a c a k   o l m a y a c a k   m ı ?	7.632092092535459e-06	0
+s e n i   k a t ı l a ş t ı r m a l ı   m ı y d ı ?	s e n i   k a t ı l a ş t ı r m a l ı   m ı y d ı ?	9.084558769245632e-06	0
+o n l a r ı   k a t ı l a ş t ı r m a l ı y d ı m .	o n l a r ı   k a t ı l a ş t ı r m a l ı y d ı m .	6.698874585708836e-06	0
+b i z i   k a t ı l a ş t ı r m a l ı l a r d ı .	b i z i   k a t ı l a ş t ı r m a l ı l a r d ı .	4.2195611058559734e-06	0
+s i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı   m ı y m ı ş s ı n ?	s i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı   m ı y m ı ş s ı n ?	2.670740059329546e-06	0
+s e n i   k a t ı l a ş t ı r m ı ş   o l m a y a c a k   m ı y ı m ?	s e n i   k a t ı l a ş t ı r m ı ş   o l m a y a c a k   m ı y ı m ?	1.1135317436128389e-05	0
+b e n i   k a t ı l a ş t ı r m a l ı y m ı ş .	b e n i   k a t ı l a ş t ı r m a l ı y m ı ş .	1.957964286702918e-06	0
+s e n i   k a t ı l a ş t ı r ı r l a r .	s e n i   k a t ı l a ş t ı r ı r l a r .	1.8763514162856154e-05	0
+s i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı   m ı y d ı n ?	s i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı   m ı y d ı n ?	6.790315183025086e-06	0
+b i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı y d ı n .	b i z i   k a t ı l a ş t ı r ı y o r   o l m a m a l ı y d ı n .	3.528593879309483e-06	0
+b i z i   k a t ı l a ş t ı r m a d ı n ı z .	b i z i   k a t ı l a ş t ı r m a d ı n ı z .	1.0072839131680666e-06	0
+b e n i   k a t ı l a ş t ı r m ı y o r s u n u z .	b e n i   k a t ı l a ş t ı r m ı y o r s u n u z .	3.731116294147796e-06	0
+b e n i   k a t ı l a ş t ı r ı y o r   o l m a y a c a k   m ı s ı n ı z ?	b e n i   k a t ı l a ş t ı r ı y o r   o l m a y a c a k   m ı s ı n ı z ?	5.795843662781408e-06	0
+s e n i   k a t ı l a ş t ı r m a y a c a k   m ı y d ı m ?	s e n i   k a t ı l a ş t ı r m a y a c a k   m ı y d ı m ?	8.510519364790525e-06	0
+o n l a r ı   k a t ı l a ş t ı r m ı ş l a r m ı ş .	o n l a r ı   k a t ı l a ş t ı r m ı ş l a r m ı ş .	1.676475949352607e-05	0
+k o m u k l e ş m i ş   o l m a y a c a k   m ı ?	k o m i k l e ş m i ş   o l m a y a c a k   m ı ?	0.06088894233107567	1
+k o m u k l e ş m i y o r s u n .	k o m i k l e ş m i y o r s u n .	0.05579701066017151	1
+k o m u k l e ş e c e k l e r   m i y d i ?	k o m i k l e ş e c e k l e r   m i y d i ?	0.08906713128089905	1
+k o m u k l e ş i y o r   o l m a m a l ı y m ı ş .	k o m i k l e ş i y o r   o l m a m a l ı y m ı ş .	0.08980055898427963	1
+k o m i k l e ş m e m e l i y d i .	k o m i k l e ş m e m e l i y d i .	0.007649870123714209	0
+k o m u k l e ş m i ş   o l m a y a c a k l a r d ı .	k o m i k l e ş m i ş   o l m a y a c a k l a r d ı .	0.056993741542100906	1
+k o m u k l e ş i r   o l a c a k   m ı y m ı ş s ı n ı z ?	k o m i k l e ş i r   o l a c a k   m ı y m ı ş s ı n ı z ?	0.021587515249848366	1
+k o m u k l e ş i y o r   o l m a m a l ı   m ı y ı m ?	k o m i k l e ş i y o r   o l m a m a l ı   m ı y ı m ?	0.09627633541822433	1
+k o m u k l e ş e c e k   m i y d i ?	k o m i k l e ş e c e k   m i y d i ?	0.1348503977060318	1
+k o m u k l e ş t i   m i ?	k o m i k l e ş t i   m i ?	0.04514167457818985	1
+k o m u k l e ş i y o r m u ş s u n u z .	k o m i k l e ş i y o r m u ş s u n u z .	0.16178898513317108	1
+k o m i k l e ş m e y e c e k   m i y m i ş i m ?	k o m i k l e ş m e y e c e k   m i y m i ş i m ?	0.022592488676309586	0
+k o m i k l e ş i l e r .	k o m i k l e ş m e l i l e r .	0.04442007839679718	3
+k o m u k l e ş i y o r l a r m ı ş .	k o m i k l e ş i y o r l a r m ı ş .	0.15501591563224792	1
+k o m u k l e ş t i k .	k o m i k l e ş t i k .	0.055560894310474396	1
+k o m u k l e ş m i ş   o l m a y a c a k l a r .	k o m i k l e ş m i ş   o l m a y a c a k l a r .	0.09125909954309464	1
+k o m i k l e ş t i l e r d i .	k o m i k l e ş m e l i l e r d i .	0.3350503146648407	3
+k o m i k l e ş m e y e c e k m i ş i z .	k o m i k l e ş m e y e c e k m i ş i z .	0.014113331213593483	0
+k o m u k l e ş m i ş   o l m a y a c a ğ ı m .	k o m i k l e ş m i ş   o l m a y a c a ğ ı m .	0.07613380998373032	1
+k o m u k l e ş i y o r m u ş s u n u z .	k o m i k l e ş i y o r m u ş s u n u z .	0.16178898513317108	1
+k ö t ü l e ş t i   m i y d i k ?	k ö t ü l e ş t i   m i y d i k ?	6.965870852582157e-05	0
+k ö t ü l e ş m i y o r l a r   m ı y d ı ?	k ö t ü l e ş m i y o r l a r   m ı y d ı ?	7.1710642259859014e-06	0
+k ö t ü l e ş i y o r   o l m a y a c a k t ı k .	k ö t ü l e ş i y o r   o l m a y a c a k t ı k .	7.2655293479328975e-06	0
+k ö t ü l e ş i y o r   o l m a m a l ı   m ı y d ı m ?	k ö t ü l e ş i y o r   o l m a m a l ı   m ı y d ı m ?	7.720454959780909e-06	0
+k ö t ü l e ş e c e k   m i y m i ş i m ?	k ö t ü l e ş e c e k   m i y m i ş i m ?	2.2627284579357365e-06	0
+k ö t ü l e ş m i y o r d u .	k ö t ü l e ş m i y o r d u .	4.587350304063875e-06	0
+k ö t ü l e ş m e m e l i l e r   m i y d i ?	k ö t ü l e ş m e m e l i l e r   m i y d i ?	6.753195521014277e-06	0
+k ö t ü l e ş i y o r   o l a c a k   m ı y d ı n ?	k ö t ü l e ş i y o r   o l a c a k   m ı y d ı n ?	3.555495595719549e-06	0
+k ö t ü l e ş m i ş   o l a c a k l a r d ı .	k ö t ü l e ş m i ş   o l a c a k l a r d ı .	7.761274900985882e-06	0
+k ö t ü l e ş i r   m i s i n ?	k ö t ü l e ş i r   m i s i n ?	2.6752411940833554e-05	0
+k ö t ü l e ş e c e k   o l a c a k   m ı y m ı ş ı m ?	k ö t ü l e ş e c e k   o l a c a k   m ı y m ı ş ı m ?	1.8548024627307313e-06	0
+k ö t ü l e ş i y o r   o l m a l ı   m ı y m ı ş ?	k ö t ü l e ş i y o r   o l m a l ı   m ı y m ı ş ?	3.2115924568643095e-06	0
+k ö t ü l e ş m e y e c e k t i m .	k ö t ü l e ş m e y e c e k t i m .	6.141855010355357e-06	0
+k ö t ü l e ş m e z   m i y m i ş s i n i z ?	k ö t ü l e ş m e z   m i y m i ş s i n i z ?	3.502557092360803e-06	0
+k ö t ü l e ş e c e k m i ş .	k ö t ü l e ş e c e k m i ş .	2.109396518790163e-06	0
+k ö t ü l e ş i y o r   o l m a y a c a k m ı ş .	k ö t ü l e ş i y o r   o l m a y a c a k m ı ş .	3.6226488191459794e-06	0
+k ö t ü l e ş e c e k   o l m a y a c a k m ı ş s ı n .	k ö t ü l e ş e c e k   o l m a y a c a k m ı ş s ı n .	1.553642164253688e-06	0
+s i z i   k ö t ü l e ş t i r i y o r d u m .	s i z i   k ö t ü l e ş t i r i y o r d u m .	6.715668132528663e-05	0
+s e n i   k ö t ü l e ş t i r i r   o l m a y a c a k m ı ş s ı n ı z .	s e n i   k ö t ü l e ş t i r i r   o l m a y a c a k m ı ş s ı n ı z .	1.911163235490676e-05	0
+o n u   k ö t ü l e ş t i r i y o r   o l m a m a l ı y m ı ş .	o n u   k ö t ü l e ş t i r i y o r   o l m a m a l ı y m ı ş .	4.324615474615712e-06	0
+o n l a r ı   k ö t ü l e ş t i r m e l i   m i y d i n ?	o n l a r ı   k ö t ü l e ş t i r m e l i   m i y d i n ?	3.5731293337448733e-06	0
+k e n d i l e r i n i   k ö t ü l e ş t i r m e m e l i l e r d i .	k e n d i l e r i n i   k ö t ü l e ş t i r m e m e l i l e r d i .	1.606127443665173e-05	0
+b i z i   k ö t ü l e ş t i r i y o r   o l a c a k l a r .	b i z i   k ö t ü l e ş t i r i y o r   o l a c a k l a r .	2.7439582481747493e-05	0
+s i z i   k ö t ü l e ş t i r i y o r   o l m a y a c a k t ı .	s i z i   k ö t ü l e ş t i r i y o r   o l m a y a c a k t ı .	6.444309838116169e-05	0
+k e n d i m i   k ö t ü l e ş t i r m e l i y i m .	k e n d i m i   k ö t ü l e ş t i r m e l i y i m .	9.908582796924748e-06	0
+s i z i   k ö t ü l e ş t i r i y o r   m u y d u k ?	s i z i   k ö t ü l e ş t i r i y o r   m u y d u k ?	1.836291266954504e-05	0
+s e n i   k ö t ü l e ş t i r e c e k   o l m a y a c a k   m ı y m ı ş ?	s e n i   k ö t ü l e ş t i r e c e k   o l m a y a c a k   m ı y m ı ş ?	2.9276738132466562e-05	0
+o n l a r ı   k ö t ü l e ş t i r m e y e c e k t i k .	o n l a r ı   k ö t ü l e ş t i r m e y e c e k t i k .	8.85524605109822e-06	0
+o n l a r ı   k ö t ü l e ş t i r i y o r   o l m a m a l ı y ı m .	o n l a r ı   k ö t ü l e ş t i r i y o r   o l m a m a l ı y ı m .	1.1737261047528591e-05	0
+o n u   k ö t ü l e ş t i r m e l i y m i ş .	o n u   k ö t ü l e ş t i r m e l i y m i ş .	2.7574417345022084e-06	0
+o n u   k ö t ü l e ş t i r m e d i   m i ?	o n u   k ö t ü l e ş t i r m e d i   m i ?	2.2806466404290404e-06	0
+s e n i   k ö t ü l e ş t i r m i y o r   m u ?	s e n i   k ö t ü l e ş t i r m i y o r   m u ?	1.9491923012537882e-05	0
+b i z i   k ö t ü l e ş t i r i r d i n i z .	b i z i   k ö t ü l e ş t i r i r d i n i z .	7.456444109266158e-06	0
+o n u   k ö t ü l e ş t i r i r d i k .	o n u   k ö t ü l e ş t i r i r d i k .	1.7235470295418054e-05	0
+b i z i   k ö t ü l e ş t i r m e m i ş m i ş i m .	b i z i   k ö t ü l e ş t i r m e m i ş m i ş i m .	2.1896698854106944e-06	0
+s e n i   k ö t ü l e ş t i r m i ş   o l a c a k t ı m .	s e n i   k ö t ü l e ş t i r m i ş   o l a c a k t ı m .	1.9256063751527108e-05	0
+b e n i   k ö t ü l e ş t i r m e y e c e k t i n .	b e n i   k ö t ü l e ş t i r m e y e c e k t i n .	4.319626896176487e-06	0
+o n l a r ı   k ü r e m i ş   m i y i m ?	o n l a r ı   k ü r e m i ş   m i y i m ?	4.066791461809771e-06	0
+b i z i   k ü r e y e c e k   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	b i z i   k ü r e y e c e k   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	0.0002546977193560451	0
+o n u   k ü r e r   o l m a y a c a k m ı ş ı m .	o n u   k ü r e r   o l m a y a c a k m ı ş ı m .	5.01806425745599e-06	0
+k e n d i n i z i   k ü r e m i ş   m i y d i n i z ?	k e n d i n i z i   k ü r e m i ş   m i y d i n i z ?	1.0703935913625173e-05	0
+o n u   k ü r e d i l e r d i .	o n u   k ü r e d i l e r d i .	3.4818571293726563e-05	0
+s i z i   k ü r e m e m i ş   m i y i m ?	s i z i   k ü r e m e m i ş   m i y i m ?	1.912887455546297e-06	0
+k e n d i n i   k ü r e m e m i ş m i ş .	k e n d i n i   k ü r e m e m i ş m i ş .	4.951695245836163e-06	0
+b i z i   k ü r e m i ş t i n i z .	b i z i   k ü r e m i ş t i n i z .	4.221930339554092e-06	0
+b e n i   k ü r e d i n i z   m i ?	b e n i   k ü r e d i n i z   m i ?	2.0429517462616786e-05	0
+s i z i   k ü r e r   m i y i m ?	s i z i   k ü r e r   m i y i m ?	8.858543878886849e-06	0
+s e n i   k ü r e y e c e k m i ş s i n i z .	s e n i   k ü r e y e c e k m i ş s i n i z .	0.0002000160311581567	0
+s i z i   k ü r e m e z l e r   m i ?	s i z i   k ü r e m e z l e r   m i ?	4.645247372536687e-06	0
+k e n d i n i   k ü r ü y o r   o l m a l ı   m ı y m ı ş ?	k e n d i n i   k ü r ü y o r   o l m a l ı   m ı y m ı ş ?	2.0478495571296662e-05	0
+o n l a r ı   k ü r e m e y e c e k   m i y d i m ?	o n l a r ı   k ü r e m e y e c e k   m i y d i m ?	3.311000000394415e-06	0
+o n u   k ü r ü y o r   o l m a z d ı .	o n u   k ü r ü y o r   o l m a z d ı .	1.0558624126133509e-05	0
+b i z i   k ü r e m e m i ş .	b i z i   k ü r e m e m i ş .	8.421242227996117e-07	0
+s i z i   k ü r e y e c e ğ i m .	s i z i   k ü r e y e c e ğ i m .	4.418647222337313e-05	0
+s e n i   k ü r e m e y e c e k m i ş .	s e n i   k ü r e m e y e c e k m i ş .	4.72978445031913e-06	0
+o n u   k ü r e y e c e k   o l a c a k m ı ş s ı n .	o n u   k ü r e y e c e k   o l a c a k m ı ş s ı n .	0.0012592315906658769	0
+k e n d i n i   k ü r e m e y e c e k t i .	k e n d i n i   k ü r e m e y e c e k t i .	8.817307389108464e-06	0
+b i z i   k ü r e y e c e k   o l m a y a c a k .	b i z i   k ü r e y e c e k   o l m a y a c a k .	0.00012565130600705743	0
+s i z i   k ü r e m i ş i m .	s i z i   k ü r e m i ş i m .	6.606335773540195e-06	0
+b e n i   k ü r e r l e r d i .	b e n i   k ü r e r l e r d i .	6.8331632974150125e-06	0
+k ü s ü y o r d u n .	k ü s ü y o r d u n .	5.991018952045124e-06	0
+k ü s ü y o r   m u y d u n ?	k ü s ü y o r   m u y d u n ?	1.5902843415460666e-06	0
+k ü s ü y o r   o l m a m a l ı l a r   m ı ?	k ü s ü y o r   o l m a m a l ı l a r   m ı ?	2.5493461635051062e-06	0
+k ü s t ü .	k ü s t ü .	7.039285264909267e-05	0
+k ü s m ü y o r m u ş u z .	k ü s m ü y o r m u ş u z .	1.2121137160647777e-06	0
+k ü s ü y o r   o l m a l ı y d ı .	k ü s ü y o r   o l m a l ı y d ı .	2.2341821477311896e-06	0
+k ü s e r   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	k ü s e r   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	2.1245359675958753e-05	0
+k ü s ü y o r   o l m a l ı   m ı y ı m ?	k ü s ü y o r   o l m a l ı   m ı y ı m ?	9.977851505027502e-07	0
+k ü s ü y o r m u ş .	k ü s ü y o r m u ş .	6.606413535337197e-06	0
+k ü s e r d i k .	k ü s e r d i k .	1.7428821593057364e-05	0
+k ü s m e l i y m i ş .	k ü s m e l i y m i ş .	6.208561558196379e-07	0
+k ü s m e l i y d i m .	k ü s m e l i y d i m .	1.4441972098211409e-06	0
+k ü s ü y o r   o l m a y a c a k   m ı ?	k ü s ü y o r   o l m a y a c a k   m ı ?	1.642345068830764e-06	0
+k ü s ü y o r   o l m a m a l ı l a r .	k ü s ü y o r   o l m a m a l ı l a r .	2.0009624677186366e-06	0
+k ü s e r m i ş .	k ü s e r m i ş .	1.3896650671085808e-05	0
+k ü s e c e k   o l m a y a c a k   m ı y m ı ş s ı n ?	k ü s e c e k   o l m a y a c a k   m ı y m ı ş s ı n ?	7.419424036925193e-06	0
+k ü s m e m i ş l e r   m i y d i ?	k ü s m e m i ş l e r   m i y d i ?	2.254456830996787e-06	0
+o n u   k e n d i n d e n   k ı s k a n m ı ş m ı ş s ı n .	o n u   k e n d i n d e n   k ı s k a n m ı ş m ı ş s ı n .	0.00024649722035974264	0
+o n u   b i z d e n   k ı s k a n m ı y o r l a r   m ı y m ı ş ?	o n u   b i z d e n   k ı s k a n m ı y o r l a r   m ı y m ı ş ?	0.014433106407523155	0
+k e n d i l e r i n i   b i z d e n   k ı s k a n ı y o r   o l m a l ı l a r m ı ş .	k e n d i l e r i n i   b i z d e n   k ı s k a n ı y o r   o l m a l ı l a r m ı ş .	0.000400483695557341	0
+b i z i   k e n d i m i z d e n   k ı s k a n m a !	b i z i   k e n d i m i z d e n   k ı s k a n m a !	0.006729552987962961	0
+b e n i   k e n d i m i z d e n   k ı s k a n ı y o r   o l m a m a l ı   m ı y ı z ?	b e n i   k e n d i m i z d e n   k ı s k a n ı y o r   o l m a m a l ı   m ı y ı z ?	0.001963326707482338	0
+k e n d i l e r i n d e n   b e n d e n   k ı s k a n a c a k   o l a c a k l a r .	k e n d i l e r i n i   b e n d e n   k ı s k a n a c a k   o l a c a k l a r .	0.016616452485322952	3
+k e n d i n i   o n d a n   k ı s k a n ı r   o l a c a k m ı ş s ı n .	k e n d i n i   o n d a n   k ı s k a n ı r   o l a c a k m ı ş s ı n .	0.001826771185733378	0
+o n l a r ı   k e n d i m i z l e   k ı s k a n m a m a l ı   m ı y m ı ş ı m ?	o n l a r ı   k e n d i l e r i n d e n   k ı s k a n m a m a l ı   m ı y m ı ş ı m ?	0.16021180152893066	6
+b e n i   k ı s k a n m ı ş   o l m a y a c a k   m ı y d ı k ?	b e n i   k ı s k a n m ı ş   o l m a y a c a k   m ı y d ı k ?	1.0101549605678883e-06	0
+k e n d i l e r i n i   o n l a r d a n   k ı s k a n m a y a c a k l a r d ı .	k e n d i l e r i n i   o n l a r d a n   k ı s k a n m a y a c a k l a r d ı .	7.256492972373962e-05	0
+o n u   o n d a n   k ı s k a n m ı ş t ı n ı z .	o n u   o n d a n   k ı s k a n m ı ş t ı n ı z .	0.00017229659715667367	0
+b e n i   o n l a r d a n   k ı s k a n ı y o r   o l u r d u k .	b e n i   o n l a r d a n   k ı s k a n ı y o r   o l u r d u k .	0.0005189830553717911	0
+b e n i   k e n d i n i z d e n   k ı s k a n m a m ı ş   m ı y m ı ş s ı n ı z ?	b e n i   k e n d i n i z d e n   k ı s k a n m a m ı ş   m ı y m ı ş s ı n ı z ?	0.0007591205649077892	0
+s e n i   b i z d e n   k ı s k a n ı y o r   o l m a l ı .	s e n i   b i z d e n   k ı s k a n ı y o r   o l m a l ı .	0.005874184425920248	0
+o n l a r ı   b e n d e n   k ı s k a n m ı ş   o l a c a k s ı n ı z .	o n l a r ı   b e n d e n   k ı s k a n m ı ş   o l a c a k s ı n ı z .	0.0009296070784330368	0
+b e n i   k e n d i m d e n   k ı s k a n ı y o r   o l m a m a l ı   m ı y m ı ş s ı n ı z ?	b e n i   k e n d i m d e n   k ı s k a n ı y o r   o l m a m a l ı   m ı y m ı ş s ı n ı z ?	0.012535772286355495	0
+s e n i   o n d a n   k ı s k a n m a z   m ı ?	s e n i   o n d a n   k ı s k a n m a z   m ı ?	3.770166586036794e-05	0
+b i z i   b e n d e n   k ı s k a n m ı ş   o l m a y a c a k   m ı y d ı ?	b i z i   b e n d e n   k ı s k a n m ı ş   o l m a y a c a k   m ı y d ı ?	0.00036354860640130937	0
+s e n i   o n l a r d a n   k ı s k a n m a d ı k .	s e n i   o n l a r d a n   k ı s k a n m a d ı k .	9.92624118225649e-05	0
+s i z i   s e n d e n   k ı s k a n m a l ı y d ı k .	s i z i   s e n d e n   k ı s k a n m a l ı y d ı k .	0.0002230030222563073	0
+s i z i n l e   p a p a z   o l u y o r   o l m a z   m ı y d ı k ?	s i z i n l e   p a p a z   o l u y o r   o l m a z   m ı y d ı k ?	5.723620233766269e-06	0
+b e n i m l e   p a p a z   o l u r l a r d ı .	b e n i m l e   p a p a z   o l u r l a r d ı .	0.0027547150384634733	0
+o n u n l a   p a p a z   o l m a y a c a k .	o n u n l a   p a p a z   o l m u ş   o l m a y a c a k .	0.0335390605032444	6
+k e n d i n i z l e   p a p a z   o l m u y o r s u n u z .	k e n d i n i z l e   p a p a z   o l m u y o r s u n u z .	8.344286470673978e-06	0
+o n u n l a   p a p a z   o l u y o r   o l m a l ı   m ı y d ı k ?	o n u n l a   p a p a z   o l u y o r   o l m a l ı   m ı y d ı k ?	2.221532486146316e-05	0
+k e n d i l e r i y l e   p a p a z   o l m u y o r l a r   m ı y d ı ?	k e n d i l e r i y l e   p a p a z   o l m u y o r l a r   m ı y d ı ?	4.8208250518655404e-05	0
+o n u n l a   p a p a z   o l u y o r   o l a c a k t ı n ı z .	o n u n l a   p a p a z   o l u y o r   o l a c a k t ı n ı z .	1.1713596904883161e-05	0
+s i z i n l e   p a p a z   o l m u ş   o l a c a k t ı k .	s i z i n l e   p a p a z   o l m u ş   o l a c a k t ı k .	3.3618005090829683e-06	0
+o n l a r ı n l a   p a p a z   o l m a y a c a k   m ı ?	o n l a r ı n l a   p a p a z   o l m a y a c a k   m ı ?	2.199704795202706e-06	0
+o n l a r ı n l a   p a p a z   o l a c a k   m ı y m ı ş s ı n ı z ?	o n l a r ı n l a   p a p a z   o l a c a k   o l a c a k   m ı y m ı ş s ı n ı z ?	0.1838444173336029	7
+s e n i n l e   p a p a z   o l u y o r   o l m a l ı .	s e n i n l e   p a p a z   o l u y o r   o l m a l ı .	1.1100647498096805e-05	0
+s i z i n l e   p a p a z   o l m u ş l a r .	s i z i n l e   p a p a z   o l m u ş l a r .	0.0018239588243886828	0
+o n u n l a   p a p a z   o l a c a k m ı ş s ı n ı z .	o n u n l a   p a p a z   o l a c a k m ı ş s ı n ı z .	4.170452484686393e-06	0
+b i z i m l e   p a p a z   o l m u y o r u m .	b i z i m l e   p a p a z   o l m u y o r u m .	1.0114286851603538e-05	0
+o n l a r ı n l a   p a p a z   o l m a m ı ş l a r m ı ş .	o n l a r ı n l a   p a p a z   o l m a m ı ş l a r m ı ş .	0.004892559256404638	0
+b e n i m l e   p a p a z   m l ı y d ı ?	b e n i m l e   p a p a z   o l d u   m u ?	0.060650479048490524	6
+k e n d i y l e   p a p a z   o l a c a k   m ı y d ı ?	k e n d i y l e   p a p a z   o l a c a k   m ı y d ı ?	4.718060154118575e-05	0
+s i z i n l e   p a p a z   o l a c a k l a r   m ı y m ı ş ?	s i z i n l e   p a p a z   o l u r   o l a c a k l a r   m ı y m ı ş ?	0.08230828493833542	5
+k e n d i n i z l e   p a p a z   o l m u ş   o l a c a k   m ı y d ı n ı z ?	k e n d i n i z l e   p a p a z   o l m u ş   o l a c a k   m ı y d ı n ı z ?	4.793907919520279e-06	0
+o n u n l a   p a p a z   o l m a y a c a k   m ı s ı n ı z ?	o n u n l a   p a p a z   o l m u ş   o l m a y a c a k   m ı s ı n ı z ?	0.1093466505408287	6
+k e n d i m i   s a v u n u y o r   o l m a y a c a k   m ı y m ı ş ı m ?	k e n d i m i   s a v u n u y o r   o l m a y a c a k   m ı y m ı ş ı m ?	0.0006943307816982269	0
+s i z i   s a v u n u y o r   o l a c a k l a r d ı .	s i z i   s a v u n u y o r   o l a c a k l a r d ı .	5.7634711993159726e-05	0
+k e n d i l e r i n i   s a v u n u y o r   o l m a l ı l a r   m ı ?	k e n d i l e r i n i   s a v u n u y o r   o l m a l ı l a r   m ı ?	0.00036851453478448093	0
+o n u   s a v u n m a d ı y d ı .	o n u   s a v u n m a d ı y d ı .	2.323620719835162e-06	0
+b e n i   s a v u n m a m ı ş l a r   m ı y m ı ş ?	b e n i   s a v u n m a m ı ş l a r   m ı y m ı ş ?	1.8883496295529767e-06	0
+k e n d i n i   s a v u n a c a k   o l m a y a c a k m ı ş s ı n .	k e n d i n i   s a v u n a c a k   o l m a y a c a k m ı ş s ı n .	1.3148785001249053e-05	0
+b e n i   s a v u n u r   m u s u n ?	b e n i   s a v u n u r   m u s u n ?	0.0011331968707963824	0
+o n u   s a v u n m a m ı ş l a r   m ı ?	o n u   s a v u n m a m ı ş l a r   m ı ?	2.0788518213521456e-06	0
+b i z i   s a v u n m u ş   o l a c a k   m ı y d ı ?	b i z i   s a v u n m u ş   o l a c a k   m ı y d ı ?	2.152472734451294e-05	0
+o n l a r ı   s a v u n m a !	o n l a r ı   s a v u n m a !	1.5498018910875544e-05	0
+b i z i   s a v u n m u ş   o l m a y a c a k t ı m .	b i z i   s a v u n m u ş   o l m a y a c a k t ı m .	2.9529688617913052e-05	0
+s e n i   s a v u n u y o r   o l m a z l a r   m ı y d ı ?	s e n i   s a v u n u y o r   o l m a z l a r   m ı y d ı ?	0.0003431130317039788	0
+o n u   s a v u n m a m a l ı l a r m ı ş .	o n u   s a v u n m a m a l ı l a r m ı ş .	3.0383757803065237e-06	0
+k e n d i n i   s a v u n m a d ı   m ı y d ı n ?	k e n d i n i   s a v u n m a d ı   m ı y d ı n ?	7.145940799091477e-06	0
+b e n i   s a v u n m u ş l a r   m ı y d ı ?	b e n i   s a v u n m u ş l a r   m ı y d ı ?	0.00046954481513239443	0
+o n u   s a v u n d ı l a r   m ı y d ı ?	o n u   s a v u n d u l a r   m ı y d ı ?	0.07109645754098892	1
+o n l a r ı   s a v u n m a z m ı ş s ı n ı z .	o n l a r ı   s a v u n m a z m ı ş s ı n ı z .	4.85406644656905e-06	0
+k e n d i m i   s a v u n u y o r   o l m a z   m ı y d ı m ?	k e n d i m i   s a v u n u y o r   o l m a z   m ı y d ı m ?	0.00022496168094221503	0
+s e n i   s a v u n u r   o l m a y a c a k l a r   m ı y m ı ş ?	s e n i   s a v u n u r   o l m a y a c a k l a r   m ı y m ı ş ?	0.008351467549800873	0
+o n l a r ı   s a v u n u y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	o n l a r ı   s a v u n u y o r   o l m a l ı   m ı y m ı ş s ı n ı z ?	0.0001925533142639324	0
+k e n d i m i   s a v u n m a m e l i y i m .	k e n d i m i   s a v u n m a m e l i y i m .	0.001984023256227374	0
+o n u   s a v u n u y o r   o l m a y a c a k l a r .	o n u   s a v u n u y o r   o l m a y a c a k l a r .	3.493774056551047e-05	0
+s e n i   s a v u n m a d ı l a r   m ı ?	s e n i   s a v u n m a d ı l a r   m ı ?	3.2864757031347835e-06	0
+s i z i   s a v u n u y o r   o l a c a k l a r   m ı y d ı ?	s i z i   s a v u n u y o r   o l a c a k l a r   m ı y d ı ?	7.684388401685283e-05	0
+s e n i   s e y r e t m i ş   o l a c a ğ ı z .	s e n i   s e y r e t m i ş   o l a c a ğ ı z .	1.0938460945908446e-05	0
+b e n i   s e y r e t i y o r   o l a c a k m ı ş s ı n .	b e n i   s e y r e t i y o r   o l a c a k m ı ş s ı n .	1.0040261258836836e-05	0
+b e n i   s e y r e t e c e k   o l a c a k m ı ş s ı n ı z .	b e n i   s e y r e t e c e k   o l a c a k m ı ş s ı n ı z .	7.025252671155613e-06	0
+s e n i   s e y r e t i y o r   o l m a m a l ı y d ı m .	s e n i   s e y r e t i y o r   o l m a m a l ı y d ı m .	1.0804406883835327e-05	0
+o n l a r ı   s e y r e t m e m e l i l e r d i .	o n l a r ı   s e y r e t m e m e l i l e r d i .	3.1254203349817544e-05	0
+b e n i   s e y r e t i y o r   o l m a y a c a k t ı k .	b e n i   s e y r e t i y o r   o l m a y a c a k t ı k .	6.964770363993011e-06	0
+o n l a r ı   s e y r e t m i y o r   m u y d u k ?	o n l a r ı   s e y r e t m i y o r   m u y d u k ?	4.25668440584559e-06	0
+s i z i   s e y r e t m i ş   o l a c a k   m ı s ı n ?	s i z i   s e y r e t m i ş   o l a c a k   m ı s ı n ?	4.260786226950586e-06	0
+s e n i   s e y r e t m i ş   o l a c a k .	s e n i   s e y r e t m i ş   o l a c a k .	1.6359857909264974e-05	0
+k e n d i m i   s e y r e t m e z   m i y m i ş i m ?	k e n d i m i   s e y r e t m e z   m i y m i ş i m ?	2.7855455755343428e-06	0
+o n l a r ı   s e y r e t i r l e r   m i ?	o n l a r ı   s e y r e t i r l e r   m i ?	2.7968722861260176e-05	0
+s i z i   s e y r e t t i   m i y d i ?	s i z i   s e y r e t t i   m i y d i ?	6.579572982445825e-06	0
+o n l a r ı   s e y r e t e c e k   m i y m i ş ?	o n l a r ı   s e y r e t e c e k   m i y m i ş ?	2.131557084794622e-05	0
+o n l a r ı   s e y r e t i y o r   o l m a m a l ı .	o n l a r ı   s e y r e t i y o r   o l m a m a l ı .	1.154710571427131e-05	0
+o n l a r ı   s e y r e t m i ş   o l a c a k   m ı y ı m ?	o n l a r ı   s e y r e t m i ş   o l a c a k   m ı y ı m ?	2.978829115818371e-06	0
+k e n d i n i   s e y r e t m e m e l i   m i y m i ş ?	k e n d i n i   s e y r e t m e m e l i   m i y m i ş ?	7.137721240724204e-06	0
+o n l a r ı   s e y r e t e c e k   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	o n l a r ı   s e y r e t e c e k   o l m a y a c a k   m ı y m ı ş s ı n ı z ?	5.643492841045372e-06	0
+k e n d i m i z i   s e y r e t i y o r   o l u r d u k .	k e n d i m i z i   s e y r e t i y o r   o l u r d u k .	9.175154445983935e-06	0
+o n l a r ı   s e y r e t e c e k   m i y m i ş ?	o n l a r ı   s e y r e t e c e k   m i y m i ş ?	2.131557084794622e-05	0
+s e n i   s e y r e t m e l i y m i ş .	s e n i   s e y r e t m e l i y m i ş .	8.218511538871098e-06	0
+s e n i   s e y r e t e c e k   o l m a y a c a k   m ı y ı z ?	s e n i   s e y r e t e c e k   o l m a y a c a k   m ı y ı z ?	1.1810353498731274e-05	0
+o n u   s e ç m i y o r .	o n u   s e ç m i y o r .	1.4072585372559843e-06	0
+k e n d i m i z i   s e ç m e l i   m i y m i ş i z ?	k e n d i m i z i   s e ç m e l i   m i y m i ş i z ?	2.049818249361124e-06	0
+s e n i   s e ç m e y e c e k   m i ?	s e n i   s e ç m e y e c e k   m i ?	4.114583134651184e-06	0
+k e n d i n i z i   s e ç e c e k   m i y m i ş s i n i z ?	k e n d i n i z i   s e ç e c e k   m i y m i ş s i n i z ?	6.621930424444145e-06	0
+o n u   s e ç i y o r   o l m a l ı s ı n .	o n u   s e ç i y o r   o l m a l ı s ı n .	4.546955096884631e-06	0
+s e n i   s e ç i y o r   m u y d u ?	s e n i   s e ç i y o r   m u y d u ?	1.1922312296519522e-05	0
+b i z i   s e ç m i y o r .	b i z i   s e ç m i y o r .	1.645102429392864e-06	0
+s i z i   s e ç m i y o r m u ş .	s i z i   s e ç m i y o r m u ş .	2.8838021535193548e-06	0
+k e n d i m i z i   s e ç m i ş   o l m a y a c a k   m ı y d ı k ?	k e n d i m i z i   s e ç m i ş   o l m a y a c a k   m ı y d ı k ?	3.247601625844254e-06	0
+k e n d i n i   s e ç e c e k   m i y m i ş s i n ?	k e n d i n i   s e ç e c e k   m i y m i ş s i n ?	3.616639514802955e-05	0
+k e n d i m i z i   s e ç e r   o l a c a k   m ı y m ı ş ı z ?	k e n d i m i z i   s e ç e r   o l a c a k   m ı y m ı ş ı z ?	1.0298831512045581e-05	0
+s i z i   s e ç i y o r   o l u r   m u y d u m ?	s i z i   s e ç i y o r   o l u r   m u y d u m ?	1.6693691577529535e-05	0
+b i z i   s e ç m e y e c e k l e r .	b i z i   s e ç m e y e c e k l e r .	3.4673471418500412e-06	0
+o n u   s e ç i y o r   o l m a l ı .	o n u   s e ç i y o r   o l m a l ı .	9.327568477601744e-06	0
+b e n i   s e ç i y o r   o l m a m a l ı s ı n .	b e n i   s e ç i y o r   o l m a m a l ı s ı n .	7.66559605835937e-06	0
+o n u   s e ç e c e k   o l m a y a c a k   m ı ?	o n u   s e ç e c e k   o l m a y a c a k   m ı ?	4.201062893116614e-06	0
+k e n d i n i   s e ç m i y o r   m u s u n ?	k e n d i n i   s e ç m i y o r   m u s u n ?	8.096798410406336e-06	0
+s i z i   s e ç i y o r   o l a c a k l a r   m ı y d ı ?	s i z i   s e ç i y o r   o l a c a k l a r   m ı y d ı ?	2.7510950530995615e-05	0
+s i k i l m i y o r d u k .	s i k i l m i y o r d u k .	2.43522822529485e-06	0
+s i k i l m e m i ş   m i y m i ş s i n i z ?	s i k i l m e m i ş   m i y m i ş s i n i z ?	1.9345777673152043e-06	0
+s i k i l i y o r u z .	s i k i l i y o r u z .	4.80887729281676e-06	0
+s i k i l m i ş   o l a c a k t ı .	s i k i l m i ş   o l a c a k t ı .	4.628167971532093e-06	0
+s i k i l i r   o l a c a k m ı ş s ı n .	s i k i l i r   o l a c a k m ı ş s ı n .	6.193956323841121e-06	0
+s i k i l m e m i ş   m i y d i ?	s i k i l m e m i ş   m i y d i ?	4.870367320108926e-06	0
+s i k i l m e z s i n i z .	s i k i l m e z s i n i z .	1.8153403971155058e-06	0
+s i k i l i y o r d u n u z .	s i k i l i y o r d u n u z .	3.3731178064044798e-06	0
+s i k i l i y o r   o l m a z l a r d ı .	s i k i l i y o r   o l m a z l a r d ı .	4.821198217541678e-06	0
+s i k i l i y o r   o l m a l ı   m ı y d ı n ?	s i k i l i y o r   o l m a l ı   m ı y d ı n ?	2.458844846842112e-06	0
+s i k i l m e m e l i s i n i z .	s i k i l m e m e l i s i n i z .	1.7660170215094695e-06	0
+s i k i l d i m   m i ?	s i k i l d i m   m i ?	1.884530320239719e-05	0
+s i k i l m e y e c e k   m i y d i n ?	s i k i l m e y e c e k   m i y d i n ?	2.547593112467439e-06	0
+s i k i l m e y e c e k   m i s i n ?	s i k i l m e y e c e k   m i s i n ?	9.93566686702252e-07	0
+s i k i l i y o r   o l m a m a l ı   m ı y d ı k ?	s i k i l i y o r   o l m a m a l ı   m ı y d ı k ?	1.8801760006681434e-06	0
+s i k i l m i ş t i n .	s i k i l m i ş t i n .	5.161144599696854e-06	0
+s i k i l i y o r   o l a c a k   m ı y m ı ş ?	s i k i l i y o r   o l a c a k   m ı y m ı ş ?	1.4033300885785138e-06	0
+s i k i l m i ş   m i y m i ş ?	s i k i l m i ş   m i y m i ş ?	2.419573320366908e-06	0
+s i k i l e c e k   o l m a y a c a k s ı n ı z .	s i k i l e c e k   o l m a y a c a k s ı n ı z .	2.031423491644091e-06	0
+s i k i l m e y e c e k l e r   m i y m i ş ?	s i k i l m e y e c e k l e r   m i y m i ş ?	2.937011231551878e-06	0
+s i k i l m e m i ş   m i y i z ?	s i k i l m e m i ş   m i y i z ?	3.5850559925165726e-06	0
+s i k i l i n i z !	s i k i l i n i z !	8.140724094118923e-05	0
+s i k i l m e l i   m i y d i n i z ?	s i k i l m e l i   m i y d i n i z ?	2.2562210233445512e-06	0
+s o l u y o r   o l m a l ı   m ı ?	s o l u y o r   o l m a l ı   m ı ?	2.1192763597355224e-06	0
+s o l m a m a l ı   m ı s ı n ?	s o l m a m a l ı   m ı s ı n ?	0.022249070927500725	0
+s o l a c a k l a r .	s o l a c a k l a r .	2.270543154736515e-05	0
+s o l u y o r u z .	s o l u y o r u z .	2.989107315443107e-06	0
+s o l a c a k l a r d ı .	s o l a c a k l a r d ı .	2.799372305162251e-05	0
+s o l a c a k m ı ş ı m .	s o l a c a k m ı ş ı m .	0.0007983262767083943	0
+s o l m u ş   m u s u n u z ?	s o l m u ş   m u s u n u z ?	1.494330035711755e-06	0
+s o l m u y o r m u ş u z .	s o l m u y o r m u ş u z .	1.338795982519514e-06	0
+s o l u r   o l a c a k   m ı y m ı ş s ı n ?	s o l a r   o l a c a k   m ı y m ı ş s ı n ?	0.08664821833372116	1
+s o l m a l ı y ı z .	s o l m a l ı y ı z .	0.006602725945413113	0
+s o l m u y o r   m u ?	s o l m u y o r   m u ?	1.2595579619301134e-06	0
+s o l m u y o r s u n .	s o l m u y o r s u n .	1.7262950677832123e-06	0
+s o l m a m ı ş t ı n ı z .	s o l m a m ı ş t ı n ı z .	3.889548224833561e-06	0
+s o l m a y a c a k .	s o l m a y a c a k .	2.3028094346955186e-06	0
+s o l m u ş   o l a c a k .	s o l m u ş   o l a c a k .	2.284982201672392e-06	0
+s o l m a m a l ı l a r .	s o l m a m a l ı l a r .	0.012704123742878437	0
+s o l u y o r   o l m a y a c a k   m ı y ı z ?	s o l u y o r   o l m a y a c a k   m ı y ı z ?	6.123195248619595e-07	0
+s o l u y o r   o l u r d u n .	s o l u y o r   o l u r d u n .	2.1855187242181273e-06	0
+s o l u y o r   o l m a m a l ı   m ı y d ı n ı z ?	s o l u y o r   o l m a m a l ı   m ı y d ı n ı z ?	9.001182093015814e-07	0
+s o l m a m ı ş s ı n ı z .	s o l m a m ı ş s ı n ı z .	1.628850100132695e-06	0
+k e n d i m i z e   s ö v e c e k   m i y i z ?	k e n d i m i z e   s ö v e c e k   m i y i z ?	9.29008729144698e-06	0
+o n a   s ö v m ü ş   o l a c a k   m ı y ı z ?	o n a   s ö v m ü ş   o l a c a k   m ı y ı z ?	9.03313048183918e-06	0
+b a n a   s ö v m e z   m i s i n i z ?	b a n a   s ö v m e z   m i s i n i z ?	6.167641004140023e-06	0
+s a n a   s ö v m e z l e r m i ş .	s a n a   s ö v m e z l e r m i ş .	2.6159999833907932e-05	0
+o n a   s ö v m e !	o n a   s ö v m e !	0.00019075268937740475	0
+s i z e   s ö v m ü y o r d u .	s i z e   s ö v m ü y o r d u .	8.653765689814463e-06	0
+o n a   s ö v m ü ş   m ü y m ü ş ü m ?	o n a   s ö v m ü ş   m ü y m ü ş ü m ?	9.935568414221052e-06	0
+s i z e   s ö v ü y o r l a r d ı .	s i z e   s ö v ü y o r l a r d ı .	1.1161206202814355e-05	0
+s a n a   s ö v ü y o r   m u y u z ?	s a n a   s ö v ü y o r   m u y u z ?	1.2896352018287871e-05	0
+b i z e   s ö v m ü y o r   m u y m u ş ?	b i z e   s ö v m ü y o r   m u y m u ş ?	4.12148574469029e-06	0
+s a n a   s ö v ü y o r   o l m a y a c a k t ı k .	s a n a   s ö v ü y o r   o l m a y a c a k t ı k .	1.169426195701817e-05	0
+s a n a   s ö v e r l e r m i ş .	s a n a   s ö v e r l e r m i ş .	6.642618245678023e-05	0
+b a n a   s ö v m ü ş   o l a c a k   m ı y ı z ?	b a n a   s ö v m ü ş   o l a c a k   m ı y ı z ?	5.981063168292167e-06	0
+s i z e   s ö v ü y o r   o l a c a k   m ı y d ı n ?	s i z e   s ö v ü y o r   o l a c a k   m ı y d ı n ?	1.4994951015978586e-05	0
+b i z e   s ö v m ü y o r   m u y m u ş u m ?	b i z e   s ö v m ü y o r   m u y m u ş u m ?	4.188979346508859e-06	0
+k e n d i n i z e   s ö v ü y o r   o l m a y a c a k s ı n ı z .	k e n d i n i z e   s ö v ü y o r   o l m a y a c a k s ı n ı z .	1.5417854228871875e-05	0
+s a n a   s ö v m ü y o r   m u ?	s a n a   s ö v m ü y o r   m u ?	1.807795706554316e-05	0
+s a n a   s ö v m e m i ş t i .	s a n a   s ö v m e m i ş t i .	1.1772972356993705e-05	0
+b a n a   s ö v d ü   m ü y d ü n ü z ?	b a n a   s ö v d ü   m ü y d ü n ü z ?	0.0001848142856033519	0
+s i z e   s ö v m ü ş   o l a c a ğ ı m .	s i z e   s ö v m ü ş   o l a c a ğ ı m .	1.3938501979282591e-05	0
+s i z i   s ü p ü r ü y o r   m u y m u ş u m ?	s i z i   s ü p ü r ü y o r   m u y m u ş u m ?	2.140550896001514e-05	0
+k e n d i m i   s ü p ü r m e d i m .	k e n d i m i   s ü p ü r m e d i m .	5.651779247273225e-06	0
+b i z i   s ü p ü r m ü ş   o l m a y a c a k   m ı y d ı m ?	b i z i   s ü p ü r m ü ş   o l m a y a c a k   m ı y d ı m ?	2.466657178956666e-06	0
+s i z i   s ü p ü r d ü l e r   m i ?	s i z i   s ü p ü r d ü l e r   m i ?	8.625717600807548e-05	0
+b i z i   s ü p ü r m ü y o r d u n u z .	b i z i   s ü p ü r m ü y o r d u n u z .	5.483479526446899e-06	0
+s e n i   s ü p ü r e c e k   o l m a y a c a k l a r   m ı ?	s e n i   s ü p ü r e c e k   o l m a y a c a k l a r   m ı ?	1.7706595826894045e-05	0
+o n u   s ü p ü r ü r l e r   m i y d i ?	o n u   s ü p ü r ü r l e r   m i y d i ?	9.04509852261981e-06	0
+o n u   s ü p ü r e c e k   m i y m i ş ?	o n u   s ü p ü r e c e k   m i y m i ş ?	2.7310018140269676e-06	0
+b e n i   s ü p ü r ü y o r   m u y m u ş ?	b e n i   s ü p ü r ü y o r   m u y m u ş ?	6.11047198617598e-06	0
+k e n d i l e r i n i   s ü p ü r ü r   o l m a y a c a k l a r   m ı y m ı ş ?	k e n d i l e r i n i   s ü p ü r ü r   o l m a y a c a k l a r   m ı y m ı ş ?	1.0340985681978054e-05	0
+s e n i   s ü p ü r e c e k   m i y m i ş i z ?	s e n i   s ü p ü r e c e k   m i y m i ş i z ?	2.3162472643889487e-05	0
+o n u   s ü p ü r ü n !	o n u   s ü p ü r ü n !	0.0009413816151209176	0
+s e n i   s ü p ü r ü y o r s u n u z .	s e n i   s ü p ü r ü y o r s u n u z .	2.885541289288085e-05	0
+o n u   s ü p ü r m e m e l i   m i y m i ş s i n ?	o n u   s ü p ü r m e m e l i   m i y m i ş s i n ?	2.3056493319018045e-06	0
+s e n i   s ü p ü r ü y o r   o l a c a k   m ı s ı n ı z ?	s e n i   s ü p ü r ü y o r   o l a c a k   m ı s ı n ı z ?	7.366160571109504e-05	0
+o n l a r ı   s ü p ü r m ü ş   o l a c a k t ı m .	o n l a r ı   s ü p ü r m ü ş   o l a c a k t ı m .	5.4602119234914426e-06	0
+b e n i   s ü p ü r m e m e l i   m i y m i ş s i n ?	b e n i   s ü p ü r m e m e l i   m i y m i ş s i n ?	2.0527072592813056e-06	0
+s e n i   s ü p ü r m e z   m i y m i ş s i n i z ?	s e n i   s ü p ü r m e z   m i y m i ş s i n i z ?	6.093928732298082e-06	0
+o n l a r ı   k e n d i l e r i n e   t a k ı y o r   m u y d u n u z ?	o n l a r ı   k e n d i l e r i n e   t a k ı y o r   m u y d u n u z ?	0.0010359672596678138	0
+o n l a r ı   b i z e   t a k a c a k   m ı s ı n ı z ?	o n l a r ı   b i z e   t a k a c a k   m ı s ı n ı z ?	1.863081160990987e-05	0
+s e n i   o n a   t a k ı y o r   o l m a l ı l a r   m ı ?	s e n i   o n a   t a k ı y o r   o l m a l ı l a r   m ı ?	9.809052244236227e-06	0
+k e n d i n i   t a k ı y o r   o l u r d u n .	k e n d i n i   t a k ı y o r   o l u r d u n .	4.755062400363386e-05	0
+o n u   o n a   t a k ı y o r   o l m a m a l ı   m ı y m ı ş ı m ?	o n u   o n a   t a k ı y o r   o l m a m a l ı   m ı y m ı ş ı m ?	7.4493536885711364e-06	0
+o n l a r ı   k e n d i m i z e   t a k a r d ı m .	o n l a r ı   k e n d i l e r i n e   t a k a r d ı m .	0.15086312592029572	4
+b e n i   o n a   t a k ı y o r   m u y d u ?	b e n i   o n a   t a k ı y o r   m u y d u ?	1.0090970135934185e-05	0
+o n l a r ı   b a n a   t a k t ı l a r   m ı y d ı ?	o n l a r ı   b a n a   t a k t ı l a r   m ı y d ı ?	0.00039887145976535976	0
+b e n i   o n l a r a   t a k m a m a l ı s ı n ı z .	b e n i   o n l a r a   t a k m a m e l i s i n i z .	0.020260382443666458	4
+s i z i   k e n d i n i z e   t a k ı y o r u m .	s i z i   k e n d i n i z e   t a k ı y o r u m .	0.0003687499847728759	0
+o n u   b i z e   t a k m ı ş   o l m a y a c a k   m ı y d ı m ?	o n u   b i z e   t a k m ı ş   o l m a y a c a k   m ı y d ı m ?	1.5676350813009776e-05	0
+s i z i   k e n d i n i z e   t a k ı y o r   o l m a y a c a k   m ı ?	s i z i   k e n d i n i z e   t a k ı y o r   o l m a y a c a k   m ı ?	0.0001410371478414163	0
+s i z i   k e n d i m e   t a k ı y o r   m u y m u ş u m ?	s i z i   k e n d i m e   t a k ı y o r   m u y m u ş u m ?	8.771635475568473e-05	0
+b e n i   b i z e   t a k m a y a c a k m ı ş .	b e n i   b i z e   t a k m a y a c a k m ı ş .	2.531051723053679e-05	0
+o n l a r ı   o n l a r a   t a k ı y o r d u n .	o n l a r ı   o n l a r a   t a k ı y o r d u n .	1.0428919267724268e-05	0
+k e n d i n i   b a n a   t a k ı y o r   o l m a l ı y d ı .	k e n d i n i   b a n a   t a k ı y o r   o l m a l ı y d ı .	1.2059557775501162e-05	0
+b i z i   s a n a   t a k ı y o r   o l a c a k   m ı y m ı ş s ı n ı z ?	b i z i   s a n a   t a k ı y o r   o l a c a k   m ı y m ı ş s ı n ı z ?	0.00016248837346211076	0
+b e n i   k e n d i m e   t a k ı y o r   o l m a y a c a k   m ı y d ı n ?	b e n i   k e n d i m e   t a k ı y o r   o l m a y a c a k   m ı y d ı n ?	6.428058259189129e-05	0
+k e n d i l e r i n i   t a k m a d ı l a r   m ı ?	k e n d i l e r i n i   t a k m a d ı l a r   m ı ?	1.8670903955353424e-05	0
+s i z i   o n a   t a k ı y o r   o l m a y a c a k t ı m .	s i z i   o n a   t a k ı y o r   o l m a y a c a k t ı m .	1.3134535038261674e-05	0
+s e n i   o n l a r a   t a k ı y o r   o l m a m a l ı y d ı k .	s e n i   o n l a r a   t a k ı y o r   o l m a m a l ı y d ı k .	6.603336714761099e-06	0
+s i z i   k e n d i n i z e   t a k m ı y o r l a r   m ı y d ı ?	s i z i   k e n d i n i z e   t a k m ı y o r l a r   m ı y d ı ?	0.003000117838382721	0
+b e n i   t a r ı y o r   o l u r   m u y d u n ?	b e n i   t a r ı y o r   o l u r   m u y d u n ?	2.2042710043024272e-05	0
+o n u   t a r ı y o r   o l m a m a l ı y d ı n .	o n u   t a r ı y o r   o l m a m a l ı y d ı n .	3.1247477636497933e-06	0
+o n u   t a r a r l a r m ı ş .	o n u   t a r a r l a r m ı ş .	9.61513796937652e-06	0
+o n l a r ı   t a r a m ı y o r   m u y d u m ?	o n l a r ı   t a r a m ı y o r   m u y d u m ?	1.6441772459074855e-05	0
+o n l a r ı   t a r ı y o r u z .	o n l a r ı   t a r ı y o r u z .	9.221437358064577e-05	0
+o n l a r ı   t a r a m ı y o r l a r .	o n l a r ı   t a r a m ı y o r l a r .	4.850268305744976e-05	0
+s e n i   t a r ı y o r u m .	s e n i   t a r ı y o r u m .	0.0001573410554556176	0
+o n u   t a r ı y o r   o l a c a k   m ı y m ı ş ı m ?	o n u   t a r ı y o r   o l a c a k   m ı y m ı ş ı m ?	7.753398676868528e-06	0
+k e n d i n i   t a r a y a c a k   o l m a y a c a k   m ı ?	k e n d i n i   t a r a y a c a k   o l m a y a c a k   m ı ?	0.0001706605835352093	0
+s i z i   t a r ı y o r   o l m a l ı   m ı y ı m ?	s i z i   t a r ı y o r   o l m a l ı   m ı y ı m ?	3.236047996324487e-05	0
+o n l a r ı   t a r a m a m a l ı y d ı m .	o n l a r ı   t a r a m a m a l ı y d ı m .	3.662150447780732e-06	0
+s e n i   t a r ı y o r   o l m a l ı s ı n ı z .	s e n i   t a r ı y o r   o l m a l ı s ı n ı z .	0.00017990868946071714	0
+o n l a r ı   t a r a m ı ş   o l a c a k   m ı ?	o n l a r ı   t a r a m ı ş   o l a c a k   m ı ?	5.587598934653215e-06	0
+o n l a r ı   t a r a m a m a l ı   m ı y m ı ş ?	o n l a r ı   t a r a m a m a l ı   m ı y m ı ş ?	3.4442905416653957e-06	0
+o n u   t a r a m ı ş   m ı y m ı ş s ı n ?	o n u   t a r a m ı ş   m ı y m ı ş s ı n ?	1.4761589000045205e-06	0
+o n u   t a r a r m ı ş ı m .	o n u   t a r a r m ı ş ı m .	6.330522410280537e-06	0
+o n l a r ı   t a r a y a c a k   o l a c a k   m ı y m ı ş s ı n ?	o n l a r ı   t a r a a c a k   o l a c a k   m ı y m ı ş s ı n ?	0.05332459881901741	1
+k e n d i l e r i n i   t a r ı y o r   o l m a y a c a k l a r   m ı ?	k e n d i l e r i n i   t a r ı y o r   o l m a y a c a k l a r   m ı ?	5.0390848628012463e-05	0
+b i z i   t a r ı y o r   o l m a l ı s ı n .	b i z i   t a r ı y o r   o l m a l ı s ı n .	2.4907731130952016e-05	0
+s e n i   t o p l u y o r   o l m a l ı   m ı y m ı ş ?	s e n i   t o p l u y o r   o l m a l ı   m ı y m ı ş ?	4.4281008740654215e-05	0
+o n l a r ı   t o p l u y o r   o l m a l ı   m ı y m ı ş ı m ?	o n l a r ı   t o p l u y o r   o l m a l ı   m ı y m ı ş ı m ?	4.544902367342729e-06	0
+s i z i   t o p l a m a m a l ı y d ı m .	s i z i   t o p l a m a m a l ı y d ı m .	1.0262942851113621e-05	0
+o n u   t o p l a m a l ı y m ı ş ı m .	o n u   t o p l a m a l ı y m ı ş ı m .	2.6715795229392825e-06	0
+b i z i   t o p l a m ı ş   o l m a y a c a k l a r   m ı y d ı ?	b i z i   t o p l a m ı ş   o l m a y a c a k l a r   m ı y d ı ?	7.612073204654735e-06	0
+o n u   t o p l a m a m a l ı .	o n u   t o p l a m a m e l i .	0.05086775869131088	2
+s e n i   t o p l u y o r l a r d ı .	s e n i   t o p l u y o r l a r d ı .	4.35488109360449e-05	0
+b e n i   t o p l a m ı ş t ı n ı z .	b e n i   t o p l a m ı ş t ı n ı z .	9.015447176352609e-06	0
+b e n i   t o p l u y o r   o l m a m a l ı   m ı ?	b e n i   t o p l u y o r   o l m a m a l ı   m ı ?	9.418468835065141e-06	0
+b e n i   t o p l a m ı ş ı z .	b e n i   t o p l a m ı ş ı z .	1.0243442375212908e-05	0
+s e n i   t o p l u y o r   o l a c a k l a r d ı .	s e n i   t o p l u y o r   o l a c a k l a r d ı .	0.00011873155017383397	0
+k e n d i n i z i   t o p l a m a m ı ş t ı n ı z .	k e n d i n i z i   t o p l a m a m ı ş t ı n ı z .	4.259056368027814e-06	0
+s e n i   t o p l a m a m ı ş l a r d ı .	s e n i   t o p l a m a m ı ş l a r d ı .	2.015098107222002e-05	0
+k e n d i m i   t o p l u y o r   o l m a m a l ı y m ı ş ı m .	k e n d i m i   t o p l u y o r   o l m a m a l ı y m ı ş ı m .	6.987189408391714e-06	0
+s e n i   t o p l u y o r   o l a c a k m ı ş ı m .	s e n i   t o p l u y o r   o l a c a k m ı ş ı m .	9.406686876900494e-05	0
+k e n d i m i z i   t o p l a m ı ş   m ı y m ı ş ı z ?	k e n d i m i z i   t o p l a m ı ş   m ı y m ı ş ı z ?	7.695993190282024e-06	0
+b i z i   t o p l u y o r   o l a c a k   m ı s ı n ?	b i z i   t o p l u y o r   o l a c a k   m ı s ı n ?	2.0981169654987752e-05	0
+b i z i   t o p l a m ı y o r d u n .	b i z i   t o p l a m ı y o r d u n .	1.4080215805734042e-05	0
+k e n d i n i z i   t o p l a m ı ş t ı n ı z .	k e n d i n i z i   t o p l a m ı ş t ı n ı z .	1.0001896043831948e-05	0
+o n l a r ı   t o p l u y o r   o l m a l ı   m ı y d ı m ?	o n l a r ı   t o p l u y o r   o l m a l ı   m ı y d ı m ?	1.85363860509824e-05	0
+o n u   t o p l a m ı ş   o l a c a ğ ı z .	o n u   t o p l a m ı ş   o l a c a ğ ı z .	5.377377419790719e-06	0
+k e n d i l e r i n i   t o p l a d ı l a r   m ı ?	k e n d i l e r i n i   t o p l a d ı l a r   m ı ?	0.0002394252660451457	0
+b e n i   t o p l a y a c a k   o l m a y a c a k   m ı y ı z ?	b e n i   t o p l a y a c a k   o l m a y a c a k   m ı y ı z ?	3.856652256217785e-05	0
+o n u   t ü k ü r m ü ş   o l a c a k   m ı s ı n ı z ?	o n u   t ü k ü r m ü ş   o l a c a k   m ı s ı n ı z ?	2.8394786113494774e-06	0
+s i z i   t ü k ü r m ü ş s ü n .	s i z i   t ü k ü r m ü ş s ü n .	9.662207958172075e-06	0
+s e n i   t ü k ü r ü y o r   o l a c a k l a r   m ı y d ı ?	s e n i   t ü k ü r ü y o r   o l a c a k l a r   m ı y d ı ?	9.810485789785162e-05	0
+o n u   t ü k ü r m ü ş   o l m a y a c a k   m ı y ı z ?	o n u   t ü k ü r m ü ş   o l m a y a c a k   m ı y ı z ?	3.988763637607917e-06	0
+k e n d i n i   t ü k ü r ü y o r   o l m a m a l ı   m ı s ı n ?	k e n d i n i   t ü k ü r ü y o r   o l m a m a l ı   m ı s ı n ?	2.582773049653042e-05	0
+b i z i   t ü k ü r ü y o r   o l m a l ı .	b i z i   t ü k ü r ü y o r   o l m a l ı .	1.401467488904018e-05	0
+s e n i   t ü k ü r ü y o r   o l m a l ı y m ı ş ı z .	s e n i   t ü k ü r ü y o r   o l m a l ı y m ı ş ı z .	0.00011162667942699045	0
+s e n i   t ü k ü r ü r l e r m i ş .	s e n i   t ü k ü r ü r l e r m i ş .	2.9159302357584238e-05	0
+o n l a r ı   t ü k ü r m e y e c e k   m i y d i n i z ?	o n l a r ı   t ü k ü r m e y e c e k   m i y d i n i z ?	8.596353836765047e-06	0
+k e n d i m i   t ü k ü r e c e k   o l a c a k m ı ş ı m .	k e n d i m i   t ü k ü r e c e k   o l a c a k m ı ş ı m .	9.53169001149945e-06	0
+o n u   t ü k ü r e c e k m i ş i z .	o n u   t ü k ü r e c e k m i ş i z .	4.5543733904196415e-06	0
+k e n d i l e r i n i   t ü k ü r d ü l e r d i .	k e n d i l e r i n i   t ü k ü r d ü l e r d i .	0.0001225435407832265	0
+o n l a r ı   t ü k ü r m ü y o r m u ş u m .	o n l a r ı   t ü k ü r m ü y o r m u ş u m .	7.285126230271999e-06	0
+o n u   t ü k ü r ü y o r   o l m a m a l ı y d ı n ı z .	o n u   t ü k ü r ü y o r   o l m a m a l ı y d ı n ı z .	2.840284878402599e-06	0
+s e n i   t ü k ü r e c e k   o l m a y a c a k m ı ş s ı n ı z .	s e n i   t ü k ü r e c e k   o l m a y a c a k m ı ş s ı n ı z .	3.633834785432555e-05	0
+u y u y o r   o l a c a k l a r   m ı y m ı ş ?	u y u y o r   o l a c a k l a r   m ı y m ı ş ?	2.0800268885068363e-06	0
+u y u y o r   o l m a z d ı n ı z .	u y u y o r   o l m a z d ı n ı z .	8.888761840353254e-06	0
+u y u r   m u ?	u y u r   m u ?	4.798393092642073e-06	0
+u y u m a l ı   m ı y d ı ?	u y u m a l ı   m ı y d ı ?	7.809304406691808e-06	0
+u y u y o r   o l u r l a r   m ı y d ı ?	u y u y o r   o l u r l a r   m ı y d ı ?	8.869477824191563e-06	0
+u y u m a z   m ı y d ı k ?	u y u m a z   m ı y d ı k ?	3.2160212413145928e-06	0
+u y u y o r   o l m a m a l ı y m ı ş .	u y u y o r   o l m a m a l ı y m ı ş .	6.412594302673824e-06	0
+u y u y a c a k   o l m a y a c a k   m ı y ı z ?	u y u y a c a k   o l m a y a c a k   m ı y ı z ?	4.930811428494053e-06	0
+u y u y o r   o l m a m a l ı   m ı y m ı ş s ı n ?	u y u y o r   o l m a m a l ı   m ı y m ı ş s ı n ?	1.8575120748209883e-06	0
+u y u r   m u y m u ş u m ?	u y u r   m u y m u ş u m ?	1.8193278492617537e-06	0
+u y u y a c a k   o l m a y a c a k l a r   m ı ?	u y u y a c a k   o l m a y a c a k l a r   m ı ?	1.147042894444894e-05	0
+u y u y a c a k l a r d ı .	u y u y a c a k l a r d ı .	2.2377125787897967e-05	0
+u y u r   o l m a y a c a k m ı ş s ı n ı z .	u y u r   o l m a y a c a k m ı ş s ı n ı z .	1.200409769808175e-06	0
+u y u m a d ı n .	u y u m a d ı n .	4.7109610932238866e-06	0
+u y u y o r   o l a c a k   m ı y d ı n ı z ?	u y u y o r   o l a c a k   m ı y d ı n ı z ?	8.230292678490514e-07	0
+u y u m u ş   o l a c a k   m ı y d ı ?	u y u m u ş   o l a c a k   m ı y d ı ?	5.443775535241002e-06	0
+u y u m a m ı ş l a r d ı .	u y u m a m ı ş l a r d ı .	1.589399471413344e-05	0
+u y u m u ş s u n u z .	u y u m u ş s u n u z .	2.1341581941669574e-06	0
+u y u y o r   o l m a y a c a k   m ı y d ı m ?	u y u y o r   o l m a y a c a k   m ı y d ı m ?	1.8269516885993653e-06	0
+u y u d u n u z .	u y u d u n u z .	0.005726939532905817	0
+u y u y o r   o l u r d u k .	u y u y o r   o l u r d u k .	2.629535174492048e-06	0
+u y u y o r   o l m a y a c a k l a r m ı ş .	u y u y o r   o l m a y a c a k l a r m ı ş .	1.8214070678368444e-06	0
+k e n d i m i   v e r i m s i z l e ş t i r m e m e l i y m i ş i m .	k e n d i m i   v e r i m s i z l e ş t i r m e m e l i y m i ş i m .	4.902526052319445e-05	0
+o n u   v e r i m s i z l e ş t i r m e y e c e k   m i ?	o n u   v e r i m s i z l e ş t i r m e y e c e k   m i ?	1.1777715371863451e-05	0
+s i z i   v e r i m s i z l e ş t i r i y o r d u m .	s i z i   v e r i m s i z l e ş t i r i y o r d u m .	7.447973621310666e-05	0
+s e n i   v e r i m s i z l e ş t i r i y o r d u n u z .	s e n i   v e r i m s i z l e ş t i r i y o r d u n u z .	0.00012771434558089823	0
+o n l a r ı   v e r i m s i z l e ş t i r i y o r   o l a c a k   m ı y m ı ş ı m ?	o n l a r ı   v e r i m s i z l e ş t i r i y o r   o l a c a k   m ı y m ı ş ı m ?	0.0005530958296731114	0
+o n u   v e r i m s i z l e ş t i r m i ş   o l a c a k   m ı ?	o n u   v e r i m s i z l e ş t i r m i ş   o l a c a k   m ı ?	0.0001903596130432561	0
+s i z i   v e r i m s i z l e ş t i r e c e k   o l a c a k   m ı y m ı ş ı m ?	s i z i   v e r i m s i z l e ş t i r e c e k   o l a c a k   m ı y m ı ş ı m ?	3.0389768653549254e-05	0
+o n u   v e r i m s i z l e ş t i r i y o r   o l m a m a l ı y d ı k .	o n u   v e r i m s i z l e ş t i r i y o r   o l m a m a l ı y d ı k .	0.0026925373822450638	0
+b e n i   v e r i m s i z l e ş t i r m i y o r m u ş s u n u z .	b e n i   v e r i m s i z l e ş t i r m i y o r m u ş s u n u z .	5.295984010444954e-06	0
+o n u   v e r i r s i z l e ş t i r i r   o l a c a k l a r   m ı y m ı ş ?	o n u   v e r i m s i z l e ş t i r i r   o l a c a k l a r   m ı y m ı ş ?	0.14099358022212982	1
+b i z i   v e r i r   i z l e ş t i r i r   m i y m i ş ?	b i z i   v e r i m s i z l e ş t i r i r   m i y m i ş ?	0.07922792434692383	2
+o n u   v e r i m s i z l e ş t i r i y o r   m u y m u ş ?	o n u   v e r i m s i z l e ş t i r i y o r   m u y m u ş ?	5.1506049203453586e-05	0
+o n l a r ı   v e r i m s i z l e ş t i r m i ş   o l a c a ğ ı z .	o n l a r ı   v e r i m s i z l e ş t i r m i ş   o l a c a ğ ı z .	1.4630108125857078e-05	0
+b e n i   v e r i m s i z l e ş t i r m i ş   o l a c a k t ı n ı z .	b e n i   v e r i m s i z l e ş t i r m i ş   o l a c a k t ı n ı z .	1.0702374311222229e-05	0
+k e n d i n i   v e r i m s i z l e ş t i r m i ş   o l a c a k   m ı s ı n ?	k e n d i n i   v e r i m s i z l e ş t i r m i ş   o l a c a k   m ı s ı n ?	2.4300190489157103e-05	0
+o n l a r ı   v e r i m s i z l e ş t i r i y o r   o l m a y a c a ğ ı m .	o n l a r ı   v e r i m s i z l e ş t i r i y o r   o l m a y a c a ğ ı m .	0.00031928930548019707	0
+b i z i   v e r i m s i z l e ş t i r e c e k l e r   m i ?	b i z i   v e r i m s i z l e ş t i r e c e k l e r   m i ?	0.000571721640881151	0
+s i z i   v e r i m s i z l e ş t i r m e m i ş t i k .	s i z i   v e r i m s i z l e ş t i r m e m i ş t i k .	3.510917849780526e-06	0
+b e n i   v e r i m s i z l e ş t i r i y o r   o l m a l ı l a r   m ı y m ı ş ?	b e n i   v e r i m s i z l e ş t i r i y o r   o l m a l ı l a r   m ı y m ı ş ?	0.001206231419928372	0
+o n u   v e r i m s i z l e ş t i r m i ş   o l m a y a c a ğ ı m .	o n u   v e r i m s i z l e ş t i r m i ş   o l m a y a c a ğ ı m .	4.340603027230827e-06	0
+o n l a r ı   v e r i r s i z l e ş t i r i r   o l a c a k m ı ş s ı n .	o n l a r ı   v e r i m s i z l e ş t i r i r   o l a c a k m ı ş s ı n .	0.07939574867486954	1
+k e n d i n i z i   b i z e   y a p t ı r t m ı ş   o l m a y a c a k s ı n ı z .	k e n d i n i z i   b i z e   y a p t ı r t m ı ş   o l m a y a c a k s ı n ı z .	9.013526141643524e-05	0
+b i z i   b a n a   y a p t ı r t ı y o r   o l a c a k l a r d ı .	b i z i   b a n a   y a p t ı r t ı y o r   o l a c a k l a r d ı .	0.00026458926731720567	0
+b i z i   s i z e   y a p t ı r t t ı y d ı n .	b i z i   s i z e   y a p t ı r t t ı y d ı n .	0.00017267487419303507	0
+b i z i   o n a   y a p t ı r t m a l ı   m ı y m ı ş s ı n ?	b i z i   o n a   y a p t ı r t m a l ı   m ı y m ı ş s ı n ?	3.5066335840383545e-05	0
+o n l a r ı   o n l a r a   y a p t ı r t ı y o r u z .	o n l a r ı   o n l a r a   y a p t ı r t ı y o r u z .	0.00013416781439445913	0
+b e n i   s i z e   y a p t ı r t ı r l a r .	b e n i   s i z e   y a p t ı r t ı r l a r .	0.0001147822622442618	0
+o n u   s i z e   y a p t ı r t ı r d ı k .	o n u   s i z e   y a p t ı r t ı r d ı k .	0.0004721734730992466	0
+s e n i   b a n a   y a p t ı r t a c a k   m ı y ı z ?	s e n i   b a n a   y a p t ı r t a c a k   m ı y ı z ?	0.0003459661384113133	0
+s e n i   s i z e   y a p t ı r t m ı ş l a r d ı .	s e n i   s i z e   y a p t ı r t m ı ş l a r d ı .	0.0005365581600926816	0
+o n u   b i z e   y a p t ı r t m ı ş   o l m a y a c a k s ı n ı z .	o n u   b i z e   y a p t ı r t m ı ş   o l m a y a c a k s ı n ı z .	1.7871589079732075e-05	0
+b e n i   o n l a r a   y a p t ı r t t ı   m ı y d ı k ?	b e n i   o n l a r a   y a p t ı r t t ı   m ı y d ı k ?	6.880084401927888e-05	0
+k e n d i l e r i n i   o n l a r a   y a p t ı r t m ı y o r l a r m ı ş .	k e n d i l e r i n i   o n l a r a   y a p t ı r t m ı y o r l a r m ı ş .	0.00011707031808327883	0
+s i z i   k e n d i l e r i n e   y a p t ı r t m a d ı l a r .	s i z i   k e n d i l e r i n e   y a p t ı r t m a d ı l a r .	9.732264879858121e-05	0
+b i z i   y a p t ı r t m ı y o r   m u ?	b i z i   y a p t ı r t m ı y o r   m u ?	1.0914567383224494e-06	0
+o n u   k e n d i n e   y a p t ı r t m a l ı   m ı y m ı ş ı z ?	o n u   k e n d i n e   y a p t ı r t m a l ı   m ı y m ı ş ı z ?	1.3339012184587773e-05	0
+k e n d i n i   y a p t ı r t t ı .	k e n d i n i   y a p t ı r t t ı .	0.003031717846170068	0
+o n u   s i z e   y a p t ı r t ı r ı z .	o n u   s i z e   y a p t ı r t ı r ı z .	0.02144894190132618	0
+o n l a r ı   o n a   y a p t ı r t m ı ş   o l a c a k   m ı s ı n ı z ?	o n l a r ı   o n a   y a p t ı r t m ı ş   o l a c a k   m ı s ı n ı z ?	1.5188483303063549e-05	0
+s i z i   y a r a c a k   m ı ?	s i z i   y a r a c a k   m ı ?	4.8354268074035645e-06	0
+o n l a r ı   y a r m ı ş   o l a c a k t ı m .	o n l a r ı   y a r m ı ş   o l a c a k t ı m .	4.28845396527322e-06	0
+k e n d i n i   y a r m ı ş   o l a c a k   m ı ?	k e n d i n i   y a r m ı ş   o l a c a k   m ı ?	9.92264540400356e-06	0
+b e n i   y a r m a m a l ı   m ı y m ı ş ?	b e n i   y a r m a m a l ı   m ı y m ı ş ?	1.4121716276349616e-06	0
+s e n i   y a r ı r   o l a c a k   m ı y m ı ş s ı n ı z ?	s e n i   y a r a r   o l a c a k   m ı y m ı ş s ı n ı z ?	0.04106608033180237	1
+s e n i   y a r m ı ş .	s e n i   y a r m ı ş .	4.428116426424822e-06	0
+s i z i   y a r a r   o l a c a k   m ı y m ı ş s ı n ?	s i z i   y a r a r   o l a c a k   m ı y m ı ş s ı n ?	0.0049768006429076195	0
+s i z i   y a r a c a k t ı n .	s i z i   y a r a c a k t ı n .	4.378566700324882e-06	0
+o n l a r ı   y a r a c a k   o l a c a k   m ı y m ı ş ı m ?	o n l a r ı   y a r a c a k   o l a c a k   m ı y m ı ş ı m ?	4.938497568218736e-06	0
+o n l a r ı   y a r ı y o r   o l u r l a r d ı .	o n l a r ı   y a r ı y o r   o l u r l a r d ı .	2.9139890102669597e-05	0
+b i z i   y a r m ı ş   o l a c a k l a r   m ı ?	b i z i   y a r m ı ş   o l a c a k l a r   m ı ?	3.3041562801372493e-06	0
+s i z i   y a r m a m ı ş   m ı y d ı n ?	s i z i   y a r m a m ı ş   m ı y d ı n ?	2.3261852675204864e-06	0
+o n l a r ı   y a r ı y o r l a r   m ı y m ı ş ?	o n l a r ı   y a r ı y o r l a r   m ı y m ı ş ?	4.537472705123946e-05	0
+o n l a r ı   y a r ı y o r   m u s u n ?	o n l a r ı   y a r ı y o r   m u s u n ?	3.5564182780944975e-06	0
+k e n d i l e r i n i   y a r ı y o r   o l m a y a c a k l a r   m ı y m ı ş ?	k e n d i l e r i n i   y a r ı y o r   o l m a y a c a k l a r   m ı y m ı ş ?	7.837465091142803e-06	0
+o n u   y a r m a y a c a k   m ı y d ı n ı z ?	o n u   y a r m a y a c a k   m ı y d ı n ı z ?	2.2586650629818905e-06	0
+s i z i   y a r ı y o r   o l m a l ı   m ı y m ı ş ı z ?	s i z i   y a r ı y o r   o l m a l ı   m ı y m ı ş ı z ?	2.6591303594614146e-06	0
+o n l a r ı   y a r m a y a c a k l a r m ı ş .	o n l a r ı   y a r m a y a c a k l a r m ı ş .	1.3467501958075445e-05	0
+k e n d i n i z i   y a r a r   m ı y m ı ş s ı n ı z ?	k e n d i n i z i   y a r a r   m ı y m ı ş s ı n ı z ?	0.0012000984279438853	0
+s i z i   y a r a r   o l a c a k l a r m ı ş .	s i z i   y a r a r   o l a c a k l a r m ı ş .	0.0038170525804162025	0
+b e n i   y a r ı y o r   o l m a y a c a k l a r d ı .	b e n i   y a r ı y o r   o l m a y a c a k l a r d ı .	5.860857072548242e-06	0
+o n l a r ı   y ı k a m ı y o r   m u y d u k ?	o n l a r ı   y ı k a m ı y o r   m u y d u k ?	1.2986190995434299e-05	0
+o n l a r ı   y ı k a m a m ı ş   m ı y ı z ?	o n l a r ı   y ı k a m a m ı ş   m ı y ı z ?	6.6491870711615775e-06	0
+k e n d i m i   y ı k a y a c a k m ı ş ı m .	k e n d i m i   y ı k a y a c a k m ı ş ı m .	2.949307599919848e-05	0
+s i z i   y ı k a y a c a k   o l a c a k .	s i z i   y ı k a y a c a k   o l a c a k .	9.967549704015255e-05	0
+b i z i   y ı k a m ı ş t ı n ı z .	b i z i   y ı k a m ı ş t ı n ı z .	4.177722075837664e-06	0
+s i z i   y ı k ı y o r   o l a c a k   m ı y d ı ?	s i z i   y ı k ı y o r   o l a c a k   m ı y d ı ?	6.51695518172346e-05	0
+k e n d i m i   y ı k ı y o r   o l m a m a l ı y d ı m .	k e n d i m i   y ı k ı y o r   o l m a m a l ı y d ı m .	2.460998803144321e-05	0
+s i z i   y ı k a m a l ı l a r .	s i z i   y ı k a m e l i l e r .	0.2038872241973877	3
+s i z i   y ı k ı y o r   o l m a m a l ı y d ı .	s i z i   y ı k ı y o r   o l m a m a l ı y d ı .	3.755702346097678e-05	0
+k e n d i n i   y ı k ı y o r   o l m a m a l ı y m ı ş s ı n .	k e n d i n i   y ı k ı y o r   o l m a m a l ı y m ı ş s ı n .	5.3522151574725285e-05	0
+b i z i   y ı k a m a y a c a k   m ı s ı n ı z ?	b i z i   y ı k a m a y a c a k   m ı s ı n ı z ?	2.3697361939412076e-06	0
+o n l a r ı   y ı k a m a m ı ş m ı ş s ı n ı z .	o n l a r ı   y ı k a m a m ı ş m ı ş s ı n ı z .	3.902749540429795e-06	0
+k e n d i m i z i   y ı k a m a z .	k e n d i m i z i   y ı k a m a y ı z .	0.17002348601818085	2
+b i z i   y ı k a m ı y o r m u ş s u n u z .	b i z i   y ı k a m ı y o r m u ş s u n u z .	0.00011783281661337242	0
+b e n i   y ı k a m ı ş   o l m a y a c a k .	b e n i   y ı k a m ı ş   o l m a y a c a k .	7.295191153389169e-06	0
+b i z i   y ı k a m a d ı y d ı n .	b i z i   y ı k a m a d ı y d ı n .	5.666098786605289e-06	0
+o n l a r ı   y ı k ı y o r   m u y d u n ?	o n l a r ı   y ı k ı y o r   m u y d u n ?	1.972767131519504e-05	0
+o n u   y ı k a m a m a l ı   m ı y ı z ?	o n u   y ı k a m a m e l i   m i y i z ?	0.07532642036676407	4
+o n l a r ı   y ı k a m a m a l ı s ı n .	o n l a r ı   y ı k a m a m e l i s i n .	0.08291833102703094	3
+o n l a r ı   y ı k a m a m a l ı   m ı y d ı ?	o n l a r ı   y ı k a m a m a l ı   m ı y d ı ?	3.331651441840222e-06	0
+o n u   y ı k a y a c a k   o l a c a k   m ı y ı z ?	o n u   y ı k a y a c a k   o l a c a k   m ı y ı z ?	2.7078120183432475e-05	0
+s i z i   y ı k a m a m a l ı   m ı y d ı m ?	s i z i   y ı k a m a m a l ı   m ı y d ı m ?	3.798441639446537e-06	0
+b e n i   y ı k a m a m ı ş l a r   m ı y d ı ?	b e n i   y ı k a m a m ı ş l a r   m ı y d ı ?	7.011222351138713e-06	0
+y ı p r a n ı y o r   o l m a y a c a k t ı n .	y ı p r a n ı y o r   o l m a y a c a k t ı n .	3.4148017675761366e-06	0
+y ı p r a n ı r l a r .	y ı p r a n ı r l a r .	6.560349447681801e-06	0
+y ı p r a n ı y o r   o l m a l ı l a r   m ı y m ı ş ?	y ı p r a n ı y o r   o l m a l ı l a r   m ı y m ı ş ?	2.9134123451513005e-06	0
+y ı p r a n ı y o r   o l m a m a l ı   m ı y d ı k ?	y ı p r a n ı y o r   o l m a m a l ı   m ı y d ı k ?	3.04038235299231e-06	0
+y ı p r a n a c a k   o l a c a k l a r .	y ı p r a n a c a k   o l a c a k l a r .	4.61299214293831e-06	0
+y ı p r a n m a m ı ş t ı .	y ı p r a n m a m ı ş t ı .	1.3950317224953324e-05	0
+y ı p r a n m ı ş   o l m a y a c a k   m ı y d ı n ?	y ı p r a n m ı ş   o l m a y a c a k   m ı y d ı n ?	3.4376159874227596e-06	0
+y ı p r a n ı y o r   o l m a l ı y m ı ş ı z .	y ı p r a n ı y o r   o l m a l ı y m ı ş ı z .	2.908329861384118e-06	0
+y ı p r a n m a y a c a k   m ı s ı n ı z ?	y ı p r a n m a y a c a k   m ı s ı n ı z ?	2.000468157348223e-06	0
+y ı p r a n m ı ş   o l a c a k .	y ı p r a n m ı ş   o l a c a k .	7.037155228317715e-06	0
+y ı p r a n ı y o r   o l m a y a c a k l a r   m ı ?	y ı p r a n ı y o r   o l m a y a c a k l a r   m ı ?	4.692411948781228e-06	0
+y ı p r a n m ı ş t ı n .	y ı p r a n m ı ş t ı n .	6.391530405380763e-06	0
+y ı p r a n m ı ş   m ı y d ı k ?	y ı p r a n m ı ş   m ı y d ı k ?	5.6717726693023e-06	0
+y ı p r a n m ı y o r   m u y d u n u z ?	y ı p r a n m ı y o r   m u y d u n u z ?	3.0384403544303495e-06	0
+y ı p r a n m ı ş   m ı y d ı n ı z ?	y ı p r a n m ı ş   m ı y d ı n ı z ?	4.142443685850594e-06	0
+y ı p r a n m ı ş m ı ş ı z .	y ı p r a n m ı ş m ı ş ı z .	3.5557022783905268e-06	0
+y ı p r a n a c a k m ı ş .	y ı p r a n a c a k m ı ş .	2.867222519853385e-06	0
+y ı p r a n a c a k t ı k .	y ı p r a n a c a k t ı k .	3.472855496511329e-06	0
+y ı p r a n m a y a c a k l a r   m ı ?	y ı p r a n m a y a c a k l a r   m ı ?	3.2929433473327663e-06	0
+y ı p r a n m ı y o r l a r .	y ı p r a n m ı y o r l a r .	7.657416063011624e-06	0
+o n l a r ı   ç i z e c e k   o l m a y a c a k   m ı ?	o n l a r ı   ç i z e c e k   o l m a y a c a k   m ı ?	2.519221197871957e-05	0
+b e n i   ç i z i y o r   o l a c a k   m ı y m ı ş ?	b e n i   ç i z i y o r   o l a c a k   m ı y m ı ş ?	4.5893008064012975e-05	0
+o n l a r ı   ç i z m e y e c e k   m i y d i k ?	o n l a r ı   ç i z m e y e c e k   m i y d i k ?	9.059182957571466e-06	0
+s e n i   ç i z e c e k   o l a c a k m ı ş ı m .	s e n i   ç i z e c e k   o l a c a k m ı ş ı m .	5.9080404753331095e-05	0
+k e n d i n i   ç i z e c e k   o l m a y a c a k   m ı s ı n ?	k e n d i n i   ç i z e c e k   o l m a y a c a k   m ı s ı n ?	0.00014324855874292552	0
+o n l a r ı   ç i z m e z   m i y m i ş i z ?	o n l a r ı   ç i z m e z   m i y m i ş i z ?	1.1732004168152343e-05	0
+k e n d i n i   ç i z e r   m i y m i ş ?	k e n d i n i   ç i z e r   m i y m i ş ?	2.066727029159665e-05	0
+s i z i   ç i z m e z d i .	s i z i   ç i z m e z d i .	9.0554558482836e-06	0
+b i z i   ç i z e r   o l a c a k m ı ş .	b i z i   ç i z e r   o l a c a k m ı ş .	4.87447832711041e-05	0
+b e n i   ç i z d i   m i y d i ?	b e n i   ç i z d i   m i y d i ?	5.474197314470075e-05	0
+b e n i   ç i z i y o r   o l a c a k m ı ş .	b e n i   ç i z i y o r   o l a c a k m ı ş .	5.439843516796827e-05	0
+s e n i   ç i z m e l i   m i y m i ş s i n i z ?	s e n i   ç i z m e l i   m i y m i ş s i n i z ?	2.364905594731681e-05	0
+b i z i   ç i z m e d i m   m i ?	b i z i   ç i z m e d i m   m i ?	1.845874976424966e-06	0
+b i z i   ç i z i y o r   o l m a m a l ı   m ı y ı m ?	b i z i   ç i z i y o r   o l m a m a l ı   m ı y ı m ?	1.5183197319856845e-05	0
+s i z i   ç i z e r   m i y i z ?	s i z i   ç i z e r   m i y i z ?	7.65674758440582e-06	0
+o n l a r ı   ç i z m i ş   m i y d i m ?	o n l a r ı   ç i z m i ş   m i y d i m ?	9.33774390432518e-06	0
+b i z i   ç i z m e y i n !	b i z i   ç i z m e y i n !	0.0010334375547245145	0
+s i z i   ç i z e r   m i y m i ş s i n ?	s i z i   ç i z e r   m i y m i ş s i n ?	1.1227187314943876e-05	0
+ü r ü y o r   o l m a l ı   m ı y m ı ş ?	ü r ü y o r   o l m a l ı   m ı y m ı ş ?	6.386403128999518e-06	0
+ü r e m e m i ş s i n i z .	ü r e m e m i ş s i n i z .	7.802605068718549e-07	0
+ü r ü y o r   o l a c a k l a r .	ü r ü y o r   o l a c a k l a r .	6.482562457676977e-05	0
+ü r e m i y o r   m u y d u ?	ü r e m i y o r   m u y d u ?	0.0001915710308821872	0
+ü r e y e c e ğ i z .	ü r e y e c e ğ i z .	4.7463152441196144e-05	0
+ü r e m e l i y m i ş s i n i z .	ü r e m e l i y m i ş s i n i z .	5.891533305657504e-07	0
+ü r e m e m e l i y d i .	ü r e m e m e l i y d i .	9.903562840918312e-07	0
+ü r ü y o r   o l u r d u n .	ü r ü y o r   o l u r d u n .	9.435519132239278e-06	0
+ü r e m i y o r l a r   m ı y d ı ?	ü r e m i y o r l a r   m ı y d ı ?	0.00019741053984034806	0
+ü r e r   o l a c a k l a r   m ı y m ı ş ?	ü r e r   o l a c a k l a r   m ı y m ı ş ?	4.094667383469641e-05	0
+ü r ü y o r   o l m a l ı   m ı y d ı n ?	ü r ü y o r   o l m a l ı   m ı y d ı n ?	6.321083674265537e-06	0
+ü r e m i y o r   m u y m u ş s u n ?	ü r e m i y o r   m u y m u ş s u n ?	0.00047229096526280046	0
+ü r e m e m e l i .	ü r e m e m e l i .	1.3158731917428668e-06	0
+ü r ü y o r   o l m a y a c a k .	ü r ü y o r   o l m a y a c a k .	0.0001141676475526765	0
+ü r e m e y e c e k m i ş s i n .	ü r e m e y e c e k m i ş s i n .	1.4643525219071307e-06	0
+ü r e m i ş   m i y m i ş i m ?	ü r e m i ş   m i y m i ş i m ?	2.1694622773793526e-06	0
+ü r e y e c e k   o l m a y a c a k   m ı y ı m ?	ü r e y e c e k   o l m a y a c a k   m ı y ı m ?	3.716933497344144e-05	0
+ü r e m e z l e r   m i ?	ü r e m e z l e r   m i ?	1.321045260738174e-06	0
+ü r e m e l i y i m .	ü r e m e l i y i m .	1.4579969729311415e-06	0
+ü r ü y o r   o l m a y a c a k l a r d ı .	ü r ü y o r   o l m a y a c a k l a r d ı .	0.00012803093704860657	0
+ü r ü y o r   o l m a l ı y d ı .	ü r ü y o r   o l m a l ı y d ı .	6.226479854376521e-06	0
+ü r e m e m i ş l e r .	ü r e m e m i ş l e r .	1.1950321550102672e-06	0
+ü r e y e c e k   o l a c a k   m ı s ı n ?	ü r e y e c e k   o l a c a k   m ı s ı n ?	0.00011912534682778642	0
+ü ş e n m e y e c e k s i n i z .	ü ş e n m e y e c e k s i n i z .	1.0224467814623495e-06	0
+ü ş e n m i y o r   m u y m u ş s u n ?	ü ş e n m i y o r   m u y m u ş s u n ?	2.882516128011048e-06	0
+ü ş e n m e z l e r   m i y d i ?	ü ş e n m e z l e r   m i y d i ?	2.1369428395701107e-06	0
+ü ş e n e c e k   m i s i n i z ?	ü ş e n e c e k   m i s i n i z ?	1.6513064338141703e-06	0
+ü ş e n m e m i ş m i ş .	ü ş e n m e m i ş m i ş .	2.1633125015796395e-06	0
+ü ş e n i r   o l a c a k m ı ş ı m .	ü ş e n i r   o l a c a k m ı ş ı m .	6.245832992135547e-06	0
+ü ş e n m e y e c e k t i .	ü ş e n m e y e c e k t i .	2.7462194793770323e-06	0
+ü ş e n m e m i ş l e r   m i y d i ?	ü ş e n m e m i ş l e r   m i y d i ?	3.2804418879095465e-06	0
+ü ş e n m i y o r u z .	ü ş e n m i y o r u z .	3.770453304241528e-06	0
+ü ş e n m e z d i m .	ü ş e n m e z d i m .	5.214144948695321e-06	0
+ü ş e n i y o r d u k .	ü ş e n i y o r d u k .	3.7948924727970734e-05	0
+ü ş e n i y o r   o l u r   m u y d u n ?	ü ş e n i y o r   o l u r   m u y d u n ?	6.4977384681697e-06	0
+ü ş e n i r   m i y m i ş s i n ?	ü ş e n i r   m i y m i ş s i n ?	7.187636128946906e-06	0
+ü ş e n m e y e c e k l e r   m i y m i ş ?	ü ş e n m e y e c e k l e r   m i y m i ş ?	1.6300175502692582e-06	0
+ü ş e n i y o r l a r   m ı y d ı ?	ü ş e n i y o r l a r   m ı y d ı ?	1.273728321393719e-05	0
+ü ş e n i y o r   o l m a y a c a k   m ı y d ı k ?	ü ş e n i y o r   o l m a y a c a k   m ı y d ı k ?	2.4663429485372035e-06	0
+ü ş e n m e z l e r .	ü ş e n m e z l e r .	1.8896405435953056e-06	0
+ü ş e n d i y d i m .	ü ş e n d i y d i m .	7.673280379094649e-06	0
+ü ş e n i r   o l a c a k l a r m ı ş .	ü ş e n i r   o l a c a k l a r m ı ş .	3.18451966450084e-05	0
+ü ş e n m i y o r   m u y d u k ?	ü ş e n m i y o r   m u y d u k ?	2.419702241240884e-06	0
+ü ş e n m e y e c e k   m i y m i ş i m ?	ü ş e n m e y e c e k   m i y m i ş i m ?	1.4884500387779553e-06	0

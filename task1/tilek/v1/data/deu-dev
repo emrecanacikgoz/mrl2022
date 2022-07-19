@@ -1,0 +1,1000 @@
+abnehmen	er nähme sich ihr nicht ab.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);DAT(3,SG,FEM);NEG
+abnehmen	er wird euch ihr abgenommen haben.	IND;FUT;PRF;NOM(3,SG,MASC);ACC(2,PL);DAT(3,SG,FEM)
+abnehmen	er werde es abgenommen haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT)
+abnehmen	nimmt es es uns ab?	IND;PRS;NOM(3,SG,NEUT);ACC(3,SG,NEUT);DAT(1,PL);Q
+abnehmen	werden Sie sich ihm nicht abgenommen haben?	IND;FUT;PRF;NOM(2,FORM);ACC(2,FORM,RFLX);DAT(3,SG,NEUT);NEG;Q
+abnehmen	du wirst mich euch nicht abgenommen haben.	IND;FUT;PRF;NOM(2,SG);ACC(1,SG);DAT(2,PL);NEG
+abnehmen	nehmet ihr mich uns nicht ab?	QUOT;PRS;NOM(2,PL);ACC(1,SG);DAT(1,PL);NEG;Q
+abnehmen	nehmen Sie sie uns ab?	IND;PRS;NOM(2,FORM);ACC(3,PL);DAT(1,PL);Q
+abnehmen	habe ich uns uns abgenommen?	IND;PST;NOM(1,SG);ACC(1,PL);DAT(1,PL);Q
+abnehmen	wird es euch sich abgenommen haben?	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(2,PL);DAT(3,SG,NEUT,RFLX);Q
+abnehmen	nahm er mich uns ab?	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);DAT(1,PL);Q
+abnehmen	er werde sich ihm nicht abgenommen haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);DAT(3,SG,MASC);NEG
+abnehmen	sie nähmen sie ihr nicht ab.	SBJV;LGSPEC1;NOM(3,PL);ACC(3,PL);DAT(3,SG,FEM);NEG
+abnehmen	wir haben ihn mir nicht abgenommen.	IND;PST;NOM(1,PL);ACC(3,SG,MASC);DAT(1,SG);NEG
+abnehmen	nehmt ihn ihm nicht ab!	IMP;NOM(2,PL);ACC(3,SG,MASC);DAT(3,SG,MASC);NEG
+abnehmen	hast du ihn dir abgenommen?	IND;PST;NOM(2,SG);ACC(3,SG,MASC);DAT(2,SG);Q
+abnehmen	würden sie sie nicht abnehmen?	SBJV;NOM(3,PL);ACC(3,SG,FEM);NEG;Q
+abnehmen	nehmen Sie sie mir ab!	IMP;NOM(2,FORM);ACC(3,SG,FEM);DAT(1,SG)
+abnehmen	hatte sie sich ihm nicht abgenommen?	IND;PST;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);DAT(3,SG,NEUT);NEG;Q
+abnehmen	sie werde ihn abnehmen?	QUOT;FUT;NOM(3,SG,FEM);ACC(3,SG,MASC)
+abnehmen	nimmt er Sie euch nicht ab?	IND;PRS;NOM(3,SG,MASC);ACC(2,FORM);DAT(2,PL);NEG;Q
+absetzen	es setze uns von ihnen ab?	QUOT;PRS;NOM(3,SG,NEUT);ACC(1,PL);AT+ABL(3,PL)
+absetzen	wird er ihn von ihnen nicht abgesetzt haben?	IND;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC);AT+ABL(3,PL);NEG;Q
+absetzen	werde er dich von sich absetzen?	QUOT;FUT;NOM(3,SG,MASC);ACC(2,SG);AT+ABL(3,SG,MASC,RFLX);Q
+absetzen	wirst du dich von ihr nicht absetzen?	IND;FUT;NOM(2,SG);ACC(2,SG);AT+ABL(3,SG,FEM);NEG;Q
+absetzen	werdet ihr sie von uns absetzen?	QUOT;FUT;NOM(2,PL);ACC(3,SG,FEM);AT+ABL(1,PL);Q
+absetzen	werden sie mich nicht absetzen?	QUOT;FUT;NOM(3,PL);ACC(1,SG);NEG;Q
+absetzen	werden sie euch von Ihnen absetzen?	IND;FUT;NOM(3,PL);ACC(2,PL);AT+ABL(2,FORM);Q
+absetzen	wird sie sie von sich nicht absetzen?	IND;FUT;NOM(3,SG,FEM);ACC(3,PL);AT+ABL(3,PL,RFLX);NEG;Q
+absetzen	wirst du sie von ihr nicht abgesetzt haben?	IND;FUT;PRF;NOM(2,SG);ACC(3,PL);AT+ABL(3,SG,FEM);NEG;Q
+absetzen	er wird es von dir abgesetzt haben.	IND;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT);AT+ABL(2,SG)
+absetzen	er setzte mich von ihm ab.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);AT+ABL(3,SG,MASC)
+absetzen	sie werden ihn von uns absetzen.	IND;FUT;NOM(3,PL);ACC(3,SG,MASC);AT+ABL(1,PL)
+absetzen	es hat euch von ihm nicht abgesetzt.	IND;PST;NOM(3,SG,NEUT);ACC(2,PL);AT+ABL(3,SG,MASC);NEG
+absetzen	sie würden ihn von sich absetzen.	SBJV;NOM(3,PL);ACC(3,SG,MASC);AT+ABL(3,PL,RFLX)
+absetzen	setzen sie sie von Ihnen nicht ab?	IND;PRS;NOM(3,PL);ACC(3,PL);AT+ABL(2,FORM);NEG;Q
+absetzen	sie setzten es von ihnen nicht ab.	SBJV;LGSPEC1;NOM(3,PL);ACC(3,SG,NEUT);AT+ABL(3,PL);NEG
+absetzen	er setzt es von euch nicht ab.	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,NEUT);AT+ABL(2,PL);NEG
+absetzen	er setzt ihn von Ihnen nicht ab.	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC);AT+ABL(2,FORM);NEG
+absetzen	du habest euch von dir abgesetzt?	QUOT;PST;NOM(2,SG);ACC(2,PL);AT+ABL(2,SG)
+absetzen	werdest du es von uns absetzen?	QUOT;FUT;NOM(2,SG);ACC(3,SG,NEUT);AT+ABL(1,PL);Q
+absetzen	werdet ihr sie von sich abgesetzt haben?	QUOT;FUT;PRF;NOM(2,PL);ACC(3,PL);AT+ABL(3,PL,RFLX);Q
+angeben	Sie gäben sich nicht an.	SBJV;LGSPEC1;NOM(2,FORM);ACC(2,FORM,RFLX);NEG
+angeben	gabt ihr uns an?	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,PL);Q
+angeben	wird er Sie angegeben haben?	IND;FUT;PRF;NOM(3,SG,MASC);ACC(2,FORM);Q
+angeben	werden wir euch angeben?	QUOT;FUT;NOM(1,PL);ACC(2,PL);Q
+angeben	wird es euch nicht angegeben haben?	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(2,PL);NEG;Q
+angeben	werden wir Sie angeben?	IND;FUT;NOM(1,PL);ACC(2,FORM);Q
+angeben	ich gebe sie an.	IND;PRS;NOM(1,SG);ACC(3,SG,FEM)
+angeben	du werdest mich angegeben haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(1,SG)
+angeben	habe ich euch angegeben?	IND;PST;NOM(1,SG);ACC(2,PL);Q
+angeben	ihr würdet mich angeben.	SBJV;NOM(2,PL);ACC(1,SG)
+angeben	es gab mich an.	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(1,SG)
+angeben	du werdest sie angegeben haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(3,SG,FEM)
+angeben	sie würden mich angeben.	SBJV;NOM(3,PL);ACC(1,SG)
+angeben	sie haben sich nicht angegeben.	IND;PST;NOM(3,PL);ACC(3,PL,RFLX);NEG
+angeben	hast du sie nicht angegeben?	IND;PST;NOM(2,SG);ACC(3,PL);NEG;Q
+angeben	ihr hattet Sie nicht angegeben.	IND;PST;PRF;NOM(2,PL);ACC(2,FORM);NEG
+angeben	hätten Sie sie nicht angegeben?	SBJV;PRF;NOM(2,FORM);ACC(3,SG,FEM);NEG;Q
+angeben	wir werden es nicht angeben.	IND;FUT;NOM(1,PL);ACC(3,SG,NEUT);NEG
+anpassen	es passte mich Ihnen an.	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(1,SG);DAT(2,FORM)
+anpassen	es hätte sie Ihnen nicht angepasst.	SBJV;PRF;NOM(3,SG,NEUT);ACC(3,PL);DAT(2,FORM);NEG
+anpassen	es passt sich mir nicht an.	IND;PRS;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);DAT(1,SG);NEG
+anpassen	du würdest mich ihr nicht anpassen.	SBJV;NOM(2,SG);ACC(1,SG);DAT(3,SG,FEM);NEG
+anpassen	passe er uns dir an?	QUOT;PRS;NOM(3,SG,MASC);ACC(1,PL);DAT(2,SG);Q
+anpassen	passtet ihr ihn sich nicht an?	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,MASC);DAT(3,SG,MASC,RFLX);NEG;Q
+anpassen	passen Sie uns sich nicht an?	QUOT;PRS;NOM(2,FORM);ACC(1,PL);DAT(2,FORM,RFLX);NEG;Q
+anpassen	werden wir dich euch anpassen?	IND;FUT;NOM(1,PL);ACC(2,SG);DAT(2,PL);Q
+anpassen	du hattest dich ihm angepasst.	IND;PST;PRF;NOM(2,SG);ACC(2,SG);DAT(3,SG,MASC)
+anpassen	ihr werdet mich ihr nicht anpassen?	QUOT;FUT;NOM(2,PL);ACC(1,SG);DAT(3,SG,FEM);NEG
+anpassen	habest du dich euch angepasst?	QUOT;PST;NOM(2,SG);ACC(2,SG);DAT(2,PL);Q
+anpassen	werde sie Sie ihm anpassen?	QUOT;FUT;NOM(3,SG,FEM);ACC(2,FORM);DAT(3,SG,MASC);Q
+anpassen	würden sie uns mir nicht anpassen?	SBJV;NOM(3,PL);ACC(1,PL);DAT(1,SG);NEG;Q
+anpassen	sie passt euch Ihnen nicht an.	IND;PRS;NOM(3,SG,FEM);ACC(2,PL);DAT(2,FORM);NEG
+anpassen	werde er sie uns nicht anpassen?	QUOT;FUT;NOM(3,SG,MASC);ACC(3,PL);DAT(1,PL);NEG;Q
+anpassen	sie haben ihn angepasst.	IND;PST;NOM(3,PL);ACC(3,SG,MASC)
+anpassen	wir hätten euch uns angepasst.	SBJV;PRF;NOM(1,PL);ACC(2,PL);DAT(1,PL)
+anpassen	haben sie dich ihm nicht angepasst?	QUOT;PST;NOM(3,PL);ACC(2,SG);DAT(3,SG,MASC);NEG;Q
+anpassen	sie hatten mich ihr nicht angepasst.	IND;PST;PRF;NOM(3,PL);ACC(1,SG);DAT(3,SG,FEM);NEG
+anpassen	sie würde Sie sich anpassen.	SBJV;NOM(3,SG,FEM);ACC(2,FORM);DAT(2,FORM,RFLX)
+antworten	antwortete es auf dich?	SBJV;LGSPEC1;NOM(3,SG,NEUT);ON+ESS(2,SG);Q
+antworten	sie werden uns auf mich antworten?	QUOT;FUT;NOM(3,PL);DAT(1,PL);ON+ESS(1,SG)
+antworten	wir werden euch auf ihn nicht antworten?	QUOT;FUT;NOM(1,PL);DAT(2,PL);ON+ESS(3,SG,MASC);NEG
+antworten	du wirst dir geantwortet haben.	IND;FUT;PRF;NOM(2,SG);DAT(2,SG)
+antworten	du antwortest ihr auf dich nicht?	QUOT;PRS;NOM(2,SG);DAT(3,SG,FEM);ON+ESS(2,SG);NEG
+antworten	ich hatte ihnen auf Sie nicht geantwortet.	IND;PST;PRF;NOM(1,SG);DAT(3,PL);ON+ESS(2,FORM);NEG
+antworten	Sie würden auf sie nicht antworten.	SBJV;NOM(2,FORM);ON+ESS(3,PL);NEG
+antworten	werden Sie auf euch nicht geantwortet haben?	IND;FUT;PRF;NOM(2,FORM);ON+ESS(2,PL);NEG;Q
+antworten	werden Sie uns auf sich nicht antworten?	IND;FUT;NOM(2,FORM);DAT(1,PL);ON+ESS(2,FORM,RFLX);NEG;Q
+antworten	sie hatte ihr nicht geantwortet.	IND;PST;PRF;NOM(3,SG,FEM);DAT(3,SG,FEM);NEG
+antworten	ich werde ihr auf Sie nicht antworten?	QUOT;FUT;NOM(1,SG);DAT(3,SG,FEM);ON+ESS(2,FORM);NEG
+antworten	ihr werdet ihm antworten.	IND;FUT;NOM(2,PL);DAT(3,SG,NEUT)
+antworten	antworten Sie sich auf sie?	IND;PRS;NOM(2,FORM);DAT(2,FORM,RFLX);ON+ESS(3,SG,FEM);Q
+antworten	hattet ihr dir auf euch geantwortet?	IND;PST;PRF;NOM(2,PL);DAT(2,SG);ON+ESS(2,PL);Q
+antworten	er hat mir auf mich geantwortet.	IND;PST;NOM(3,SG,MASC);DAT(1,SG);ON+ESS(1,SG)
+antworten	ich werde ihr auf sich geantwortet haben?	QUOT;FUT;PRF;NOM(1,SG);DAT(3,SG,FEM);ON+ESS(3,SG,FEM,RFLX)
+antworten	antwortete er ihm auf uns nicht?	IND;PST;LGSPEC1;NOM(3,SG,MASC);DAT(3,SG,MASC);ON+ESS(1,PL);NEG;Q
+antworten	würden wir euch auf dich nicht antworten?	SBJV;NOM(1,PL);DAT(2,PL);ON+ESS(2,SG);NEG;Q
+antworten	hätten wir ihm auf sie nicht geantwortet?	SBJV;PRF;NOM(1,PL);DAT(3,SG,MASC);ON+ESS(3,SG,FEM);NEG;Q
+antworten	antwortete es ihm auf euch nicht?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);DAT(3,SG,NEUT);ON+ESS(2,PL);NEG;Q
+antworten	wird es auf euch geantwortet haben?	IND;FUT;PRF;NOM(3,SG,NEUT);ON+ESS(2,PL);Q
+aufbauen	werden wir sie aufbauen?	IND;FUT;NOM(1,PL);ACC(3,PL);Q
+aufbauen	wirst du dich nicht aufgebaut haben?	IND;FUT;PRF;NOM(2,SG);ACC(2,SG);NEG;Q
+aufbauen	Sie werden sich nicht aufgebaut haben.	IND;FUT;PRF;NOM(2,FORM);ACC(2,FORM,RFLX);NEG
+aufbauen	werdest du mich aufgebaut haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(1,SG);Q
+aufbauen	Sie hätten sie nicht aufgebaut.	SBJV;PRF;NOM(2,FORM);ACC(3,PL);NEG
+aufbauen	ich habe Sie nicht aufgebaut?	QUOT;PST;NOM(1,SG);ACC(2,FORM);NEG
+aufbauen	bau ihn auf!	IMP;NOM(2,SG);ACC(3,SG,MASC)
+aufbauen	bauet ihr ihn auf?	QUOT;PRS;NOM(2,PL);ACC(3,SG,MASC);Q
+aufbauen	bauen sie sich auf?	IND;PRS;NOM(3,PL);ACC(3,PL,RFLX);Q
+aufbauen	haben Sie uns nicht aufgebaut?	QUOT;PST;NOM(2,FORM);ACC(1,PL);NEG;Q
+aufbauen	wir bauten mich nicht auf.	SBJV;LGSPEC1;NOM(1,PL);ACC(1,SG);NEG
+aufbauen	ihr würdet mich aufbauen.	SBJV;NOM(2,PL);ACC(1,SG)
+aufbauen	du baust dich auf.	IND;PRS;NOM(2,SG);ACC(2,SG)
+aufbauen	werde er es nicht aufbauen?	QUOT;FUT;NOM(3,SG,MASC);ACC(3,SG,NEUT);NEG;Q
+aufbauen	sie wird ihn nicht aufbauen.	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,MASC);NEG
+aufbauen	habe ich Sie aufgebaut?	IND;PST;NOM(1,SG);ACC(2,FORM);Q
+aufbauen	ihr habet euch aufgebaut?	QUOT;PST;NOM(2,PL);ACC(2,PL)
+aufbauen	werden sie sie aufgebaut haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,PL);Q
+aufbauen	bauen wir sie nicht auf?	QUOT;PRS;NOM(1,PL);ACC(3,PL);NEG;Q
+aufbauen	ich baute dich nicht auf.	IND;PST;LGSPEC1;NOM(1,SG);ACC(2,SG);NEG
+aufbauen	bauen Sie mich auf?	QUOT;PRS;NOM(2,FORM);ACC(1,SG);Q
+beanspruchen	werde er uns beanspruchen?	QUOT;FUT;NOM(3,SG,MASC);ACC(1,PL);Q
+beanspruchen	er würde mich nicht beanspruchen.	SBJV;NOM(3,SG,MASC);ACC(1,SG);NEG
+beanspruchen	werdet ihr mich beanspruchen?	IND;FUT;NOM(2,PL);ACC(1,SG);Q
+beanspruchen	sie hätten es beansprucht.	SBJV;PRF;NOM(3,PL);ACC(3,SG,NEUT)
+beanspruchen	er beanspruchte es nicht.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,NEUT);NEG
+beanspruchen	er hätte euch nicht beansprucht.	SBJV;PRF;NOM(3,SG,MASC);ACC(2,PL);NEG
+beanspruchen	es würde dich beanspruchen.	SBJV;NOM(3,SG,NEUT);ACC(2,SG)
+beanspruchen	du werdest dich nicht beansprucht haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(2,SG);NEG
+beanspruchen	Sie werden sich nicht beanspruchen?	QUOT;FUT;NOM(2,FORM);ACC(2,FORM,RFLX);NEG
+beanspruchen	hätten wir uns nicht beansprucht?	SBJV;PRF;NOM(1,PL);ACC(1,PL);NEG;Q
+beanspruchen	es würde Sie nicht beanspruchen.	SBJV;NOM(3,SG,NEUT);ACC(2,FORM);NEG
+beanspruchen	es wird Sie beanspruchen.	IND;FUT;NOM(3,SG,NEUT);ACC(2,FORM)
+beanspruchen	hätte er dich nicht beansprucht?	SBJV;PRF;NOM(3,SG,MASC);ACC(2,SG);NEG;Q
+beanspruchen	Sie beanspruchten es nicht.	SBJV;LGSPEC1;NOM(2,FORM);ACC(3,SG,NEUT);NEG
+beanspruchen	werde es sie beanspruchen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(3,PL);Q
+beanspruchen	sie wird sie nicht beanspruchen.	IND;FUT;NOM(3,SG,FEM);ACC(3,PL);NEG
+beanspruchen	ihr beanspruchtet mich.	SBJV;LGSPEC1;NOM(2,PL);ACC(1,SG)
+beanspruchen	beanspruche es sie nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(3,SG,FEM);NEG;Q
+beeinflussen	werde ich sie nicht beeinflussen?	QUOT;FUT;NOM(1,SG);ACC(3,SG,FEM);NEG;Q
+beeinflussen	beeinflussen Sie ihn nicht?	QUOT;PRS;NOM(2,FORM);ACC(3,SG,MASC);NEG;Q
+beeinflussen	hatten sie sich beeinflusst?	IND;PST;PRF;NOM(3,PL);ACC(3,PL,RFLX);Q
+beeinflussen	habe er Sie nicht beeinflusst?	QUOT;PST;NOM(3,SG,MASC);ACC(2,FORM);NEG;Q
+beeinflussen	es wird uns nicht beeinflussen.	IND;FUT;NOM(3,SG,NEUT);ACC(1,PL);NEG
+beeinflussen	du würdest mich beeinflussen.	SBJV;NOM(2,SG);ACC(1,SG)
+beeinflussen	es werde uns nicht beeinflussen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(1,PL);NEG
+beeinflussen	beeinflusse ich uns nicht?	QUOT;PRS;NOM(1,SG);ACC(1,PL);NEG;Q
+beeinflussen	werdest du mich nicht beeinflusst haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(1,SG);NEG;Q
+beeinflussen	beeinflusstet ihr sie?	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,FEM);Q
+beeinflussen	sie haben sich beeinflusst.	IND;PST;NOM(3,PL);ACC(3,PL,RFLX)
+beeinflussen	werde er uns beeinflusst haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(1,PL);Q
+beeinflussen	beeinflusste es ihn?	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(3,SG,MASC);Q
+beeinflussen	er beeinflusse sich nicht?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);NEG
+beeinflussen	du beeinflusst dich.	IND;PRS;NOM(2,SG);ACC(2,SG)
+beeinflussen	sie werden dich nicht beeinflussen?	QUOT;FUT;NOM(3,PL);ACC(2,SG);NEG
+beeinflussen	hätten sie sich beeinflusst?	SBJV;PRF;NOM(3,PL);ACC(3,PL,RFLX);Q
+beeinflussen	wir werden euch beeinflusst haben?	QUOT;FUT;PRF;NOM(1,PL);ACC(2,PL)
+berücksichtigen	er berücksichtige mich?	QUOT;PRS;NOM(3,SG,MASC);ACC(1,SG)
+berücksichtigen	er habe euch nicht berücksichtigt?	QUOT;PST;NOM(3,SG,MASC);ACC(2,PL);NEG
+berücksichtigen	er hätte sie nicht berücksichtigt.	SBJV;PRF;NOM(3,SG,MASC);ACC(3,PL);NEG
+berücksichtigen	hattet ihr sie nicht berücksichtigt?	IND;PST;PRF;NOM(2,PL);ACC(3,SG,FEM);NEG;Q
+berücksichtigen	würden Sie sie nicht berücksichtigen?	SBJV;NOM(2,FORM);ACC(3,PL);NEG;Q
+berücksichtigen	hätten sie es berücksichtigt?	SBJV;PRF;NOM(3,PL);ACC(3,SG,NEUT);Q
+berücksichtigen	es wird es nicht berücksichtigt haben.	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(3,SG,NEUT);NEG
+berücksichtigen	hatte es mich nicht berücksichtigt?	IND;PST;PRF;NOM(3,SG,NEUT);ACC(1,SG);NEG;Q
+berücksichtigen	es wird sich berücksichtigen.	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX)
+berücksichtigen	sie hatte sich berücksichtigt.	IND;PST;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)
+berücksichtigen	würdest du sie nicht berücksichtigen?	SBJV;NOM(2,SG);ACC(3,SG,FEM);NEG;Q
+berücksichtigen	werde es dich nicht berücksichtigen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(2,SG);NEG;Q
+berücksichtigen	hattet ihr sie nicht berücksichtigt?	IND;PST;PRF;NOM(2,PL);ACC(3,PL);NEG;Q
+berücksichtigen	berücksichtige er ihn nicht?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC);NEG;Q
+berücksichtigen	sie wird ihn nicht berücksichtigt haben.	IND;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,MASC);NEG
+berücksichtigen	hatte sie Sie nicht berücksichtigt?	IND;PST;PRF;NOM(3,SG,FEM);ACC(2,FORM);NEG;Q
+berücksichtigen	hat es sie berücksichtigt?	IND;PST;NOM(3,SG,NEUT);ACC(3,SG,FEM);Q
+berücksichtigen	berücksichtigtet ihr euch nicht?	SBJV;LGSPEC1;NOM(2,PL);ACC(2,PL);NEG;Q
+berücksichtigen	Sie haben uns berücksichtigt?	QUOT;PST;NOM(2,FORM);ACC(1,PL)
+berücksichtigen	ihr werdet ihn nicht berücksichtigen?	QUOT;FUT;NOM(2,PL);ACC(3,SG,MASC);NEG
+besichtigen	du hattest es besichtigt.	IND;PST;PRF;NOM(2,SG);ACC(3,SG,NEUT)
+besichtigen	sie werden sie besichtigen.	IND;FUT;NOM(3,PL);ACC(3,PL)
+besichtigen	er besichtigte Sie.	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,FORM)
+besichtigen	Sie hätten es besichtigt.	SBJV;PRF;NOM(2,FORM);ACC(3,SG,NEUT)
+besichtigen	ihr besichtigtet sie.	SBJV;LGSPEC1;NOM(2,PL);ACC(3,SG,FEM)
+besichtigen	besichtigtest du euch nicht?	SBJV;LGSPEC1;NOM(2,SG);ACC(2,PL);NEG;Q
+besichtigen	ihr werdet mich nicht besichtigt haben?	QUOT;FUT;PRF;NOM(2,PL);ACC(1,SG);NEG
+besichtigen	wir besichtigen uns nicht?	QUOT;PRS;NOM(1,PL);ACC(1,PL);NEG
+besichtigen	besichtige er ihn?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC);Q
+besichtigen	haben wir dich besichtigt?	QUOT;PST;NOM(1,PL);ACC(2,SG);Q
+besichtigen	werden wir ihn nicht besichtigen?	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);NEG;Q
+besichtigen	ihr habt sie nicht besichtigt.	IND;PST;NOM(2,PL);ACC(3,SG,FEM);NEG
+besichtigen	hast du es nicht besichtigt?	IND;PST;NOM(2,SG);ACC(3,SG,NEUT);NEG;Q
+besichtigen	es besichtigte sie.	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(3,SG,FEM)
+besichtigen	wird er dich nicht besichtigen?	IND;FUT;NOM(3,SG,MASC);ACC(2,SG);NEG;Q
+besichtigen	ich habe uns besichtigt?	QUOT;PST;NOM(1,SG);ACC(1,PL)
+besichtigen	werden sie sich nicht besichtigt haben?	IND;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX);NEG;Q
+besichtigen	werde es mich besichtigt haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);ACC(1,SG);Q
+besichtigen	besichtigten Sie sie nicht?	IND;PST;LGSPEC1;NOM(2,FORM);ACC(3,SG,FEM);NEG;Q
+besichtigen	wir würden Sie besichtigen.	SBJV;NOM(1,PL);ACC(2,FORM)
+bestreiten	sie wird dich uns nicht bestritten haben.	IND;FUT;PRF;NOM(3,SG,FEM);ACC(2,SG);DAT(1,PL);NEG
+bestreiten	hatte ich sie ihm nicht bestritten?	IND;PST;PRF;NOM(1,SG);ACC(3,PL);DAT(3,SG,MASC);NEG;Q
+bestreiten	er hatte uns Ihnen nicht bestritten.	IND;PST;PRF;NOM(3,SG,MASC);ACC(1,PL);DAT(2,FORM);NEG
+bestreiten	ich bestreite ihn Ihnen nicht?	QUOT;PRS;NOM(1,SG);ACC(3,SG,MASC);DAT(2,FORM);NEG
+bestreiten	sie werden es euch nicht bestreiten?	QUOT;FUT;NOM(3,PL);ACC(3,SG,NEUT);DAT(2,PL);NEG
+bestreiten	wird sie es ihm bestreiten?	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,NEUT);DAT(3,SG,NEUT);Q
+bestreiten	ihr werdet dich ihm nicht bestreiten.	IND;FUT;NOM(2,PL);ACC(2,SG);DAT(3,SG,NEUT);NEG
+bestreiten	hast du es bestritten?	IND;PST;NOM(2,SG);ACC(3,SG,NEUT);Q
+bestreiten	ihr habt euch Ihnen nicht bestritten.	IND;PST;NOM(2,PL);ACC(2,PL);DAT(2,FORM);NEG
+bestreiten	es bestreite mich ihm nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(1,SG);DAT(3,SG,NEUT);NEG
+bestreiten	bestritten sie euch Ihnen?	SBJV;LGSPEC1;NOM(3,PL);ACC(2,PL);DAT(2,FORM);Q
+bestreiten	wir bestreiten Sie sich nicht.	IND;PRS;NOM(1,PL);ACC(2,FORM);DAT(2,FORM,RFLX);NEG
+bestreiten	bestreitet ihr sie ihm nicht?	QUOT;PRS;NOM(2,PL);ACC(3,SG,FEM);DAT(3,SG,NEUT);NEG;Q
+bestreiten	er hätte sie ihnen bestritten.	SBJV;PRF;NOM(3,SG,MASC);ACC(3,SG,FEM);DAT(3,PL)
+bestreiten	bestritte sie ihn mir nicht?	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,MASC);DAT(1,SG);NEG;Q
+bestreiten	sie wird es euch nicht bestritten haben.	IND;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,NEUT);DAT(2,PL);NEG
+bestreiten	du hattest dich euch nicht bestritten.	IND;PST;PRF;NOM(2,SG);ACC(2,SG);DAT(2,PL);NEG
+bestreiten	sie bestritt dich.	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(2,SG)
+bestreiten	bestreite ich euch dir nicht?	QUOT;PRS;NOM(1,SG);ACC(2,PL);DAT(2,SG);NEG;Q
+bestreiten	werden wir uns ihm nicht bestritten haben?	IND;FUT;PRF;NOM(1,PL);ACC(1,PL);DAT(3,SG,NEUT);NEG;Q
+bestreiten	habet ihr euch uns nicht bestritten?	QUOT;PST;NOM(2,PL);ACC(2,PL);DAT(1,PL);NEG;Q
+bezahlen	bezahltet ihr mich uns?	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,SG);DAT(1,PL);Q
+bezahlen	werden wir mich dir bezahlen?	QUOT;FUT;NOM(1,PL);ACC(1,SG);DAT(2,SG);Q
+bezahlen	wir bezahlen sie uns nicht?	QUOT;PRS;NOM(1,PL);ACC(3,PL);DAT(1,PL);NEG
+bezahlen	sie haben euch Ihnen nicht bezahlt.	IND;PST;NOM(3,PL);ACC(2,PL);DAT(2,FORM);NEG
+bezahlen	du bezahltest uns ihm.	SBJV;LGSPEC1;NOM(2,SG);ACC(1,PL);DAT(3,SG,MASC)
+bezahlen	werden wir ihn ihm bezahlen?	QUOT;FUT;NOM(1,PL);ACC(3,SG,MASC);DAT(3,SG,NEUT);Q
+bezahlen	werdest du dich euch bezahlen?	QUOT;FUT;NOM(2,SG);ACC(2,SG);DAT(2,PL);Q
+bezahlen	werdet ihr es ihr nicht bezahlt haben?	QUOT;FUT;PRF;NOM(2,PL);ACC(3,SG,NEUT);DAT(3,SG,FEM);NEG;Q
+bezahlen	ihr bezahlet es ihm nicht?	QUOT;PRS;NOM(2,PL);ACC(3,SG,NEUT);DAT(3,SG,NEUT);NEG
+bezahlen	habe ich uns dir nicht bezahlt?	IND;PST;NOM(1,SG);ACC(1,PL);DAT(2,SG);NEG;Q
+bezahlen	es wird dich uns nicht bezahlen.	IND;FUT;NOM(3,SG,NEUT);ACC(2,SG);DAT(1,PL);NEG
+bezahlen	sie hätten es ihm bezahlt.	SBJV;PRF;NOM(3,PL);ACC(3,SG,NEUT);DAT(3,SG,NEUT)
+bezahlen	er hatte euch mir nicht bezahlt.	IND;PST;PRF;NOM(3,SG,MASC);ACC(2,PL);DAT(1,SG);NEG
+bezahlen	sie hat euch bezahlt.	IND;PST;NOM(3,SG,FEM);ACC(2,PL)
+bezahlen	werde sie sie dir bezahlen?	QUOT;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM);DAT(2,SG);Q
+bezahlen	du hattest euch euch nicht bezahlt.	IND;PST;PRF;NOM(2,SG);ACC(2,PL);DAT(2,PL);NEG
+bezahlen	Sie bezahlen mich uns?	QUOT;PRS;NOM(2,FORM);ACC(1,SG);DAT(1,PL)
+bezahlen	wir werden es uns nicht bezahlen.	IND;FUT;NOM(1,PL);ACC(3,SG,NEUT);DAT(1,PL);NEG
+definieren	definiere sie sich?	QUOT;PRS;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+definieren	Sie werden es definiert haben.	IND;FUT;PRF;NOM(2,FORM);ACC(3,SG,NEUT)
+definieren	Sie würden sie definieren.	SBJV;NOM(2,FORM);ACC(3,PL)
+definieren	wir werden sie nicht definieren.	IND;FUT;NOM(1,PL);ACC(3,PL);NEG
+definieren	haben wir mich definiert?	QUOT;PST;NOM(1,PL);ACC(1,SG);Q
+definieren	ihr würdet ihn nicht definieren.	SBJV;NOM(2,PL);ACC(3,SG,MASC);NEG
+definieren	hatten sie sie nicht definiert?	IND;PST;PRF;NOM(3,PL);ACC(3,PL);NEG;Q
+definieren	definieren sie dich?	QUOT;PRS;NOM(3,PL);ACC(2,SG);Q
+definieren	werde sie sich definieren?	QUOT;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+definieren	sie würde es definieren.	SBJV;NOM(3,SG,FEM);ACC(3,SG,NEUT)
+definieren	sie hatte sie nicht definiert.	IND;PST;PRF;NOM(3,SG,FEM);ACC(3,PL);NEG
+definieren	werdest du sie definiert haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(3,SG,FEM);Q
+definieren	er definiere ihn?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC)
+definieren	definierte sie es?	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,NEUT);Q
+definieren	haben Sie sich nicht definiert?	QUOT;PST;NOM(2,FORM);ACC(2,FORM,RFLX);NEG;Q
+definieren	wird er es definiert haben?	IND;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT);Q
+definieren	du hast sie nicht definiert.	IND;PST;NOM(2,SG);ACC(3,PL);NEG
+definieren	wir definierten sie.	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,SG,FEM)
+definieren	wird er euch definiert haben?	IND;FUT;PRF;NOM(3,SG,MASC);ACC(2,PL);Q
+definieren	sie definieren ihn?	QUOT;PRS;NOM(3,PL);ACC(3,SG,MASC)
+definieren	es wird es nicht definieren.	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT);NEG
+definieren	er würde dich nicht definieren.	SBJV;NOM(3,SG,MASC);ACC(2,SG);NEG
+deuten	Sie hatten uns gedeutet.	IND;PST;PRF;NOM(2,FORM);ACC(1,PL)
+deuten	deutete er mich nicht?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);NEG;Q
+deuten	hatten wir auf sie nicht gedeutet?	IND;PST;PRF;NOM(1,PL);ON+ESS(3,PL);NEG;Q
+deuten	wir haben mich nicht gedeutet.	IND;PST;NOM(1,PL);ACC(1,SG);NEG
+deuten	hatte sie auf mich nicht gedeutet?	IND;PST;PRF;NOM(3,SG,FEM);ON+ESS(1,SG);NEG;Q
+deuten	hätte es auf ihn nicht gedeutet?	SBJV;PRF;NOM(3,SG,NEUT);ON+ESS(3,SG,MASC);NEG;Q
+deuten	es habe auf sich gedeutet?	QUOT;PST;NOM(3,SG,NEUT);ON+ESS(3,SG,NEUT,RFLX)
+deuten	deutetet ihr Sie?	SBJV;LGSPEC1;NOM(2,PL);ACC(2,FORM);Q
+deuten	er hatte sie gedeutet.	IND;PST;PRF;NOM(3,SG,MASC);ACC(3,SG,FEM)
+deuten	hatte ich ihn gedeutet?	IND;PST;PRF;NOM(1,SG);ACC(3,SG,MASC);Q
+deuten	es hat mich nicht gedeutet.	IND;PST;NOM(3,SG,NEUT);ACC(1,SG);NEG
+deuten	sie deuten es?	QUOT;PRS;NOM(3,PL);ACC(3,SG,NEUT)
+deuten	ich habe sie gedeutet.	IND;PST;NOM(1,SG);ACC(3,SG,FEM)
+deuten	habe es es gedeutet?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,SG,NEUT);Q
+deuten	es wird auf ihn nicht deuten.	IND;FUT;NOM(3,SG,NEUT);ON+ESS(3,SG,MASC);NEG
+deuten	würde sie auf euch nicht deuten?	SBJV;NOM(3,SG,FEM);ON+ESS(2,PL);NEG;Q
+deuten	werde sie sich nicht gedeutet haben?	QUOT;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);NEG;Q
+dominieren	ich dominiere uns.	IND;PRS;NOM(1,SG);ACC(1,PL)
+dominieren	haben wir dominiert?	IND;PST;NOM(1,PL);Q
+dominieren	dominiertet ihr mich?	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,SG);Q
+dominieren	wir dominierten sie.	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,SG,FEM)
+dominieren	sie werden nicht dominiert haben?	QUOT;FUT;PRF;NOM(3,PL);NEG
+dominieren	sie werden es nicht dominieren.	IND;FUT;NOM(3,PL);ACC(3,SG,NEUT);NEG
+dominieren	wir werden ihn nicht dominieren.	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);NEG
+dominieren	dominierest du dich nicht?	QUOT;PRS;NOM(2,SG);ACC(2,SG);NEG;Q
+dominieren	dominieren wir uns nicht!	IMP;NOM(1,PL);ACC(1,PL);NEG
+dominieren	er habe dominiert?	QUOT;PST;NOM(3,SG,MASC)
+dominieren	wir haben dich nicht dominiert.	IND;PST;NOM(1,PL);ACC(2,SG);NEG
+dominieren	er dominierte es.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,NEUT)
+dominieren	werden sie dich nicht dominiert haben?	IND;FUT;PRF;NOM(3,PL);ACC(2,SG);NEG;Q
+dominieren	ihr werdet euch dominiert haben.	IND;FUT;PRF;NOM(2,PL);ACC(2,PL)
+dominieren	werde ich uns nicht dominieren?	QUOT;FUT;NOM(1,SG);ACC(1,PL);NEG;Q
+dominieren	werde ich uns nicht dominiert haben?	IND;FUT;PRF;NOM(1,SG);ACC(1,PL);NEG;Q
+dominieren	er würde euch nicht dominieren.	SBJV;NOM(3,SG,MASC);ACC(2,PL);NEG
+dominieren	es dominiere mich nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(1,SG);NEG
+dominieren	wir würden euch dominieren.	SBJV;NOM(1,PL);ACC(2,PL)
+dominieren	ihr würdet dominieren.	SBJV;NOM(2,PL)
+dominieren	Sie werden sie dominiert haben?	QUOT;FUT;PRF;NOM(2,FORM);ACC(3,PL)
+einfallen	wird sie sich nicht einfallen?	IND;FUT;NOM(3,SG,FEM);DAT(3,SG,FEM,RFLX);NEG;Q
+einfallen	war sie in Ihnen nicht eingefallen?	IND;PST;PRF;NOM(3,SG,FEM);IN+ALL(2,FORM);NEG;Q
+einfallen	fielen wir in uns nicht ein?	IND;PST;LGSPEC1;NOM(1,PL);IN+ALL(1,PL);NEG;Q
+einfallen	ich werde ihm nicht einfallen.	IND;FUT;NOM(1,SG);DAT(3,SG,NEUT);NEG
+einfallen	werde sie in ihnen eingefallen sein?	QUOT;FUT;PRF;NOM(3,SG,FEM);IN+ALL(3,PL);Q
+einfallen	fielen wir in mir nicht ein?	SBJV;LGSPEC1;NOM(1,PL);IN+ALL(1,SG);NEG;Q
+einfallen	würde er Ihnen einfallen?	SBJV;NOM(3,SG,MASC);DAT(2,FORM);Q
+einfallen	du fallest ihr nicht ein?	QUOT;PRS;NOM(2,SG);DAT(3,SG,FEM);NEG
+einfallen	Sie sind euch nicht eingefallen.	IND;PST;NOM(2,FORM);DAT(2,PL);NEG
+einfallen	werden sie ihm einfallen?	QUOT;FUT;NOM(3,PL);DAT(3,SG,NEUT);Q
+einfallen	würdet ihr in Ihnen einfallen?	SBJV;NOM(2,PL);IN+ALL(2,FORM);Q
+einfallen	wäre ich mir eingefallen?	SBJV;PRF;NOM(1,SG);DAT(1,SG);Q
+einfallen	fiel es euch ein?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);DAT(2,PL);Q
+einfallen	du werdest euch nicht eingefallen sein?	QUOT;FUT;PRF;NOM(2,SG);DAT(2,PL);NEG
+einfallen	fielet ihr in uns ein?	SBJV;LGSPEC1;NOM(2,PL);IN+ALL(1,PL);Q
+einfallen	werde ich uns nicht eingefallen sein?	QUOT;FUT;PRF;NOM(1,SG);DAT(1,PL);NEG;Q
+einfallen	er wird in uns eingefallen sein.	IND;FUT;PRF;NOM(3,SG,MASC);IN+ALL(1,PL)
+einfallen	sie fielen uns ein.	IND;PST;LGSPEC1;NOM(3,PL);DAT(1,PL)
+einfallen	ich falle in ihm ein.	IND;PRS;NOM(1,SG);IN+ALL(3,SG,NEUT)
+eingreifen	greif in euch ein!	IMP;NOM(2,SG);IN+ALL(2,PL)
+eingreifen	würden wir in euch nicht eingreifen?	SBJV;NOM(1,PL);IN+ALL(2,PL);NEG;Q
+eingreifen	sie werden in ihnen eingegriffen haben.	IND;FUT;PRF;NOM(3,PL);IN+ALL(3,PL)
+eingreifen	greifen wir in ihnen nicht ein?	IND;PRS;NOM(1,PL);IN+ALL(3,PL);NEG;Q
+eingreifen	sie hätte in ihnen eingegriffen.	SBJV;PRF;NOM(3,SG,FEM);IN+ALL(3,PL)
+eingreifen	es würde in mir eingreifen.	SBJV;NOM(3,SG,NEUT);IN+ALL(1,SG)
+eingreifen	es griff in uns ein.	IND;PST;LGSPEC1;NOM(3,SG,NEUT);IN+ALL(1,PL)
+eingreifen	sie wird in dir eingegriffen haben.	IND;FUT;PRF;NOM(3,SG,FEM);IN+ALL(2,SG)
+eingreifen	wird er in ihm eingreifen?	IND;FUT;NOM(3,SG,MASC);IN+ALL(3,SG,MASC);Q
+eingreifen	sie griffen in ihr nicht ein.	SBJV;LGSPEC1;NOM(3,PL);IN+ALL(3,SG,FEM);NEG
+eingreifen	sie werden in mir eingegriffen haben.	IND;FUT;PRF;NOM(3,PL);IN+ALL(1,SG)
+eingreifen	greife ich in ihm ein?	QUOT;PRS;NOM(1,SG);IN+ALL(3,SG,MASC);Q
+eingreifen	ich würde in ihr eingreifen.	SBJV;NOM(1,SG);IN+ALL(3,SG,FEM)
+eingreifen	er greift in ihm nicht ein.	IND;PRS;NOM(3,SG,MASC);IN+ALL(3,SG,NEUT);NEG
+eingreifen	du greifst in euch nicht ein.	IND;PRS;NOM(2,SG);IN+ALL(2,PL);NEG
+eingreifen	er hätte in dir eingegriffen.	SBJV;PRF;NOM(3,SG,MASC);IN+ALL(2,SG)
+eingreifen	greifen wir in mir ein?	IND;PRS;NOM(1,PL);IN+ALL(1,SG);Q
+eingreifen	es hatte in dir eingegriffen.	IND;PST;PRF;NOM(3,SG,NEUT);IN+ALL(2,SG)
+eingreifen	haben Sie in sich nicht eingegriffen?	QUOT;PST;NOM(2,FORM);IN+ALL(2,FORM,RFLX);NEG;Q
+eingreifen	werden sie in ihr eingreifen?	QUOT;FUT;NOM(3,PL);IN+ALL(3,SG,FEM);Q
+entwickeln	wirst du mich nicht entwickelt haben?	IND;FUT;PRF;NOM(2,SG);ACC(1,SG);NEG;Q
+entwickeln	entwickeltet ihr euch?	SBJV;LGSPEC1;NOM(2,PL);ACC(2,PL);Q
+entwickeln	es wird euch nicht entwickeln.	IND;FUT;NOM(3,SG,NEUT);ACC(2,PL);NEG
+entwickeln	entwickele sie euch nicht?	QUOT;PRS;NOM(3,SG,FEM);ACC(2,PL);NEG;Q
+entwickeln	es entwickele sich nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);NEG
+entwickeln	ich habe sie nicht entwickelt.	IND;PST;NOM(1,SG);ACC(3,SG,FEM);NEG
+entwickeln	werdet ihr sie entwickelt haben?	IND;FUT;PRF;NOM(2,PL);ACC(3,SG,FEM);Q
+entwickeln	würdet ihr euch nicht entwickeln?	SBJV;NOM(2,PL);ACC(2,PL);NEG;Q
+entwickeln	habe ich sie entwickelt?	IND;PST;NOM(1,SG);ACC(3,SG,FEM);Q
+entwickeln	entwickelten sie es nicht?	IND;PST;LGSPEC1;NOM(3,PL);ACC(3,SG,NEUT);NEG;Q
+entwickeln	ich entwickelte dich.	SBJV;LGSPEC1;NOM(1,SG);ACC(2,SG)
+entwickeln	wirst du uns nicht entwickeln?	IND;FUT;NOM(2,SG);ACC(1,PL);NEG;Q
+entwickeln	wird sie es nicht entwickeln?	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,NEUT);NEG;Q
+entwickeln	sie wird uns nicht entwickeln.	IND;FUT;NOM(3,SG,FEM);ACC(1,PL);NEG
+entwickeln	habt ihr sie entwickelt?	IND;PST;NOM(2,PL);ACC(3,SG,FEM);Q
+entwickeln	sie entwickelten Sie.	IND;PST;LGSPEC1;NOM(3,PL);ACC(2,FORM)
+entwickeln	wird er dich entwickeln?	IND;FUT;NOM(3,SG,MASC);ACC(2,SG);Q
+erbringen	haben wir mich nicht erbracht?	QUOT;PST;NOM(1,PL);ACC(1,SG);NEG;Q
+erbringen	sie hatte es erbracht.	IND;PST;PRF;NOM(3,SG,FEM);ACC(3,SG,NEUT)
+erbringen	wir würden sie erbringen.	SBJV;NOM(1,PL);ACC(3,PL)
+erbringen	es erbringe es nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(3,SG,NEUT);NEG
+erbringen	sie erbringen dich nicht.	IND;PRS;NOM(3,PL);ACC(2,SG);NEG
+erbringen	erbringen Sie uns nicht?	IND;PRS;NOM(2,FORM);ACC(1,PL);NEG;Q
+erbringen	sie erbrächte dich.	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(2,SG)
+erbringen	sie würden euch nicht erbringen.	SBJV;NOM(3,PL);ACC(2,PL);NEG
+erbringen	es erbringt sie nicht.	IND;PRS;NOM(3,SG,NEUT);ACC(3,SG,FEM);NEG
+erbringen	sie würde Sie erbringen.	SBJV;NOM(3,SG,FEM);ACC(2,FORM)
+erbringen	würden Sie sie nicht erbringen?	SBJV;NOM(2,FORM);ACC(3,SG,FEM);NEG;Q
+erbringen	werde es Sie erbracht haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);ACC(2,FORM);Q
+erbringen	ihr hättet Sie erbracht.	SBJV;PRF;NOM(2,PL);ACC(2,FORM)
+erbringen	es erbrächte Sie nicht.	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(2,FORM);NEG
+erbringen	er erbrächte es.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,NEUT)
+erbringen	habt ihr uns erbracht?	IND;PST;NOM(2,PL);ACC(1,PL);Q
+erbringen	Sie hatten mich nicht erbracht.	IND;PST;PRF;NOM(2,FORM);ACC(1,SG);NEG
+erbringen	sie werden mich erbracht haben.	IND;FUT;PRF;NOM(3,PL);ACC(1,SG)
+erbringen	ich hätte es erbracht.	SBJV;PRF;NOM(1,SG);ACC(3,SG,NEUT)
+erbringen	er erbringe ihn nicht?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC);NEG
+erbringen	sie erbringen ihn.	IND;PRS;NOM(3,PL);ACC(3,SG,MASC)
+erbringen	sie erbrachten sie.	IND;PST;LGSPEC1;NOM(3,PL);ACC(3,PL)
+erfassen	wir haben dich nicht erfasst.	IND;PST;NOM(1,PL);ACC(2,SG);NEG
+erfassen	wir hätten sie erfasst.	SBJV;PRF;NOM(1,PL);ACC(3,SG,FEM)
+erfassen	erfasste er sie?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,PL);Q
+erfassen	hätten wir ihn nicht erfasst?	SBJV;PRF;NOM(1,PL);ACC(3,SG,MASC);NEG;Q
+erfassen	sie würde ihn erfassen.	SBJV;NOM(3,SG,FEM);ACC(3,SG,MASC)
+erfassen	erfasstest du dich?	SBJV;LGSPEC1;NOM(2,SG);ACC(2,SG);Q
+erfassen	ich erfasste uns.	SBJV;LGSPEC1;NOM(1,SG);ACC(1,PL)
+erfassen	wird es sie nicht erfassen?	IND;FUT;NOM(3,SG,NEUT);ACC(3,PL);NEG;Q
+erfassen	er hatte ihn nicht erfasst.	IND;PST;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC);NEG
+erfassen	du hast uns nicht erfasst.	IND;PST;NOM(2,SG);ACC(1,PL);NEG
+erfassen	hättet ihr sie nicht erfasst?	SBJV;PRF;NOM(2,PL);ACC(3,SG,FEM);NEG;Q
+erfassen	habe es sie erfasst?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,PL);Q
+erfassen	Sie haben euch nicht erfasst.	IND;PST;NOM(2,FORM);ACC(2,PL);NEG
+erfassen	haben sie euch erfasst?	IND;PST;NOM(3,PL);ACC(2,PL);Q
+erfassen	erfasst du es?	IND;PRS;NOM(2,SG);ACC(3,SG,NEUT);Q
+erfassen	Sie werden mich nicht erfasst haben?	QUOT;FUT;PRF;NOM(2,FORM);ACC(1,SG);NEG
+erfassen	Sie werden ihn nicht erfassen.	IND;FUT;NOM(2,FORM);ACC(3,SG,MASC);NEG
+erfassen	habe sie dich erfasst?	QUOT;PST;NOM(3,SG,FEM);ACC(2,SG);Q
+erfassen	sie hatte mich nicht erfasst.	IND;PST;PRF;NOM(3,SG,FEM);ACC(1,SG);NEG
+erfolgen	werdest du nicht erfolgen?	QUOT;FUT;NOM(2,SG);NEG;Q
+erfolgen	sind sie erfolgt?	IND;PST;NOM(3,PL);Q
+erfolgen	werde er nicht erfolgen?	QUOT;FUT;NOM(3,SG,MASC);NEG;Q
+erfolgen	werdest du nicht erfolgt sein?	QUOT;FUT;PRF;NOM(2,SG);NEG;Q
+erfolgen	er würde erfolgen.	SBJV;NOM(3,SG,MASC)
+erfolgen	ich werde nicht erfolgt sein?	QUOT;FUT;PRF;NOM(1,SG);NEG
+erfolgen	es ist nicht erfolgt.	IND;PST;NOM(3,SG,NEUT);NEG
+erfolgen	ihr erfolget?	QUOT;PRS;NOM(2,PL)
+erfolgen	erfolge ich nicht?	QUOT;PRS;NOM(1,SG);NEG;Q
+erfolgen	wird er nicht erfolgen?	IND;FUT;NOM(3,SG,MASC);NEG;Q
+erfolgen	ich würde erfolgen.	SBJV;NOM(1,SG)
+erfolgen	er erfolgte.	SBJV;LGSPEC1;NOM(3,SG,MASC)
+erfolgen	wird er erfolgt sein?	IND;FUT;PRF;NOM(3,SG,MASC);Q
+erfolgen	es erfolgt nicht.	IND;PRS;NOM(3,SG,NEUT);NEG
+erfolgen	wird er erfolgt sein?	IND;FUT;PRF;NOM(3,SG,MASC);Q
+erfolgen	werden wir nicht erfolgt sein?	QUOT;FUT;PRF;NOM(1,PL);NEG;Q
+erfolgen	Sie wären nicht erfolgt.	SBJV;PRF;NOM(2,FORM);NEG
+erfolgen	erfolgtest du nicht?	IND;PST;LGSPEC1;NOM(2,SG);NEG;Q
+erfolgen	erfolge es nicht?	QUOT;PRS;NOM(3,SG,NEUT);NEG;Q
+erfolgen	waren sie erfolgt?	IND;PST;PRF;NOM(3,PL);Q
+erfolgen	sie würden erfolgen.	SBJV;NOM(3,PL)
+erfolgen	erfolgten Sie nicht?	IND;PST;LGSPEC1;NOM(2,FORM);NEG;Q
+ergänzen	sie werden sie um sie ergänzt haben.	IND;FUT;PRF;NOM(3,PL);ACC(3,SG,FEM);CIRC(3,PL)
+ergänzen	sie ergänze Sie um sich nicht?	QUOT;PRS;NOM(3,SG,FEM);ACC(2,FORM);CIRC(3,SG,FEM,RFLX);NEG
+ergänzen	sie werden sie um ihn nicht ergänzen?	QUOT;FUT;NOM(3,PL);ACC(3,SG,FEM);CIRC(3,SG,MASC);NEG
+ergänzen	er ergänzte mich um sie.	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);CIRC(3,SG,FEM)
+ergänzen	hättest du mich um euch ergänzt?	SBJV;PRF;NOM(2,SG);ACC(1,SG);CIRC(2,PL);Q
+ergänzen	es wird sich ergänzt haben.	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX)
+ergänzen	habe es sie um mich nicht ergänzt?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,SG,FEM);CIRC(1,SG);NEG;Q
+ergänzen	werdet ihr Sie um mich nicht ergänzen?	IND;FUT;NOM(2,PL);ACC(2,FORM);CIRC(1,SG);NEG;Q
+ergänzen	ergänztet ihr Sie um sie?	IND;PST;LGSPEC1;NOM(2,PL);ACC(2,FORM);CIRC(3,SG,FEM);Q
+ergänzen	würde sie Sie um ihn nicht ergänzen?	SBJV;NOM(3,SG,FEM);ACC(2,FORM);CIRC(3,SG,MASC);NEG;Q
+ergänzen	habe er mich um sie nicht ergänzt?	QUOT;PST;NOM(3,SG,MASC);ACC(1,SG);CIRC(3,SG,FEM);NEG;Q
+ergänzen	haben Sie sie um uns ergänzt?	IND;PST;NOM(2,FORM);ACC(3,PL);CIRC(1,PL);Q
+ergänzen	werde ich sie um dich ergänzen?	IND;FUT;NOM(1,SG);ACC(3,SG,FEM);CIRC(2,SG);Q
+ergänzen	habet ihr sie um ihn nicht ergänzt?	QUOT;PST;NOM(2,PL);ACC(3,PL);CIRC(3,SG,MASC);NEG;Q
+ergänzen	er würde ihn um Sie ergänzen.	SBJV;NOM(3,SG,MASC);ACC(3,SG,MASC);CIRC(2,FORM)
+ergänzen	er werde sie um dich ergänzt haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(3,PL);CIRC(2,SG)
+ergänzen	wirst du es um es nicht ergänzt haben?	IND;FUT;PRF;NOM(2,SG);ACC(3,SG,NEUT);CIRC(3,SG,NEUT);NEG;Q
+ergänzen	habest du sie um uns ergänzt?	QUOT;PST;NOM(2,SG);ACC(3,SG,FEM);CIRC(1,PL);Q
+ergänzen	werden sie Sie um sich ergänzt haben?	IND;FUT;PRF;NOM(3,PL);ACC(2,FORM);CIRC(3,PL,RFLX);Q
+ergänzen	hatte er euch um uns nicht ergänzt?	IND;PST;PRF;NOM(3,SG,MASC);ACC(2,PL);CIRC(1,PL);NEG;Q
+ergänzen	werden Sie sie um uns ergänzen?	QUOT;FUT;NOM(2,FORM);ACC(3,PL);CIRC(1,PL);Q
+ergänzen	ihr hättet euch um mich ergänzt.	SBJV;PRF;NOM(2,PL);ACC(2,PL);CIRC(1,SG)
+erholen	sie habe sich nicht erholt?	QUOT;PST;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);NEG
+erholen	ich hatte mich erholt.	IND;PST;PRF;NOM(1,SG);ACC(1,SG)
+erholen	hatten sie sich erholt?	IND;PST;PRF;NOM(3,PL);ACC(3,PL,RFLX);Q
+erholen	es hat sich nicht erholt.	IND;PST;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);NEG
+erholen	sie hatten sich nicht erholt.	IND;PST;PRF;NOM(3,PL);ACC(3,PL,RFLX);NEG
+erholen	haben Sie sich erholt?	QUOT;PST;NOM(2,FORM);ACC(2,FORM,RFLX);Q
+erholen	er erholt sich.	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)
+erholen	ihr erholet euch?	QUOT;PRS;NOM(2,PL);ACC(2,PL)
+erholen	werde sie sich erholt haben?	QUOT;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+erholen	es wird sich nicht erholen.	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);NEG
+erholen	du hättest dich nicht erholt.	SBJV;PRF;NOM(2,SG);ACC(2,SG);NEG
+erholen	wird sie sich erholt haben?	IND;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+erholen	du würdest dich nicht erholen.	SBJV;NOM(2,SG);ACC(2,SG);NEG
+erholen	erholen Sie sich nicht!	IMP;NOM(2,FORM);ACC(2,FORM,RFLX);NEG
+erholen	ich werde mich erholt haben?	QUOT;FUT;PRF;NOM(1,SG);ACC(1,SG)
+erholen	Sie erholten sich.	IND;PST;LGSPEC1;NOM(2,FORM);ACC(2,FORM,RFLX)
+erholen	wir erholen uns nicht.	IND;PRS;NOM(1,PL);ACC(1,PL);NEG
+erholen	erholte sie sich?	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+erholen	ich werde mich nicht erholt haben.	IND;FUT;PRF;NOM(1,SG);ACC(1,SG);NEG
+erholen	erholest du dich?	QUOT;PRS;NOM(2,SG);ACC(2,SG);Q
+ermitteln	wir ermitteln gegen sie nicht.	IND;PRS;NOM(1,PL);CONTR(3,SG,FEM);NEG
+ermitteln	haben Sie gegen mich nicht ermittelt?	IND;PST;NOM(2,FORM);CONTR(1,SG);NEG;Q
+ermitteln	ermittelten sie gegen dich?	IND;PST;LGSPEC1;NOM(3,PL);CONTR(2,SG);Q
+ermitteln	habe sie es ermittelt?	QUOT;PST;NOM(3,SG,FEM);ACC(3,SG,NEUT);Q
+ermitteln	ihr werdet gegen dich ermittelt haben.	IND;FUT;PRF;NOM(2,PL);CONTR(2,SG)
+ermitteln	wir ermitteln gegen ihn nicht?	QUOT;PRS;NOM(1,PL);CONTR(3,SG,MASC);NEG
+ermitteln	werden wir euch nicht ermitteln?	IND;FUT;NOM(1,PL);ACC(2,PL);NEG;Q
+ermitteln	ich habe gegen euch ermittelt?	QUOT;PST;NOM(1,SG);CONTR(2,PL)
+ermitteln	wir ermittelten es nicht.	SBJV;LGSPEC1;NOM(1,PL);ACC(3,SG,NEUT);NEG
+ermitteln	es werde ihn ermittelt haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);ACC(3,SG,MASC)
+ermitteln	wird es euch nicht ermitteln?	IND;FUT;NOM(3,SG,NEUT);ACC(2,PL);NEG;Q
+ermitteln	es werde gegen sich nicht ermittelt haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);CONTR(3,SG,NEUT,RFLX);NEG
+ermitteln	Sie ermitteln gegen euch nicht.	IND;PRS;NOM(2,FORM);CONTR(2,PL);NEG
+erschließen	habe ich uns erschlossen?	QUOT;PST;NOM(1,SG);ACC(1,PL);Q
+erschließen	Sie erschlössen sie nicht.	SBJV;LGSPEC1;NOM(2,FORM);ACC(3,PL);NEG
+erschließen	wird sie dich erschlossen haben?	IND;FUT;PRF;NOM(3,SG,FEM);ACC(2,SG);Q
+erschließen	hätten Sie ihn nicht erschlossen?	SBJV;PRF;NOM(2,FORM);ACC(3,SG,MASC);NEG;Q
+erschließen	es habe sich nicht erschlossen?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);NEG
+erschließen	hätte er uns nicht erschlossen?	SBJV;PRF;NOM(3,SG,MASC);ACC(1,PL);NEG;Q
+erschließen	sie hatten uns nicht erschlossen.	IND;PST;PRF;NOM(3,PL);ACC(1,PL);NEG
+erschließen	erschließe er sich nicht?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);NEG;Q
+erschließen	er hätte mich nicht erschlossen.	SBJV;PRF;NOM(3,SG,MASC);ACC(1,SG);NEG
+erschließen	hätte er ihn erschlossen?	SBJV;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC);Q
+erschließen	Sie hätten uns erschlossen.	SBJV;PRF;NOM(2,FORM);ACC(1,PL)
+erschließen	werden sie es nicht erschließen?	IND;FUT;NOM(3,PL);ACC(3,SG,NEUT);NEG;Q
+erschließen	habt ihr uns nicht erschlossen?	IND;PST;NOM(2,PL);ACC(1,PL);NEG;Q
+erschließen	wir haben dich erschlossen.	IND;PST;NOM(1,PL);ACC(2,SG)
+erschließen	ihr erschlosst euch.	IND;PST;LGSPEC1;NOM(2,PL);ACC(2,PL)
+erschließen	hätte er es erschlossen?	SBJV;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT);Q
+erschließen	haben wir uns nicht erschlossen?	IND;PST;NOM(1,PL);ACC(1,PL);NEG;Q
+erschließen	ich habe es erschlossen.	IND;PST;NOM(1,SG);ACC(3,SG,NEUT)
+erschließen	hat sie mich nicht erschlossen?	IND;PST;NOM(3,SG,FEM);ACC(1,SG);NEG;Q
+erschließen	wir erschließen Sie nicht.	IND;PRS;NOM(1,PL);ACC(2,FORM);NEG
+erschließen	er hätte Sie nicht erschlossen.	SBJV;PRF;NOM(3,SG,MASC);ACC(2,FORM);NEG
+erschließen	Sie erschlossen mich.	IND;PST;LGSPEC1;NOM(2,FORM);ACC(1,SG)
+erweisen	würde er uns sich erweisen?	SBJV;NOM(3,SG,MASC);ACC(1,PL);DAT(3,SG,MASC,RFLX);Q
+erweisen	erweise sie es ihr?	QUOT;PRS;NOM(3,SG,FEM);ACC(3,SG,NEUT);DAT(3,SG,FEM);Q
+erweisen	werden sie uns ihm nicht erwiesen haben?	IND;FUT;PRF;NOM(3,PL);ACC(1,PL);DAT(3,SG,NEUT);NEG;Q
+erweisen	hatte sie uns euch erwiesen?	IND;PST;PRF;NOM(3,SG,FEM);ACC(1,PL);DAT(2,PL);Q
+erweisen	wirst du es mir nicht erweisen?	IND;FUT;NOM(2,SG);ACC(3,SG,NEUT);DAT(1,SG);NEG;Q
+erweisen	ihr werdet sie uns erweisen.	IND;FUT;NOM(2,PL);ACC(3,PL);DAT(1,PL)
+erweisen	werden wir dich ihm nicht erwiesen haben?	IND;FUT;PRF;NOM(1,PL);ACC(2,SG);DAT(3,SG,MASC);NEG;Q
+erweisen	es werde mich mir erwiesen haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);ACC(1,SG);DAT(1,SG)
+erweisen	erweise sie euch uns nicht?	QUOT;PRS;NOM(3,SG,FEM);ACC(2,PL);DAT(1,PL);NEG;Q
+erweisen	erwiest du es nicht?	IND;PST;LGSPEC1;NOM(2,SG);ACC(3,SG,NEUT);NEG;Q
+erweisen	wir würden ihn uns erweisen.	SBJV;NOM(1,PL);ACC(3,SG,MASC);DAT(1,PL)
+erweisen	du wirst sie mir erweisen.	IND;FUT;NOM(2,SG);ACC(3,SG,FEM);DAT(1,SG)
+erweisen	sie erwiese sie euch nicht.	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,FEM);DAT(2,PL);NEG
+erweisen	Sie erweisen es euch.	IND;PRS;NOM(2,FORM);ACC(3,SG,NEUT);DAT(2,PL)
+erweisen	hatten wir mich ihr erwiesen?	IND;PST;PRF;NOM(1,PL);ACC(1,SG);DAT(3,SG,FEM);Q
+erweisen	erwiesen sie sie nicht?	SBJV;LGSPEC1;NOM(3,PL);ACC(3,PL);NEG;Q
+erweisen	sie werden dich mir nicht erwiesen haben.	IND;FUT;PRF;NOM(3,PL);ACC(2,SG);DAT(1,SG);NEG
+erweisen	erwiese er mich euch?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);DAT(2,PL);Q
+erweisen	habe er sie sich nicht erwiesen?	QUOT;PST;NOM(3,SG,MASC);ACC(3,SG,FEM);DAT(3,SG,FEM,RFLX);NEG;Q
+erweisen	Sie werden ihn uns erwiesen haben.	IND;FUT;PRF;NOM(2,FORM);ACC(3,SG,MASC);DAT(1,PL)
+feststellen	ich stelle ihn nicht fest?	QUOT;PRS;NOM(1,SG);ACC(3,SG,MASC);NEG
+feststellen	stellte er euch nicht fest?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(2,PL);NEG;Q
+feststellen	du stellest euch nicht fest?	QUOT;PRS;NOM(2,SG);ACC(2,PL);NEG
+feststellen	sie werde ihn nicht festgestellt haben?	QUOT;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,MASC);NEG
+feststellen	hatte es uns nicht festgestellt?	IND;PST;PRF;NOM(3,SG,NEUT);ACC(1,PL);NEG;Q
+feststellen	sie stellte mich nicht fest.	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG);NEG
+feststellen	du stelltest mich nicht fest.	SBJV;LGSPEC1;NOM(2,SG);ACC(1,SG);NEG
+feststellen	habe er dich nicht festgestellt?	QUOT;PST;NOM(3,SG,MASC);ACC(2,SG);NEG;Q
+feststellen	wir haben uns festgestellt.	IND;PST;NOM(1,PL);ACC(1,PL)
+feststellen	du werdest ihn festgestellt haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(3,SG,MASC)
+feststellen	stellen Sie sich nicht fest?	IND;PRS;NOM(2,FORM);ACC(2,FORM,RFLX);NEG;Q
+feststellen	ich stelle Sie fest?	QUOT;PRS;NOM(1,SG);ACC(2,FORM)
+feststellen	es hätte Sie nicht festgestellt.	SBJV;PRF;NOM(3,SG,NEUT);ACC(2,FORM);NEG
+feststellen	stelle ich es nicht fest?	QUOT;PRS;NOM(1,SG);ACC(3,SG,NEUT);NEG;Q
+feststellen	stellte ich ihn nicht fest?	SBJV;LGSPEC1;NOM(1,SG);ACC(3,SG,MASC);NEG;Q
+feststellen	ihr habet sie festgestellt?	QUOT;PST;NOM(2,PL);ACC(3,SG,FEM)
+feststellen	wir werden uns festgestellt haben?	QUOT;FUT;PRF;NOM(1,PL);ACC(1,PL)
+feststellen	er hatte dich nicht festgestellt.	IND;PST;PRF;NOM(3,SG,MASC);ACC(2,SG);NEG
+feststellen	es werde es feststellen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT)
+feststellen	Sie stellten ihn fest.	IND;PST;LGSPEC1;NOM(2,FORM);ACC(3,SG,MASC)
+feststellen	stellten wir sie nicht fest?	SBJV;LGSPEC1;NOM(1,PL);ACC(3,PL);NEG;Q
+feststellen	stellten wir ihn nicht fest?	SBJV;LGSPEC1;NOM(1,PL);ACC(3,SG,MASC);NEG;Q
+feststellen	habe ich dich nicht festgestellt?	IND;PST;NOM(1,SG);ACC(2,SG);NEG;Q
+feststellen	werde ich es festgestellt haben?	QUOT;FUT;PRF;NOM(1,SG);ACC(3,SG,NEUT);Q
+folgen	sei ich euch nicht gefolgt?	QUOT;PST;NOM(1,SG);DAT(2,PL);NEG;Q
+folgen	Sie werden uns folgen?	QUOT;FUT;NOM(2,FORM);DAT(1,PL)
+folgen	waren sie mir gefolgt?	IND;PST;PRF;NOM(3,PL);DAT(1,SG);Q
+folgen	folgten Sie mir nicht?	SBJV;LGSPEC1;NOM(2,FORM);DAT(1,SG);NEG;Q
+folgen	sie folgte ihm nicht.	SBJV;LGSPEC1;NOM(3,SG,FEM);DAT(3,SG,NEUT);NEG
+folgen	würden sie uns nicht folgen?	SBJV;NOM(3,PL);DAT(1,PL);NEG;Q
+folgen	ihr seid dir gefolgt.	IND;PST;NOM(2,PL);DAT(2,SG)
+folgen	werden sie mir folgen?	IND;FUT;NOM(3,PL);DAT(1,SG);Q
+folgen	werden sie ihnen nicht gefolgt sein?	IND;FUT;PRF;NOM(3,PL);DAT(3,PL);NEG;Q
+folgen	ich bin mir nicht gefolgt.	IND;PST;NOM(1,SG);DAT(1,SG);NEG
+folgen	folgest du ihm nicht?	QUOT;PRS;NOM(2,SG);DAT(3,SG,NEUT);NEG;Q
+folgen	folgte es ihm?	SBJV;LGSPEC1;NOM(3,SG,NEUT);DAT(3,SG,MASC);Q
+folgen	war sie dir gefolgt?	IND;PST;PRF;NOM(3,SG,FEM);DAT(2,SG);Q
+folgen	bin ich Ihnen gefolgt?	IND;PST;NOM(1,SG);DAT(2,FORM);Q
+folgen	wird es uns gefolgt sein?	IND;FUT;PRF;NOM(3,SG,NEUT);DAT(1,PL);Q
+folgen	folge ich ihnen nicht?	IND;PRS;NOM(1,SG);DAT(3,PL);NEG;Q
+folgen	es folgte uns.	SBJV;LGSPEC1;NOM(3,SG,NEUT);DAT(1,PL)
+folgen	es folge dir nicht?	QUOT;PRS;NOM(3,SG,NEUT);DAT(2,SG);NEG
+folgen	werden sie ihnen nicht folgen?	IND;FUT;NOM(3,PL);DAT(3,PL);NEG;Q
+freuen	würde ich mich für sie nicht freuen?	SBJV;NOM(1,SG);ACC(1,SG);BEN(3,PL);NEG;Q
+freuen	ich hätte sie gefreut.	SBJV;PRF;NOM(1,SG);ACC(3,SG,FEM)
+freuen	ihr werdet euch für sie freuen.	IND;FUT;NOM(2,PL);ACC(2,PL);BEN(3,PL)
+freuen	freuten Sie es nicht?	SBJV;LGSPEC1;NOM(2,FORM);ACC(3,SG,NEUT);NEG;Q
+freuen	du freutest mich nicht.	IND;PST;LGSPEC1;NOM(2,SG);ACC(1,SG);NEG
+freuen	freu dich für ihn nicht!	IMP;NOM(2,SG);ACC(2,SG);BEN(3,SG,MASC);NEG
+freuen	du hattest dich über ihn nicht gefreut.	IND;PST;PRF;NOM(2,SG);ACC(2,SG);AT+PER(3,SG,MASC);NEG
+freuen	freute es sich über mich nicht?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);AT+PER(1,SG);NEG;Q
+freuen	Sie haben mich nicht gefreut?	QUOT;PST;NOM(2,FORM);ACC(1,SG);NEG
+freuen	freute er sich für Sie?	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);BEN(2,FORM);Q
+freuen	wirst du dich für mich gefreut haben?	IND;FUT;PRF;NOM(2,SG);ACC(2,SG);BEN(1,SG);Q
+freuen	er werde es nicht gefreut haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT);NEG
+freuen	sie werde dich gefreut haben?	QUOT;FUT;PRF;NOM(3,SG,FEM);ACC(2,SG)
+freuen	freuen wir es?	IND;PRS;NOM(1,PL);ACC(3,SG,NEUT);Q
+freuen	freuten wir Sie?	IND;PST;LGSPEC1;NOM(1,PL);ACC(2,FORM);Q
+freuen	wir hatten uns über dich gefreut.	IND;PST;PRF;NOM(1,PL);ACC(1,PL);AT+PER(2,SG)
+freuen	wir haben uns über es gefreut.	IND;PST;NOM(1,PL);ACC(1,PL);AT+PER(3,SG,NEUT)
+freuen	werde ich dich gefreut haben?	IND;FUT;PRF;NOM(1,SG);ACC(2,SG);Q
+funktionieren	er werde nicht funktionieren?	QUOT;FUT;NOM(3,SG,MASC);NEG
+funktionieren	sie funktionierte nicht.	SBJV;LGSPEC1;NOM(3,SG,FEM);NEG
+funktionieren	würde ich funktionieren?	SBJV;NOM(1,SG);Q
+funktionieren	haben Sie funktioniert?	QUOT;PST;NOM(2,FORM);Q
+funktionieren	ich habe funktioniert.	IND;PST;NOM(1,SG)
+funktionieren	hätte es nicht funktioniert?	SBJV;PRF;NOM(3,SG,NEUT);NEG;Q
+funktionieren	sie wird funktionieren.	IND;FUT;NOM(3,SG,FEM)
+funktionieren	sie hätten funktioniert.	SBJV;PRF;NOM(3,PL)
+funktionieren	haben sie nicht funktioniert?	QUOT;PST;NOM(3,PL);NEG;Q
+funktionieren	funktionierst du nicht?	IND;PRS;NOM(2,SG);NEG;Q
+funktionieren	es wird nicht funktioniert haben.	IND;FUT;PRF;NOM(3,SG,NEUT);NEG
+funktionieren	werde ich nicht funktionieren?	IND;FUT;NOM(1,SG);NEG;Q
+funktionieren	sie funktionierte.	SBJV;LGSPEC1;NOM(3,SG,FEM)
+funktionieren	funktioniere er?	QUOT;PRS;NOM(3,SG,MASC);Q
+funktionieren	funktioniere ich nicht?	QUOT;PRS;NOM(1,SG);NEG;Q
+funktionieren	funktioniert ihr?	IND;PRS;NOM(2,PL);Q
+funktionieren	hat sie nicht funktioniert?	IND;PST;NOM(3,SG,FEM);NEG;Q
+funktionieren	wird sie nicht funktioniert haben?	IND;FUT;PRF;NOM(3,SG,FEM);NEG;Q
+funktionieren	es hat funktioniert.	IND;PST;NOM(3,SG,NEUT)
+funktionieren	ich werde nicht funktioniert haben?	QUOT;FUT;PRF;NOM(1,SG);NEG
+gebrauchen	haben Sie euch gebraucht?	QUOT;PST;NOM(2,FORM);ACC(2,PL);Q
+gebrauchen	gebrauche ich euch nicht?	QUOT;PRS;NOM(1,SG);ACC(2,PL);NEG;Q
+gebrauchen	es hatte es gebraucht.	IND;PST;PRF;NOM(3,SG,NEUT);ACC(3,SG,NEUT)
+gebrauchen	gebrauche ich es nicht?	IND;PRS;NOM(1,SG);ACC(3,SG,NEUT);NEG;Q
+gebrauchen	hätten Sie uns gebraucht?	SBJV;PRF;NOM(2,FORM);ACC(1,PL);Q
+gebrauchen	du werdest es nicht gebrauchen?	QUOT;FUT;NOM(2,SG);ACC(3,SG,NEUT);NEG
+gebrauchen	sie habe Sie nicht gebraucht?	QUOT;PST;NOM(3,SG,FEM);ACC(2,FORM);NEG
+gebrauchen	ihr gebrauchtet ihn nicht.	SBJV;LGSPEC1;NOM(2,PL);ACC(3,SG,MASC);NEG
+gebrauchen	wird sie euch gebraucht haben?	IND;FUT;PRF;NOM(3,SG,FEM);ACC(2,PL);Q
+gebrauchen	wir werden mich nicht gebrauchen.	IND;FUT;NOM(1,PL);ACC(1,SG);NEG
+gebrauchen	Sie gebrauchen mich?	QUOT;PRS;NOM(2,FORM);ACC(1,SG)
+gebrauchen	ich gebrauche euch.	IND;PRS;NOM(1,SG);ACC(2,PL)
+gebrauchen	ihr habt es gebraucht.	IND;PST;NOM(2,PL);ACC(3,SG,NEUT)
+gebrauchen	werde ich sie nicht gebraucht haben?	QUOT;FUT;PRF;NOM(1,SG);ACC(3,SG,FEM);NEG;Q
+gebrauchen	werden Sie mich nicht gebraucht haben?	IND;FUT;PRF;NOM(2,FORM);ACC(1,SG);NEG;Q
+gebrauchen	werden wir ihn gebrauchen?	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);Q
+gebrauchen	du werdest uns nicht gebrauchen?	QUOT;FUT;NOM(2,SG);ACC(1,PL);NEG
+gebrauchen	ihr gebrauchtet ihn.	SBJV;LGSPEC1;NOM(2,PL);ACC(3,SG,MASC)
+gebrauchen	werden sie ihn gebrauchen?	QUOT;FUT;NOM(3,PL);ACC(3,SG,MASC);Q
+gebrauchen	werde ich sie gebraucht haben?	IND;FUT;PRF;NOM(1,SG);ACC(3,SG,FEM);Q
+gebrauchen	wir haben ihn gebraucht.	IND;PST;NOM(1,PL);ACC(3,SG,MASC)
+kontaktieren	ihr werdet es nicht kontaktiert haben.	IND;FUT;PRF;NOM(2,PL);ACC(3,SG,NEUT);NEG
+kontaktieren	sie habe mich kontaktiert?	QUOT;PST;NOM(3,SG,FEM);ACC(1,SG)
+kontaktieren	wir werden euch nicht kontaktieren?	QUOT;FUT;NOM(1,PL);ACC(2,PL);NEG
+kontaktieren	du werdest mit uns nicht kontaktiert haben?	QUOT;FUT;PRF;NOM(2,SG);COM(1,PL);NEG
+kontaktieren	wird sie mich kontaktieren?	IND;FUT;NOM(3,SG,FEM);ACC(1,SG);Q
+kontaktieren	würdest du ihn kontaktieren?	SBJV;NOM(2,SG);ACC(3,SG,MASC);Q
+kontaktieren	haben sie mit ihr nicht kontaktiert?	QUOT;PST;NOM(3,PL);COM(3,SG,FEM);NEG;Q
+kontaktieren	ich werde mit dir nicht kontaktiert haben?	QUOT;FUT;PRF;NOM(1,SG);COM(2,SG);NEG
+kontaktieren	ihr werdet mich nicht kontaktieren.	IND;FUT;NOM(2,PL);ACC(1,SG);NEG
+kontaktieren	kontaktiert es euch nicht?	IND;PRS;NOM(3,SG,NEUT);ACC(2,PL);NEG;Q
+kontaktieren	ich werde mit mir kontaktieren.	IND;FUT;NOM(1,SG);COM(1,SG)
+kontaktieren	sie werden uns nicht kontaktieren.	IND;FUT;NOM(3,PL);ACC(1,PL);NEG
+kontaktieren	es kontaktierte sich.	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX)
+kontaktieren	hätte es uns kontaktiert?	SBJV;PRF;NOM(3,SG,NEUT);ACC(1,PL);Q
+kontaktieren	habe sie sie kontaktiert?	QUOT;PST;NOM(3,SG,FEM);ACC(3,PL);Q
+kontaktieren	habe sie mit euch nicht kontaktiert?	QUOT;PST;NOM(3,SG,FEM);COM(2,PL);NEG;Q
+kontaktieren	kontaktieren Sie es!	IMP;NOM(2,FORM);ACC(3,SG,NEUT)
+kontaktieren	werde er mit dir nicht kontaktiert haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);COM(2,SG);NEG;Q
+kontrollieren	sie kontrollierten sie.	SBJV;LGSPEC1;NOM(3,PL);ACC(3,PL)
+kontrollieren	ihr werdet mich nicht kontrollieren.	IND;FUT;NOM(2,PL);ACC(1,SG);NEG
+kontrollieren	ihr werdet mich nicht kontrollieren?	QUOT;FUT;NOM(2,PL);ACC(1,SG);NEG
+kontrollieren	du kontrolliertest euch nicht.	IND;PST;LGSPEC1;NOM(2,SG);ACC(2,PL);NEG
+kontrollieren	Sie werden sie nicht kontrollieren?	QUOT;FUT;NOM(2,FORM);ACC(3,SG,FEM);NEG
+kontrollieren	sie kontrollierte euch.	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(2,PL)
+kontrollieren	Sie werden sich kontrollieren?	QUOT;FUT;NOM(2,FORM);ACC(2,FORM,RFLX)
+kontrollieren	kontrolliere sie es?	QUOT;PRS;NOM(3,SG,FEM);ACC(3,SG,NEUT);Q
+kontrollieren	sie kontrolliere ihn?	QUOT;PRS;NOM(3,SG,FEM);ACC(3,SG,MASC)
+kontrollieren	würde es sie kontrollieren?	SBJV;NOM(3,SG,NEUT);ACC(3,SG,FEM);Q
+kontrollieren	du werdest ihn nicht kontrollieren?	QUOT;FUT;NOM(2,SG);ACC(3,SG,MASC);NEG
+kontrollieren	sie werden sich kontrolliert haben.	IND;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX)
+kontrollieren	ihr kontrolliertet es.	IND;PST;LGSPEC1;NOM(2,PL);ACC(3,SG,NEUT)
+kontrollieren	hat er Sie nicht kontrolliert?	IND;PST;NOM(3,SG,MASC);ACC(2,FORM);NEG;Q
+kontrollieren	kontrollier euch nicht!	IMP;NOM(2,SG);ACC(2,PL);NEG
+kontrollieren	du habest mich nicht kontrolliert?	QUOT;PST;NOM(2,SG);ACC(1,SG);NEG
+kontrollieren	es wird sie kontrollieren.	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,FEM)
+kontrollieren	wir haben uns nicht kontrolliert.	IND;PST;NOM(1,PL);ACC(1,PL);NEG
+kontrollieren	kontrollierte er es?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,NEUT);Q
+kontrollieren	sie würde dich kontrollieren.	SBJV;NOM(3,SG,FEM);ACC(2,SG)
+kontrollieren	er hatte dich kontrolliert.	IND;PST;PRF;NOM(3,SG,MASC);ACC(2,SG)
+kontrollieren	würdest du euch kontrollieren?	SBJV;NOM(2,SG);ACC(2,PL);Q
+lieben	hättest du ihn geliebt?	SBJV;PRF;NOM(2,SG);ACC(3,SG,MASC);Q
+lieben	ich werde Sie geliebt haben.	IND;FUT;PRF;NOM(1,SG);ACC(2,FORM)
+lieben	er habe ihn geliebt?	QUOT;PST;NOM(3,SG,MASC);ACC(3,SG,MASC)
+lieben	wird er uns geliebt haben?	IND;FUT;PRF;NOM(3,SG,MASC);ACC(1,PL);Q
+lieben	ihr hättet mich nicht geliebt.	SBJV;PRF;NOM(2,PL);ACC(1,SG);NEG
+lieben	ihr liebtet Sie nicht.	SBJV;LGSPEC1;NOM(2,PL);ACC(2,FORM);NEG
+lieben	werdest du sie nicht geliebt haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(3,SG,FEM);NEG;Q
+lieben	er werde es nicht lieben?	QUOT;FUT;NOM(3,SG,MASC);ACC(3,SG,NEUT);NEG
+lieben	er habe euch nicht geliebt?	QUOT;PST;NOM(3,SG,MASC);ACC(2,PL);NEG
+lieben	haben Sie sie geliebt?	IND;PST;NOM(2,FORM);ACC(3,SG,FEM);Q
+lieben	hattest du es nicht geliebt?	IND;PST;PRF;NOM(2,SG);ACC(3,SG,NEUT);NEG;Q
+lieben	hast du ihn nicht geliebt?	IND;PST;NOM(2,SG);ACC(3,SG,MASC);NEG;Q
+lieben	wir liebten dich.	SBJV;LGSPEC1;NOM(1,PL);ACC(2,SG)
+lieben	ihr würdet es lieben.	SBJV;NOM(2,PL);ACC(3,SG,NEUT)
+lieben	ich liebte sie nicht.	SBJV;LGSPEC1;NOM(1,SG);ACC(3,SG,FEM);NEG
+lieben	haben sie sich geliebt?	IND;PST;NOM(3,PL);ACC(3,PL,RFLX);Q
+lieben	habe er sich geliebt?	QUOT;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);Q
+lieben	sie hatten Sie nicht geliebt.	IND;PST;PRF;NOM(3,PL);ACC(2,FORM);NEG
+lieben	hätte sie es nicht geliebt?	SBJV;PRF;NOM(3,SG,FEM);ACC(3,SG,NEUT);NEG;Q
+mitteilen	sie haben sich mir mitgeteilt.	IND;PST;NOM(3,PL);ACC(3,PL,RFLX);DAT(1,SG)
+mitteilen	Sie haben ihn uns mitgeteilt?	QUOT;PST;NOM(2,FORM);ACC(3,SG,MASC);DAT(1,PL)
+mitteilen	sie haben Sie ihm nicht mitgeteilt?	QUOT;PST;NOM(3,PL);ACC(2,FORM);DAT(3,SG,NEUT);NEG
+mitteilen	ich werde uns mir nicht mitgeteilt haben?	QUOT;FUT;PRF;NOM(1,SG);ACC(1,PL);DAT(1,SG);NEG
+mitteilen	es werde mich ihr nicht mitgeteilt haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);ACC(1,SG);DAT(3,SG,FEM);NEG
+mitteilen	würde sie Sie mir mitteilen?	SBJV;NOM(3,SG,FEM);ACC(2,FORM);DAT(1,SG);Q
+mitteilen	habet ihr mich ihr nicht mitgeteilt?	QUOT;PST;NOM(2,PL);ACC(1,SG);DAT(3,SG,FEM);NEG;Q
+mitteilen	ich habe euch euch nicht mitgeteilt.	IND;PST;NOM(1,SG);ACC(2,PL);DAT(2,PL);NEG
+mitteilen	es habe sich ihm mitgeteilt?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);DAT(3,SG,NEUT)
+mitteilen	ihr habet es ihnen nicht mitgeteilt?	QUOT;PST;NOM(2,PL);ACC(3,SG,NEUT);DAT(3,PL);NEG
+mitteilen	sie werden es ihm mitgeteilt haben.	IND;FUT;PRF;NOM(3,PL);ACC(3,SG,NEUT);DAT(3,SG,NEUT)
+mitteilen	teiltest du sie uns nicht mit?	SBJV;LGSPEC1;NOM(2,SG);ACC(3,PL);DAT(1,PL);NEG;Q
+mitteilen	ich werde ihn ihr nicht mitteilen?	QUOT;FUT;NOM(1,SG);ACC(3,SG,MASC);DAT(3,SG,FEM);NEG
+mitteilen	teil sie mir mit!	IMP;NOM(2,SG);ACC(3,SG,FEM);DAT(1,SG)
+mitteilen	er würde euch Ihnen nicht mitteilen.	SBJV;NOM(3,SG,MASC);ACC(2,PL);DAT(2,FORM);NEG
+mitteilen	es teilte sie sich nicht mit.	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(3,PL);DAT(3,SG,NEUT,RFLX);NEG
+mitteilen	werden Sie sie ihr mitgeteilt haben?	IND;FUT;PRF;NOM(2,FORM);ACC(3,SG,FEM);DAT(3,SG,FEM);Q
+mitteilen	hatte sie ihn Ihnen nicht mitgeteilt?	IND;PST;PRF;NOM(3,SG,FEM);ACC(3,SG,MASC);DAT(2,FORM);NEG;Q
+mitteilen	wir werden euch ihnen nicht mitteilen?	QUOT;FUT;NOM(1,PL);ACC(2,PL);DAT(3,PL);NEG
+mitteilen	teilten Sie sich uns mit?	IND;PST;LGSPEC1;NOM(2,FORM);ACC(2,FORM,RFLX);DAT(1,PL);Q
+nachvollziehen	haben Sie mich nachvollzogen?	QUOT;PST;NOM(2,FORM);ACC(1,SG);Q
+nachvollziehen	hatten Sie sie nachvollzogen?	IND;PST;PRF;NOM(2,FORM);ACC(3,SG,FEM);Q
+nachvollziehen	werdet ihr mich nicht nachvollzogen haben?	IND;FUT;PRF;NOM(2,PL);ACC(1,SG);NEG;Q
+nachvollziehen	es vollzöge uns nicht nach.	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(1,PL);NEG
+nachvollziehen	vollziehen wir uns nicht nach!	IMP;NOM(1,PL);ACC(1,PL);NEG
+nachvollziehen	wir werden es nachvollziehen?	QUOT;FUT;NOM(1,PL);ACC(3,SG,NEUT)
+nachvollziehen	vollzogt ihr uns nicht nach?	IND;PST;LGSPEC1;NOM(2,PL);ACC(1,PL);NEG;Q
+nachvollziehen	vollzieht sie es nach?	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,NEUT);Q
+nachvollziehen	vollziehe er sie nicht nach?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,FEM);NEG;Q
+nachvollziehen	vollzogst du es nicht nach?	IND;PST;LGSPEC1;NOM(2,SG);ACC(3,SG,NEUT);NEG;Q
+nachvollziehen	werde er ihn nachvollziehen?	QUOT;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC);Q
+nachvollziehen	vollziehe sie mich nicht nach?	QUOT;PRS;NOM(3,SG,FEM);ACC(1,SG);NEG;Q
+nachvollziehen	er hat dich nicht nachvollzogen.	IND;PST;NOM(3,SG,MASC);ACC(2,SG);NEG
+nachvollziehen	habe es sie nicht nachvollzogen?	QUOT;PST;NOM(3,SG,NEUT);ACC(3,SG,FEM);NEG;Q
+nachvollziehen	vollziehe ich sie nicht nach?	QUOT;PRS;NOM(1,SG);ACC(3,PL);NEG;Q
+nachvollziehen	sie vollziehen mich nach.	IND;PRS;NOM(3,PL);ACC(1,SG)
+nachvollziehen	haben sie sie nicht nachvollzogen?	IND;PST;NOM(3,PL);ACC(3,SG,FEM);NEG;Q
+nachvollziehen	vollziehen sie sie nach?	QUOT;PRS;NOM(3,PL);ACC(3,PL);Q
+nachvollziehen	vollziehe ich uns nach?	IND;PRS;NOM(1,SG);ACC(1,PL);Q
+nachvollziehen	es vollzog uns nicht nach.	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(1,PL);NEG
+nachvollziehen	er vollziehe euch nicht nach?	QUOT;PRS;NOM(3,SG,MASC);ACC(2,PL);NEG
+nachvollziehen	vollziehen wir uns nicht nach!	IMP;NOM(1,PL);ACC(1,PL);NEG
+nachvollziehen	haben Sie euch nicht nachvollzogen?	IND;PST;NOM(2,FORM);ACC(2,PL);NEG;Q
+nachvollziehen	hätten Sie uns nachvollzogen?	SBJV;PRF;NOM(2,FORM);ACC(1,PL);Q
+nachweisen	sie werden sie dir nicht nachweisen?	QUOT;FUT;NOM(3,PL);ACC(3,PL);DAT(2,SG);NEG
+nachweisen	du habest es mir nicht nachgewiesen?	QUOT;PST;NOM(2,SG);ACC(3,SG,NEUT);DAT(1,SG);NEG
+nachweisen	ihr werdet Sie ihr nachgewiesen haben?	QUOT;FUT;PRF;NOM(2,PL);ACC(2,FORM);DAT(3,SG,FEM)
+nachweisen	würde es sich mir nachweisen?	SBJV;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);DAT(1,SG);Q
+nachweisen	werden wir sie sich nicht nachgewiesen haben?	QUOT;FUT;PRF;NOM(1,PL);ACC(3,PL);DAT(3,PL,RFLX);NEG;Q
+nachweisen	werde es es sich nicht nachweisen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT);DAT(3,SG,NEUT,RFLX);NEG;Q
+nachweisen	er wies sie nach.	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(3,SG,FEM)
+nachweisen	würde sie sie uns nicht nachweisen?	SBJV;NOM(3,SG,FEM);ACC(3,SG,FEM);DAT(1,PL);NEG;Q
+nachweisen	sie werden sie euch nicht nachweisen.	IND;FUT;NOM(3,PL);ACC(3,PL);DAT(2,PL);NEG
+nachweisen	hat sie sie mir nicht nachgewiesen?	IND;PST;NOM(3,SG,FEM);ACC(3,PL);DAT(1,SG);NEG;Q
+nachweisen	hat sie sie nicht nachgewiesen?	IND;PST;NOM(3,SG,FEM);ACC(3,PL);NEG;Q
+nachweisen	er wird ihn ihr nachgewiesen haben.	IND;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC);DAT(3,SG,FEM)
+nachweisen	würde er uns sich nachweisen?	SBJV;NOM(3,SG,MASC);ACC(1,PL);DAT(3,SG,MASC,RFLX);Q
+nachweisen	wiese es dich ihm nach?	SBJV;LGSPEC1;NOM(3,SG,NEUT);ACC(2,SG);DAT(3,SG,MASC);Q
+nachweisen	hattet ihr mich mir nicht nachgewiesen?	IND;PST;PRF;NOM(2,PL);ACC(1,SG);DAT(1,SG);NEG;Q
+nachweisen	wird es sich ihm nachweisen?	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);DAT(3,SG,NEUT);Q
+nachweisen	werden sie sie sich nachgewiesen haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,SG,FEM);DAT(3,SG,FEM,RFLX);Q
+profitieren	sie hat von ihr profitiert.	IND;PST;NOM(3,SG,FEM);AT+ABL(3,SG,FEM)
+profitieren	wird sie von euch nicht profitieren?	IND;FUT;NOM(3,SG,FEM);AT+ABL(2,PL);NEG;Q
+profitieren	wird sie von uns nicht profitieren?	IND;FUT;NOM(3,SG,FEM);AT+ABL(1,PL);NEG;Q
+profitieren	werden sie von Ihnen profitiert haben?	QUOT;FUT;PRF;NOM(3,PL);AT+ABL(2,FORM);Q
+profitieren	sie profitierten von ihr.	SBJV;LGSPEC1;NOM(3,PL);AT+ABL(3,SG,FEM)
+profitieren	ihr hättet von ihr nicht profitiert.	SBJV;PRF;NOM(2,PL);AT+ABL(3,SG,FEM);NEG
+profitieren	hätte sie von ihnen profitiert?	SBJV;PRF;NOM(3,SG,FEM);AT+ABL(3,PL);Q
+profitieren	würden sie von euch profitieren?	SBJV;NOM(3,PL);AT+ABL(2,PL);Q
+profitieren	sie werden von mir profitieren.	IND;FUT;NOM(3,PL);AT+ABL(1,SG)
+profitieren	werden Sie von ihnen nicht profitieren?	IND;FUT;NOM(2,FORM);AT+ABL(3,PL);NEG;Q
+profitieren	ihr habet von mir profitiert?	QUOT;PST;NOM(2,PL);AT+ABL(1,SG)
+profitieren	habet ihr von ihr profitiert?	QUOT;PST;NOM(2,PL);AT+ABL(3,SG,FEM);Q
+profitieren	hättet ihr von ihnen profitiert?	SBJV;PRF;NOM(2,PL);AT+ABL(3,PL);Q
+profitieren	habe sie von ihnen nicht profitiert?	QUOT;PST;NOM(3,SG,FEM);AT+ABL(3,PL);NEG;Q
+profitieren	sie wird von ihm nicht profitieren.	IND;FUT;NOM(3,SG,FEM);AT+ABL(3,SG,MASC);NEG
+profitieren	Sie profitierten von ihnen nicht.	SBJV;LGSPEC1;NOM(2,FORM);AT+ABL(3,PL);NEG
+profitieren	wir profitieren von uns?	QUOT;PRS;NOM(1,PL);AT+ABL(1,PL)
+profitieren	werdet ihr von ihnen nicht profitiert haben?	QUOT;FUT;PRF;NOM(2,PL);AT+ABL(3,PL);NEG;Q
+profitieren	er habe von uns profitiert?	QUOT;PST;NOM(3,SG,MASC);AT+ABL(1,PL)
+profitieren	Sie profitieren von uns.	IND;PRS;NOM(2,FORM);AT+ABL(1,PL)
+rühren	rührte ich Sie nicht?	SBJV;LGSPEC1;NOM(1,SG);ACC(2,FORM);NEG;Q
+rühren	werden sie an sich rühren?	IND;FUT;NOM(3,PL);AT+ESS(3,PL,RFLX);Q
+rühren	ihr hättet uns nicht gerührt.	SBJV;PRF;NOM(2,PL);ACC(1,PL);NEG
+rühren	rühre er euch?	QUOT;PRS;NOM(3,SG,MASC);ACC(2,PL);Q
+rühren	rühre ich dich?	QUOT;PRS;NOM(1,SG);ACC(2,SG);Q
+rühren	rührte es an sie?	SBJV;LGSPEC1;NOM(3,SG,NEUT);AT+ESS(3,PL);Q
+rühren	rühre ich sie nicht?	QUOT;PRS;NOM(1,SG);ACC(3,SG,FEM);NEG;Q
+rühren	haben wir an euch gerührt?	IND;PST;NOM(1,PL);AT+ESS(2,PL);Q
+rühren	habt ihr an Sie gerührt?	IND;PST;NOM(2,PL);AT+ESS(2,FORM);Q
+rühren	er hatte an euch gerührt.	IND;PST;PRF;NOM(3,SG,MASC);AT+ESS(2,PL)
+rühren	rührten wir an mich?	SBJV;LGSPEC1;NOM(1,PL);AT+ESS(1,SG);Q
+rühren	hättet ihr an euch nicht gerührt?	SBJV;PRF;NOM(2,PL);AT+ESS(2,PL);NEG;Q
+rühren	rührten Sie sich nicht?	IND;PST;LGSPEC1;NOM(2,FORM);ACC(2,FORM,RFLX);NEG;Q
+rühren	rührt er an euch nicht?	IND;PRS;NOM(3,SG,MASC);AT+ESS(2,PL);NEG;Q
+rühren	wird es ihn rühren?	IND;FUT;NOM(3,SG,NEUT);ACC(3,SG,MASC);Q
+rühren	werden Sie nicht rühren?	QUOT;FUT;NOM(2,FORM);NEG;Q
+rühren	rühren sie ihn nicht?	IND;PRS;NOM(3,PL);ACC(3,SG,MASC);NEG;Q
+rühren	sie rührte uns nicht.	SBJV;LGSPEC1;NOM(3,SG,FEM);ACC(1,PL);NEG
+rühren	würdest du sie nicht rühren?	SBJV;NOM(2,SG);ACC(3,SG,FEM);NEG;Q
+rühren	werde es an euch gerührt haben?	QUOT;FUT;PRF;NOM(3,SG,NEUT);AT+ESS(2,PL);Q
+rühren	du rührest?	QUOT;PRS;NOM(2,SG)
+stimmen	werde ich für Sie gestimmt haben?	IND;FUT;PRF;NOM(1,SG);BEN(2,FORM);Q
+stimmen	würde er für es nicht stimmen?	SBJV;NOM(3,SG,MASC);BEN(3,SG,NEUT);NEG;Q
+stimmen	wird er für euch gestimmt haben?	IND;FUT;PRF;NOM(3,SG,MASC);BEN(2,PL);Q
+stimmen	wir werden für ihn stimmen.	IND;FUT;NOM(1,PL);BEN(3,SG,MASC)
+stimmen	hätte er für sich gestimmt?	SBJV;PRF;NOM(3,SG,MASC);BEN(3,SG,MASC,RFLX);Q
+stimmen	stimmte sie für sich?	IND;PST;LGSPEC1;NOM(3,SG,FEM);BEN(3,SG,FEM,RFLX);Q
+stimmen	stimmte es?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);Q
+stimmen	stimmen Sie für sich nicht?	QUOT;PRS;NOM(2,FORM);BEN(2,FORM,RFLX);NEG;Q
+stimmen	hätte ich für Sie gestimmt?	SBJV;PRF;NOM(1,SG);BEN(2,FORM);Q
+stimmen	stimme sie für es?	QUOT;PRS;NOM(3,SG,FEM);BEN(3,SG,NEUT);Q
+stimmen	du hattest für mich gestimmt.	IND;PST;PRF;NOM(2,SG);BEN(1,SG)
+stimmen	werdest du für ihn nicht stimmen?	QUOT;FUT;NOM(2,SG);BEN(3,SG,MASC);NEG;Q
+stimmen	stimmtest du für uns nicht?	IND;PST;LGSPEC1;NOM(2,SG);BEN(1,PL);NEG;Q
+stimmen	hatte er für dich nicht gestimmt?	IND;PST;PRF;NOM(3,SG,MASC);BEN(2,SG);NEG;Q
+stimmen	hätten sie für uns gestimmt?	SBJV;PRF;NOM(3,PL);BEN(1,PL);Q
+stimmen	er wird für sie gestimmt haben.	IND;FUT;PRF;NOM(3,SG,MASC);BEN(3,PL)
+stimmen	stimmen Sie für sie?	QUOT;PRS;NOM(2,FORM);BEN(3,SG,FEM);Q
+stimmen	sie wird für Sie gestimmt haben.	IND;FUT;PRF;NOM(3,SG,FEM);BEN(2,FORM)
+stimmen	es hat für Sie nicht gestimmt.	IND;PST;NOM(3,SG,NEUT);BEN(2,FORM);NEG
+stimmen	stimmen sie für mich?	IND;PRS;NOM(3,PL);BEN(1,SG);Q
+stimmen	es würde für uns nicht stimmen.	SBJV;NOM(3,SG,NEUT);BEN(1,PL);NEG
+stimmen	werden sie stimmen?	QUOT;FUT;NOM(3,PL);Q
+stimmen	stimmen wir für sie!	IMP;NOM(1,PL);BEN(3,PL)
+stimmen	du wirst für euch stimmen.	IND;FUT;NOM(2,SG);BEN(2,PL)
+streiten	stritten Sie gegen sich nicht?	IND;PST;LGSPEC1;NOM(2,FORM);CONTR(2,FORM,RFLX);NEG;Q
+streiten	ich werde für es nicht streiten.	IND;FUT;NOM(1,SG);BEN(3,SG,NEUT);NEG
+streiten	streite für sie!	IMP;NOM(2,SG);BEN(3,SG,FEM)
+streiten	stritte ich für sie nicht?	SBJV;LGSPEC1;NOM(1,SG);BEN(3,SG,FEM);NEG;Q
+streiten	er werde sich mit ihr gestritten haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);COM(3,SG,FEM)
+streiten	hättest du dich mit ihm nicht gestritten?	SBJV;PRF;NOM(2,SG);ACC(2,SG);COM(3,SG,MASC);NEG;Q
+streiten	sie werden für sie nicht streiten?	QUOT;FUT;NOM(3,PL);BEN(3,SG,FEM);NEG
+streiten	werden sie gestritten haben?	QUOT;FUT;PRF;NOM(3,PL);Q
+streiten	ich streite mich mit euch nicht.	IND;PRS;NOM(1,SG);ACC(1,SG);COM(2,PL);NEG
+streiten	du hast gegen es nicht gestritten.	IND;PST;NOM(2,SG);CONTR(3,SG,NEUT);NEG
+streiten	haben Sie gegen uns gestritten?	QUOT;PST;NOM(2,FORM);CONTR(1,PL);Q
+streiten	ich streite für sie?	QUOT;PRS;NOM(1,SG);BEN(3,SG,FEM)
+streiten	er stritt gegen sie.	IND;PST;LGSPEC1;NOM(3,SG,MASC);CONTR(3,PL)
+streiten	er werde für ihn nicht streiten?	QUOT;FUT;NOM(3,SG,MASC);BEN(3,SG,MASC);NEG
+streiten	hatte er sich mit ihnen gestritten?	IND;PST;PRF;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);COM(3,PL);Q
+streiten	werden wir uns mit ihnen gestritten haben?	IND;FUT;PRF;NOM(1,PL);ACC(1,PL);COM(3,PL);Q
+streiten	ihr werdet für es streiten.	IND;FUT;NOM(2,PL);BEN(3,SG,NEUT)
+trocknen	er wird dich trocknen.	IND;FUT;NOM(3,SG,MASC);ACC(2,SG)
+trocknen	sie werden sich getrocknet haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX)
+trocknen	trockne sie?	QUOT;PRS;NOM(3,SG,FEM);Q
+trocknen	würde es Sie trocknen?	SBJV;NOM(3,SG,NEUT);ACC(2,FORM);Q
+trocknen	er wird getrocknet sein.	IND;FUT;PRF;NOM(3,SG,MASC)
+trocknen	ihr hattet mich getrocknet.	IND;PST;PRF;NOM(2,PL);ACC(1,SG)
+trocknen	hätte sie uns getrocknet?	SBJV;PRF;NOM(3,SG,FEM);ACC(1,PL);Q
+trocknen	sie würde sie trocknen.	SBJV;NOM(3,SG,FEM);ACC(3,SG,FEM)
+trocknen	wir haben ihn nicht getrocknet.	IND;PST;NOM(1,PL);ACC(3,SG,MASC);NEG
+trocknen	trocknete sie sie nicht?	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,FEM);NEG;Q
+trocknen	trockneten sie mich?	IND;PST;LGSPEC1;NOM(3,PL);ACC(1,SG);Q
+trocknen	es hat sie nicht getrocknet.	IND;PST;NOM(3,SG,NEUT);ACC(3,PL);NEG
+trocknen	würden wir sie nicht trocknen?	SBJV;NOM(1,PL);ACC(3,PL);NEG;Q
+trocknen	ihr trocknetet Sie.	IND;PST;LGSPEC1;NOM(2,PL);ACC(2,FORM)
+trocknen	er hat sich getrocknet.	IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)
+trocknen	werden sie sich nicht getrocknet haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX);NEG;Q
+trocknen	du habest es nicht getrocknet?	QUOT;PST;NOM(2,SG);ACC(3,SG,NEUT);NEG
+trocknen	du trocknest euch nicht?	QUOT;PRS;NOM(2,SG);ACC(2,PL);NEG
+trocknen	ich habe sie getrocknet.	IND;PST;NOM(1,SG);ACC(3,SG,FEM)
+trocknen	hatte ich Sie getrocknet?	IND;PST;PRF;NOM(1,SG);ACC(2,FORM);Q
+trocknen	ich trockne ihn nicht?	QUOT;PRS;NOM(1,SG);ACC(3,SG,MASC);NEG
+vereinfachen	hätten sie es nicht vereinfacht?	SBJV;PRF;NOM(3,PL);ACC(3,SG,NEUT);NEG;Q
+vereinfachen	habe sie uns nicht vereinfacht?	QUOT;PST;NOM(3,SG,FEM);ACC(1,PL);NEG;Q
+vereinfachen	ihr vereinfachtet dich.	SBJV;LGSPEC1;NOM(2,PL);ACC(2,SG)
+vereinfachen	vereinfachte er euch nicht?	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,PL);NEG;Q
+vereinfachen	hättest du sie nicht vereinfacht?	SBJV;PRF;NOM(2,SG);ACC(3,SG,FEM);NEG;Q
+vereinfachen	sie werden sich vereinfacht haben.	IND;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX)
+vereinfachen	werden sie euch vereinfachen?	IND;FUT;NOM(3,PL);ACC(2,PL);Q
+vereinfachen	werde sie Sie vereinfachen?	QUOT;FUT;NOM(3,SG,FEM);ACC(2,FORM);Q
+vereinfachen	es habe mich vereinfacht?	QUOT;PST;NOM(3,SG,NEUT);ACC(1,SG)
+vereinfachen	werde sie ihn nicht vereinfachen?	QUOT;FUT;NOM(3,SG,FEM);ACC(3,SG,MASC);NEG;Q
+vereinfachen	ich hatte uns vereinfacht.	IND;PST;PRF;NOM(1,SG);ACC(1,PL)
+vereinfachen	ich werde Sie nicht vereinfachen?	QUOT;FUT;NOM(1,SG);ACC(2,FORM);NEG
+vereinfachen	du vereinfachtest sie.	IND;PST;LGSPEC1;NOM(2,SG);ACC(3,SG,FEM)
+vereinfachen	vereinfachtest du sie nicht?	SBJV;LGSPEC1;NOM(2,SG);ACC(3,PL);NEG;Q
+vereinfachen	wird es es nicht vereinfacht haben?	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(3,SG,NEUT);NEG;Q
+vereinfachen	sie vereinfache sie?	QUOT;PRS;NOM(3,SG,FEM);ACC(3,SG,FEM)
+vereinfachen	ihr vereinfachtet euch nicht.	SBJV;LGSPEC1;NOM(2,PL);ACC(2,PL);NEG
+vereinfachen	ich habe mich vereinfacht?	QUOT;PST;NOM(1,SG);ACC(1,SG)
+vereinfachen	vereinfachte es uns?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(1,PL);Q
+vereinfachen	es werde sie vereinfachen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(3,SG,FEM)
+vereinfachen	vereinfache es sich nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);NEG;Q
+vereinfachen	hätte es sie nicht vereinfacht?	SBJV;PRF;NOM(3,SG,NEUT);ACC(3,SG,FEM);NEG;Q
+vereinfachen	hast du ihn vereinfacht?	IND;PST;NOM(2,SG);ACC(3,SG,MASC);Q
+vereinfachen	wir vereinfachten sie.	IND;PST;LGSPEC1;NOM(1,PL);ACC(3,PL)
+vergeben	sie würden Sie sich nicht vergeben.	SBJV;NOM(3,PL);ACC(2,FORM);DAT(2,FORM,RFLX);NEG
+vergeben	sie habe euch vergeben?	QUOT;PST;NOM(3,SG,FEM);DAT(2,PL)
+vergeben	werden Sie sie ihnen nicht vergeben?	QUOT;FUT;NOM(2,FORM);ACC(3,SG,FEM);DAT(3,PL);NEG;Q
+vergeben	werde sie sie dir nicht vergeben?	QUOT;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM);DAT(2,SG);NEG;Q
+vergeben	hat sie Ihnen vergeben?	IND;PST;NOM(3,SG,FEM);DAT(2,FORM);Q
+vergeben	würdet ihr ihn mir nicht vergeben?	SBJV;NOM(2,PL);ACC(3,SG,MASC);DAT(1,SG);NEG;Q
+vergeben	ich vergäbe uns ihm nicht.	SBJV;LGSPEC1;NOM(1,SG);ACC(1,PL);DAT(3,SG,NEUT);NEG
+vergeben	du habest sie ihm vergeben?	QUOT;PST;NOM(2,SG);ACC(3,SG,FEM);DAT(3,SG,NEUT)
+vergeben	wir haben mich mir nicht vergeben?	QUOT;PST;NOM(1,PL);ACC(1,SG);DAT(1,SG);NEG
+vergeben	sie werden sie Ihnen vergeben haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,SG,FEM);DAT(2,FORM)
+vergeben	Sie würden euch ihm nicht vergeben.	SBJV;NOM(2,FORM);ACC(2,PL);DAT(3,SG,NEUT);NEG
+vergeben	sie vergebe euch?	QUOT;PRS;NOM(3,SG,FEM);DAT(2,PL)
+vergeben	vergäbet ihr uns dir?	SBJV;LGSPEC1;NOM(2,PL);ACC(1,PL);DAT(2,SG);Q
+vergeben	er vergebe sich ihr?	QUOT;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);DAT(3,SG,FEM)
+vergeben	ihr würdet Sie ihm vergeben.	SBJV;NOM(2,PL);ACC(2,FORM);DAT(3,SG,MASC)
+vergeben	hätte ich es ihm vergeben?	SBJV;PRF;NOM(1,SG);ACC(3,SG,NEUT);DAT(3,SG,NEUT);Q
+vergeben	er hatte dich ihm nicht vergeben.	IND;PST;PRF;NOM(3,SG,MASC);ACC(2,SG);DAT(3,SG,MASC);NEG
+vergeben	du werdest sie ihr nicht vergeben?	QUOT;FUT;NOM(2,SG);ACC(3,SG,FEM);DAT(3,SG,FEM);NEG
+vergeben	Sie werden sie sich nicht vergeben haben.	IND;FUT;PRF;NOM(2,FORM);ACC(3,SG,FEM);DAT(3,SG,FEM,RFLX);NEG
+vergeben	Sie hätten sie ihm nicht vergeben.	SBJV;PRF;NOM(2,FORM);ACC(3,PL);DAT(3,SG,NEUT);NEG
+vergeben	vergeben wir Sie mir!	IMP;NOM(1,PL);ACC(2,FORM);DAT(1,SG)
+verlassen	wir würden euch verlassen.	SBJV;NOM(1,PL);ACC(2,PL)
+verlassen	werde es euch nicht verlassen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(2,PL);NEG;Q
+verlassen	er würde mich nicht verlassen.	SBJV;NOM(3,SG,MASC);ACC(1,SG);NEG
+verlassen	sie verlässt.	IND;PRS;NOM(3,SG,FEM)
+verlassen	sie werden mich nicht verlassen?	QUOT;FUT;NOM(3,PL);ACC(1,SG);NEG
+verlassen	verlassest du uns nicht?	QUOT;PRS;NOM(2,SG);ACC(1,PL);NEG;Q
+verlassen	ich hätte mich auf sie nicht verlassen.	SBJV;PRF;NOM(1,SG);ACC(1,SG);ON+ESS(3,SG,FEM);NEG
+verlassen	sie werden sich auf es verlassen haben.	IND;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX);ON+ESS(3,SG,NEUT)
+verlassen	verließ es sich auf sie nicht?	IND;PST;LGSPEC1;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);ON+ESS(3,PL);NEG;Q
+verlassen	hättet ihr nicht verlassen?	SBJV;PRF;NOM(2,PL);NEG;Q
+verlassen	es werde sich auf mich verlassen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);ON+ESS(1,SG)
+verlassen	sie werden sie nicht verlassen?	QUOT;FUT;NOM(3,PL);ACC(3,SG,FEM);NEG
+verlassen	ich werde sie verlassen?	QUOT;FUT;NOM(1,SG);ACC(3,SG,FEM)
+verlassen	verlässt du dich auf mich?	IND;PRS;NOM(2,SG);ACC(2,SG);ON+ESS(1,SG);Q
+verlassen	hattet ihr euch auf Sie verlassen?	IND;PST;PRF;NOM(2,PL);ACC(2,PL);ON+ESS(2,FORM);Q
+verlassen	verlassen Sie nicht?	QUOT;PRS;NOM(2,FORM);NEG;Q
+verlassen	werden sie sich auf dich nicht verlassen haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,PL,RFLX);ON+ESS(2,SG);NEG;Q
+verlassen	du hattest dich auf mich nicht verlassen.	IND;PST;PRF;NOM(2,SG);ACC(2,SG);ON+ESS(1,SG);NEG
+verlassen	ihr verließet uns.	SBJV;LGSPEC1;NOM(2,PL);ACC(1,PL)
+verlassen	er wird es verlassen.	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,NEUT)
+versetzen	hätte sie uns in ihr nicht versetzt?	SBJV;PRF;NOM(3,SG,FEM);ACC(1,PL);IN+ALL(3,SG,FEM);NEG;Q
+versetzen	werden wir dich in dir versetzen?	IND;FUT;NOM(1,PL);ACC(2,SG);IN+ALL(2,SG);Q
+versetzen	Sie hatten mich ihm versetzt.	IND;PST;PRF;NOM(2,FORM);ACC(1,SG);DAT(3,SG,NEUT)
+versetzen	werden sie Sie nicht versetzt haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(2,FORM);NEG;Q
+versetzen	werdet ihr ihn mir nicht versetzt haben?	QUOT;FUT;PRF;NOM(2,PL);ACC(3,SG,MASC);DAT(1,SG);NEG;Q
+versetzen	du werdest sie mit mir nicht versetzt haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(3,SG,FEM);COM(1,SG);NEG
+versetzen	sie versetzten es in dir.	SBJV;LGSPEC1;NOM(3,PL);ACC(3,SG,NEUT);IN+ALL(2,SG)
+versetzen	werde es Sie sich versetzen?	QUOT;FUT;NOM(3,SG,NEUT);ACC(2,FORM);DAT(2,FORM,RFLX);Q
+versetzen	werden wir es ihr nicht versetzt haben?	IND;FUT;PRF;NOM(1,PL);ACC(3,SG,NEUT);DAT(3,SG,FEM);NEG;Q
+versetzen	hätte es Sie ihnen versetzt?	SBJV;PRF;NOM(3,SG,NEUT);ACC(2,FORM);DAT(3,PL);Q
+versetzen	versetzen wir sie ihnen!	IMP;NOM(1,PL);ACC(3,SG,FEM);DAT(3,PL)
+versetzen	es versetze uns mit mir nicht?	QUOT;PRS;NOM(3,SG,NEUT);ACC(1,PL);COM(1,SG);NEG
+versetzen	Sie versetzten euch mit sich.	IND;PST;LGSPEC1;NOM(2,FORM);ACC(2,PL);COM(2,FORM,RFLX)
+versetzen	hattest du ihn in ihm nicht versetzt?	IND;PST;PRF;NOM(2,SG);ACC(3,SG,MASC);IN+ALL(3,SG,MASC);NEG;Q
+versetzen	Sie hatten sie mit ihnen versetzt.	IND;PST;PRF;NOM(2,FORM);ACC(3,PL);COM(3,PL)
+versetzen	Sie werden euch in ihm versetzt haben?	QUOT;FUT;PRF;NOM(2,FORM);ACC(2,PL);IN+ALL(3,SG,MASC)
+versetzen	wird es sich mit ihnen nicht versetzt haben?	IND;FUT;PRF;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX);COM(3,PL);NEG;Q
+versetzen	hat er es sich versetzt?	IND;PST;NOM(3,SG,MASC);ACC(3,SG,NEUT);DAT(3,SG,MASC,RFLX);Q
+widerrufen	sie hat sie nicht widerrufen.	IND;PST;NOM(3,SG,FEM);ACC(3,PL);NEG
+widerrufen	widerruft es ihn nicht?	IND;PRS;NOM(3,SG,NEUT);ACC(3,SG,MASC);NEG;Q
+widerrufen	ich hatte dich nicht widerrufen.	IND;PST;PRF;NOM(1,SG);ACC(2,SG);NEG
+widerrufen	du widerriefest uns.	SBJV;LGSPEC1;NOM(2,SG);ACC(1,PL)
+widerrufen	ihr würdet mich widerrufen.	SBJV;NOM(2,PL);ACC(1,SG)
+widerrufen	wir werden mich widerrufen?	QUOT;FUT;NOM(1,PL);ACC(1,SG)
+widerrufen	es hat uns nicht widerrufen.	IND;PST;NOM(3,SG,NEUT);ACC(1,PL);NEG
+widerrufen	Sie widerrufen sie.	IND;PRS;NOM(2,FORM);ACC(3,PL)
+widerrufen	er wird euch widerrufen.	IND;FUT;NOM(3,SG,MASC);ACC(2,PL)
+widerrufen	werden sie sie widerrufen?	IND;FUT;NOM(3,PL);ACC(3,PL);Q
+widerrufen	haben sie ihn widerrufen?	IND;PST;NOM(3,PL);ACC(3,SG,MASC);Q
+widerrufen	widerriefen Sie sie?	IND;PST;LGSPEC1;NOM(2,FORM);ACC(3,SG,FEM);Q
+widerrufen	werden wir mich nicht widerrufen?	IND;FUT;NOM(1,PL);ACC(1,SG);NEG;Q
+widerrufen	widerrief ich dich?	IND;PST;LGSPEC1;NOM(1,SG);ACC(2,SG);Q
+widerrufen	widerriefen sie sie?	IND;PST;LGSPEC1;NOM(3,PL);ACC(3,PL);Q
+widerrufen	hätten Sie es nicht widerrufen?	SBJV;PRF;NOM(2,FORM);ACC(3,SG,NEUT);NEG;Q
+widerrufen	sie hätte euch nicht widerrufen.	SBJV;PRF;NOM(3,SG,FEM);ACC(2,PL);NEG
+widerrufen	werdest du uns widerrufen haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(1,PL);Q
+übergeben	übergibt sie uns ihr nicht?	IND;PRS;NOM(3,SG,FEM);ACC(1,PL);DAT(3,SG,FEM);NEG;Q
+übergeben	er habe Sie nicht übergeben?	QUOT;PST;NOM(3,SG,MASC);ACC(2,FORM);NEG
+übergeben	würde er mich an es übergeben?	SBJV;NOM(3,SG,MASC);ACC(1,SG);AT+ESS(3,SG,NEUT);Q
+übergeben	haben sie sie ihnen übergeben?	IND;PST;NOM(3,PL);ACC(3,SG,FEM);DAT(3,PL);Q
+übergeben	übergab sie mich an sich nicht?	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG);AT+ESS(3,SG,FEM,RFLX);NEG;Q
+übergeben	ich werde mich an euch nicht übergeben?	QUOT;FUT;NOM(1,SG);ACC(1,SG);AT+ESS(2,PL);NEG
+übergeben	ich habe Sie ihm übergeben?	QUOT;PST;NOM(1,SG);ACC(2,FORM);DAT(3,SG,NEUT)
+übergeben	werden sie ihn ihm übergeben?	IND;FUT;NOM(3,PL);ACC(3,SG,MASC);DAT(3,SG,MASC);Q
+übergeben	wir werden ihn an Sie übergeben haben?	QUOT;FUT;PRF;NOM(1,PL);ACC(3,SG,MASC);AT+ESS(2,FORM)
+übergeben	hätte sie sich ihnen nicht übergeben?	SBJV;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);DAT(3,PL);NEG;Q
+übergeben	Sie übergeben ihn sich nicht?	QUOT;PRS;NOM(2,FORM);ACC(3,SG,MASC);DAT(2,FORM,RFLX);NEG
+übergeben	hatten sie Sie an sie nicht übergeben?	IND;PST;PRF;NOM(3,PL);ACC(2,FORM);AT+ESS(3,PL);NEG;Q
+übergeben	übergäbe er mich an sie?	SBJV;LGSPEC1;NOM(3,SG,MASC);ACC(1,SG);AT+ESS(3,PL);Q
+übergeben	sie übergab Sie sich.	IND;PST;LGSPEC1;NOM(3,SG,FEM);ACC(2,FORM);DAT(3,SG,FEM,RFLX)
+übergeben	sie übergäben ihn an euch.	SBJV;LGSPEC1;NOM(3,PL);ACC(3,SG,MASC);AT+ESS(2,PL)
+übergeben	würdest du es nicht übergeben?	SBJV;NOM(2,SG);ACC(3,SG,NEUT);NEG;Q
+übergeben	sie haben uns an sie übergeben.	IND;PST;NOM(3,PL);ACC(1,PL);AT+ESS(3,SG,FEM)
+übergeben	ich übergab uns.	IND;PST;LGSPEC1;NOM(1,SG);ACC(1,PL)
+übergeben	werden sie Sie mir übergeben?	IND;FUT;NOM(3,PL);ACC(2,FORM);DAT(1,SG);Q
+überleben	haben sie euch überlebt?	IND;PST;NOM(3,PL);ACC(2,PL);Q
+überleben	es hat mich nicht überlebt.	IND;PST;NOM(3,SG,NEUT);ACC(1,SG);NEG
+überleben	ich werde uns überleben?	QUOT;FUT;NOM(1,SG);ACC(1,PL)
+überleben	sie werden es nicht überlebt haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(3,SG,NEUT);NEG
+überleben	er wird Sie überlebt haben.	IND;FUT;PRF;NOM(3,SG,MASC);ACC(2,FORM)
+überleben	er werde mich nicht überlebt haben?	QUOT;FUT;PRF;NOM(3,SG,MASC);ACC(1,SG);NEG
+überleben	du werdest uns überlebt haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(1,PL)
+überleben	überleben wir uns nicht?	IND;PRS;NOM(1,PL);ACC(1,PL);NEG;Q
+überleben	werden Sie sie überlebt haben?	QUOT;FUT;PRF;NOM(2,FORM);ACC(3,SG,FEM);Q
+überleben	sie werden uns nicht überlebt haben?	QUOT;FUT;PRF;NOM(3,PL);ACC(1,PL);NEG
+überleben	hätte er sie nicht überlebt?	SBJV;PRF;NOM(3,SG,MASC);ACC(3,SG,FEM);NEG;Q
+überleben	werden Sie sie überlebt haben?	IND;FUT;PRF;NOM(2,FORM);ACC(3,SG,FEM);Q
+überleben	du habest dich überlebt?	QUOT;PST;NOM(2,SG);ACC(2,SG)
+überleben	ich habe mich überlebt.	IND;PST;NOM(1,SG);ACC(1,SG)
+überleben	wird sie sie überleben?	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM);Q
+überleben	ich überlebte sie nicht.	IND;PST;LGSPEC1;NOM(1,SG);ACC(3,PL);NEG
+überleben	werden wir ihn nicht überlebt haben?	IND;FUT;PRF;NOM(1,PL);ACC(3,SG,MASC);NEG;Q
+überleben	wir überleben sie.	IND;PRS;NOM(1,PL);ACC(3,SG,FEM)
+überleben	überleben wir mich nicht?	IND;PRS;NOM(1,PL);ACC(1,SG);NEG;Q
+überleben	überlebtest du es?	SBJV;LGSPEC1;NOM(2,SG);ACC(3,SG,NEUT);Q
+überleben	er überlebe Sie nicht?	QUOT;PRS;NOM(3,SG,MASC);ACC(2,FORM);NEG
+überleben	überlebt er sich?	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);Q
+überzeugen	überzeugten sie sie von ihm nicht?	IND;PST;LGSPEC1;NOM(3,PL);ACC(3,SG,FEM);AT+ABL(3,SG,NEUT);NEG;Q
+überzeugen	würde ich Sie von uns nicht überzeugen?	SBJV;NOM(1,SG);ACC(2,FORM);AT+ABL(1,PL);NEG;Q
+überzeugen	haben sie uns von Ihnen überzeugt?	IND;PST;NOM(3,PL);ACC(1,PL);AT+ABL(2,FORM);Q
+überzeugen	überzeugte er Sie von ihm?	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,FORM);AT+ABL(3,SG,MASC);Q
+überzeugen	werden wir mich von ihnen nicht überzeugen?	QUOT;FUT;NOM(1,PL);ACC(1,SG);AT+ABL(3,PL);NEG;Q
+überzeugen	ich würde Sie von ihnen nicht überzeugen.	SBJV;NOM(1,SG);ACC(2,FORM);AT+ABL(3,PL);NEG
+überzeugen	hattest du euch von mir nicht überzeugt?	IND;PST;PRF;NOM(2,SG);ACC(2,PL);AT+ABL(1,SG);NEG;Q
+überzeugen	wir hatten Sie von ihr überzeugt.	IND;PST;PRF;NOM(1,PL);ACC(2,FORM);AT+ABL(3,SG,FEM)
+überzeugen	er hat sie von ihnen nicht überzeugt.	IND;PST;NOM(3,SG,MASC);ACC(3,PL);AT+ABL(3,PL);NEG
+überzeugen	habt ihr sie von sich nicht überzeugt?	IND;PST;NOM(2,PL);ACC(3,PL);AT+ABL(3,PL,RFLX);NEG;Q
+überzeugen	Sie überzeugten sie von ihm.	IND;PST;LGSPEC1;NOM(2,FORM);ACC(3,SG,FEM);AT+ABL(3,SG,NEUT)
+überzeugen	werde sie sie von sich nicht überzeugt haben?	QUOT;FUT;PRF;NOM(3,SG,FEM);ACC(3,SG,FEM);AT+ABL(3,SG,FEM,RFLX);NEG;Q
+überzeugen	Sie hätten sie von ihnen überzeugt.	SBJV;PRF;NOM(2,FORM);ACC(3,PL);AT+ABL(3,PL)
+überzeugen	sie hatte uns von ihnen überzeugt.	IND;PST;PRF;NOM(3,SG,FEM);ACC(1,PL);AT+ABL(3,PL)
+überzeugen	ich werde uns von uns überzeugen?	QUOT;FUT;NOM(1,SG);ACC(1,PL);AT+ABL(1,PL)
+überzeugen	er überzeugte dich von uns nicht.	IND;PST;LGSPEC1;NOM(3,SG,MASC);ACC(2,SG);AT+ABL(1,PL);NEG
+überzeugen	überzeugen wir euch von Ihnen?	QUOT;PRS;NOM(1,PL);ACC(2,PL);AT+ABL(2,FORM);Q
+überzeugen	werdest du dich von mir nicht überzeugt haben?	QUOT;FUT;PRF;NOM(2,SG);ACC(2,SG);AT+ABL(1,SG);NEG;Q
+überzeugen	er würde euch von uns überzeugen.	SBJV;NOM(3,SG,MASC);ACC(2,PL);AT+ABL(1,PL)
+überzeugen	er hatte es nicht überzeugt.	IND;PST;PRF;NOM(3,SG,MASC);ACC(3,SG,NEUT);NEG
