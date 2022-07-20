@@ -98,4 +98,6 @@ Please add/update this section whenever you find something useful.
 8. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 9. [OpenPrompt repo](https://github.com/thunlp/OpenPrompt)
 10. [Exact Hard Monotonic Attention for Character-Level Transduction](https://arxiv.org/pdf/1905.06319.pdf)
+11. [Breaking Character: Are Subwords Good Enough for MRLs After All?](https://arxiv.org/pdf/2204.04748.pdf)
+12. [Neural Morphological Tagging models](http://docs.deeppavlov.ai/en/master/features/models/morphotagger.html)
 
