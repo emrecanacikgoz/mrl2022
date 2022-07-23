@@ -12,7 +12,7 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 At the end, lets beat this competition!
 
 ## Calendar of the Competition
-**Days left:** 36 <br/>
+**Days left:** 23 <br/>
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |31|18|19|20|21|22|23|24|
