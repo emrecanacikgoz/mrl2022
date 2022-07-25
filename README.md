@@ -12,16 +12,15 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 At the end, lets beat this competition!
 
 ## Calendar of the Competition
-**Days left:** 23 <br/>
+**Days left:** 21 <br/>
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|31|18|19|20|21|22|23|24|
-|32|25|26|27|28|29|30|31|
-|33|1|2|3|4|5|6|**7***|
-|34|8|9|10|11|12|13|**14***|
-|35|**15**:round_pushpin:|16|17|18|19|20|21|
-|36|**22**:dart:|23|24|**25***|26|27|28|
-|37|29|30|31|1|2|3|4|
+|30|25|26|27|28|29|30|31|
+|31|1|2|3|4|5|6|**7***|
+|32|8|9|10|11|12|13|**14***|
+|33|**15**:round_pushpin:|16|17|18|19|20|21|
+|34|**22**:dart:|23|24|**25***|26|27|28|
+|35|29|30|31|1|2|3|4|
 
 **Important Deadlines:**
 ```
