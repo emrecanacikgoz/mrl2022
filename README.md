@@ -99,4 +99,6 @@ Please add/update this section whenever you find something useful.
 10. [Exact Hard Monotonic Attention for Character-Level Transduction](https://arxiv.org/pdf/1905.06319.pdf)
 11. [Breaking Character: Are Subwords Good Enough for MRLs After All?](https://arxiv.org/pdf/2204.04748.pdf)
 12. [Neural Morphological Tagging models](http://docs.deeppavlov.ai/en/master/features/models/morphotagger.html)
+13. [Exploring Pretrained Models for Joint Morpho-Syntactic Parsing of Russian](https://www.dialog-21.ru/media/5069/anastasyevdg-147.pdf)
+14. [MorphoRuEval-2017: an Evaluation Track for the Automatic Morphological Analysis Methods](https://www.dialog-21.ru/media/3951/sorokinaetal.pdf)
 
