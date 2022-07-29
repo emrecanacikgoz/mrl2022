@@ -1,0 +1,1001 @@
+	prediction	target	loss	dist	clause_match	word_match
+0	won't you have been answering yourself?	won't you have been answering yourself?	1.6272030052277842e-06	0	1	1.0
+1	are we answering?	are we answering?	9.231569492840208e-06	0	1	1.0
+2	hasn't he answered it?	hasn't he answered it?	8.4913510363549e-05	0	1	1.0
+3	wouldn't it answer you?	wouldn't it answer you?	3.538440432748757e-05	0	1	1.0
+4	I answered.	I answered.	8.077263919403777e-05	0	1	1.0
+5	had they been answering them?	had they been answering them?	2.127877451130189e-06	0	1	1.0
+6	wouldn't it have answered you?	wouldn't it have answered you?	1.9791665181401186e-05	0	1	1.0
+7	wouldn't it have been answering itself?	wouldn't it have been answering itself?	8.612128112872597e-06	0	1	1.0
+8	will we answer?	will we answer?	2.5987396838900167e-06	0	1	1.0
+9	would you've answered to him?	would you've answered to him?	1.1348322914273012e-05	0	1	1.0
+10	we'll be answering him.	we'll be answering him.	3.2215464216278637e-06	0	1	1.0
+11	was she answering to herself?	was she answering to herself?	9.480142762186006e-05	0	1	1.0
+12	doesn't it answer to itself?	doesn't it answer to itself?	0.0096777947619557	0	1	1.0
+13	I'll have answered her.	I'll have answered her.	3.6173496482660994e-05	0	1	1.0
+14	don't answer them!	don't answer them!	2.6131992854061536e-05	0	1	1.0
+15	would we've been answering to it?	would we've been answering to it?	0.0001208438989124	0	1	1.0
+16	it answered to me.	it answered to me.	0.0029901086818426	0	1	1.0
+17	it'll have answered.	it'll have answered.	1.1330132110742852e-05	0	1	1.0
+18	would we've answered to her?	would we've answered to her?	8.317661922774278e-06	0	1	1.0
+19	will she answer?	will she answer?	1.2229057574586475e-05	0	1	1.0
+20	weren't we answering him?	weren't we answering him?	4.515840373642277e-06	0	1	1.0
+21	didn't we answer him?	didn't we answer him?	3.0187686661520274e-06	0	1	1.0
+22	she'll be applying me.	she'll be applying me.	5.754568337579258e-05	0	1	1.0
+23	won't it be applying for us?	won't it be applying for us?	0.0102687310427427	0	1	1.0
+24	hasn't she been applying for him?	hasn't she been applying for him?	0.0119506511837244	0	1	1.0
+25	you'll apply to yourselves.	you'll apply to yourselves.	0.002916669473052	0	1	1.0
+26	would he be applying to him?	would he be applying to him?	3.432397352298722e-05	0	1	1.0
+27	won't I have applied her?	won't I have applied her?	5.92082433286123e-05	0	1	1.0
+28	will she be applying on me?	will she be applying for me?	0.0720373913645744	2	0	0.8333333333333334
+29	I don't apply to us.	I don't apply for them.	0.1136267855763435	6	0	0.6
+30	wouldn't it have applied for him?	wouldn't it have applied for him?	0.0197845511138439	0	1	1.0
+31	haven't they been applying her?	haven't they been applying her?	9.812117787078024e-05	0	1	1.0
+32	has it applied it?	has it applied it?	0.0001896076864795	0	1	1.0
+33	would we've applied them?	would we've applied them?	7.777324208291247e-05	0	1	1.0
+34	they'll be applying for him.	they'll be applying for him.	0.0180614423006773	0	1	1.0
+35	won't she have applied on us?	won't she have applied for us?	0.06596689671278	2	0	0.8333333333333334
+36	didn't we apply to it?	didn't we apply to it?	0.0015006060712039	0	1	1.0
+37	I'd apply to him.	I'd apply for him.	0.0645202472805976	2	0	0.75
+38	you applied yourself.	you applied yourself.	7.406631630146876e-05	0	1	1.0
+39	they're applying on you.	they're applying for you.	0.0377332828938961	2	0	0.75
+40	haven't you been averaging us?	haven't you been averaging us?	7.461072982550831e-06	0	1	1.0
+41	they'll be averaging you.	they'll be averaging you.	8.821194569463842e-06	0	1	1.0
+42	it would have been averaging them.	it would have been averaging them.	1.380286084895488e-05	0	1	1.0
+43	I've been averaging it.	I've been averaging it.	2.2192072719917636e-05	0	1	1.0
+44	it didn't average us.	it didn't average us.	1.0954563549603336e-05	0	1	1.0
+45	I wouldn't average it.	I wouldn't average it.	1.4921499314368702e-05	0	1	1.0
+46	will it average it?	will it average it?	8.970652743300889e-06	0	1	1.0
+47	I averaged them.	I averaged them.	0.0001655899977777	0	1	1.0
+48	does she average her?	does she average her?	1.2048836651956664e-05	0	1	1.0
+49	will you average her?	will you average her?	9.652065273257904e-06	0	1	1.0
+50	you hadn't averaged us.	you hadn't averaged us.	1.2211279681650922e-05	0	1	1.0
+51	it hadn't averaged you.	it hadn't averaged you.	1.6001395124476403e-05	0	1	1.0
+52	weren't we averaging her?	weren't we averaging her?	6.128434051788645e-06	0	1	1.0
+53	are we averaging ourselves?	are we averaging ourselves?	3.126157753285952e-05	0	1	1.0
+54	will I average myself?	will I average myself?	1.5789042663527653e-05	0	1	1.0
+55	they haven't been averaging her.	they haven't been averaging her.	7.360151357715949e-06	0	1	1.0
+56	wouldn't it have been averaging them?	wouldn't it have been averaging them?	6.747151201125234e-05	0	1	1.0
+57	they wouldn't be averaging it.	they wouldn't be averaging it.	6.000040684739361e-06	0	1	1.0
+58	will we be averaging you?	will we be averaging you?	2.4946117264335044e-05	0	1	1.0
+59	they'd have been averaging themselves.	they'd have been averaging themselves.	1.2479585166147444e-05	0	1	1.0
+60	will they've averaged her?	will they've averaged her?	6.033596491761273e-06	0	1	1.0
+61	had I averaged him?	had I averaged him?	9.680214134277776e-06	0	1	1.0
+62	she hadn't avoided him.	she hadn't avoided him.	2.69821521214908e-05	0	1	1.0
+63	it wouldn't have avoided you.	it wouldn't have avoided you.	1.3099385796522256e-05	0	1	1.0
+64	would you've been avoiding us?	would you've been avoiding us?	3.03509568766458e-06	0	1	1.0
+65	he hadn't been avoiding me.	he hadn't been avoiding me.	6.715910330967745e-06	0	1	1.0
+66	would you've been avoiding them?	would you've been avoiding them?	3.920005838153884e-06	0	1	1.0
+67	would I avoid them?	would I avoid them?	2.3571838028146885e-05	0	1	1.0
+68	did she avoid you?	did she avoid you?	8.471882210869808e-06	0	1	1.0
+69	are we avoiding her?	are we avoiding her?	8.359070307051297e-06	0	1	1.0
+70	had we been avoiding me?	had we been avoiding me?	5.553518803935731e-06	0	1	1.0
+71	would she have avoided her?	would she have avoided her?	8.453943337372039e-06	0	1	1.0
+72	we're avoiding ourselves.	we're avoiding ourselves.	1.500731104897568e-05	0	1	1.0
+73	you wouldn't have been avoiding yourselves.	you wouldn't have been avoiding yourselves.	3.7086958855070407e-06	0	1	1.0
+74	I avoid him.	I avoid him.	4.335103585617617e-05	0	1	1.0
+75	have they avoided us?	have they avoided us?	8.477121809846722e-06	0	1	1.0
+76	it had avoided me.	it had avoided me.	1.1581361832213588e-05	0	1	1.0
+77	they'd been avoiding us.	they'd been avoiding us.	1.6062796930782497e-05	0	1	1.0
+78	wouldn't he have been avoiding him?	wouldn't he have been avoiding him?	8.284844625450205e-06	0	1	1.0
+79	we wouldn't have been avoiding them.	we wouldn't have been avoiding them.	6.776975169486832e-06	0	1	1.0
+80	doesn't it avoid me?	doesn't it avoid me?	0.0002665330248419	0	1	1.0
+81	he hadn't been avoiding us.	he hadn't been avoiding us.	2.721677992667537e-05	0	1	1.0
+82	wouldn't we have avoided them?	wouldn't we have avoided them?	4.026348688057624e-05	0	1	1.0
+83	won't she be bottling them?	won't she be bottling them?	5.584264727076516e-05	0	1	1.0
+84	wouldn't she be bottling it?	wouldn't she be bottling it?	1.640372647671029e-05	0	1	1.0
+85	had it been bottling them?	had it been bottling them?	2.086399217660073e-05	0	1	1.0
+86	had she been bottling you?	had she been bottling you?	9.526880603516474e-06	0	1	1.0
+87	are you bottling yourself?	are you bottling yourself?	0.0001955697371158	0	1	1.0
+88	don't you bottle yourself?	don't you bottle yourself?	5.3248215408530086e-05	0	1	1.0
+89	is she bottling me?	is she bottling me?	1.507307661086088e-05	0	1	1.0
+90	he'd bottle him.	he'd bottle him.	4.942733539792243e-06	0	1	1.0
+91	will you bottle yourselves?	will you bottle yourselves?	5.025033715355676e-06	0	1	1.0
+92	won't she have been bottling us?	won't she have been bottling us?	9.493002835370136e-06	0	1	1.0
+93	we don't bottle her.	we don't bottle her.	7.849243047530763e-06	0	1	1.0
+94	won't it bottle it?	won't it bottle it?	6.742693585692905e-06	0	1	1.0
+95	won't we have bottled him?	won't we have bottled him?	3.089717938564718e-05	0	1	1.0
+96	haven't we been bottling her?	haven't we been bottling her?	4.392324626678601e-06	0	1	1.0
+97	you'd bottled it.	you'd bottled it.	1.1639158401521854e-05	0	1	1.0
+98	they wouldn't have bottled themselves.	they wouldn't have bottled themselves.	1.8726001144386828e-05	0	1	1.0
+99	weren't we bottling ourselves?	weren't we bottling ourselves?	6.620435669901781e-06	0	1	1.0
+100	didn't she bottle you?	didn't she bottle you?	8.51115783007117e-06	0	1	1.0
+101	I've been bottling them.	I've been bottling them.	4.027183967991732e-05	0	1	1.0
+102	he won't have been bottling you.	he won't have been bottling you.	3.539308181643719e-06	0	1	1.0
+103	he'd have been bottling it.	he'd have been bottling it.	1.2676389815169388e-05	0	1	1.0
+104	we'd have bottled it.	we'd have bottled it.	2.3709513698122464e-05	0	1	1.0
+105	they'd bottled themselves.	they'd bottled themselves.	8.90070714376634e-06	0	1	1.0
+106	was I bring you to her?	was I bringing you to her?	0.2989304959774017	3	0	0.8333333333333334
+107	she won't bring them to him.	she won't bring them to him.	0.000169090781128	0	1	1.0
+108	didn't they bring themselves to it?	didn't they bring themselves to it?	0.0013054714072495	0	1	1.0
+109	have they bringed me to myself?	have they brought me to myself?	0.449192464351654	4	0	0.8333333333333334
+110	will they've been bring them to her?	will they've been bringing them to her?	0.2640482187271118	3	0	0.8571428571428571
+111	do they bring me to it?	do they bring me to it?	0.0022491959389299	0	1	1.0
+112	it's not bring itself to him.	it's not bringing itself to him.	0.3310223221778869	3	0	0.8333333333333334
+113	he wouldn't have been bring me to her.	he wouldn't have been bringing me to her.	0.3100565969944	3	0	0.875
+114	won't I have been bring us to her?	won't I have been bringing us to her?	0.3428965508937835	3	0	0.875
+115	was it bring you to it?	was it bringing you to it?	0.3527080714702606	3	0	0.8333333333333334
+116	he'll have bringed me to it.	he'll have brought me to it.	0.6782287359237671	4	0	0.8333333333333334
+117	didn't you bring him to them?	didn't you bring him to them?	0.0001847921375883	0	1	1.0
+118	he's not bring it to him.	he's not bringing it to him.	0.2832198739051819	3	0	0.8333333333333334
+119	were they bring her to me?	were they bringing her to me?	0.341190755367279	3	0	0.8333333333333334
+120	would he be bring her to you?	would he be bringing her to you?	0.3648181557655334	3	0	0.8571428571428571
+121	they bring him to you.	they bring him to you.	0.0013697687536478	0	1	1.0
+122	has he bringed him to them?	has he brought him to them?	0.6652478575706482	4	0	0.8333333333333334
+123	have they bringed me to themselves?	have they brought me to themselves?	0.4970476925373077	4	0	0.8333333333333334
+124	she wasn't bring herself to me.	she wasn't bringing herself to me.	0.3268273770809173	3	0	0.8333333333333334
+125	we'd be bring it to itself.	we'd be bringing it to itself.	0.3649178445339203	3	0	0.8333333333333334
+126	won't he be bring himself to them?	won't he be bringing himself to them?	0.3421277403831482	3	0	0.8571428571428571
+127	he wouldn't be buttoning himself.	he wouldn't be buttoning himself.	1.3829638191964476e-05	0	1	1.0
+128	would he be buttoning us?	would he be buttoning us?	1.857149527495494e-06	0	1	1.0
+129	he buttons it.	he buttons it.	0.0002078547986457	0	1	1.0
+130	will we be buttoning her?	will we be buttoning her?	7.970795195433311e-06	0	1	1.0
+131	they won't be buttoning you.	they won't be buttoning you.	5.979108664178057e-06	0	1	1.0
+132	you'd buttoned us.	you'd buttoned us.	1.010117557598278e-05	0	1	1.0
+133	hasn't she buttoned them?	hasn't she buttoned them?	7.027235551504418e-05	0	1	1.0
+134	hadn't they buttoned us?	hadn't they buttoned us?	1.3501294233719818e-05	0	1	1.0
+135	they've been buttoning him.	they've been buttoning him.	1.207031436933903e-05	0	1	1.0
+136	had they buttoned themselves?	had they buttoned themselves?	1.83133361133514e-05	0	1	1.0
+137	wouldn't they button us?	wouldn't they button us?	5.700057045032736e-06	0	1	1.0
+138	I didn't button myself.	I didn't button myself.	3.0686256650369614e-05	0	1	1.0
+139	aren't you buttoning me?	aren't you buttoning me?	8.723866812943015e-06	0	1	1.0
+140	did he button me?	did he button me?	5.927248821535613e-06	0	1	1.0
+141	won't you button yourself?	won't you button yourself?	1.592766693647718e-06	0	1	1.0
+142	would they've been centering her?	would they've been centering her?	5.525219239643775e-05	0	1	1.0
+143	she didn't center them.	she didn't center them.	1.00261349871289e-05	0	1	1.0
+144	would you be centering yourselves?	would you be centering yourselves?	0.0001183899439638	0	1	1.0
+145	he wouldn't have been centering us.	he wouldn't have been centering us.	1.0655655387381556e-05	0	1	1.0
+146	it won't center it.	it won't center it.	5.069264443591237e-05	0	1	1.0
+147	I centered them.	I centered them.	0.0006893404060974	0	1	1.0
+148	you're not centering them.	you're not centering them.	1.1581730177567806e-05	0	1	1.0
+149	will she be centering them?	will she be centering them?	0.000213495834032	0	1	1.0
+150	it hasn't centered it.	it hasn't centered it.	4.679424455389381e-05	0	1	1.0
+151	didn't you center yourself?	didn't you center yourself?	3.841154921246925e-06	0	1	1.0
+152	won't they have centered me?	won't they have centered me?	2.649516136443708e-05	0	1	1.0
+153	aren't you centering him?	aren't you centering him?	1.953076025529299e-05	0	1	1.0
+154	would it have centered us?	would it have centered us?	0.000116650298878	0	1	1.0
+155	would he center you?	would he center you?	2.9669361083506374e-06	0	1	1.0
+156	she's centering him.	she's centering him.	0.0001072267696144	0	1	1.0
+157	have you centered yourself?	have you centered yourself?	5.28155669599073e-06	0	1	1.0
+158	I'm centering him.	I'm centering him.	0.0001483231753809	0	1	1.0
+159	won't they center them?	won't they center them?	4.566316874843324e-06	0	1	1.0
+160	they've centered me.	they've centered me.	2.246385884063784e-05	0	1	1.0
+161	she won't be challenging them.	she won't be challenging them.	7.169260061345994e-05	0	1	1.0
+162	they're not challenging them.	they're not challenging them.	8.449589222436771e-05	0	1	1.0
+163	you won't be challenging me.	you won't be challenging me.	0.0001162724365713	0	1	1.0
+164	she won't be challenging you.	she won't be challenging you.	0.0002119031414622	0	1	1.0
+165	had we challenged it?	had we challenged it?	6.3333354773931205e-06	0	1	1.0
+166	he was challenging himself.	he was challenging himself.	0.0001012415086734	0	1	1.0
+167	wouldn't you challenge us?	wouldn't you challenge us?	3.4753838917822577e-06	0	1	1.0
+168	he's not challenging himself.	he's not challenging himself.	3.137470412184484e-05	0	1	1.0
+169	wouldn't we challenge them?	wouldn't we challenge them?	9.933275578077884e-06	0	1	1.0
+170	have I challenged them?	have I challenged them?	2.624550870677922e-05	0	1	1.0
+171	they won't challenge you.	they won't challenge you.	4.792575055034831e-06	0	1	1.0
+172	would you've been challenging us?	would you've been challenging us?	0.0011516830418258	0	1	1.0
+173	wouldn't he have been challenging him?	wouldn't he have been challenging him?	0.0001943956303875	0	1	1.0
+174	you haven't been challenging it.	you haven't been challenging it.	3.3252530556637794e-05	0	1	1.0
+175	you hadn't been challenged yourself.	you hadn't been challenging yourself.	0.0398389287292957	3	0	0.8
+176	won't she have been challenging them?	won't she have been challenging them?	0.0001732162636471	0	1	1.0
+177	they'll have been challenging them.	they'll have been challenging them.	0.0002575175312813	0	1	1.0
+178	will I've challenged it?	will I've challenged it?	3.688395372591913e-05	0	1	1.0
+179	you'd challenged yourself.	you'd challenged yourself.	4.138694748689886e-06	0	1	1.0
+180	she's not coding.	she's not coding.	3.187281254213303e-05	0	1	1.0
+181	have you been coding?	have you been coding?	9.258291356673e-06	0	1	1.0
+182	don't you code?	don't you code?	4.860486296820454e-05	0	1	1.0
+183	she'll code.	she'll code.	2.261133340653032e-05	0	1	1.0
+184	I'll be coding.	I'll be coding.	4.990856177755632e-05	0	1	1.0
+185	he wouldn't have been coding.	he wouldn't have been coding.	1.1502866982482374e-05	0	1	1.0
+186	won't he be coding?	won't he be coding?	3.107342763541965e-06	0	1	1.0
+187	he'll have been coding.	he'll have been coding.	2.6788258765009232e-05	0	1	1.0
+188	code!	code!	0.0021933452226221	0	1	1.0
+189	he'd code.	he'd code.	9.14298743737163e-06	0	1	1.0
+190	won't it have been coding?	won't it have been coding?	0.0002205047494499	0	1	1.0
+191	will he have coded?	will he have coded?	9.068156214198098e-05	0	1	1.0
+192	we'd be coding.	we'd be coding.	5.2848754421575e-06	0	1	1.0
+193	they'd code.	they'd code.	1.5690642612753436e-05	0	1	1.0
+194	we'll be coding.	we'll be coding.	3.484857870716951e-06	0	1	1.0
+195	we hadn't coded.	we hadn't coded.	4.523419920587912e-05	0	1	1.0
+196	had she coded?	had she coded?	2.4736458726692945e-05	0	1	1.0
+197	you haven't coded.	you haven't coded.	3.1187992135528475e-05	0	1	1.0
+198	I didn't code.	I didn't code.	6.433694215957075e-05	0	1	1.0
+199	code!	code!	0.0021933452226221	0	1	1.0
+200	she'll have been completing them.	she'll have been completing them.	3.1800147553440183e-05	0	1	1.0
+201	has he been completing them?	has he been completing them?	2.9288814403116703e-05	0	1	1.0
+202	it's been completing him.	it's been completing him.	2.24269006139366e-05	0	1	1.0
+203	you hadn't been completing me.	you hadn't been completing me.	5.16464615429868e-06	0	1	1.0
+204	will I've been completing her?	will I've been completing her?	0.000336883123964	0	1	1.0
+205	they wouldn't complete it.	they wouldn't complete it.	6.288928943831706e-06	0	1	1.0
+206	he'll be completing him.	he'll be completing him.	2.150514228560496e-05	0	1	1.0
+207	I wouldn't have been completing her.	I wouldn't have been completing her.	0.0004245017189532	0	1	1.0
+208	hasn't she completed them?	hasn't she completed them?	2.749310624494683e-05	0	1	1.0
+209	won't it be completing it?	won't it be completing it?	3.241500962758437e-05	0	1	1.0
+210	would they complete him?	would they complete him?	8.42162080516573e-06	0	1	1.0
+211	don't we complete him?	don't we complete him?	0.0001201805207529	0	1	1.0
+212	would he have been completing me?	would he have been completing me?	2.532386361053796e-06	0	1	1.0
+213	won't we complete you?	won't we complete you?	7.26797225070186e-06	0	1	1.0
+214	aren't they completing it?	aren't they completing it?	4.643866850528866e-05	0	1	1.0
+215	you hadn't been completing them.	you hadn't been completing them.	2.1618695882352768e-06	0	1	1.0
+216	will I complete him?	will I complete him?	6.043383837095462e-05	0	1	1.0
+217	it wouldn't complete me.	it wouldn't complete me.	1.3259073057270143e-05	0	1	1.0
+218	had he been completing him?	had he been completing him?	1.7623600570004785e-06	0	1	1.0
+219	hasn't she been containing you?	hasn't she been containing you?	1.326092296949355e-05	0	1	1.0
+220	won't we have been containing it?	won't we have been containing it?	7.032922894723015e-06	0	1	1.0
+221	hadn't he contained us?	hadn't he contained us?	3.2437562822451582e-06	0	1	1.0
+222	will he contain them?	will he contain them?	0.0001764730113791	0	1	1.0
+223	was he containing us?	was he containing us?	0.0001100447843782	0	1	1.0
+224	wouldn't I contain him?	wouldn't I contain him?	1.2264989891264122e-05	0	1	1.0
+225	you've contained yourselves.	you've contained yourselves.	4.379358415462775e-06	0	1	1.0
+226	didn't they contain you?	didn't they contain you?	1.8394488506601192e-05	0	1	1.0
+227	isn't she containing me?	isn't she containing me?	2.3793325453880243e-05	0	1	1.0
+228	won't we contain ourselves?	won't we contain ourselves?	5.301540568325436e-06	0	1	1.0
+229	didn't it contain itself?	didn't it contain itself?	1.7189449863508344e-05	0	1	1.0
+230	we'd have contained him.	we'd have contained him.	0.0001208842586493	0	1	1.0
+231	they won't have been containing them.	they won't have been containing them.	8.406689630646724e-06	0	1	1.0
+232	she hadn't contained herself.	she hadn't contained herself.	8.435227937297896e-05	0	1	1.0
+233	won't we have contained ourselves?	won't we have contained ourselves?	6.132854650786612e-06	0	1	1.0
+234	we won't have contained him.	we won't have contained him.	9.150281584879847e-06	0	1	1.0
+235	hasn't she been containing him?	hasn't she been containing him?	1.87849291251041e-05	0	1	1.0
+236	hasn't it contained her?	hasn't it contained her?	1.9397415599087253e-05	0	1	1.0
+237	hadn't we contained it?	hadn't we contained it?	6.964110980334226e-06	0	1	1.0
+238	he wouldn't be cooking us.	he wouldn't be cooking us.	4.773493856191635e-06	0	1	1.0
+239	won't we cook ourselves?	won't we cook ourselves?	1.7628508430789225e-05	0	1	1.0
+240	they cooked me.	they cooked me.	7.967151032062247e-05	0	1	1.0
+241	we won't be cooking her.	we won't be cooking her.	8.378184247703757e-06	0	1	1.0
+242	would he have cooked it?	would he have cooked it?	5.571763722400647e-06	0	1	1.0
+243	he hadn't cooked himself.	he hadn't cooked himself.	5.245117336016847e-06	0	1	1.0
+244	will they cook themselves?	will they cook themselves?	1.5130272913665976e-05	0	1	1.0
+245	hadn't I been cooking them?	hadn't I been cooking them?	7.128418019419769e-06	0	1	1.0
+246	would it have cooked her?	would it have cooked her?	0.0005764929810538	0	1	1.0
+247	he was cooking her.	he was cooking her.	5.749176852987148e-05	0	1	1.0
+248	will they've been cooking him?	will they've been cooking him?	8.55850703374017e-06	0	1	1.0
+249	she was cooking herself.	she was cooking herself.	1.042982876242604e-05	0	1	1.0
+250	hadn't she been cooking us?	hadn't she been cooking us?	1.0922966794169042e-05	0	1	1.0
+251	won't you have been cooking her?	won't you have been cooking her?	3.4623978990566684e-06	0	1	1.0
+252	it would be cooking it.	it would be cooking it.	7.164770795498043e-05	0	1	1.0
+253	it won't be cooking.	it won't be cooking.	4.779248047270812e-05	0	1	1.0
+254	he'd been cooking you.	he'd been cooking you.	4.918258127872832e-06	0	1	1.0
+255	would you've cooked me?	would you've cooked me?	7.716203981544822e-06	0	1	1.0
+256	doesn't it cook us?	doesn't it cook us?	1.938437890203204e-05	0	1	1.0
+257	it wouldn't have designed it.	it wouldn't have designed it.	2.0648363715736195e-05	0	1	1.0
+258	had you been designing yourselves?	had you been designing yourselves?	1.1146770702907816e-05	0	1	1.0
+259	you design him.	you design him.	8.592930498707574e-06	0	1	1.0
+260	you'll be designing it.	you'll be designing it.	1.123517631640425e-05	0	1	1.0
+261	it would have been designing him.	it would have been designing him.	3.719447704497725e-05	0	1	1.0
+262	he designed it.	he designed it.	3.581188866519369e-05	0	1	1.0
+263	it'll design us.	it'll design us.	2.882589978980832e-05	0	1	1.0
+264	will I've been designing myself?	will I've been designing myself?	3.373405706952326e-05	0	1	1.0
+265	hadn't I been designing him?	hadn't I been designing him?	1.0879914043471215e-05	0	1	1.0
+266	will we be designing him?	will we be designing him?	8.300783520098776e-06	0	1	1.0
+267	he'll design her.	he'll design her.	1.8731590898823924e-05	0	1	1.0
+268	it didn't design us.	it didn't design us.	2.0510424292297103e-05	0	1	1.0
+269	you design yourselves.	you design yourselves.	4.30088857683586e-06	0	1	1.0
+270	has she designed them?	has she designed them?	1.3757508895650972e-05	0	1	1.0
+271	she designed herself.	she designed herself.	4.126648491364904e-05	0	1	1.0
+272	do I design them?	do I design them?	6.0908758314326406e-05	0	1	1.0
+273	hasn't he been designing himself?	hasn't he been designing himself?	1.7063117411453277e-05	0	1	1.0
+274	won't they design them?	won't they design them?	5.795556262455648e-06	0	1	1.0
+275	am I designing her?	am I designing her?	7.722149166511372e-05	0	1	1.0
+276	would I design him?	would I design him?	8.709443136467598e-06	0	1	1.0
+277	didn't she design him?	didn't she design him?	2.253370257676579e-05	0	1	1.0
+278	it won't have been displaying it.	it won't have been displaying it.	3.90340355806984e-05	0	1	1.0
+279	you'd have been displaying them.	you'd have been displaying them.	1.2172675269539468e-05	0	1	1.0
+280	she wouldn't have displayed him.	she wouldn't have displayed him.	0.0162955280393362	0	1	1.0
+281	would he be displaying you?	would he be displaying you?	6.860486791993026e-06	0	1	1.0
+282	would I've been displaying myself?	would I've been displaying myself?	2.657905497471802e-05	0	1	1.0
+283	we'd have been displaying you.	we'd have been displaying you.	5.138448159414111e-06	0	1	1.0
+284	won't I display him?	won't I display him?	1.2999248610867651e-05	0	1	1.0
+285	wouldn't she have been displaying us?	wouldn't she have been displaying us?	1.0938436389551498e-05	0	1	1.0
+286	haven't you been displaying him?	haven't you been displaying him?	6.935909823369002e-06	0	1	1.0
+287	will it display me?	will it display me?	2.068382491415832e-05	0	1	1.0
+288	you'd have been displaying yourself.	you'd have been displaying yourself.	5.96975860389648e-06	0	1	1.0
+289	hadn't she displayed herself?	hadn't she displayed herself?	0.0085611008107662	0	1	1.0
+290	she was displaying me.	she was displaying me.	2.398438482487109e-05	0	1	1.0
+291	am I not displaying him?	am I not displaying him?	5.694302308256738e-05	0	1	1.0
+292	will he have been displaying it?	will he have been displaying it?	1.0728410416049884e-05	0	1	1.0
+293	you'll be displaying me.	you'll be displaying me.	1.8623934010975063e-05	0	1	1.0
+294	you'd have been displaying it.	you'd have been displaying it.	9.558253623254132e-06	0	1	1.0
+295	you don't display us.	you don't display us.	6.073355507396627e-06	0	1	1.0
+296	had they been displaying us?	had they been displaying us?	7.105335043888772e-06	0	1	1.0
+297	don't display it!	don't display it!	6.503047188743949e-05	0	1	1.0
+298	you'll have displayed me.	you'll have displayed me.	0.0067374464124441	0	1	1.0
+299	it's displaying him.	it's displaying him.	4.640763654606417e-05	0	1	1.0
+300	am I not displaying it?	am I not displaying it?	2.613523611216806e-05	0	1	1.0
+301	they weren't distancing me.	they weren't distancing me from myself.	0.4552540779113769	12	0	0.6
+302	she'd distanced us on them.	she'd distanced us from them.	0.1410755962133407	3	0	0.8
+303	will we be distancing ourselves to on them?	will we be distancing ourselves from them?	0.2671811282634735	4	0	0.6666666666666666
+304	I didn't distance her on her.	I didn't distance her from her.	0.1010029762983322	3	0	0.8333333333333334
+305	would you've distanced us to them?	would you've distanced us from them?	0.2087824344635009	3	0	0.8333333333333334
+306	hadn't I been distancing him with myself?	hadn't I been distancing myself from him?	0.2333661019802093	15	0	0.5714285714285714
+307	didn't it distance him on it?	didn't it distance him from it?	0.0982056558132171	3	0	0.8333333333333334
+308	had she been distancing her on her?	had she been distancing her from it?	0.1548833400011062	6	0	0.7142857142857143
+309	wouldn't you have been distancing him on me?	wouldn't you have been distancing him from it?	0.0898943766951561	5	0	0.75
+310	would we've distanced him on me?	would we've distanced him from you?	0.1252824962139129	6	0	0.6666666666666666
+311	wouldn't she have been distancing us on it?	wouldn't he have been distancing it from us?	0.2243188768625259	8	0	0.5
+312	will he be distancing her on her?	will he be distancing her from her?	0.134256437420845	3	0	0.8571428571428571
+313	have I distanced us on you?	have I distanced us from you?	0.20389024913311	3	0	0.8333333333333334
+314	would she have distanced me to them?	would she have distanced me from them?	0.2099139094352722	3	0	0.8571428571428571
+315	have I distanced myself at myself?	have I distanced myself from it?	0.2766877114772796	8	0	0.6666666666666666
+316	we wouldn't be dogging.	we wouldn't be dogging.	0.0007756382110528	0	1	1.0
+317	they hadn't dogged.	they hadn't dogged.	0.0005665519274771	0	1	1.0
+318	won't you have dogged?	won't you have dogged?	0.0012708865106105	0	1	1.0
+319	you wouldn't have dogged.	you wouldn't have dogged.	0.0004556056519504	0	1	1.0
+320	have they dogged?	have they dogged?	0.0133810611441731	0	1	1.0
+321	it would dog.	it would dog.	4.422441270435229e-05	0	1	1.0
+322	you were dogging.	you were dogging.	0.0049797622486948	0	1	1.0
+323	we'll have been dogging.	we'll have been dogging.	0.0080511188134551	0	1	1.0
+324	won't I have been dogging?	won't I have been dogging?	0.0015015548560768	0	1	1.0
+325	she won't have dogged.	she won't have dogged.	0.0017383812228217	0	1	1.0
+326	would it have been dogging?	would it have been dogging?	0.0005854805931448	0	1	1.0
+327	wouldn't she have been dogging?	wouldn't she have been dogging?	0.0005868688458576	0	1	1.0
+328	have you dogged?	have you dogged?	0.0047290013171732	0	1	1.0
+329	wouldn't you dog?	wouldn't you dog?	0.0001959577639354	0	1	1.0
+330	are we doging?	are we dogging?	0.0221967808902263	1	0	0.6666666666666666
+331	she hasn't been dogging.	she hasn't been dogging.	0.0090259881690144	0	1	1.0
+332	you hadn't been dogging.	you hadn't been dogging.	0.0069678826257586	0	1	1.0
+333	had you been dogging?	had you been dogging?	0.0034727281890809	0	1	1.0
+334	wouldn't they dog?	wouldn't they dog?	0.000110373199277	0	1	1.0
+335	it doesn't dog.	it doesn't dog.	0.0001213522336911	0	1	1.0
+336	am I not dogging?	am I not dogging?	0.0148360701277852	0	1	1.0
+337	will you drop me?	will you drop me?	2.6973557396559045e-05	0	1	1.0
+338	he'd been dropping you.	he'd been dropping you.	9.454419341636822e-06	0	1	1.0
+339	aren't you dropping me?	aren't you dropping me?	2.472454980306793e-05	0	1	1.0
+340	would you drop yourselves?	would you drop yourselves?	5.566256731981412e-06	0	1	1.0
+341	he won't be dropping him.	he won't be dropping him.	7.76162778493017e-06	0	1	1.0
+342	I'll have been dropping it.	I'll have been dropping it.	2.240270441689063e-05	0	1	1.0
+343	won't it drop him?	won't it drop him?	2.6662042728275992e-05	0	1	1.0
+344	we'd drop him.	we'd drop him.	1.0559921065578235e-05	0	1	1.0
+345	he hasn't dropped them.	he hasn't dropped them.	2.853377372957766e-05	0	1	1.0
+346	they're dropping you.	they're dropping you.	8.446710126008838e-05	0	1	1.0
+347	they don't drop her.	they don't drop her.	1.668947152211331e-05	0	1	1.0
+348	you'd dropped her.	you'd dropped her.	1.6746869732742198e-05	0	1	1.0
+349	wouldn't you have been dropping it?	wouldn't you have been dropping it?	1.2630919627554247e-05	0	1	1.0
+350	will you be dropping him?	will you be dropping him?	1.7513792045065202e-05	0	1	1.0
+351	is she dropping them?	is she dropping them?	0.0001925715914694	0	1	1.0
+352	aren't you dropping yourself?	aren't you dropping yourself?	9.71557092270814e-05	0	1	1.0
+353	is he dropping them?	is he dropping them?	0.0003844077291432	0	1	1.0
+354	it dropped us.	it dropped us.	0.0006759307580068	0	1	1.0
+355	does she drop her?	does she drop her?	1.0453387403686064e-05	0	1	1.0
+356	won't you have dropped her?	won't you have dropped her?	1.1758245818782598e-05	0	1	1.0
+357	won't it be dropping you?	won't it be dropping you?	0.0001225282467203	0	1	1.0
+358	will they've been dropping them?	will they've been dropping them?	9.539684469928034e-06	0	1	1.0
+359	they've farmed.	they've farmed.	3.9394977648044005e-05	0	1	1.0
+360	wouldn't we have been farming?	wouldn't we have been farming?	1.4801093129790388e-05	0	1	1.0
+361	he won't have been farming.	he won't have been farming.	3.276297502452508e-05	0	1	1.0
+362	will I've farmed?	will I've farmed?	0.0001420658663846	0	1	1.0
+363	wouldn't we farm?	wouldn't we farm?	5.451517426990904e-05	0	1	1.0
+364	it's farming.	it's farming.	2.84052384813549e-05	0	1	1.0
+365	wouldn't it be farming?	wouldn't it be farming?	2.3782336938893422e-05	0	1	1.0
+366	will it farm?	will it farm?	2.145931102859322e-05	0	1	1.0
+367	wasn't he farming?	wasn't he farming?	5.241743929218501e-05	0	1	1.0
+368	she doesn't farm.	she doesn't farm.	6.27079643891193e-05	0	1	1.0
+369	he hadn't farmed.	he hadn't farmed.	4.240746784489602e-05	0	1	1.0
+370	would I be farming?	would I be farming?	3.308846862637438e-05	0	1	1.0
+371	wouldn't we have been farming?	wouldn't we have been farming?	1.4801093129790388e-05	0	1	1.0
+372	hasn't it been farming?	hasn't it been farming?	2.314871562703047e-05	0	1	1.0
+373	haven't they farmed?	haven't they farmed?	5.64933980058413e-05	0	1	1.0
+374	they've farmed.	they've farmed.	4.576054197968915e-05	0	1	1.0
+375	I'd farm.	I'd farm.	0.0001531876041553	0	1	1.0
+376	wouldn't they have farmed?	wouldn't they have farmed?	6.866450712550431e-05	0	1	1.0
+377	does it farm?	does it farm?	3.0061424695304595e-05	0	1	1.0
+378	you wouldn't farm.	you wouldn't farm.	3.72090726159513e-05	0	1	1.0
+379	will she have farmed?	will she have farmed?	8.975576929515228e-05	0	1	1.0
+380	it would have filmed him.	it would have filmed him.	7.962506060721353e-05	0	1	1.0
+381	it'll have been filming her.	it'll have been filming her.	4.3452237150631845e-05	0	1	1.0
+382	had they been filming her?	had they been filming her?	6.222198408067925e-06	0	1	1.0
+383	were they filming us?	were they filming us?	1.4423489119508304e-05	0	1	1.0
+384	they'd filmed them.	they'd filmed them.	0.0001217616445501	0	1	1.0
+385	she wasn't filming us.	she wasn't filming us.	5.645009514410049e-05	0	1	1.0
+386	he wasn't filming himself.	he wasn't filming himself.	1.2002082257822622e-05	0	1	1.0
+387	he won't film me.	he won't film me.	2.604133624117821e-05	0	1	1.0
+388	you're not filming him.	you're not filming him.	8.477990377286915e-06	0	1	1.0
+389	we haven't filmed ourselves.	we haven't filmed ourselves.	3.228243440389633e-05	0	1	1.0
+390	we'll be filming you.	we'll be filming you.	1.6657202650094405e-05	0	1	1.0
+391	has she filmed?	has she filmed?	0.0003017309063579	0	1	1.0
+392	I'll have filmed us.	I'll have filmed us.	0.0006362915155477	0	1	1.0
+393	you film them.	you film them.	9.612308531359304e-06	0	1	1.0
+394	he'll have been filming us.	he'll have been filming us.	3.10585783154238e-05	0	1	1.0
+395	he wasn't filming her.	he wasn't filming her.	1.3893919458496384e-05	0	1	1.0
+396	she hadn't been filming it.	she hadn't been filming it.	4.254133818903938e-05	0	1	1.0
+397	we film her.	we film her.	7.653215288883075e-05	0	1	1.0
+398	we've been filming him.	we've been filming him.	2.91178330371622e-05	0	1	1.0
+399	won't you be finishing them?	won't you be finishing them?	3.1199760996969417e-06	0	1	1.0
+400	hadn't they finished me?	hadn't they finished me?	8.04020237410441e-06	0	1	1.0
+401	would she be finishing it?	would she be finishing it?	4.297685336496215e-06	0	1	1.0
+402	wouldn't we have been finishing him?	wouldn't we have been finishing him?	3.438218982410035e-06	0	1	1.0
+403	you're finishing him.	you're finishing him.	2.2345042452798225e-05	0	1	1.0
+404	hasn't she been finishing it?	hasn't she been finishing it?	2.0953290004399605e-05	0	1	1.0
+405	he'll be finishing me.	he'll be finishing me.	1.972420250240248e-05	0	1	1.0
+406	aren't they finishing themselves?	aren't they finishing themselves?	2.9930191885796376e-05	0	1	1.0
+407	I hadn't finished it.	I hadn't finished it.	5.5050753871910274e-05	0	1	1.0
+408	he won't have finished you.	he won't have finished you.	2.449160456308164e-05	0	1	1.0
+409	they'd finish them.	they'd finish them.	5.41591907676775e-05	0	1	1.0
+410	we hadn't been finishing me.	we hadn't been finishing me.	5.95712890572031e-06	0	1	1.0
+411	will you've finished yourselves?	will you've finished yourselves?	1.809600144042633e-05	0	1	1.0
+412	she's finished me.	she's finished me.	7.655374793102965e-05	0	1	1.0
+413	she doesn't finish them.	she doesn't finish them.	3.450182703090832e-05	0	1	1.0
+414	wouldn't they have been finishing us?	wouldn't they have been finishing us?	9.931703061738515e-06	0	1	1.0
+415	we wouldn't finish her.	we wouldn't finish her.	3.325291800138075e-06	0	1	1.0
+416	will he be founding them?	will he be founding them?	5.65984046261292e-05	0	1	1.0
+417	she'd have founded me.	she'd have founded me.	5.802674058941193e-05	0	1	1.0
+418	it wouldn't be founding me.	it wouldn't be founding me.	1.5836976672289893e-05	0	1	1.0
+419	won't we have been founding them?	won't we have been founding them?	7.471393018931849e-06	0	1	1.0
+420	he's founding her.	he's founding her.	8.153549060807563e-06	0	1	1.0
+421	has she founded us?	has she founded us?	1.7507818483863957e-05	0	1	1.0
+422	have they founded it?	have they founded it?	1.47318451126921e-05	0	1	1.0
+423	won't it have been founding me?	won't it have been founding me?	2.2747462935512885e-05	0	1	1.0
+424	did he found us?	did he found us?	5.749191586801317e-06	0	1	1.0
+425	hasn't he founded me?	hasn't he founded me?	3.0662915378343314e-05	0	1	1.0
+426	hadn't I founded myself?	hadn't I founded myself?	1.994412014028057e-05	0	1	1.0
+427	I founded it.	I founded it.	0.0001486817636759	0	1	1.0
+428	is it founding him?	is it founding him?	0.000248883414315	0	1	1.0
+429	wouldn't it have been founding me?	wouldn't it have been founding me?	3.0394387067644857e-05	0	1	1.0
+430	will we've been founding me?	will we've been founding me?	9.31443446461344e-06	0	1	1.0
+431	she'd founded herself.	she'd founded herself.	3.4563898225314915e-05	0	1	1.0
+432	it would found her.	it would found her.	3.552340422174893e-05	0	1	1.0
+433	you're founding me.	you're founding me.	2.4746939743636176e-05	0	1	1.0
+434	they'd be founding him.	they'd be founding him.	5.691156729881186e-06	0	1	1.0
+435	doesn't she found her?	doesn't she found her?	0.0008763785008341	0	1	1.0
+436	have I been grading her?	have I been grading her?	4.974859257345088e-05	0	1	1.0
+437	it hasn't graded them.	it hasn't graded them.	5.7150278735207394e-05	0	1	1.0
+438	you'd grade me.	you'd grade me.	6.999126071605133e-06	0	1	1.0
+439	they won't have graded him.	they won't have graded him.	6.928857328603044e-05	0	1	1.0
+440	have we graded ourselves?	have we graded ourselves?	5.596492337645032e-05	0	1	1.0
+441	we won't have been grading them.	we won't have been grading them.	4.840307155973278e-06	0	1	1.0
+442	had you graded it?	had you graded it?	1.9995646653114815e-05	0	1	1.0
+443	wouldn't they grade me?	wouldn't they grade me?	8.411661838181317e-06	0	1	1.0
+444	it didn't grade him.	it didn't grade him.	2.2526188331539743e-05	0	1	1.0
+445	you haven't been grading him.	you haven't been grading him.	3.968626515415963e-06	0	1	1.0
+446	she grades him.	she grades him.	0.0002556705730967	0	1	1.0
+447	had I been grading him?	had I been grading him?	2.40010631387122e-05	0	1	1.0
+448	it hasn't graded me.	it hasn't graded me.	0.0001191279807244	0	1	1.0
+449	haven't we been grading it?	haven't we been grading it?	1.4085535440244712e-05	0	1	1.0
+450	we'd have graded it.	we'd have graded it.	5.517708268598653e-05	0	1	1.0
+451	she wouldn't have been grading them.	she wouldn't have been grading them.	1.4110500160313675e-05	0	1	1.0
+452	were we grading you?	were we grading you?	2.3603427052876214e-06	0	1	1.0
+453	you'll be grading them.	you'll be grading them.	2.840678689608467e-06	0	1	1.0
+454	won't you have been grading me?	won't you have been grading me?	2.6369643819634803e-06	0	1	1.0
+455	they're not influencing him.	they're not influencing him.	1.0299838322680444e-05	0	1	1.0
+456	you wouldn't be influencing us.	you wouldn't be influencing us.	8.843789146339986e-06	0	1	1.0
+457	you'd have influenced yourself.	you'd have influenced yourself.	3.4216127460240382e-06	0	1	1.0
+458	won't it influence them?	won't it influence them?	1.9171777239535004e-05	0	1	1.0
+459	hadn't I influenced you?	hadn't I influenced you?	4.887499471806223e-06	0	1	1.0
+460	would you be influencing me?	would you be influencing me?	2.699011702134157e-06	0	1	1.0
+461	you wouldn't have been influencing me.	you wouldn't have been influencing me.	2.631179813761264e-05	0	1	1.0
+462	hasn't she been influencing you?	hasn't she been influencing you?	2.2705162336933427e-05	0	1	1.0
+463	wouldn't you have been influencing us?	wouldn't you have been influencing us?	6.036843387846602e-06	0	1	1.0
+464	had you been influencing us?	had you been influencing us?	3.1666766062699025e-06	0	1	1.0
+465	didn't you influence it?	didn't you influence it?	1.1513804565765897e-05	0	1	1.0
+466	wouldn't they influence them?	wouldn't they influence them?	5.254309598967666e-06	0	1	1.0
+467	won't I influence myself?	won't I influence myself?	8.46634338813601e-06	0	1	1.0
+468	wouldn't we have been influencing me?	wouldn't we have been influencing me?	3.854406713799108e-06	0	1	1.0
+469	it wouldn't influence me.	it wouldn't influence me.	8.796398105914705e-06	0	1	1.0
+470	it wouldn't have influenced her.	it wouldn't have influenced her.	6.543724884977564e-05	0	1	1.0
+471	it's influenced me.	it's influenced me.	7.415113032038789e-06	0	1	1.0
+472	I'll influence you.	I'll influence you.	7.649563485756516e-05	0	1	1.0
+473	wouldn't I be influencing him?	wouldn't I be influencing him?	6.165090780996252e-06	0	1	1.0
+474	won't you be influencing us?	won't you be influencing us?	4.921164872939698e-06	0	1	1.0
+475	they weren't influencing me.	they weren't influencing me.	7.048430688882945e-06	0	1	1.0
+476	had I been joining myself?	had I been joining myself?	7.98543551354669e-05	0	1	1.0
+477	she didn't join them.	she didn't join them.	5.5375247029587626e-05	0	1	1.0
+478	will you join him?	will you join him?	4.730175533040892e-06	0	1	1.0
+479	wouldn't she have been joining it?	wouldn't she have been joining it?	1.2144935681135394e-05	0	1	1.0
+480	won't they join themselves?	won't they join themselves?	1.0934189049294218e-05	0	1	1.0
+481	it was joining you.	it was joining you.	2.459495772200171e-05	0	1	1.0
+482	would we be joining me?	would we be joining me?	8.358423656318337e-05	0	1	1.0
+483	would she have joined them?	would she have joined them?	2.3046459318720736e-05	0	1	1.0
+484	won't you join yourselves?	won't you join yourselves?	5.39314714842476e-06	0	1	1.0
+485	he'd join.	he'd join.	8.514438377460465e-05	0	1	1.0
+486	didn't he join himself?	didn't he join himself?	1.4259307135944256e-05	0	1	1.0
+487	she was joining them.	she was joining them.	9.24737614695914e-05	0	1	1.0
+488	aren't you joining yourself?	aren't you joining yourself?	0.0009862766601145	0	1	1.0
+489	join her!	join her!	0.0009466823539696	0	1	1.0
+490	she won't be joining her.	she won't be joining her.	4.05239115934819e-05	0	1	1.0
+491	would you've been lasting?	would you've been lasting?	9.700585906102788e-06	0	1	1.0
+492	won't you be lasting?	won't you be lasting?	3.259744971728651e-06	0	1	1.0
+493	you hadn't been lasting.	you hadn't been lasting.	6.149486125650583e-06	0	1	1.0
+494	she lasts.	she lasts.	0.0002200502203777	0	1	1.0
+495	did we last?	did we last?	2.134249734808691e-05	0	1	1.0
+496	he lasted.	he lasted.	0.0005799744976684	0	1	1.0
+497	had I lasted?	had I lasted?	1.7896878489409573e-05	0	1	1.0
+498	I didn't last.	I didn't last.	7.027931133052334e-05	0	1	1.0
+499	would I be lasting?	would I be lasting?	7.31266936782049e-06	0	1	1.0
+500	he'd be lasting.	he'd be lasting.	1.7549067706568167e-05	0	1	1.0
+501	he hadn't been lasting.	he hadn't been lasting.	1.0347648640163245e-05	0	1	1.0
+502	will she be lasting?	will she be lasting?	1.4353939150169026e-05	0	1	1.0
+503	she doesn't last.	she doesn't last.	0.0008740306366235	0	1	1.0
+504	you were lasting.	you were lasting.	1.3000177204958163e-05	0	1	1.0
+505	hasn't she been lasting?	hasn't she been lasting?	2.135509203071706e-05	0	1	1.0
+506	had he lasted?	had he lasted?	4.00034841732122e-05	0	1	1.0
+507	has he lasted?	has he lasted?	0.0001156886428361	0	1	1.0
+508	won't I have been lasting?	won't I have been lasting?	1.834744216466788e-05	0	1	1.0
+509	she's lasted.	she's lasted.	0.0001223824219778	0	1	1.0
+510	has he lasted?	has he lasted?	0.0001156886428361	0	1	1.0
+511	weren't you lasting?	weren't you lasting?	1.8482514860806987e-05	0	1	1.0
+512	we hadn't been lasting.	we hadn't been lasting.	8.159827302733902e-06	0	1	1.0
+513	haven't you longed for her?	haven't you longed for her?	0.0024256247561424	0	1	1.0
+514	you've longed for me.	you've longed for me.	0.0031565106473863	0	1	1.0
+515	we wouldn't be longing for me.	we wouldn't be longing for me.	0.0046295183710753	0	1	1.0
+516	I won't have longed for them.	I won't have longed for them.	0.0071130953729152	0	1	1.0
+517	he'll be longing for him.	he'll be longing for him.	0.0002652964321896	0	1	1.0
+518	have they longed for him?	have they longed for him?	0.0011924551799893	0	1	1.0
+519	they hadn't longed for me.	they hadn't longed for me.	0.0027670073322951	0	1	1.0
+520	will she have been longing for her?	will she have been longing for her?	0.0013902450446039	0	1	1.0
+521	aren't they longing for him?	aren't they longing for him?	0.0011834076140075	0	1	1.0
+522	won't you be longing for her?	won't you be longing for her?	0.0012531924294307	0	1	1.0
+523	wouldn't you long for me?	wouldn't you long for me?	0.0009180032648146	0	1	1.0
+524	won't he be longing for me?	won't he be longing for me?	0.0020456318743526	0	1	1.0
+525	wouldn't he long for him?	wouldn't he long for him?	0.0011168501805514	0	1	1.0
+526	have they been longing for her?	have they been longing for her?	0.0013941130600869	0	1	1.0
+527	she's longing for you.	she's longing for you.	0.002520911861211	0	1	1.0
+528	you wouldn't have longed for it.	you wouldn't have longed for it.	0.003214031457901	0	1	1.0
+529	she'll have been managing me.	she'll have been managing me.	7.691652717767283e-05	0	1	1.0
+530	you'll have been managing yourself.	you'll have been managing yourself.	4.651884410122875e-06	0	1	1.0
+531	I managed them.	I managed them.	0.0017010498559102	0	1	1.0
+532	won't they be managing you?	won't they be managing you?	2.65992057393305e-05	0	1	1.0
+533	she wouldn't have been managing him.	she wouldn't have been managing him.	9.393221989739686e-05	0	1	1.0
+534	will it be managing it?	will it be managing it?	0.0002096573298331	0	1	1.0
+535	would it manage him?	would it manage him?	4.2762290831888095e-05	0	1	1.0
+536	it hasn't been managing itself.	it hasn't been managing itself.	0.0001543214457342	0	1	1.0
+537	didn't he manage them?	didn't he manage them?	1.4613321582146456e-05	0	1	1.0
+538	was I managing him?	was I managing him?	0.0006111676921136	0	1	1.0
+539	you wouldn't have been managing yourself.	you wouldn't have been managing yourself.	4.563923994282959e-06	0	1	1.0
+540	will I've been managing them?	will I've been managing them?	5.432700709206984e-05	0	1	1.0
+541	they won't be managing him.	they won't be managing him.	1.3169261364964768e-05	0	1	1.0
+542	wouldn't she have been managing me?	wouldn't she have been managing me?	2.767003024928272e-06	0	1	1.0
+543	will you've managed them?	will you've managed them?	2.436479553580284e-05	0	1	1.0
+544	you'd be managing yourself.	you'd be managing yourself.	2.659960046003107e-06	0	1	1.0
+545	would they've managed her?	would they've managed her?	2.46370182139799e-05	0	1	1.0
+546	wouldn't she have managed you?	wouldn't she have managed you?	1.562460784043651e-05	0	1	1.0
+547	won't she be managing me?	won't she be managing me?	2.4845208827173337e-05	0	1	1.0
+548	it wouldn't present me to myself.	it wouldn't present me to myself.	0.0011114689987152	0	1	1.0
+549	has he presented them to themselves?	has he presented them to themselves?	0.0078512169420719	0	1	1.0
+550	are you presenting yourself to her?	are you presenting yourself to her?	0.0005189724615775	0	1	1.0
+551	he hadn't been presenting him to her.	he hadn't been presenting him to her.	0.0001274465903406	0	1	1.0
+552	you wouldn't have presented me to him.	you wouldn't have presented me to him.	0.0003075494314543	0	1	1.0
+553	doesn't it present me to itself?	doesn't it present me to itself?	0.0014792858855798	0	1	1.0
+554	he wouldn't have been presenting me to us.	he wouldn't have been presenting me to us.	0.0002645988424774	0	1	1.0
+555	have we presented him to them?	have we presented him to them?	0.0006181712378747	0	1	1.0
+556	it won't have presented him to me.	it won't have presented him to me.	0.0002241172478534	0	1	1.0
+557	it wouldn't present me.	it wouldn't present me.	7.55111204853165e-06	0	1	1.0
+558	had he presented you to us?	had he presented you to us?	0.0027196081355214	0	1	1.0
+559	you haven't been presenting us to them.	you haven't been presenting us to them.	5.492501804837957e-05	0	1	1.0
+560	hadn't he presented him to us?	hadn't he presented him to us?	0.0023495843634009	0	1	1.0
+561	you'd present it to me.	you'd present it to me.	7.585375715279952e-05	0	1	1.0
+562	it'll have presented her.	it'll have presented her.	4.105436528334394e-05	0	1	1.0
+563	you hadn't presented us to herself.	she hadn't presented us to herself.	0.08724345266819	3	0	0.8333333333333334
+564	you'd presented me to us.	you'd presented me to us.	0.0171851608902215	0	1	1.0
+565	don't we present him to me?	don't we present him to me?	0.000141768818139	0	1	1.0
+566	she present me to myself.	she presents me to myself.	0.0625588968396186	1	0	0.8
+567	had she priced you?	had she priced you?	1.4937398191250397e-05	0	1	1.0
+568	hadn't you been pricing yourself?	hadn't you been pricing yourself?	1.0784451660583729e-05	0	1	1.0
+569	isn't she pricing her?	isn't she pricing her?	3.560178811312653e-05	0	1	1.0
+570	wouldn't he price him?	wouldn't he price him?	4.097910732525634e-06	0	1	1.0
+571	will I've priced us?	will I've priced us?	5.041623080614954e-05	0	1	1.0
+572	aren't we pricing me?	aren't we pricing me?	0.0001084459363482	0	1	1.0
+573	it doesn't price him.	it doesn't price him.	3.731976539711468e-05	0	1	1.0
+574	you wouldn't have priced it.	you wouldn't have priced it.	4.801395789399976e-06	0	1	1.0
+575	hasn't it priced her?	hasn't it priced her?	3.0524064641213045e-05	0	1	1.0
+576	you were pricing yourselves.	you were pricing yourselves.	2.434527687000809e-06	0	1	1.0
+577	he priced himself.	he priced himself.	3.612032378441654e-05	0	1	1.0
+578	hadn't you been pricing yourselves?	hadn't you been pricing yourselves?	1.2679699466389138e-05	0	1	1.0
+579	wouldn't they have been pricing you?	wouldn't they have been pricing you?	0.0001011653293971	0	1	1.0
+580	I haven't been pricing myself.	I haven't been pricing myself.	6.762173870811239e-05	0	1	1.0
+581	would he price them?	would he price them?	0.0001171495387097	0	1	1.0
+582	she'll price herself.	she'll price herself.	8.559656635043211e-06	0	1	1.0
+583	were we pricing them?	were we pricing them?	2.148532075807452e-06	0	1	1.0
+584	we'll price them.	we'll price them.	2.703249447222333e-05	0	1	1.0
+585	it had been pricing me.	it had been pricing me.	8.4868061094312e-06	0	1	1.0
+586	will she have been pricing herself?	will she have been pricing herself?	5.35660683453898e-06	0	1	1.0
+587	he'll price himself.	he'll price himself.	6.095503067626851e-06	0	1	1.0
+588	were you releasing me?	were you releasing me?	2.304700728927856e-06	0	1	1.0
+589	he didn't release us.	he didn't release us.	1.0619181921356358e-05	0	1	1.0
+590	I release it.	I release it.	0.0002399026416242	0	1	1.0
+591	hadn't I released her?	hadn't I released her?	1.0850735634448938e-05	0	1	1.0
+592	won't we release me?	won't we release me?	2.6623251869750675e-06	0	1	1.0
+593	we'd released her.	we'd released her.	5.298378891893663e-05	0	1	1.0
+594	they hadn't been releasing her.	they hadn't been releasing her.	1.9157147107762285e-05	0	1	1.0
+595	I wasn't releasing myself.	I wasn't releasing myself.	2.64249938481953e-05	0	1	1.0
+596	it wouldn't have released us.	it wouldn't have released us.	1.7988013496506028e-05	0	1	1.0
+597	she's not releasing me.	she's not releasing me.	3.3773427276173607e-05	0	1	1.0
+598	we won't have released it.	we won't have released it.	3.671330341603607e-05	0	1	1.0
+599	hasn't it released us?	hasn't it released us?	3.343122443766333e-05	0	1	1.0
+600	they'll have released themselves.	they'll have released themselves.	1.1990247912763152e-05	0	1	1.0
+601	hasn't he released you?	hasn't he released you?	3.8074176700320095e-05	0	1	1.0
+602	am I not releasing you?	am I not releasing you?	0.0008572061778977	0	1	1.0
+603	didn't I release myself?	didn't I release myself?	2.395299270574469e-05	0	1	1.0
+604	isn't it releasing her?	isn't it releasing her?	0.0001029614140861	0	1	1.0
+605	will they've released her?	will they've released her?	7.10252788849175e-06	0	1	1.0
+606	had it released us?	had it released us?	2.9862852898077108e-05	0	1	1.0
+607	wasn't I releasing him?	wasn't I releasing him?	0.0003389454213902	0	1	1.0
+608	has she been remembering herself?	has she been remembering herself?	1.5426732716150582e-05	0	1	1.0
+609	has she remembered me?	has she remembered me?	7.002691563684493e-05	0	1	1.0
+610	will it be remembering him?	will it be remembering him?	3.1800071155885234e-05	0	1	1.0
+611	they'd have remembered us.	they'd have remembered us.	5.80236992391292e-05	0	1	1.0
+612	he wouldn't remember you.	he wouldn't remember you.	5.185506324778544e-06	0	1	1.0
+613	you wouldn't be remembering yourself.	you wouldn't be remembering yourself.	1.4603519048250746e-05	0	1	1.0
+614	they won't be remembering her.	they won't be remembering her.	1.1110862033092417e-05	0	1	1.0
+615	have they remembered it?	have they remembered it?	1.340695689577842e-05	0	1	1.0
+616	she remembers them.	she remembers them.	8.751091809244826e-05	0	1	1.0
+617	it won't be remembering you.	it won't be remembering you.	4.751075175590813e-05	0	1	1.0
+618	we'll have been remembering you.	we'll have been remembering you.	1.8715038095251657e-05	0	1	1.0
+619	hadn't it remembered us?	hadn't it remembered us?	1.523303217254579e-05	0	1	1.0
+620	they wouldn't have remembered it.	they wouldn't have remembered it.	3.416424442548305e-05	0	1	1.0
+621	will I be remembering us?	will I be remembering us?	5.598674033535645e-05	0	1	1.0
+622	hadn't she been remembering him?	hadn't she been remembering him?	1.389566205034498e-05	0	1	1.0
+623	I wouldn't remember it.	I wouldn't remember it.	3.9871058106655255e-05	0	1	1.0
+624	it hasn't been remembering you.	it hasn't been remembering you.	2.079582554870285e-05	0	1	1.0
+625	you were remembering it.	you were remembering it.	3.45435255439952e-05	0	1	1.0
+626	they'd been remembering me.	they'd been remembering me.	5.353895176085644e-05	0	1	1.0
+627	won't she have remembered her?	won't she have remembered her?	2.3164990125223998e-05	0	1	1.0
+628	hadn't they remembered her?	hadn't they remembered her?	1.2954089470440522e-05	0	1	1.0
+629	they've been representing her.	they've been representing her.	2.8472177291405387e-05	0	1	1.0
+630	had I represented him?	had I represented him?	4.428953616297804e-05	0	1	1.0
+631	she'll be representing you.	she'll be representing you.	1.9928376786992885e-05	0	1	1.0
+632	it represented him.	it represented him.	0.0001140451204264	0	1	1.0
+633	he'll have been representing it.	he'll have been representing it.	1.142924520536326e-05	0	1	1.0
+634	won't we have represented him?	won't we have represented him?	8.17162508610636e-05	0	1	1.0
+635	will he have been representing it?	will he have been representing it?	8.610602890257724e-06	0	1	1.0
+636	he didn't represent him.	he didn't represent him.	8.618811989435926e-06	0	1	1.0
+637	does she represent him?	does she represent him?	1.4928625205357092e-05	0	1	1.0
+638	you wouldn't have been representing yourself.	you wouldn't have been representing yourself.	3.355964963702718e-06	0	1	1.0
+639	are they representing us?	are they representing us?	2.5744024242158048e-05	0	1	1.0
+640	it'll have been representing him.	it'll have been representing him.	2.471583138685673e-05	0	1	1.0
+641	don't they represent me?	don't they represent me?	2.0860326912952587e-05	0	1	1.0
+642	wouldn't they be representing him?	wouldn't they be representing him?	2.2911378891876666e-06	0	1	1.0
+643	wouldn't you have been representing me?	wouldn't you have been representing me?	6.4809073592186905e-06	0	1	1.0
+644	have I been representing it?	have I been representing it?	9.146104275714606e-05	0	1	1.0
+645	it would have represented me.	it would have represented me.	2.79322084679734e-05	0	1	1.0
+646	did he represent himself?	did he represent himself?	4.090868515049806e-06	0	1	1.0
+647	won't I represent it?	won't I represent it?	1.0774161637527868e-05	0	1	1.0
+648	will you've been representing him?	will you've been representing him?	3.6809167340834392e-06	0	1	1.0
+649	is she representing it?	is she representing it?	0.0001170398682006	0	1	1.0
+650	isn't he representing himself?	isn't he representing himself?	1.3570043847721536e-05	0	1	1.0
+651	haven't they been requesting themselves?	haven't they been requesting themselves?	8.544823685951997e-06	0	1	1.0
+652	wouldn't I have requested it?	wouldn't I have requested it?	1.0102517990162596e-05	0	1	1.0
+653	does she request him?	does she request him?	1.65402889251709e-05	0	1	1.0
+654	I hadn't requested him.	I hadn't requested him.	4.500483919400722e-05	0	1	1.0
+655	had it been requesting us?	had it been requesting us?	2.3696515199844725e-05	0	1	1.0
+656	it wouldn't request them.	it wouldn't request them.	1.0466134881426116e-05	0	1	1.0
+657	has he been requesting himself?	has he been requesting himself?	1.140381209552288e-05	0	1	1.0
+658	had they been requesting it?	had they been requesting it?	4.022322627861286e-06	0	1	1.0
+659	they'll have requested me.	they'll have requested me.	1.38839759529219e-05	0	1	1.0
+660	it hasn't requested me.	it hasn't requested me.	1.8372504200669937e-05	0	1	1.0
+661	we'd be requesting him.	we'd be requesting him.	1.8198030375060625e-05	0	1	1.0
+662	haven't they requested it?	haven't they requested it?	1.2583641364471989e-05	0	1	1.0
+663	would we request them?	would we request them?	2.9806438760715537e-05	0	1	1.0
+664	weren't we requesting you?	weren't we requesting you?	8.513196007697843e-06	0	1	1.0
+665	is she requesting you?	is she requesting you?	8.891764446161687e-05	0	1	1.0
+666	aren't they requesting me?	aren't they requesting me?	4.721734512713738e-05	0	1	1.0
+667	isn't he requesting him?	isn't he requesting him?	9.601138299331068e-05	0	1	1.0
+668	had he been requesting her?	had he been requesting her?	4.224777057970641e-06	0	1	1.0
+669	we'd have requested ourselves.	we'd have requested ourselves.	1.0939369531115515e-05	0	1	1.0
+670	it's requesting him.	it's requesting him.	4.554822589852847e-05	0	1	1.0
+671	we'll have been requesting me.	we'll have been requesting me.	1.169850384030724e-05	0	1	1.0
+672	it researched them.	it researched them.	0.0001736911362968	0	1	1.0
+673	will we've researched him?	will we've researched him?	7.948288839543238e-06	0	1	1.0
+674	I wouldn't have researched her.	I wouldn't have researched her.	0.000253913924098	0	1	1.0
+675	had we researched her?	had we researched her?	1.066885579348309e-05	0	1	1.0
+676	aren't we researching him?	aren't we researching him?	5.20681387570221e-05	0	1	1.0
+677	they wouldn't research me.	they wouldn't research me.	7.103068583091954e-06	0	1	1.0
+678	didn't I research them?	didn't I research them?	2.192075044149533e-05	0	1	1.0
+679	you haven't been researching him.	you haven't been researching him.	1.837223180700676e-06	0	1	1.0
+680	will they've researched her?	will they've researched her?	1.0313979146303607e-05	0	1	1.0
+681	they'll research me.	they'll research me.	9.33371666178573e-06	0	1	1.0
+682	wouldn't they have been researching it?	wouldn't they have been researching it?	1.1525998161232565e-05	0	1	1.0
+683	she wouldn't have researched herself.	she wouldn't have researched herself.	2.475158908055164e-05	0	1	1.0
+684	wouldn't you have researched yourself?	wouldn't you have researched yourself?	6.297140771494014e-06	0	1	1.0
+685	he'd be researching them.	he'd be researching them.	1.5092702597030438e-05	0	1	1.0
+686	wouldn't they be researching him?	wouldn't they be researching him?	1.8954215192934496e-06	0	1	1.0
+687	he's been researching us.	he's been researching us.	1.244472059624968e-05	0	1	1.0
+688	she'd been researching them.	she'd been researching them.	3.682312672026456e-05	0	1	1.0
+689	won't they have been researching you?	won't they have been researching you?	4.729650027002208e-05	0	1	1.0
+690	she researchs you.	she researches you.	0.0379438623785972	1	0	0.6666666666666666
+691	he'd have rided him.	he'd have ridden him.	0.714500904083252	2	0	0.75
+692	you won't ride them.	you won't ride them.	2.6014110972027997e-06	0	1	1.0
+693	haven't we rided you?	haven't we ridden you?	0.6469008326530457	2	0	0.75
+694	it'll have been riding us.	it'll have been riding us.	1.7302483684034087e-05	0	1	1.0
+695	will I be riding you?	will I be riding you?	3.8869224226800725e-05	0	1	1.0
+696	you'll ride me.	you'll ride me.	4.266435553290648e-06	0	1	1.0
+697	weren't we riding it?	weren't we riding it?	2.621411113068461e-06	0	1	1.0
+698	haven't you been riding them?	haven't you been riding them?	3.744207788258791e-06	0	1	1.0
+699	it's been riding us.	it's been riding us.	2.7860840418725275e-05	0	1	1.0
+700	we'll have been riding ourselves.	we'll have been riding ourselves.	3.990341610915493e-06	0	1	1.0
+701	we hadn't been riding you.	we hadn't been riding you.	6.204808414622676e-06	0	1	1.0
+702	won't you have rided her?	won't you have ridden her?	0.7656398415565491	2	0	0.8
+703	you'd have rided yourselves.	you'd have ridden yourselves.	0.789480447769165	2	0	0.75
+704	it would be riding you.	it would be riding you.	2.980642420880031e-05	0	1	1.0
+705	he's riding me.	he's riding me.	2.17256438190816e-05	0	1	1.0
+706	hadn't it rided us?	hadn't it ridden us?	0.7369630932807922	2	0	0.75
+707	would you ride her?	would you ride her?	9.323002814198844e-06	0	1	1.0
+708	she'll ride us.	she'll ride us.	1.723322202451527e-05	0	1	1.0
+709	they weren't riding it.	they weren't riding it.	1.062734008883126e-05	0	1	1.0
+710	will they be salting her?	will they be salting her?	3.996546183770988e-06	0	1	1.0
+711	they'd been salting her.	they'd been salting her.	1.3662347555509768e-05	0	1	1.0
+712	they won't have been salting you.	they won't have been salting you.	8.24354083306389e-06	0	1	1.0
+713	would it have been salting us?	would it have been salting us?	0.0001841593038989	0	1	1.0
+714	haven't you salted me?	haven't you salted me?	0.0161273032426834	0	1	1.0
+715	you'd have been salting them.	you'd have been salting them.	5.276241608953569e-06	0	1	1.0
+716	wouldn't they have salted you?	wouldn't they have salted you?	0.0022914833389222	0	1	1.0
+717	haven't they been salting themselves?	haven't they been salting themselves?	6.113937615737086e-06	0	1	1.0
+718	he wasn't salting them.	he wasn't salting them.	1.0746574844233692e-05	0	1	1.0
+719	he doesn't salt himself.	he doesn't salt himself.	0.0002404572442173	0	1	1.0
+720	don't we salt ourselves?	don't we salt ourselves?	8.629295734863263e-06	0	1	1.0
+721	it hasn't salt her.	it hasn't salted her.	0.0412557646632194	2	0	0.75
+722	you'll be salting it.	you'll be salting it.	5.313961082720198e-06	0	1	1.0
+723	it's salting it.	it's salting it.	3.263213511672802e-05	0	1	1.0
+724	would I be salting myself?	would I be salting myself?	2.0334822693257596e-05	0	1	1.0
+725	it's not salting itself.	it's not salting itself.	2.1528177967411463e-05	0	1	1.0
+726	won't he seat us?	won't he seat us?	4.112614533369197e-06	0	1	1.0
+727	they wouldn't have been seating me.	they wouldn't have been seating me.	9.124916687142104e-06	0	1	1.0
+728	will they've been seating us?	will they've been seating us?	6.173554993438302e-06	0	1	1.0
+729	won't we have seated ourselves?	won't we have seated ourselves?	0.0031676325015723	0	1	1.0
+730	you won't have been seating yourself.	you won't have been seating yourself.	1.668923346187512e-06	0	1	1.0
+731	will you be seating yourselves?	will you be seating yourselves?	5.175901605980471e-06	0	1	1.0
+732	you'd have seated me.	you'd have seated me.	0.0085372924804687	0	1	1.0
+733	she was seating her.	she was seating her.	1.6251138731604442e-05	0	1	1.0
+734	she'd be seating you.	she'd be seating you.	7.544212166976649e-06	0	1	1.0
+735	would you be seating me?	would you be seating me?	1.5214848190225894e-06	0	1	1.0
+736	won't they seat us?	won't they seat us?	5.549413344851928e-06	0	1	1.0
+737	would he seat you?	would he seat you?	4.285074282961432e-06	0	1	1.0
+738	we wouldn't have been seating him.	we wouldn't have been seating him.	3.811482883975259e-06	0	1	1.0
+739	hadn't she been seating me?	hadn't she been seating me?	3.030396328540519e-06	0	1	1.0
+740	we'd been seating it.	we'd been seating it.	1.153018729382893e-05	0	1	1.0
+741	will they've seated them?	will they've seated them?	0.0008094250806607	0	1	1.0
+742	it's seated us.	it's seated us.	0.0038921274244785	0	1	1.0
+743	they won't seat themselves.	they won't seat themselves.	4.83964640807244e-06	0	1	1.0
+744	she hadn't seated herself.	she hadn't seated herself.	0.00022226733563	0	1	1.0
+745	it's seated itself.	it's seated itself.	0.0065497262403368	0	1	1.0
+746	we've seated them.	we've seated them.	0.0057193175889551	0	1	1.0
+747	would it have been seating her?	would it have been seating her?	0.0015286861453205	0	1	1.0
+748	he's seated her.	he's seated her.	0.013786980882287	0	1	1.0
+749	would she be separating us?	would she be separating us from herself?	0.599918007850647	13	0	0.6666666666666666
+750	they won't have been separating him for me.	they won't have been separating him from me.	0.0780834555625915	2	0	0.875
+751	she won't separate him for herself.	she won't separate herself from him.	0.1098309680819511	14	0	0.5
+752	had it separated us for us?	had it separated us from you?	0.0724446773529052	5	0	0.6666666666666666
+753	were you separating him from yourself?	were you separating him from yourself?	0.0154468491673469	0	1	1.0
+754	is he separating him for him?	is he separating him from it?	0.1442497372627258	4	0	0.6666666666666666
+755	will she have separated her for her?	will she have separated her from her?	0.0335800796747207	2	0	0.8571428571428571
+756	wouldn't it have separated her for it?	wouldn't it have separated her from it?	0.0575749240815639	2	0	0.8571428571428571
+757	would she be separating you to him?	would she be separating you from them?	0.0515350550413131	5	0	0.7142857142857143
+758	I haven't been separating you.	I haven't been separating you.	4.417733362060972e-05	0	1	1.0
+759	you hadn't separated it for us.	you hadn't separated it from us.	0.073633886873722	2	0	0.8333333333333334
+760	you weren't separating her for us.	you weren't separating us from her.	0.1480592489242553	8	0	0.5
+761	I haven't separated myself.	I haven't separated myself from you.	0.3143624067306518	9	0	0.6
+762	have I been separating you?	have I been separating you?	4.58985596196726e-05	0	1	1.0
+763	he's separated.	he's separated.	2.1968851797282696e-05	0	1	1.0
+764	he'll separate him.	he'll separate it from himself.	0.2463372200727462	12	0	0.5
+765	were they separating me for it?	were they separating me from it?	0.0583407245576381	2	0	0.8333333333333334
+766	we'd separated it to itself.	we'd separated it from itself.	0.1248280853033065	3	0	0.8
+767	they'd been separating them from you.	they'd been separating them from you.	0.0388700552284717	0	1	1.0
+768	I'd have separated us.	I'd have separated us.	7.76076121837832e-05	0	1	1.0
+769	has he been separating you for it?	has he been separating you from it?	0.098074622452259	2	0	0.8571428571428571
+770	she wasn't separating her with you.	she wasn't separating you from her.	0.1217948645353317	10	0	0.5
+771	I'll be separating us for you.	I'll be separating us from you.	0.1526409089565277	2	0	0.8333333333333334
+772	it'll have been serving us.	it'll have been serving us.	2.027045593422372e-05	0	1	1.0
+773	wouldn't she have served it?	wouldn't she have served it?	9.530732313578484e-06	0	1	1.0
+774	we'll be serving her.	we'll be serving her.	6.928304628672777e-06	0	1	1.0
+775	she won't serve us.	she won't serve us.	7.036951046757167e-06	0	1	1.0
+776	I'd been serving myself.	I'd been serving myself.	2.462926750013139e-05	0	1	1.0
+777	you won't be serving me.	you won't be serving me.	6.21541403234005e-06	0	1	1.0
+778	it'll have served it.	it'll have served it.	1.6488536857650615e-05	0	1	1.0
+779	did you serve us?	did you serve us?	1.965002411452588e-05	0	1	1.0
+780	wouldn't he have been serving me?	wouldn't he have been serving me?	0.0002471108164172	0	1	1.0
+781	he serves himself.	he serves himself.	2.624440094223246e-05	0	1	1.0
+782	it wasn't serving us.	it wasn't serving us.	1.4774066585232504e-05	0	1	1.0
+783	wouldn't she have served us?	wouldn't she have served us?	5.494110610015923e-06	0	1	1.0
+784	won't you serve yourselves?	won't you serve yourselves?	4.8384267756773625e-06	0	1	1.0
+785	have I been serving her?	have I been serving her?	3.6231973354006186e-05	0	1	1.0
+786	they serve us.	they serve us.	3.662293602246791e-05	0	1	1.0
+787	isn't she serving you?	isn't she serving you?	5.5306838476099074e-05	0	1	1.0
+788	he'd have served them.	he'd have served them.	5.23460766999051e-05	0	1	1.0
+789	have you served him?	have you served him?	2.9171062578825517e-06	0	1	1.0
+790	do we serve me?	do we serve me?	4.72899446322117e-05	0	1	1.0
+791	does it serve itself?	does it serve itself?	0.0001019671981339	0	1	1.0
+792	we'll have served ourselves.	we'll have served ourselves.	1.1604201972659212e-05	0	1	1.0
+793	wouldn't it have served it?	wouldn't it have served it?	1.328314101556316e-05	0	1	1.0
+794	he wouldn't have served her.	he wouldn't have served her.	5.216984391154256e-06	0	1	1.0
+795	would he be serving me?	would he be serving me?	3.611282863857923e-06	0	1	1.0
+796	have you soiled it?	have you soiled it?	2.17174365388928e-05	0	1	1.0
+797	won't they be soiling them?	won't they be soiling them?	2.8036658477503806e-05	0	1	1.0
+798	it wouldn't be soiling me.	it wouldn't be soiling me.	2.3046670321491547e-05	0	1	1.0
+799	won't I have soiled it?	won't I have soiled it?	2.818953362293541e-05	0	1	1.0
+800	would it have been soiling?	would it have been soiling?	7.921586075099185e-05	0	1	1.0
+801	won't I be soiling them?	won't I be soiling them?	4.148047082708217e-05	0	1	1.0
+802	it's been soiling it.	it's been soiling it.	3.181039937771857e-05	0	1	1.0
+803	I'm not soiling her.	I'm not soiling her.	3.510723399813287e-05	0	1	1.0
+804	he'd have been soiling us.	he'd have been soiling us.	2.691523332032375e-05	0	1	1.0
+805	will he soil them?	will he soil them?	0.0002733467554207	0	1	1.0
+806	they won't have soiled me.	they won't have soiled me.	2.6891273591900244e-05	0	1	1.0
+807	I wouldn't have soiled us.	I wouldn't have soiled us.	0.0001879215851658	0	1	1.0
+808	I haven't soiled you.	I haven't soiled you.	7.546704000560567e-05	0	1	1.0
+809	are you soiling yourselves?	are you soiling yourselves?	5.354525274015032e-05	0	1	1.0
+810	you wouldn't have been soiling us.	you wouldn't have been soiling us.	1.5143385098781437e-05	0	1	1.0
+811	wouldn't I have been soiling us?	wouldn't I have been soiling us?	1.7877815480460413e-05	0	1	1.0
+812	would we've soiled me?	would we've soiled me?	1.7512224076199345e-05	0	1	1.0
+813	would we've been soiling him?	would we've been soiling him?	4.65106586489128e-06	0	1	1.0
+814	will he have soiled us?	will he have soiled us?	9.767645678948612e-05	0	1	1.0
+815	you stand.	you stood.	0.3158982694149017	2	0	0.5
+816	he'll have been standing.	he'll have been standing.	1.511678783572279e-05	0	1	1.0
+817	would she have been standing?	would she have been standing?	5.9706057982111815e-06	0	1	1.0
+818	will he be standing?	will he be standing?	1.1429126971052028e-05	0	1	1.0
+819	were they standing?	were they standing?	4.145047114434419e-06	0	1	1.0
+820	they were standing.	they were standing.	1.6632255210424773e-05	0	1	1.0
+821	she'd have standed.	she'd have stood.	0.1468738168478012	4	0	0.6666666666666666
+822	they won't have been standing.	they won't have been standing.	7.5098819252161775e-06	0	1	1.0
+823	he's standed.	he's stood.	0.1958468705415725	4	0	0.5
+824	you won't have been standing.	you won't have been standing.	9.416932698513849e-06	0	1	1.0
+825	are they standing?	are they standing?	3.256198397139087e-05	0	1	1.0
+826	it won't stand.	it won't stand.	9.140517795458436e-05	0	1	1.0
+827	I'd have been standing.	I'd have been standing.	2.2250827896641567e-05	0	1	1.0
+828	I stand.	I stood.	0.3620738983154297	2	0	0.5
+829	will it have been standing?	will it have been standing?	5.351616346160881e-05	0	1	1.0
+830	was it standing?	was it standing?	0.0001133544938056	0	1	1.0
+831	it's been standing.	it's been standing.	2.391296402493026e-05	0	1	1.0
+832	am I standing?	am I standing?	0.0001057516128639	0	1	1.0
+833	wouldn't you have been standing?	wouldn't you have been standing?	3.818298864644021e-06	0	1	1.0
+834	wouldn't you stand?	wouldn't you stand?	4.817444641957991e-05	0	1	1.0
+835	you'll store him.	you'll store him.	4.786337740370072e-06	0	1	1.0
+836	would you store yourselves?	would you store yourselves?	3.1391550692205783e-06	0	1	1.0
+837	has he stored you?	has he stored you?	2.2777416234021075e-05	0	1	1.0
+838	he'll store him.	he'll store him.	9.528716873319354e-06	0	1	1.0
+839	he'll have been storing him.	he'll have been storing him.	1.7281241525779478e-05	0	1	1.0
+840	hadn't we stored him?	hadn't we stored him?	1.520493060525041e-05	0	1	1.0
+841	will he have stored it?	will he have stored it?	2.17628876271192e-05	0	1	1.0
+842	hasn't she been storing me?	hasn't she been storing me?	1.7065507563529536e-05	0	1	1.0
+843	won't we store him?	won't we store him?	3.5209059205953963e-06	0	1	1.0
+844	haven't you stored us?	haven't you stored us?	3.935338554583723e-06	0	1	1.0
+845	has it been storing him?	has it been storing him?	0.0001829797547543	0	1	1.0
+846	he wouldn't store them.	he wouldn't store them.	5.539166522794403e-06	0	1	1.0
+847	he wouldn't store them.	he wouldn't store them.	5.539166522794403e-06	0	1	1.0
+848	you're storing it.	you're storing it.	6.122349986981135e-06	0	1	1.0
+849	it wouldn't store you.	it wouldn't store you.	1.3794846381642856e-05	0	1	1.0
+850	it wouldn't be storing him.	it wouldn't be storing him.	2.0584378944477063e-05	0	1	1.0
+851	you'll be storing us.	you'll be storing us.	3.487244384814403e-06	0	1	1.0
+852	they've stored it.	they've stored it.	3.8150279578985646e-05	0	1	1.0
+853	you stored us.	you stored us.	6.663764906988945e-06	0	1	1.0
+854	she hasn't been storing them.	she hasn't been storing them.	2.1814388674101792e-05	0	1	1.0
+855	won't we store him?	won't we store him?	3.5209059205953963e-06	0	1	1.0
+856	we'd have streamed.	we'd have streamed.	2.545739698689431e-05	0	1	1.0
+857	won't you stream them?	won't you stream them?	3.941824616049416e-06	0	1	1.0
+858	we haven't streamed.	we haven't streamed.	3.2907253626035526e-05	0	1	1.0
+859	we wouldn't stream me.	we wouldn't stream me.	4.374966465547914e-06	0	1	1.0
+860	haven't they been streaming me?	haven't they been streaming me?	1.756378696882166e-05	0	1	1.0
+861	we're not streaming them.	we're not streaming them.	2.7025955205317587e-05	0	1	1.0
+862	isn't he streaming?	isn't he streaming?	9.347091690870002e-05	0	1	1.0
+863	he'd been streaming you.	he'd been streaming you.	1.0147958164452577e-05	0	1	1.0
+864	were you streaming me?	were you streaming me?	2.1334928533178758e-05	0	1	1.0
+865	haven't you streamed him?	haven't you streamed him?	3.142414061585441e-05	0	1	1.0
+866	will it have streamed us?	will it have streamed us?	2.1526711861952208e-05	0	1	1.0
+867	you'd streamed me.	you'd streamed me.	2.736712849582545e-05	0	1	1.0
+868	you'd stream him.	you'd stream him.	6.503186796180671e-06	0	1	1.0
+869	we'll stream it.	we'll stream it.	1.1112624633824453e-05	0	1	1.0
+870	it hasn't streamed her.	it hasn't streamed her.	4.3875534174731e-05	0	1	1.0
+871	won't I have been streaming us?	won't I have been streaming us?	1.3809890333504882e-05	0	1	1.0
+872	am I streaming myself?	am I streaming myself?	9.609154949430376e-05	0	1	1.0
+873	are they streaming him?	are they streaming him?	3.7214507756289095e-05	0	1	1.0
+874	they wouldn't have been streaming you.	they wouldn't have been streaming you.	1.7239339285879396e-05	0	1	1.0
+875	I haven't streamed them.	I haven't streamed them.	0.0012451577931642	0	1	1.0
+876	he supports him.	he supports him.	0.0016696663806214	0	1	1.0
+877	you won't support her.	you won't support her.	4.1599455471441615e-06	0	1	1.0
+878	it'll be supporting him.	it'll be supporting him.	1.84628224815242e-05	0	1	1.0
+879	weren't they supporting him?	weren't they supporting him?	4.080578946741298e-06	0	1	1.0
+880	they won't support me.	they won't support me.	8.199543117370922e-06	0	1	1.0
+881	you'd support it.	you'd support it.	5.825459084007889e-06	0	1	1.0
+882	you'd supported them.	you'd supported them.	4.137745690968586e-06	0	1	1.0
+883	he wouldn't have supported us.	he wouldn't have supported us.	1.8406693925498985e-05	0	1	1.0
+884	it wouldn't support them.	it wouldn't support them.	1.2201237950648648e-05	0	1	1.0
+885	would they be supporting me?	would they be supporting me?	4.608226845448371e-06	0	1	1.0
+886	you've been supporting them.	you've been supporting them.	1.1495425496832468e-05	0	1	1.0
+887	wasn't it supporting you?	wasn't it supporting you?	4.132594040129334e-05	0	1	1.0
+888	we'd have supported ourselves.	we'd have supported ourselves.	2.258698941659532e-06	0	1	1.0
+889	didn't she support me?	didn't she support me?	6.139059223642107e-06	0	1	1.0
+890	I wasn't supporting it.	I wasn't supporting it.	7.11469101588591e-06	0	1	1.0
+891	wouldn't he have been supporting her?	wouldn't he have been supporting her?	2.311776734131854e-05	0	1	1.0
+892	I'd supported them.	I'd supported them.	1.2603651157405691e-05	0	1	1.0
+893	you didn't support them.	you didn't support them.	3.033542043340276e-06	0	1	1.0
+894	they weren't supporting us.	they weren't supporting us.	8.391437404497992e-06	0	1	1.0
+895	he won't have been supporting you.	he won't have been supporting you.	5.059910108684562e-06	0	1	1.0
+896	does it support me?	does it support me?	3.0183573471731503e-05	0	1	1.0
+897	won't they have been supporting us?	won't they have been supporting us?	1.2311200407566504e-05	0	1	1.0
+898	won't it have been tagging me?	won't it have been tagging me?	7.116121560102329e-05	0	1	1.0
+899	he wouldn't have tagged you.	he wouldn't have tagged you.	0.0040029478259384	0	1	1.0
+900	I'll tag you.	I'll tag you.	0.0001396416919305	0	1	1.0
+901	it'll have been tagging him.	it'll have been tagging him.	0.0002066867018584	0	1	1.0
+902	tag us!	tag us!	0.0042890007607638	0	1	1.0
+903	would she be tagging her?	would she be tagging her?	7.344458572333679e-05	0	1	1.0
+904	it won't tag us.	it won't tag us.	3.802458741120063e-05	0	1	1.0
+905	he'd tagged himself.	he'd tagged himself.	0.0035415133461356	0	1	1.0
+906	I'd tag them.	I'd tag them.	0.0004111279558856	0	1	1.0
+907	we haven't tagged him.	we haven't tagged him.	0.0002927912864834	0	1	1.0
+908	have they tagged her?	have they tagged her?	0.0005357144982554	0	1	1.0
+909	have they been tagging themselves?	have they been tagging themselves?	8.969943155534565e-05	0	1	1.0
+910	he'd be tagging her.	he'd be tagging her.	0.0001778459991328	0	1	1.0
+911	wouldn't I tag them?	wouldn't I tag them?	1.3949806998425627e-05	0	1	1.0
+912	has he been tagging them?	has he been tagging them?	0.000361334241461	0	1	1.0
+913	do you tag her?	do you tag her?	3.255020419601351e-05	0	1	1.0
+914	won't they have been tagging you?	won't they have been tagging you?	0.0001930171420099	0	1	1.0
+915	wouldn't we have tagged her?	wouldn't we have tagged her?	0.0004105827829334	0	1	1.0
+916	it was tagging him.	it was tagging him.	0.0003420550201553	0	1	1.0
+917	is he tagging himself?	is he tagging himself?	9.144096111413091e-05	0	1	1.0
+918	would she be tagging you?	would she be tagging you?	8.054464706219733e-05	0	1	1.0
+919	will she have been tagging us?	will she have been tagging us?	4.56915695394855e-05	0	1	1.0
+920	he wouldn't have talked for us.	he wouldn't have talked to us.	0.0200434606522321	2	0	0.8333333333333334
+921	talk yourself!	talk with yourself!	0.1182721629738807	5	0	0.4
+922	haven't they talked with us?	haven't they talked with us?	0.0037553079891949	0	1	1.0
+923	won't he have been talking with him?	won't he have been talking with him?	2.2183998225955293e-05	0	1	1.0
+924	has she talked to it?	has she talked to it?	0.0103251980617642	0	1	1.0
+925	had you been talking to yourself?	had you been talking to yourself?	0.0011849025031551	0	1	1.0
+926	will it have been talking with me?	will it have been talking with me?	0.00259141321294	0	1	1.0
+927	wouldn't she have been talking with me?	wouldn't she have been talking with me?	0.0007777540013194	0	1	1.0
+928	we wouldn't be talking with you.	we wouldn't be talking with you.	0.000105772705865	0	1	1.0
+929	would you talk to yourselves?	would you talk to yourselves?	0.016931464895606	0	1	1.0
+930	it would have been talking with her.	it would have been talking with her.	0.0005157121340744	0	1	1.0
+931	have they talked with me?	have they talked with me?	0.0121749304234981	0	1	1.0
+932	they won't talk for you.	they won't talk to you.	0.0335380658507347	2	0	0.8
+933	wouldn't I talk?	wouldn't I talk?	0.0001670170895522	0	1	1.0
+934	she wasn't talking to her.	she wasn't talking to her.	0.0059425528161227	0	1	1.0
+935	he's talked to her.	he's talked to her.	0.0029535647481679	0	1	1.0
+936	didn't they talk to her?	didn't they talk to her?	0.002094633411616	0	1	1.0
+937	they won't talk with her.	they won't talk with her.	0.0125322490930557	0	1	1.0
+938	we won't talk to it.	we won't talk to it.	0.0109659247100353	0	1	1.0
+939	were we testing them?	were we testing them?	1.9848273495881585e-06	0	1	1.0
+940	they'll have tested them.	they'll have tested them.	0.0045334831811487	0	1	1.0
+941	he wouldn't have tested him.	he wouldn't have tested him.	0.0004205174918752	0	1	1.0
+942	he'll test you.	he'll test you.	5.992821570544038e-06	0	1	1.0
+943	they'll have been testing me.	they'll have been testing me.	1.184067423309898e-05	0	1	1.0
+944	it didn't test them.	it didn't test them.	1.3610311725642532e-05	0	1	1.0
+945	we'll test me.	we'll test me.	4.3709578676498495e-06	0	1	1.0
+946	she'd test her.	she'd test her.	3.218899291823618e-05	0	1	1.0
+947	hadn't you been testing her?	hadn't you been testing her?	2.3588909243699163e-06	0	1	1.0
+948	have we tested him?	have we tested him?	0.0003322972625028	0	1	1.0
+949	he hasn't tested them.	he hasn't tested them.	0.0021691645961254	0	1	1.0
+950	will it test itself?	will it test itself?	6.32469163974747e-05	0	1	1.0
+951	we won't have been testing them.	we won't have been testing them.	3.85072962671984e-06	0	1	1.0
+952	is it testing him?	is it testing him?	0.000466668017907	0	1	1.0
+953	he hasn't tested you.	he hasn't tested you.	0.0023054264020174	0	1	1.0
+954	they wouldn't have tested him.	they wouldn't have tested him.	0.0001527400600025	0	1	1.0
+955	you test me.	you test me.	2.6944777346216146e-05	0	1	1.0
+956	didn't I test her?	didn't I test her?	1.4621785339841152e-05	0	1	1.0
+957	I'm testing him.	I'm testing him.	8.007846918189898e-05	0	1	1.0
+958	they'd test you.	they'd test you.	1.747075657476671e-05	0	1	1.0
+959	won't they be testing it?	won't they be testing it?	4.39984478362021e-06	0	1	1.0
+960	would they've tested you?	would they've tested you?	0.0002156317495973	0	1	1.0
+961	will we trend?	will we trend?	2.568163836258464e-06	0	1	1.0
+962	they wouldn't be trending.	they wouldn't be trending.	9.256393241230398e-06	0	1	1.0
+963	had she trend?	had she trended?	0.017017763108015	2	0	0.6666666666666666
+964	he trend.	he trends.	0.0620446316897869	1	0	0.5
+965	it wouldn't be trending.	it wouldn't be trending.	2.5624009140301496e-05	0	1	1.0
+966	would they trend?	would they trend?	5.258019427856198e-06	0	1	1.0
+967	am I not trending?	am I not trending?	5.526377208298072e-05	0	1	1.0
+968	it doesn't trend.	it doesn't trend.	3.029003528354224e-05	0	1	1.0
+969	won't you trend?	won't you trend?	3.0527994567819405e-06	0	1	1.0
+970	we'd have been trending.	we'd have been trending.	1.0926916729658842e-05	0	1	1.0
+971	would you've been trending?	would you've been trending?	7.587303116451949e-06	0	1	1.0
+972	she'll have been trending.	she'll have been trending.	8.965063170762733e-05	0	1	1.0
+973	won't he trend?	won't he trend?	4.027098384540295e-06	0	1	1.0
+974	won't they be trending?	won't they be trending?	2.7210646749153966e-06	0	1	1.0
+975	we'll trend.	we'll trend.	1.1533833458088338e-05	0	1	1.0
+976	they don't want her for me.	they don't want me from her.	0.0883857980370521	6	0	0.5
+977	she hadn't wanted you at her.	she hadn't wanted you from it.	0.0849999189376831	7	0	0.6666666666666666
+978	will it have wanted it at it?	will it have wanted it from it?	0.0548987090587616	4	0	0.8571428571428571
+979	wouldn't I have been wanting him?	wouldn't I have been wanting him from myself?	0.4290555417537689	12	0	0.7142857142857143
+980	am I not wanting them for us?	am I not wanting them from us?	0.0716579407453537	2	0	0.8571428571428571
+981	hadn't they wanted themselves?	hadn't you wanted them from themselves?	0.6925508975982666	14	0	0.4
+982	did she want them from themselves?	did she want them from themselves?	0.0240892861038446	0	1	1.0
+983	we'd wanted you from her.	we'd wanted you from her.	0.0152613269165158	0	1	1.0
+984	doesn't it want it for her?	doesn't it want it from her?	0.0808108076453208	2	0	0.8333333333333334
+985	we'd want him at you.	we'd want him from you.	0.0422123931348323	4	0	0.8
+986	it would want us.	it would want us.	1.179515129479114e-05	0	1	1.0
+987	won't he want us at us?	won't he want us from you?	0.0942622795701026	7	0	0.6666666666666666
+988	would she have wanted herself?	would she have wanted herself?	0.0009683553944341	0	1	1.0
+989	are we wanting me?	are we wanting me from myself?	0.5792689919471741	12	0	0.6
+990	it's wanted him at him.	it's wanted him from him.	0.0479577705264091	4	0	0.8
+991	won't he have been wanting her for me?	won't he have been wanting her from me?	0.0403463132679462	2	0	0.875
+992	they wouldn't have wanted me from us.	they wouldn't have wanted me from us.	0.0218216925859451	0	1	1.0
+993	it'll have wanted them.	it'll have wanted them from itself.	0.2663940787315368	12	0	0.6
+994	won't they want her to him?	won't they want them from her?	0.0666041448712349	7	0	0.5
+995	will we be wanting him at her?	will we be wanting him from you?	0.0547678060829639	7	0	0.7142857142857143
+996	will it be wanting him for us?	will it be wanting him from us?	0.0232570711523294	2	0	0.8571428571428571
+997	would it want you for yourself?	would it want you from yourself?	0.0795986279845237	2	0	0.8333333333333334
+998	has she been wanting him at me?	has she been wanting him from me?	0.0532063953578472	4	0	0.8571428571428571
+999	wouldn't we have been wanting ourselves?	wouldn't we have been wanting ourselves?	2.3056750251271296e-06	0	1	1.0

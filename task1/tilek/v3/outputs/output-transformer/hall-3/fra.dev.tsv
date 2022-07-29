@@ -1,0 +1,1001 @@
+	prediction	target	loss	dist	clause_match	word_match
+0	elle les utiliserait avec lui.	elle les utiliserait avec lui.	0.0448849387466907	0	1	1.0
+1	les avait-elle utilisés pour elles?	les avait-elle utilisés pour elles?	0.0458412915468215	0	1	1.0
+2	nous ne l'utilisions pas par lui.	nous ne l'utilisions pas par lui.	0.0459723100066185	0	1	1.0
+3	ne t'utiliseront-ils pas pour cela?	ne t'utiliseront-ils pas pour cela?	0.0468706265091896	0	1	1.0
+4	ils ne m'avaient pas utilisée avec nous.	ils ne m'avaient pas utilisée avec nous.	0.0467512533068656	0	1	1.0
+5	je vous utilisais par elles.	je vous utilisais par elles.	0.0458939410746097	0	1	1.0
+6	nous utilisaient-elles avec elle?	nous utilisaient-elles avec elle?	0.0457781217992305	0	1	1.0
+7	eut-elle utilisé par nous?	eut-elle utilisé par nous?	0.0462797842919826	0	1	1.0
+8	il nous aura utilisées.	il nous aura utilisées.	0.0464493744075298	0	1	1.0
+9	nous l'avons utilisée par vous.	nous l'avons utilisée par vous.	0.0459674075245857	0	1	1.0
+10	je ne vous utilise pas par eux.	je ne vous utilise pas par eux.	0.0468259304761886	0	1	1.0
+11	nous les eûmes utilisés avec moi.	nous les eûmes utilisés avec moi.	0.0447877310216426	0	1	1.0
+12	elles t'utiliseraient avec toi.	elles t'utiliseraient avec toi.	0.0451649911701679	0	1	1.0
+13	nous ne les aurons pas utilisés par lui.	nous ne les aurons pas utilisés par lui.	0.0463373325765132	0	1	1.0
+14	tu ne les avais pas utilisés.	tu ne les avais pas utilisés.	0.0471949689090251	0	1	1.0
+15	ne t'aurons-nous pas utilisée pour moi?	ne t'aurons-nous pas utilisée pour moi?	0.046877134591341	0	1	1.0
+16	nous aurai-je utilisées pour vous?	nous aurai-je utilisées pour vous?	0.0463707745075225	0	1	1.0
+17	je t'utilisais avec cela.	je t'utilisais avec cela.	0.045393981039524	0	1	1.0
+18	ne m'utilisez-vous pas par lui?	ne m'utilisez-vous pas par lui?	0.0475115403532981	0	1	1.0
+19	m'utilisons-nous pour toi?	m'utilisons-nous pour toi?	0.0453837253153324	0	1	1.0
+20	tu n'eus pas utilisé par cela.	tu n'eus pas utilisé par cela.	0.0462607145309448	0	1	1.0
+21	je vous avais laissés à lui.	je vous avais laissés à lui.	0.046259019523859	0	1	1.0
+22	ne nous ont-elles pas laissées à vous?	ne nous ont-elles pas laissées à vous?	0.0479971803724765	0	1	1.0
+23	vous laissent-elles à elle?	vous laissent-elles à elle?	0.0464540533721447	0	1	1.0
+24	ne me laissèrent-ils pas?	ne me laissèrent-ils pas?	0.0475169084966182	0	1	1.0
+25	ils ne m'eurent pas laissé à toi.	ils ne m'eurent pas laissé à toi.	0.0476184301078319	0	1	1.0
+26	elle ne te laissait pas à nous.	elle ne te laissait pas à nous.	0.0475450009107589	0	1	1.0
+27	ils ne m'auront pas laissé.	ils ne m'auront pas laissé.	0.0489964373409748	0	1	1.0
+28	ils nous laissèrent à elle.	ils nous laissèrent à elle.	0.0456798672676086	0	1	1.0
+29	tu ne lui laissas pas.	tu ne lui laissas pas.	0.0585438720881938	0	1	1.0
+30	la laissent-elles?	la laissent-elles?	0.0468927659094333	0	1	1.0
+31	ne nous avaient-ils pas laissés?	ne nous avaient-ils pas laissés?	0.0483090728521347	0	1	1.0
+32	me laisserons-nous?	me laisserons-nous?	0.0465726107358932	0	1	1.0
+33	nous laissaient-elles à vous?	nous laissaient-elles à vous?	0.0465550273656845	0	1	1.0
+34	je l'aurai laissée.	je l'aurai laissée.	0.0479289777576923	0	1	1.0
+35	ne vous laisse pas à elle!	ne vous laisse pas à elle!	0.0464926920831203	0	1	1.0
+36	nous y avais-je laissées?	nous y avais-je laissées?	0.0476722940802574	0	1	1.0
+37	nous la laisserais-tu?	nous la laisserais-tu?	0.0466781817376613	0	1	1.0
+38	je ne t'eus pas laissée à lui.	je ne t'eus pas laissée à lui.	0.0473724156618118	0	1	1.0
+39	vous laissera-t-il?	vous laissera-t-il?	0.0475066676735878	0	1	1.0
+40	ils ne m'y eurent pas laissée.	ils ne m'y eurent pas laissée.	0.0482282489538192	0	1	1.0
+41	ne te laisseront-ils pas?	ne te laisseront-ils pas?	0.0476049408316612	0	1	1.0
+42	ils te montrèrent à lui.	ils te montrèrent à lui.	0.0444853864610195	0	1	1.0
+43	tu nous eus montrés à elle.	tu nous eus montrés à elle.	0.0455927811563015	0	1	1.0
+44	me montrait-il à eux?	me montrait-il à eux?	0.0460706576704978	0	1	1.0
+45	la leur eûtes-vous montrée?	la leur eûtes-vous montrée?	0.0458577312529087	0	1	1.0
+46	nous le montreras-tu?	nous le montreras-tu?	0.0469685792922973	0	1	1.0
+47	ne m'as-tu pas montrée à lui?	ne m'as-tu pas montrée à lui?	0.0478788949549198	0	1	1.0
+48	nous ne me le montrerons pas.	nous ne me le montrerons pas.	0.0470602549612522	0	1	1.0
+49	elles nous ont montrées à vous.	elles nous ont montrées à vous.	0.0458895042538642	0	1	1.0
+50	ils t'auront montré à moi.	ils t'auront montré à moi.	0.0458782911300659	0	1	1.0
+51	nous les aurons montrées.	nous les aurons montrées.	0.0460497178137302	0	1	1.0
+52	tu me montres à eux.	tu me montres à eux.	0.0447498261928558	0	1	1.0
+53	nous avaient-elles montrées à lui?	nous avaient-elles montrées à lui?	0.0461131557822227	0	1	1.0
+54	ne nous avaient-elles pas montrés à lui?	ne nous avaient-elles pas montrés à lui?	0.0471075847744941	0	1	1.0
+55	ne me les avait-il pas montrés?	ne me les avait-il pas montrés?	0.0481358580291271	0	1	1.0
+56	tu m'avais montrée à elle.	tu m'avais montrée à elle.	0.0461571514606475	0	1	1.0
+57	vous les aura-t-il montrés?	vous les aura-t-il montrés?	0.0476957745850086	0	1	1.0
+58	je ne les lui ai pas montrées.	je ne les lui ai pas montrées.	0.0473133735358715	0	1	1.0
+59	ils vous montraient à elle.	ils vous montraient à elle.	0.0456301979720592	0	1	1.0
+60	je les lui avais montrés.	je les lui avais montrés.	0.046227715909481	0	1	1.0
+61	je nous montrai à eux.	je nous montrai à eux.	0.0460559837520122	0	1	1.0
+62	nous la montraient-ils?	nous la montraient-ils?	0.0466724075376987	0	1	1.0
+63	ils ne t'y réduisent pas.	ils ne t'y réduisent pas.	0.0474974662065506	0	1	1.0
+64	ne réduisis-je pas?	ne réduisis-je pas?	0.048331681638956	0	1	1.0
+65	vous réduit-il?	vous réduit-il?	0.0473457835614681	0	1	1.0
+66	elles vous y auront réduites.	elles vous y auront réduites.	0.0459956154227256	0	1	1.0
+67	t'y aurai-je réduite?	t'y aurai-je réduite?	0.047506533563137	0	1	1.0
+68	il nous aura réduits.	il nous aura réduits.	0.0462391823530197	0	1	1.0
+69	nous ne vous y avons pas réduites.	nous ne vous y avons pas réduites.	0.0469476096332073	0	1	1.0
+70	tu m'y eus réduite.	tu m'y eus réduite.	0.0460204370319843	0	1	1.0
+71	je ne les aurai pas réduits.	je ne les aurai pas réduits.	0.0474923476576805	0	1	1.0
+72	vous y aurez réduit.	vous y aurez réduit.	0.0461990274488925	0	1	1.0
+73	ne les y aurai-je pas réduites?	ne les y aurai-je pas réduites?	0.047784499824047	0	1	1.0
+74	je ne vous réduisais pas.	je ne vous réduisais pas.	0.0477744489908218	0	1	1.0
+75	ne l'aurons-nous pas réduite?	ne l'aurons-nous pas réduite?	0.0480091162025928	0	1	1.0
+76	ne les a-t-elle pas réduites?	ne les a-t-elle pas réduites?	0.0481082424521446	0	1	1.0
+77	ne nous avaient-ils pas réduits?	ne nous avaient-ils pas réduits?	0.0477427691221237	0	1	1.0
+78	nous vous y aurons réduites.	nous vous y aurons réduites.	0.0458868704736232	0	1	1.0
+79	vous ne nous y réduisiez pas.	vous ne nous y réduisiez pas.	0.0471484214067459	0	1	1.0
+80	nous l'avions réduite.	nous l'avions réduite.	0.0459994189441204	0	1	1.0
+81	les réduira-t-elle?	les réduira-t-elle?	0.0476501733064651	0	1	1.0
+82	ne l'y réduiront-elles pas?	ne l'y réduiront-elles pas?	0.048099510371685	0	1	1.0
+83	je ne l'avais pas réduit.	je ne l'avais pas réduit.	0.0481500849127769	0	1	1.0
+84	il vous eut tentées.	il vous eut tentées.	0.0464981123805046	0	1	1.0
+85	ils te tenteront.	ils te tenteront.	0.0457414388656616	0	1	1.0
+86	tu tentas.	tu tentas.	0.046154536306858	0	1	1.0
+87	je nous ai tentés.	je nous ai tentés.	0.0476688854396343	0	1	1.0
+88	elles la tenteront.	elles la tenteront.	0.0457592383027076	0	1	1.0
+89	t'eûmes-nous tenté?	t'eûmes-nous tenté?	0.0476246364414691	0	1	1.0
+90	elles ne t'ont pas tentée.	elles ne t'ont pas tentée.	0.0482344478368759	0	1	1.0
+91	elles l'eurent tentée.	elles l'eurent tentée.	0.0464494191110134	0	1	1.0
+92	les avez-vous tentés?	les avez-vous tentés?	0.0476133488118648	0	1	1.0
+93	elles te tentèrent.	elles te tentèrent.	0.0454622246325016	0	1	1.0
+94	nous tentaient-ils?	nous tentaient-ils?	0.046983253210783	0	1	1.0
+95	les aurez-vous tentées?	les aurez-vous tentées?	0.0472835302352905	0	1	1.0
+96	nous tentèrent-ils?	nous tentèrent-ils?	0.0464031621813774	0	1	1.0
+97	a-t-elle tenté?	a-t-elle tenté?	0.0488002300262451	0	1	1.0
+98	m'avaient-ils tentée?	m'avaient-ils tentée?	0.0478921569883823	0	1	1.0
+99	ne l'eus-je pas tentée?	ne l'eus-je pas tentée?	0.0496379882097244	0	1	1.0
+100	ne vous tentaient-ils pas?	ne vous tentaient-ils pas?	0.0482163205742836	0	1	1.0
+101	je les tentais.	je les tentais.	0.0466934889554977	0	1	1.0
+102	il les a tentées.	il les a tentées.	0.0469339936971664	0	1	1.0
+103	m'avaient-elles tentée?	m'avaient-elles tentée?	0.0477346964180469	0	1	1.0
+104	vous nous aurez supprimées.	vous nous aurez supprimées.	0.0466712340712547	0	1	1.0
+105	vous nous avez supprimés.	vous nous avez supprimés.	0.0469649471342563	0	1	1.0
+106	vous ne nous aviez pas supprimées.	vous ne nous aviez pas supprimées.	0.0474909022450447	0	1	1.0
+107	te supprimerions-nous?	te supprimerions-nous?	0.0460520423948764	0	1	1.0
+108	ils nous auront supprimés.	ils nous auront supprimés.	0.0464904867112636	0	1	1.0
+109	ne les supprimerions-nous pas?	ne les supprimerions-nous pas?	0.0472635515034198	0	1	1.0
+110	ils le supprimèrent.	ils le supprimèrent.	0.0450932011008262	0	1	1.0
+111	vous aura-t-il supprimées?	vous aura-t-il supprimées?	0.0478045754134655	0	1	1.0
+112	ne les auras-tu pas supprimées?	ne les auras-tu pas supprimées?	0.0479933843016624	0	1	1.0
+113	les aura-t-il supprimées?	les aura-t-il supprimées?	0.0475848540663719	0	1	1.0
+114	ne les supprimerez-vous pas?	ne les supprimerez-vous pas?	0.0478121899068355	0	1	1.0
+115	ne les avais-tu pas supprimés?	ne les avais-tu pas supprimés?	0.0481534078717231	0	1	1.0
+116	elle ne te supprimerait pas.	elle ne te supprimerait pas.	0.0470349043607711	0	1	1.0
+117	vous supprimâmes-nous?	vous supprimâmes-nous?	0.0465999878942966	0	1	1.0
+118	il t'a supprimé.	il t'a supprimé.	0.0478860028088092	0	1	1.0
+119	tu me supprimerais.	tu me supprimerais.	0.0455885753035545	0	1	1.0
+120	ne nous avaient-elles pas supprimés?	ne nous avaient-elles pas supprimés?	0.0478762686252594	0	1	1.0
+121	tu ne nous supprimas pas.	tu ne nous supprimas pas.	0.0473381727933883	0	1	1.0
+122	ne m'eus-tu pas supprimée?	ne m'eus-tu pas supprimée?	0.0488614365458488	0	1	1.0
+123	ne vous supprimais-tu pas?	ne vous supprimais-tu pas?	0.0479464456439018	0	1	1.0
+124	ils t'eurent supprimée.	ils t'eurent supprimée.	0.0464903227984905	0	1	1.0
+125	nous me supprimerons.	nous me supprimerons.	0.0458033345639705	0	1	1.0
+126	ne vous en accepterai-je pas?	ne vous en accepterai-je pas?	0.0480987317860126	0	1	1.0
+127	vous l'y aurez acceptée.	vous l'y aurez acceptée.	0.0470365397632122	0	1	1.0
+128	j'aurai accepté.	j'aurai accepté.	0.0476610176265239	0	1	1.0
+129	ne les y avais-tu pas acceptés?	ne les y avais-tu pas acceptés?	0.0481253005564212	0	1	1.0
+130	ne vous en eurent-ils pas acceptés?	ne vous en eurent-ils pas acceptés?	0.0477056354284286	0	1	1.0
+131	je ne t'eus pas acceptée.	je ne t'eus pas acceptée.	0.0486864671111106	0	1	1.0
+132	ne vous y eûmes-nous pas acceptées?	ne vous y eûmes-nous pas acceptées?	0.0477559566497802	0	1	1.0
+133	ils nous y avaient acceptées.	ils nous y avaient acceptées.	0.0465595200657844	0	1	1.0
+134	nous n'acceptons pas.	nous n'acceptons pas.	0.0476664751768112	0	1	1.0
+135	nous en avais-je acceptées?	nous en avais-je acceptées?	0.0475932024419307	0	1	1.0
+136	tu ne m'en eus pas acceptée.	tu ne m'en eus pas acceptée.	0.0477893501520156	0	1	1.0
+137	ne l'auront-ils pas acceptée?	ne l'auront-ils pas acceptée?	0.0486655943095684	0	1	1.0
+138	n'ont-ils pas accepté?	n'ont-ils pas accepté?	0.049256507307291	0	1	1.0
+139	les en acceptais-je?	les en acceptais-je?	0.0471648834645748	0	1	1.0
+140	je ne nous y aurai pas acceptés.	je ne nous y aurai pas acceptés.	0.0479372553527355	0	1	1.0
+141	les eut-elle acceptées?	les eut-elle acceptées?	0.0472690947353839	0	1	1.0
+142	m'en accepteraient-ils?	m'en accepteraient-ils?	0.0467067174613475	0	1	1.0
+143	ne m'y eûtes-vous pas accepté?	ne m'y eûtes-vous pas accepté?	0.0484096631407737	0	1	1.0
+144	elle ne les avait pas acceptés.	elle ne les avait pas acceptés.	0.0477755740284919	0	1	1.0
+145	tu nous eus acceptés.	tu nous eus acceptés.	0.0466279610991478	0	1	1.0
+146	il ne nous accepta pas.	il ne nous accepta pas.	0.047846931964159	0	1	1.0
+147	l'as-tu accepté?	l'as-tu accepté?	0.0486168004572391	0	1	1.0
+148	je t'y rappelerai.	je t'y rappellerai.	0.3746006786823272	1	0	0.6666666666666666
+149	elle ne nous aura pas rappelées.	elle ne nous aura pas rappelées.	0.0480759069323539	0	1	1.0
+150	elles ne se la rappelèrent pas.	elles ne se la rappelèrent pas.	0.0466036908328533	0	1	1.0
+151	nous nous le fûmes rappelés.	nous nous le fûmes rappelés.	0.046277679502964	0	1	1.0
+152	ne la rappelai-je pas?	ne la rappelai-je pas?	0.0486285798251628	0	1	1.0
+153	ne vous rappelerais-tu pas à lui?	ne vous rappellerais-tu pas à lui?	0.2384990751743316	1	0	0.8333333333333334
+154	tu ne la rappelais pas.	tu ne la rappelais pas.	0.0470637828111648	0	1	1.0
+155	t'eurent-elles rappelée à moi?	t'eurent-elles rappelée à moi?	0.0464031510055065	0	1	1.0
+156	les lui avez-vous rappelés?	les lui avez-vous rappelés?	0.0468876548111438	0	1	1.0
+157	nous le rappeleront-ils?	nous le rappelleront-ils?	0.2941659092903137	1	0	0.6666666666666666
+158	nous vous eûmes rappelées à moi.	nous vous eûmes rappelées à moi.	0.0455228053033351	0	1	1.0
+159	vous m'aurez rappelée à eux.	vous m'aurez rappelée à eux.	0.0462987348437309	0	1	1.0
+160	elle nous aura rappelées à toi.	elle nous aura rappelées à toi.	0.0459781624376773	0	1	1.0
+161	vous ne m'aviez pas rappelée à elle.	vous ne m'aviez pas rappelée à elle.	0.0475146546959877	0	1	1.0
+162	vous ont-elles rappelés à moi?	vous ont-elles rappelés à moi?	0.0465158559381961	0	1	1.0
+163	ils nous rappeleront à vous.	ils nous rappelleront à vous.	0.2652361989021301	1	0	0.8
+164	nous nous rappelons.	nous nous rappelons.	0.0461458750069141	0	1	1.0
+165	t'ai-je rappelée à elle?	t'ai-je rappelée à elle?	0.0474996045231819	0	1	1.0
+166	il vous les rappelera.	il vous les rappellera.	0.3202807903289795	1	0	0.75
+167	vous te les eûtes rappelés.	vous te les eûtes rappelés.	0.0460619144141674	0	1	1.0
+168	nous t'avions rappelé à elle.	nous t'avions rappelé à elle.	0.0461288094520568	0	1	1.0
+169	m'as-tu réussie?	m'as-tu réussie?	0.0571234785020351	0	1	1.0
+170	ne vous réussiras-tu pas?	ne vous réussiras-tu pas?	0.0484648272395134	0	1	1.0
+171	ne t'eurent-ils pas réussi?	ne t'eurent-ils pas réussi?	0.0489036440849304	0	1	1.0
+172	tu ne les avais pas réussies.	tu ne les avais pas réussies.	0.0578538551926612	0	1	1.0
+173	il ne t'eut pas réussie.	il ne t'eut pas réussie.	0.0478099696338176	0	1	1.0
+174	ai-je réussi?	ai-je réussi?	0.0570266582071781	0	1	1.0
+175	ils ne t'avaient pas réussi.	ils ne t'avaient pas réussi.	0.0517665669322013	0	1	1.0
+176	ne réussissait-il pas?	ne réussissait-il pas?	0.0486403293907642	0	1	1.0
+177	vous la réussîtes.	vous la réussîtes.	0.0849070474505424	0	1	1.0
+178	ne le réussirai-je pas?	ne le réussirai-je pas?	0.0488657355308532	0	1	1.0
+179	il ne nous réussit pas.	il ne nous réussit pas.	0.0509198419749736	0	1	1.0
+180	ils ne t'auront pas réussie.	ils ne t'auront pas réussie.	0.0596230290830135	0	1	1.0
+181	réusit-il?	réussit-il?	0.146555095911026	1	0	0.0
+182	ne nous réussirait-il pas?	ne nous réussirait-il pas?	0.0482215881347656	0	1	1.0
+183	elle leur aura réussi.	elle leur aura réussi.	0.0462594293057918	0	1	1.0
+184	ne m'a-t-il pas réussi?	ne m'a-t-il pas réussi?	0.0497071593999862	0	1	1.0
+185	ne nous réussis-je pas?	ne nous réussis-je pas?	0.0489295125007629	0	1	1.0
+186	ne l'avais-tu pas réussie?	ne l'avais-tu pas réussie?	0.0493941791355609	0	1	1.0
+187	ne te réussissez-vous pas?	ne te réussissez-vous pas?	0.0558659583330154	0	1	1.0
+188	je lui réussirais.	je lui réussirais.	0.0707133933901786	0	1	1.0
+189	elle ne vous réussirait pas.	elle ne vous réussirait pas.	0.0480908267199993	0	1	1.0
+190	ne les évaluerais-tu pas?	ne les évaluerais-tu pas?	0.0478756353259086	0	1	1.0
+191	ne nous eûtes-vous pas évalués?	ne nous eûtes-vous pas évalués?	0.0481191053986549	0	1	1.0
+192	nous ne t'évaluâmes pas.	nous ne t'évaluâmes pas.	0.0476921834051609	0	1	1.0
+193	nous vous avions évaluées.	nous vous avions évaluées.	0.0465367846190929	0	1	1.0
+194	elles m'ont évaluée.	elles m'ont évaluée.	0.0473117418587207	0	1	1.0
+195	l'avais-tu évaluée?	l'avais-tu évaluée?	0.0480520538985729	0	1	1.0
+196	ne les évaluiez-vous pas?	ne les évaluiez-vous pas?	0.0483359917998313	0	1	1.0
+197	nous t'avons évalué.	nous t'avons évalué.	0.0471267253160476	0	1	1.0
+198	ne nous avais-tu pas évaluées?	ne nous avais-tu pas évaluées?	0.048439722508192	0	1	1.0
+199	elle ne vous a pas évaluées.	elle ne vous a pas évaluées.	0.0482513979077339	0	1	1.0
+200	tu m'avais évalué.	tu m'avais évalué.	0.0474398471415042	0	1	1.0
+201	ne nous évaluaient-ils pas?	ne nous évaluaient-ils pas?	0.048198401927948	0	1	1.0
+202	ne nous évaluent-elles pas?	ne nous évaluent-elles pas?	0.0483171641826629	0	1	1.0
+203	évaluent-elles?	évaluent-elles?	0.0469712279736995	0	1	1.0
+204	vous ne l'évalueriez pas.	vous ne l'évalueriez pas.	0.0476042889058589	0	1	1.0
+205	vous ne m'aurez pas évaluée.	vous ne m'aurez pas évaluée.	0.0485835634171962	0	1	1.0
+206	ne les a-t-il pas évalués?	ne les a-t-il pas évalués?	0.0491096898913383	0	1	1.0
+207	les avions-nous évaluées?	les avions-nous évaluées?	0.0469227693974971	0	1	1.0
+208	il ne m'avait pas évalué.	il ne m'avait pas évalué.	0.0486523509025573	0	1	1.0
+209	ils ne parvenaient pas.	ils ne parvenaient pas.	0.0471646524965763	0	1	1.0
+210	je vous fus parvenue.	je vous fus parvenue.	0.0461766719818115	0	1	1.0
+211	leur parvenait-il?	leur parvenait-il?	0.045918621122837	0	1	1.0
+212	elle me parviendrait.	elle me parviendrait.	0.0456259213387966	0	1	1.0
+213	il parvenait.	il parvenait.	0.0455635413527488	0	1	1.0
+214	je te serai parvenue.	je te serai parvenue.	0.0453786328434944	0	1	1.0
+215	tu vous parviendras.	tu vous parviendras.	0.0453864224255085	0	1	1.0
+216	ne me parviennent-ils pas?	ne me parviennent-ils pas?	0.047487735748291	0	1	1.0
+217	n'y étais-je pas parvenue?	n'y étais-je pas parvenue?	0.0479372031986713	0	1	1.0
+218	n'eurent-elles pas parvenu?	ne furent-elles pas parvenues?	0.92442387342453	5	0	0.0
+219	il vous parvint.	il vous parvint.	0.0463660843670368	0	1	1.0
+220	nous te serons parvenus.	nous te serons parvenus.	0.0450582616031169	0	1	1.0
+221	parvînmes-nous?	parvînmes-nous?	0.0504242740571498	0	1	1.0
+222	ne me parviendrons-nous pas?	ne me parviendrons-nous pas?	0.0473038777709007	0	1	1.0
+223	tu ne me parviendrais pas.	tu ne me parviendrais pas.	0.046572346240282	0	1	1.0
+224	parvenez-nous!	parvenez-nous!	0.0440107583999633	0	1	1.0
+225	elles vous avaient parvenu.	elles vous étaient parvenues.	0.7290365695953369	4	0	0.5
+226	ne nous suis-je pas parvenu?	ne nous suis-je pas parvenu?	0.0476507358253002	0	1	1.0
+227	elle ne t'eut pas parvenu.	elle ne te fut pas parvenue.	0.7473551034927368	4	0	0.36363636363636365
+228	elles vous parvinrent.	elles vous parvinrent.	0.0462905876338481	0	1	1.0
+229	les a-t-elle saisies?	les a-t-elle saisies?	0.0473392643034458	0	1	1.0
+230	ne t'a-t-il pas saisi?	ne t'a-t-il pas saisi?	0.0494259037077426	0	1	1.0
+231	t'eurent-elles saisie?	t'eurent-elles saisie?	0.0468546822667121	0	1	1.0
+232	ne m'en saisirais-je pas?	ne m'en saisirais-je pas?	0.0486552901566028	0	1	1.0
+233	nous ne les eûmes pas saisies.	nous ne les eûmes pas saisies.	0.0467842556536197	0	1	1.0
+234	vous ne nous saisissez pas.	vous ne nous saisissez pas.	0.0473293587565422	0	1	1.0
+235	je ne m'en fus pas saisie.	je ne m'en fus pas saisie.	0.0477646626532077	0	1	1.0
+236	ils ne me saisissaient pas.	ils ne me saisissaient pas.	0.0471225194633007	0	1	1.0
+237	elles ne te saisiront pas.	elles ne te saisiront pas.	0.0471351146697998	0	1	1.0
+238	s'en saisira-t-elle?	s'en saisira-t-elle?	0.047298889607191	0	1	1.0
+239	elle ne te saisit pas.	elle ne te saisit pas.	0.0473680980503559	0	1	1.0
+240	ils la saisiront.	ils la saisiront.	0.0453758686780929	0	1	1.0
+241	ne vous saisit-elle pas?	ne vous saisit-elle pas?	0.0483581647276878	0	1	1.0
+242	elles ne l'auront pas saisie.	elles ne l'auront pas saisie.	0.0475804470479488	0	1	1.0
+243	nous avez-vous saisies?	nous avez-vous saisies?	0.047143816947937	0	1	1.0
+244	elles l'eurent saisi.	elles l'eurent saisi.	0.046111561357975	0	1	1.0
+245	je l'ai saisi.	je l'ai saisi.	0.0477368608117103	0	1	1.0
+246	ils vous auront saisies.	ils vous auront saisies.	0.0459653474390506	0	1	1.0
+247	nous les saisissions.	nous les saisissions.	0.0455983020365238	0	1	1.0
+248	tu n'as pas signé.	tu n'as pas signé.	0.0486277528107166	0	1	1.0
+249	je les eus signées.	je les eus signées.	0.0469700023531913	0	1	1.0
+250	ne l'eus-je pas signée?	ne l'eus-je pas signée?	0.0495930351316928	0	1	1.0
+251	tu ne nous signes pas.	tu ne nous signes pas.	0.047435987740755	0	1	1.0
+252	signeront-elles?	signeront-elles?	0.0463885404169559	0	1	1.0
+253	je ne nous signai pas.	je ne nous signai pas.	0.0482856594026088	0	1	1.0
+254	elle vous a signées.	elle vous a signées.	0.0473013035953044	0	1	1.0
+255	ne t'auront-elles pas signé?	ne t'auront-elles pas signé?	0.0486706644296646	0	1	1.0
+256	elles vous signaient.	elles vous signaient.	0.046232882887125	0	1	1.0
+257	ne te signe-t-elle pas?	ne te signe-t-elle pas?	0.0483390502631664	0	1	1.0
+258	nous ne me signerions pas.	nous ne me signerions pas.	0.0471489354968071	0	1	1.0
+259	l'auront-elles signée?	l'auront-elles signée?	0.0475555285811424	0	1	1.0
+260	il ne vous signerait pas.	il ne vous signerait pas.	0.0473475903272628	0	1	1.0
+261	vous la signerez.	vous la signerez.	0.0458796098828315	0	1	1.0
+262	t'auront-ils signée?	t'auront-ils signée?	0.0477457344532012	0	1	1.0
+263	je nous signais.	je nous signais.	0.0469810329377651	0	1	1.0
+264	ils ne vous signent pas.	ils ne vous signent pas.	0.0476337671279907	0	1	1.0
+265	te signerez-vous?	te signerez-vous?	0.0468347668647766	0	1	1.0
+266	n'aurons-nous pas signé?	n'aurons-nous pas signé?	0.0487279556691646	0	1	1.0
+267	ne vous signais-tu pas?	ne vous signais-tu pas?	0.0483283586800098	0	1	1.0
+268	il les a prouvés par elles.	il les a prouvés par elles.	0.0462623462080955	0	1	1.0
+269	le prouvaient-ils par vous?	le prouvaient-ils par vous?	0.0462593808770179	0	1	1.0
+270	me prouvâmes-nous à eux par lui?	me prouvâmes-nous à eux par lui?	0.0452863126993179	0	1	1.0
+271	ils te prouvent par nous.	ils te prouvent par nous.	0.045780174434185	0	1	1.0
+272	te prouveraient-ils à nous?	te prouveraient-ils à nous?	0.0458359234035015	0	1	1.0
+273	ne nous prouveront-ils pas?	ne nous prouveront-ils pas?	0.0479804389178752	0	1	1.0
+274	vous ne te les eûtes pas prouvées.	vous ne te les eûtes pas prouvées par cela.	0.3364119529724121	9	0	0.75
+275	nous le lui prouverions.	nous le lui prouverions.	0.0451458357274532	0	1	1.0
+276	ne me prouveriez-vous pas à toi par toi?	ne me prouveriez-vous pas à toi par toi?	0.0463536009192466	0	1	1.0
+277	il vous prouve à nous par nous.	il vous prouve à nous par nous.	0.0463565178215503	0	1	1.0
+278	elle nous prouvait à toi par lui.	elle nous prouvait à toi par lui.	0.0450465977191925	0	1	1.0
+279	elle ne les prouverait pas.	elle ne les prouverait pas.	0.0472751669585704	0	1	1.0
+280	nous les prouvions par cela.	nous les prouvions par cela.	0.0452119745314121	0	1	1.0
+281	je ne te prouverai pas à lui par elle.	je ne te prouverai pas à lui par elle.	0.046392023563385	0	1	1.0
+282	ne l'aurons-nous pas prouvé par lui?	ne l'aurons-nous pas prouvé par lui?	0.0474535711109638	0	1	1.0
+283	vous ne me prouverez pas à elle par vous.	vous ne me prouverez pas à elle par vous.	0.0463634170591831	0	1	1.0
+284	vous ont-ils prouvés par moi?	vous ont-ils prouvés par moi?	0.0466898642480373	0	1	1.0
+285	ne le lui prouveraient-elles pas par lui?	ne le lui prouveraient-elles pas par lui?	0.0462505929172039	0	1	1.0
+286	ne te la prouveraient-elles pas par vous?	ne te la prouveraient-elles pas par vous?	0.0465954318642616	0	1	1.0
+287	il nous eut libérées.	il nous eut libérées.	0.0465478524565696	0	1	1.0
+288	ne se libéreront-elles pas?	ne se libèreront-elles pas?	0.0912681594491005	1	0	0.75
+289	nous t'avions libérée.	nous t'avions libérée.	0.0468830242753028	0	1	1.0
+290	l'avions-nous libérée?	l'avions-nous libérée?	0.0475231781601905	0	1	1.0
+291	m'avez-vous libéré?	m'avez-vous libéré?	0.0485881343483924	0	1	1.0
+292	les aviez-vous libérés?	les aviez-vous libérés?	0.0473063923418521	0	1	1.0
+293	ne m'a-t-elle pas libérée?	ne m'a-t-elle pas libérée?	0.0497177354991436	0	1	1.0
+294	ne t'ont-ils pas libéré?	ne t'ont-ils pas libéré?	0.0491633713245391	0	1	1.0
+295	ne l'en libérerons-nous pas?	ne l'en libèrerons-nous pas?	0.2710035443305969	1	0	0.75
+296	nous avaient-elles libérées?	nous avaient-elles libérées?	0.0471288077533245	0	1	1.0
+297	me serai-je libéré?	me serai-je libéré?	0.0474389307200908	0	1	1.0
+298	nous ne vous libèrerons pas.	nous ne vous libèrerons pas.	0.0468933247029781	0	1	1.0
+299	ils libèreraient.	ils libèreraient.	0.0448097996413707	0	1	1.0
+300	tu ne l'auras pas libéré.	tu ne l'auras pas libéré.	0.0482847690582275	0	1	1.0
+301	elles me libèreront.	elles me libèreront.	0.0452638752758502	0	1	1.0
+302	vous l'en libérâtes.	vous l'en libérâtes.	0.0457290448248386	0	1	1.0
+303	ne t'avons-nous pas libéré?	ne t'avons-nous pas libéré?	0.0488243028521537	0	1	1.0
+304	nous vous en libérerions.	nous vous en libèrerions.	0.0989594832062721	1	0	0.75
+305	je t'ai libérée.	je t'ai libérée.	0.0482526905834674	0	1	1.0
+306	t'en auront-ils libérée?	t'en auront-ils libérée?	0.04722835496068	0	1	1.0
+307	avions-nous libéré?	avions-nous libéré?	0.0472613722085952	0	1	1.0
+308	nous libèrera-t-elle?	nous libèrera-t-elle?	0.047095950692892	0	1	1.0
+309	je ne l'aurai pas rajouté.	je ne l'aurai pas rajouté.	0.0485598742961883	0	1	1.0
+310	ne nous rajoutèrent-elles pas?	ne nous rajoutèrent-elles pas?	0.047367837280035	0	1	1.0
+311	tu les avais rajoutées.	tu les avais rajoutées.	0.0461607612669467	0	1	1.0
+312	t'ai-je rajouté?	t'ai-je rajouté?	0.0489674508571624	0	1	1.0
+313	vous ne rajoutez pas.	vous ne rajoutez pas.	0.0477456450462341	0	1	1.0
+314	ne rajoutions-nous pas?	ne rajoutions-nous pas?	0.0476491749286651	0	1	1.0
+315	m'auront-ils rajouté?	m'auront-ils rajouté?	0.0478425770998001	0	1	1.0
+316	me rajoutent-ils?	me rajoutent-ils?	0.0468702130019664	0	1	1.0
+317	je ne la rajouterais pas.	je ne la rajouterais pas.	0.0473398379981517	0	1	1.0
+318	elles eurent rajouté.	elles eurent rajouté.	0.0461159497499465	0	1	1.0
+319	l'ai-je rajouté?	l'ai-je rajouté?	0.049021553248167	0	1	1.0
+320	il les a rajoutées.	il les a rajoutées.	0.0467010773718357	0	1	1.0
+321	elles nous auront rajoutés.	elles nous auront rajoutés.	0.0465795584022998	0	1	1.0
+322	ne t'ont-ils pas rajoutée?	ne t'ont-ils pas rajoutée?	0.0487582683563232	0	1	1.0
+323	nous a-t-elle rajoutés?	nous a-t-elle rajoutés?	0.0480980686843395	0	1	1.0
+324	la rajoutâtes-vous?	la rajoutâtes-vous?	0.0460429154336452	0	1	1.0
+325	ils ne vous rajouteront pas.	ils ne vous rajouteront pas.	0.0472445338964462	0	1	1.0
+326	ne vous rajouterait-elle pas?	ne vous rajouterait-elle pas?	0.047829620540142	0	1	1.0
+327	il m'avait courue.	il m'avait courue.	0.046560950577259	0	1	1.0
+328	ne nous courras-tu pas?	ne nous courras-tu pas?	0.0487713627517223	0	1	1.0
+329	ne l'avais-tu pas courue?	ne l'avais-tu pas courue?	0.0483780167996883	0	1	1.0
+330	la courent-ils?	la courent-ils?	0.0465310141444206	0	1	1.0
+331	ne l'eurent-elles pas couru?	ne l'eurent-elles pas couru?	0.0480847023427486	0	1	1.0
+332	ne nous eus-je pas courues?	ne nous eus-je pas courues?	0.0484843924641609	0	1	1.0
+333	ils ne l'avaient pas courue.	ils ne l'avaient pas courue.	0.0475800745189189	0	1	1.0
+334	vous avaient-elles courues?	vous avaient-elles courues?	0.0474509298801422	0	1	1.0
+335	il nous courrait.	il nous courrait.	0.0517894178628921	0	1	1.0
+336	nous eus-je courues?	nous eus-je courues?	0.0475950166583061	0	1	1.0
+337	il m'aura courue.	il m'aura courue.	0.0468061044812202	0	1	1.0
+338	elle vous avait courus.	elle vous avait courus.	0.0466104038059711	0	1	1.0
+339	t'ont-elles couru?	t'ont-elles couru?	0.0477842800319194	0	1	1.0
+340	vous les eûtes courus.	vous les eûtes courus.	0.045346450060606	0	1	1.0
+341	je vous courrais.	je vous courrais.	0.0693909749388694	0	1	1.0
+342	ils courent.	ils courent.	0.0455167554318904	0	1	1.0
+343	ne l'auront-elles pas couru?	ne l'auront-elles pas couru?	0.0482418984174728	0	1	1.0
+344	ils me courraient.	ils me courraient.	0.0492030307650566	0	1	1.0
+345	ne me courront-elles pas?	ne me courront-elles pas?	0.048447772860527	0	1	1.0
+346	m'as-tu couru?	m'as-tu couru?	0.0479657500982284	0	1	1.0
+347	je te courais.	je te courais.	0.046535175293684	0	1	1.0
+348	elles nous y marqueront.	elles nous y marqueront.	0.0460733473300933	0	1	1.0
+349	les eûmes-nous marquées?	les eûmes-nous marquées?	0.0465558655560016	0	1	1.0
+350	nous t'y aurons marqué.	nous t'y aurons marqué.	0.0467901639640331	0	1	1.0
+351	vous l'y marquez.	vous l'y marquez.	0.0465899407863616	0	1	1.0
+352	nous ne l'y eûmes pas marquée.	nous ne l'y eûmes pas marquée.	0.0474576614797115	0	1	1.0
+353	ils vous y marqueraient.	ils vous y marqueraient.	0.0458748713135719	0	1	1.0
+354	ils ne vous marqueraient pas.	ils ne vous marqueraient pas.	0.0471094362437725	0	1	1.0
+355	elles n'eurent pas marqué.	elles n'eurent pas marqué.	0.0477183647453784	0	1	1.0
+356	je t'ai marquée.	je t'ai marquée.	0.0480607822537422	0	1	1.0
+357	t'eurent-elles marqué?	t'eurent-elles marqué?	0.0473258905112743	0	1	1.0
+358	ne l'y auront-ils pas marquée?	ne l'y auront-ils pas marquée?	0.0483755581080913	0	1	1.0
+359	elles t'y marquèrent.	elles t'y marquèrent.	0.0459033884108066	0	1	1.0
+360	ne l'en avions-nous pas marqué?	ne l'en avions-nous pas marqué?	0.0479731336236	0	1	1.0
+361	ils ne vous en marqueront pas.	ils ne vous en marqueront pas.	0.0469262450933456	0	1	1.0
+362	nous ne t'aurons pas marqué.	nous ne t'aurons pas marqué.	0.0480602569878101	0	1	1.0
+363	nous ne t'en aurons pas marqué.	nous ne t'en aurons pas marqué.	0.0475189685821533	0	1	1.0
+364	ils t'y avaient marqué.	ils t'y avaient marqué.	0.0468051619827747	0	1	1.0
+365	vous les en marquerez.	vous les en marquerez.	0.0455642268061637	0	1	1.0
+366	ne vous aurai-je pas marquées?	ne vous aurai-je pas marquées?	0.0485814996063709	0	1	1.0
+367	ne les marqueriez-vous pas?	ne les marqueriez-vous pas?	0.0477313362061977	0	1	1.0
+368	elles nous avaient affirmées.	elles nous avaient affirmées.	0.0464686304330825	0	1	1.0
+369	nous ne m'affirmerions pas à toi.	nous ne m'affirmerions pas à toi.	0.0465290546417236	0	1	1.0
+370	elles vous affirmèrent à nous.	elles vous affirmèrent à nous.	0.0453767403960228	0	1	1.0
+371	tu ne le leur affirmas pas.	tu ne le leur affirmas pas.	0.0466347150504589	0	1	1.0
+372	nous l'avais-tu affirmée?	nous l'avais-tu affirmée?	0.0477888621389865	0	1	1.0
+373	ne t'eurent-elles pas affirmé à lui?	ne t'eurent-elles pas affirmé à lui?	0.0473276935517787	0	1	1.0
+374	il ne nous eut pas affirmés à eux.	il ne nous eut pas affirmés à eux.	0.046658881008625	0	1	1.0
+375	ne m'eut-elle pas affirmée à eux?	ne m'eut-elle pas affirmée à eux?	0.047734722495079	0	1	1.0
+376	ne l'avais-tu pas affirmé?	ne l'avais-tu pas affirmé?	0.0489347055554389	0	1	1.0
+377	ne t'affirmeraient-ils pas?	ne t'affirmeraient-ils pas?	0.0478294193744659	0	1	1.0
+378	tu nous affirmerais.	tu nous affirmerais.	0.0457956157624721	0	1	1.0
+379	il ne les leur avait pas affirmés.	il ne les leur avait pas affirmés.	0.0468830578029155	0	1	1.0
+380	elles ne t'avaient pas affirmée à moi.	elles ne t'avaient pas affirmée à moi.	0.047067042440176	0	1	1.0
+381	ne vous l'affirmerons-nous pas?	ne vous l'affirmerons-nous pas?	0.0478094890713691	0	1	1.0
+382	m'affirmerons-nous à lui?	m'affirmerons-nous à lui?	0.0460498705506324	0	1	1.0
+383	elles nous eurent affirmés à lui.	elles nous eurent affirmés à lui.	0.0455700680613517	0	1	1.0
+384	elles ne l'eurent pas affirmé.	elles ne l'eurent pas affirmé.	0.0478796102106571	0	1	1.0
+385	nous affirmâtes-vous?	nous affirmâtes-vous?	0.0465393103659153	0	1	1.0
+386	t'affirmerais-je à lui?	t'affirmerais-je à lui?	0.0464436002075672	0	1	1.0
+387	vous ont-ils affirmées à elle?	vous ont-ils affirmées à elle?	0.0465346239507198	0	1	1.0
+388	elle nous envisagerait.	elle nous envisagerait.	0.0458880402147769	0	1	1.0
+389	ne les a-t-il pas envisagés?	ne les a-t-il pas envisagés?	0.0485106147825717	0	1	1.0
+390	ne nous envisagera-t-il pas?	ne nous envisagera-t-il pas?	0.0479918271303176	0	1	1.0
+391	tu les envisagerais.	tu les envisagerais.	0.0451634004712104	0	1	1.0
+392	ne l'ont-elles pas envisagée?	ne l'ont-elles pas envisagée?	0.0483446717262268	0	1	1.0
+393	t'aurai-je envisagée?	t'aurai-je envisagée?	0.0479676946997642	0	1	1.0
+394	elle vous envisagerait.	elle vous envisagerait.	0.0459045469760894	0	1	1.0
+395	ils ne nous envisagent pas.	ils ne nous envisagent pas.	0.0471948571503162	0	1	1.0
+396	ne m'auras-tu pas envisagée?	ne m'auras-tu pas envisagée?	0.0486262887716293	0	1	1.0
+397	elles ne l'auront pas envisagée.	elles ne l'auront pas envisagée.	0.0475288517773151	0	1	1.0
+398	vous les eûtes envisagés.	vous les eûtes envisagés.	0.04568937048316	0	1	1.0
+399	il ne les envisageait pas.	il ne les envisageait pas.	0.0466426461935043	0	1	1.0
+400	t'aura-t-elle envisagé?	t'aura-t-elle envisagé?	0.0480464398860931	0	1	1.0
+401	elles l'envisagent.	elles l'envisagent.	0.0458901934325695	0	1	1.0
+402	ne nous eut-elle pas envisagées?	ne nous eut-elle pas envisagées?	0.0478184036910533	0	1	1.0
+403	les as-tu envisagés?	les as-tu envisagés?	0.0471762493252754	0	1	1.0
+404	elles t'eurent envisagée.	elles t'eurent envisagée.	0.0462462753057479	0	1	1.0
+405	t'envisageront-ils?	t'envisageront-ils?	0.0464355386793613	0	1	1.0
+406	ne m'ont-elles pas envisagée?	ne m'ont-elles pas envisagée?	0.0485739298164844	0	1	1.0
+407	les avait-il envisagées?	les avait-il envisagées?	0.0468574799597263	0	1	1.0
+408	il ne vous envisage pas.	il ne vous envisage pas.	0.0473804473876953	0	1	1.0
+409	ne m'a-t-elle pas fui?	ne m'a-t-elle pas fui?	0.0500638782978057	0	1	1.0
+410	vous ne m'eûtes pas fui.	vous ne m'eûtes pas fui.	0.0482583157718181	0	1	1.0
+411	ne les fuit-elle pas?	ne les fuit-elle pas?	0.0486433990299701	0	1	1.0
+412	n'ai-je pas fui?	n'ai-je pas fui?	0.0502851791679859	0	1	1.0
+413	il ne te fuit pas.	il ne te fuit pas.	0.0477299466729164	0	1	1.0
+414	l'eurent-ils fuie?	l'eurent-ils fuie?	0.0471217185258865	0	1	1.0
+415	elles t'auront fuie.	elles t'auront fuie.	0.0465238653123378	0	1	1.0
+416	tu nous fuisais.	tu nous fuyais.	0.4604263305664062	2	0	0.6666666666666666
+417	nous aurez-vous fuies?	nous aurez-vous fuies?	0.0475319847464561	0	1	1.0
+418	ne les fuit-il pas?	ne les fuit-il pas?	0.0487527474761009	0	1	1.0
+419	elles ne fuirent pas.	elles ne fuirent pas.	0.0596940740942955	0	1	1.0
+420	vous fuisiez.	vous fuyiez.	0.5429613590240479	2	0	0.5
+421	ils n'avaient pas fui.	ils n'avaient pas fui.	0.047947883605957	0	1	1.0
+422	en fuiraient-elles?	en fuiraient-elles?	0.046090193092823	0	1	1.0
+423	je ne la fuis pas.	je ne la fuis pas.	0.0484257154166698	0	1	1.0
+424	elle nous fuit.	elle nous fuit.	0.0468787178397178	0	1	1.0
+425	ne te fuit-elle pas?	ne te fuit-elle pas?	0.0487395450472831	0	1	1.0
+426	n'eurent-ils pas fui?	n'eurent-ils pas fui?	0.0486072786152362	0	1	1.0
+427	elles la fuirent.	elles la fuirent.	0.0764407441020011	0	1	1.0
+428	vous a-t-elle fuis?	vous a-t-elle fuis?	0.0542189963161945	0	1	1.0
+429	elles ne l'avaient pas fui.	elles ne l'avaient pas fui.	0.0480758845806121	0	1	1.0
+430	elle ne nous avait pas ramenés à eux.	elle ne nous avait pas ramenés à eux.	0.0468908622860908	0	1	1.0
+431	elles ne vous ramèneraient pas sur toi.	elles ne vous ramèneraient pas sur toi.	0.0459916889667511	0	1	1.0
+432	elle vous ramène sur elles.	elle vous ramène sur elles.	0.0454025007784366	0	1	1.0
+433	ne les ramènerait-il pas sur cela?	ne les ramènerait-il pas sur cela?	0.0463213138282299	0	1	1.0
+434	ne t'y ramèneront-elles pas?	ne t'y ramèneront-elles pas?	0.047839593142271	0	1	1.0
+435	je ne nous ramenai pas à lui.	je ne nous ramenai pas à lui.	0.0471811257302761	0	1	1.0
+436	l'eurent-elles ramenée sur nous?	l'eurent-elles ramenée sur nous?	0.0462152287364006	0	1	1.0
+437	ne te ramènera-t-il pas sur toi?	ne te ramènera-t-il pas sur toi?	0.0466042421758174	0	1	1.0
+438	la ramèneront-ils sur nous?	la ramèneront-ils sur nous?	0.0453958548605442	0	1	1.0
+439	il nous a ramenés sur elles.	il nous a ramenés sur elles.	0.0459121912717819	0	1	1.0
+440	nous ne les en eûmes pas ramenées.	nous ne les en eûmes pas ramenées.	0.0467663295567035	0	1	1.0
+441	ne me les eus-tu pas ramenées?	ne me les eus-tu pas ramenées?	0.048048410564661	0	1	1.0
+442	tu les en auras ramenés.	tu les en auras ramenés.	0.0460191927850246	0	1	1.0
+443	ne te ramenez-vous pas sur lui?	ne te ramenez-vous pas sur lui?	0.0466126799583435	0	1	1.0
+444	ne nous en ramenâmes-nous pas?	ne nous en ramenâmes-nous pas?	0.0473859459161758	0	1	1.0
+445	elle t'aura ramené sur elle.	elle t'aura ramené sur elle.	0.046156994998455	0	1	1.0
+446	je vous les ramènerai.	je vous les ramènerai.	0.0463904626667499	0	1	1.0
+447	ne s'en ramenait-elle pas?	ne s'en ramenait-elle pas?	0.0481538549065589	0	1	1.0
+448	elles l'ont ramené sur eux.	elles l'ont ramené sur eux.	0.045643713325262	0	1	1.0
+449	elles y renonceraient.	elles y renonceraient.	0.0458082631230354	0	1	1.0
+450	n'y renoncèrent-elles pas?	n'y renoncèrent-elles pas?	0.0474022403359413	0	1	1.0
+451	j'eus renoncé.	j'eus renoncé.	0.047302272170782	0	1	1.0
+452	aurons-nous renoncé?	aurons-nous renoncé?	0.0470966324210166	0	1	1.0
+453	j'ai renoncé.	j'ai renoncé.	0.0478894039988517	0	1	1.0
+454	ils y renonceraient.	ils y renonceraient.	0.0456012152135372	0	1	1.0
+455	ils n'ont pas renoncé.	ils n'ont pas renoncé.	0.0479107126593589	0	1	1.0
+456	je ne renonçais pas.	je ne renonçais pas.	0.0473366603255271	0	1	1.0
+457	nous n'y renonçons pas.	nous n'y renonçons pas.	0.0468200035393238	0	1	1.0
+458	elle ne renonça pas.	elle ne renonça pas.	0.0472421087324619	0	1	1.0
+459	elles n'y renonceraient pas.	elles n'y renonceraient pas.	0.0470512360334396	0	1	1.0
+460	je renoncerai.	je renoncerai.	0.0460891798138618	0	1	1.0
+461	j'y renonçais.	j'y renonçais.	0.0459567457437515	0	1	1.0
+462	n'avais-je pas renoncé?	n'avais-je pas renoncé?	0.0491749495267868	0	1	1.0
+463	ils n'y avaient pas renoncé.	ils n'y avaient pas renoncé.	0.0475230365991592	0	1	1.0
+464	elles y renoncèrent.	elles y renoncèrent.	0.0453525073826313	0	1	1.0
+465	vous y renonçâtes.	vous y renonçâtes.	0.0449791252613067	0	1	1.0
+466	ai-je renoncé?	ai-je renoncé?	0.0485653616487979	0	1	1.0
+467	y aurai-je renoncé?	y aurai-je renoncé?	0.0478598475456237	0	1	1.0
+468	ne renoncèrent-elles pas?	ne renoncèrent-elles pas?	0.047190997749567	0	1	1.0
+469	ne le dessiné-je pas?	ne le dessiné-je pas?	0.0489252544939518	0	1	1.0
+470	il ne se sera pas dessiné.	il ne se sera pas dessiné.	0.0470529310405254	0	1	1.0
+471	nous avaient-elles dessinées?	nous avaient-elles dessinées?	0.0467973724007606	0	1	1.0
+472	ils vous dessinent.	ils vous dessinent.	0.0459692403674125	0	1	1.0
+473	ne vous dessineront-elles pas?	ne vous dessineront-elles pas?	0.0477280989289283	0	1	1.0
+474	se dessineraient-elles?	se dessineraient-elles?	0.0460756234824657	0	1	1.0
+475	ne le dessiné-je pas?	ne le dessiné-je pas?	0.0489252544939518	0	1	1.0
+476	ils ne m'avaient pas dessinée.	ils ne m'avaient pas dessinée.	0.0497241429984569	0	1	1.0
+477	je dessinai.	je dessinai.	0.0466665178537368	0	1	1.0
+478	il ne les eut pas dessinées.	il ne les eut pas dessinées.	0.0470806919038295	0	1	1.0
+479	la dessinâmes-nous?	la dessinâmes-nous?	0.0462141744792461	0	1	1.0
+480	je ne me suis pas dessiné.	je ne me suis pas dessiné.	0.0471302084624767	0	1	1.0
+481	ne vous dessinerais-je pas?	ne vous dessinerais-je pas?	0.0482283309102058	0	1	1.0
+482	nous dessinerions-nous?	nous dessinerions-nous?	0.0462217293679714	0	1	1.0
+483	je t'aurai dessiné.	je t'aurai dessiné.	0.0472126603126525	0	1	1.0
+484	je n'eus pas dessiné.	je n'eus pas dessiné.	0.0487407557666301	0	1	1.0
+485	ne me dessinerais-tu pas?	ne me dessinerais-tu pas?	0.0477255061268806	0	1	1.0
+486	m'eut-il dessiné?	m'eut-il dessiné?	0.0478285551071167	0	1	1.0
+487	ne le dessinent-elles pas?	ne le dessinent-elles pas?	0.0478768311440944	0	1	1.0
+488	ils ne m'avaient pas confondu avec lui.	ils ne m'avaient pas confondu avec lui.	0.0461279824376106	0	1	1.0
+489	le confonds-je avec eux?	le confonds-je avec eux?	0.0456643775105476	0	1	1.0
+490	la confondrais-je avec nous?	la confondrais-je avec nous?	0.045606505125761	0	1	1.0
+491	ne le confondis-tu pas avec vous?	ne le confondis-tu pas avec vous?	0.0464617982506752	0	1	1.0
+492	ne l'ai-je pas confondue?	ne l'ai-je pas confondue?	0.0481585413217544	0	1	1.0
+493	m'eut-il confondu avec lui?	m'eut-il confondu avec lui?	0.0452426746487617	0	1	1.0
+494	m'aura-t-elle confondue avec moi?	m'aura-t-elle confondue avec moi?	0.0460390970110893	0	1	1.0
+495	ne la confondaient-ils pas avec cela?	ne la confondaient-ils pas avec cela?	0.0460743084549903	0	1	1.0
+496	je ne confondrai pas avec elle.	je ne confondrai pas avec elle.	0.0460419431328773	0	1	1.0
+497	ne nous avais-je pas confondues avec elle?	ne nous avais-je pas confondues avec elle?	0.0467218123376369	0	1	1.0
+498	vous confonds-je avec nous?	vous confonds-je avec nous?	0.046020183712244	0	1	1.0
+499	elles me confondront avec cela.	elles me confondront avec cela.	0.0446922965347766	0	1	1.0
+500	t'aurai-je confondue avec vous?	t'aurai-je confondue avec vous?	0.0459873974323272	0	1	1.0
+501	ne m'eut-il pas confondu avec elles?	ne m'eut-il pas confondu avec elles?	0.0466921329498291	0	1	1.0
+502	elle me confondrait avec eux.	elle me confondrait avec eux.	0.0446399673819541	0	1	1.0
+503	nous vous eûmes confondus avec eux.	nous vous eûmes confondus avec eux.	0.0444510206580162	0	1	1.0
+504	vous eut-elle confondues avec elle?	vous eut-elle confondues avec elle?	0.0453425869345665	0	1	1.0
+505	tu m'auras confondue avec elles.	tu m'auras confondue avec elles.	0.0449758507311344	0	1	1.0
+506	ne te glissions-nous pas à lui?	ne te glissions-nous pas à lui?	0.046632133424282	0	1	1.0
+507	vous glissai-je à eux?	vous glissai-je à eux?	0.0468026362359523	0	1	1.0
+508	je ne nous les aurai pas glissés.	je ne nous les aurai pas glissés.	0.0477253682911396	0	1	1.0
+509	elles en auront glissé vers elles.	elles en auront glissé vers elles.	0.0450419373810291	0	1	1.0
+510	ne me la glisseriez-vous pas?	ne me la glisseriez-vous pas?	0.0475407987833023	0	1	1.0
+511	je vous ai glissés à eux.	je vous ai glissés à eux.	0.0462850891053676	0	1	1.0
+512	elle glisse vers moi.	elle glisse vers moi.	0.0447386242449283	0	1	1.0
+513	je ne les y avais pas glissés.	je ne les y avais pas glissés.	0.0477781556546688	0	1	1.0
+514	je glissai vers eux.	je glissai vers eux.	0.0449682995676994	0	1	1.0
+515	je glissai sur moi.	je glissai sur moi.	0.0452153086662292	0	1	1.0
+516	tu ne glisseras pas sur toi.	tu ne glisseras pas sur toi.	0.0455971583724021	0	1	1.0
+517	t'y glissez-vous?	t'y glissez-vous?	0.0471983253955841	0	1	1.0
+518	ne glissas-tu pas?	ne glissas-tu pas?	0.0484096743166446	0	1	1.0
+519	ne me glisserez-vous pas à toi?	ne me glisserez-vous pas à toi?	0.0471852570772171	0	1	1.0
+520	vous ne les lui aviez pas glissées.	vous ne les lui aviez pas glissées.	0.0469572097063064	0	1	1.0
+521	je ne vous avais pas glissés à nous.	je ne vous avais pas glissés à nous.	0.0472253784537315	0	1	1.0
+522	t'eurent-ils glissée à moi?	t'eurent-ils glissée à moi?	0.046249620616436	0	1	1.0
+523	je te glisse à eux.	je te glisse à eux.	0.0454113483428955	0	1	1.0
+524	il les a détectés.	il les a détectés.	0.0470247045159339	0	1	1.0
+525	ne la détecté-je pas?	ne la détecté-je pas?	0.0503459721803665	0	1	1.0
+526	ils ne le détecteront pas.	ils ne le détecteront pas.	0.047208372503519	0	1	1.0
+527	elle ne t'eut pas détecté.	elle ne t'eut pas détecté.	0.048322819173336	0	1	1.0
+528	te détectèrent-ils?	te détectèrent-ils?	0.0460631661117076	0	1	1.0
+529	nous ne le détecterions pas.	nous ne le détecterions pas.	0.046975489705801	0	1	1.0
+530	tu les avais détectées.	tu les avais détectées.	0.0462425835430622	0	1	1.0
+531	nous détectas-tu?	nous détectas-tu?	0.047389730811119	0	1	1.0
+532	tu ne nous eus pas détectées.	tu ne nous eus pas détectées.	0.047507107257843	0	1	1.0
+533	ne la détectent-ils pas?	ne la détectent-ils pas?	0.047955360263586	0	1	1.0
+534	ne le détectent-elles pas?	ne le détectent-elles pas?	0.0480424463748931	0	1	1.0
+535	ne les eûmes-nous pas détectées?	ne les eûmes-nous pas détectées?	0.0477486252784729	0	1	1.0
+536	il nous détecterait.	il nous détecterait.	0.046078898012638	0	1	1.0
+537	détecte-nous!	détecte-nous!	0.0448195897042751	0	1	1.0
+538	elle ne vous aura pas détectés.	elle ne vous aura pas détectés.	0.0480609536170959	0	1	1.0
+539	il ne t'avait pas détectée.	il ne t'avait pas détectée.	0.0481004379689693	0	1	1.0
+540	ne l'avaient-elles pas détectée?	ne l'avaient-elles pas détectée?	0.0484088733792305	0	1	1.0
+541	t'eûmes-nous détecté?	t'eûmes-nous détecté?	0.0474671721458435	0	1	1.0
+542	je la détectais.	je la détectais.	0.0464347042143344	0	1	1.0
+543	te détecterez-vous?	te détecterez-vous?	0.0468999668955802	0	1	1.0
+544	ne m'auras-tu pas détectée?	ne m'auras-tu pas détectée?	0.0491187460720539	0	1	1.0
+545	il s'alliera avec cela.	il s'alliera avec cela contre cela.	0.4074997305870056	12	0	0.6
+546	je me serai allié avec elles.	je me serai allié avec elle contre elles.	0.4945794939994812	12	0	0.7142857142857143
+547	elle s'était alliée avec lui contre cela.	elle s'était alliée avec lui contre cela.	0.0536633059382438	0	1	1.0
+548	ne m'alliai-je pas avec nous?	ne m'alliai-je pas avec nous contre elle?	0.1822532266378402	12	0	0.6666666666666666
+549	nous nous sommes alliés avec lui.	nous nous sommes alliés avec lui.	0.0450661219656467	0	1	1.0
+550	elle ne se sera pas alliée avec toi contre vous.	elle ne se sera pas alliée avec toi contre vous.	0.0545092932879924	0	1	1.0
+551	ne m'auras-tu pas allié?	ne m'auras-tu pas allié?	0.0493836514651775	0	1	1.0
+552	ne l'allieront-ils pas avec elle?	ne l'allieront-ils pas avec elle?	0.047113262116909	0	1	1.0
+553	ils t'allieront avec eux.	ils t'allieront avec eux.	0.0459328070282936	0	1	1.0
+554	se seront-ils alliés avec elles?	se seront-ils alliés avec elles contre elles?	0.3421605229377746	13	0	0.6666666666666666
+555	elle ne s'allierait pas avec vous.	elle ne s'allierait pas avec vous contre vous.	0.1869758516550064	12	0	0.7142857142857143
+556	ne les allias-tu pas avec cela?	ne les allias-tu pas avec cela?	0.0470401644706726	0	1	1.0
+557	vous vous fûtes alliés avec lui contre eux.	vous vous fûtes alliés avec lui contre eux.	0.0502451546490192	0	1	1.0
+558	s'étaient-elles alliées avec elles?	s'étaient-elles alliées avec elles contre cela?	0.084935575723648	12	0	0.6
+559	elles se furent alliées avec vous.	elles se furent alliées avec vous contre elles.	0.1209984421730041	13	0	0.7142857142857143
+560	tu ne t'étais pas alliée avec cela.	tu ne t'étais pas alliée avec cela.	0.0462470911443233	0	1	1.0
+561	ils ne m'allieraient pas avec eux.	ils ne m'allieraient pas avec eux.	0.0750874727964401	0	1	1.0
+562	elle ne m'avait pas allié avec elle.	elle ne m'avait pas allié avec elle.	0.0472172535955905	0	1	1.0
+563	je ne m'étais pas allié avec vous.	je ne m'étais pas allié avec vous contre elle.	0.1112749055027961	12	0	0.75
+564	vous vous étiez alliés avec eux contre elle.	vous vous étiez alliés avec eux contre elle.	0.052544854581356	0	1	1.0
+565	nous avait-elle alliées avec moi?	nous avait-elle alliées avec moi?	0.0461627170443534	0	1	1.0
+566	le lui aurai-je designé?	le lui aurai-je désigné?	0.3240602016448974	1	0	0.75
+567	me designent-elles à elle?	me designent-elles à elle?	0.0460737757384777	0	1	1.0
+568	tu ne me designerais pas à lui.	tu ne me designerais pas à lui.	0.0460705459117889	0	1	1.0
+569	il ne t'eut pas designé à moi.	il ne t'eut pas désigné à moi.	0.2696980535984039	1	0	0.8571428571428571
+570	me designions-nous à eux?	me designions-nous à eux?	0.0456460714340209	0	1	1.0
+571	je ne vous avais pas designés.	je ne vous avais pas désignés.	0.27119180560112	1	0	0.8333333333333334
+572	je ne vous aurai pas designés à eux.	je ne vous aurai pas désignés à eux.	0.2340033054351806	1	0	0.875
+573	elle ne te les designa pas.	elle ne te les designa pas.	0.0471948981285095	0	1	1.0
+574	ils ne me designèrent pas à vous.	ils ne me designèrent pas à vous.	0.0461592450737953	0	1	1.0
+575	te designeraient-elles à moi?	te designeraient-elles à moi?	0.0456090755760669	0	1	1.0
+576	ne les leur ai-je pas designés?	ne les leur ai-je pas désignés?	0.2637015283107757	1	0	0.8333333333333334
+577	nous aurez-vous designés à toi?	nous aurez-vous désignés à toi?	0.2628569602966308	1	0	0.8
+578	il me designe à eux.	il me designe à eux.	0.044922012835741	0	1	1.0
+579	je nous le designerais.	je nous le designerais.	0.0463823676109313	0	1	1.0
+580	les leur designons-nous?	les leur designons-nous?	0.0456404387950897	0	1	1.0
+581	te les designerez-vous?	te les designerez-vous?	0.0465389974415302	0	1	1.0
+582	vous ne nous les eûtes pas designés.	vous ne nous les eûtes pas désignés.	0.2339995801448822	1	0	0.8571428571428571
+583	designe-vous les!	designe-vous les!	0.0451748743653297	0	1	1.0
+584	je les lui designe.	je les lui designe.	0.04586061835289	0	1	1.0
+585	ne m'avez-vous pas designée à eux?	ne m'avez-vous pas désignée à eux?	0.2453662008047104	1	0	0.8333333333333334
+586	navigues-tu?	navigues-tu?	0.0464275814592838	0	1	1.0
+587	naviguerions-nous?	naviguerions-nous?	0.0456650480628013	0	1	1.0
+588	avaient-elles navigué?	avaient-elles navigué?	0.0468616373836994	0	1	1.0
+589	avais-tu navigué?	avais-tu navigué?	0.0470849797129631	0	1	1.0
+590	ne naviguent-ils pas?	ne naviguent-ils pas?	0.047876238822937	0	1	1.0
+591	n'aurai-je pas navigué?	n'aurai-je pas navigué?	0.0490062497556209	0	1	1.0
+592	ne naviguera-t-il pas?	ne naviguera-t-il pas?	0.0480873994529247	0	1	1.0
+593	ne navigueront-ils pas?	ne navigueront-ils pas?	0.0474542379379272	0	1	1.0
+594	n'avaient-elles pas navigué?	n'avaient-elles pas navigué?	0.0481552518904209	0	1	1.0
+595	avions-nous navigué?	avions-nous navigué?	0.0466910526156425	0	1	1.0
+596	eûmes-nous navigué?	eûmes-nous navigué?	0.0464934483170509	0	1	1.0
+597	naviguais-je?	naviguais-je?	0.0473039671778678	0	1	1.0
+598	ne naviguerai-je pas?	ne naviguerai-je pas?	0.0481046810746192	0	1	1.0
+599	tu n'as pas navigué.	tu n'as pas navigué.	0.0479499623179435	0	1	1.0
+600	ne navigue pas!	ne navigue pas!	0.046518325805664	0	1	1.0
+601	il ne naviguerait pas.	il ne naviguerait pas.	0.0467216074466705	0	1	1.0
+602	elle eut navigué.	elle eut navigué.	0.0461147427558898	0	1	1.0
+603	il avait navigué.	il avait navigué.	0.0461680367588996	0	1	1.0
+604	ne navigueraient-ils pas?	ne navigueraient-ils pas?	0.0472466312348842	0	1	1.0
+605	n'aviez-vous pas navigué?	n'aviez-vous pas navigué?	0.0484918020665645	0	1	1.0
+606	vous n'avez pas navigué.	vous n'avez pas navigué.	0.0478528961539268	0	1	1.0
+607	le surprendriez-vous?	le surprendriez-vous?	0.0460192933678627	0	1	1.0
+608	t'avaient-ils surpris?	t'avaient-ils surpris?	0.0465661510825157	0	1	1.0
+609	elle les eut surpris.	elle les eut surpris.	0.045522853732109	0	1	1.0
+610	elles ne m'ont pas surprise.	elles ne m'ont pas surprise.	0.0475125350058078	0	1	1.0
+611	l'avions-nous surpris?	l'avions-nous surpris?	0.0464026033878326	0	1	1.0
+612	ne la surprendrais-je pas?	ne la surprendrais-je pas?	0.0472920425236225	0	1	1.0
+613	elles ne la surprirent pas.	elles ne la surprirent pas.	0.0469338856637477	0	1	1.0
+614	ne t'aura-t-il pas surpris?	ne t'aura-t-il pas surpris?	0.0484780110418796	0	1	1.0
+615	vous ne te surprîtes pas.	vous ne te surprîtes pas.	0.0480532422661781	0	1	1.0
+616	ne l'aurons-nous pas surpris?	ne l'aurons-nous pas surpris?	0.0477438122034072	0	1	1.0
+617	me surprenaient-elles?	me surprenaient-elles?	0.0460909754037857	0	1	1.0
+618	je t'ai surprise.	je t'ai surprise.	0.0467220954596996	0	1	1.0
+619	ne vous avions-nous pas surprises?	ne vous avions-nous pas surprises?	0.0472007617354393	0	1	1.0
+620	tu surprendrais.	tu surprendrais.	0.0444882810115814	0	1	1.0
+621	ne les eut-elle pas surprises?	ne les eut-elle pas surprises?	0.0472472161054611	0	1	1.0
+622	je l'aurai surprise.	je l'aurai surprise.	0.0463264435529708	0	1	1.0
+623	je les avais surprises.	je les avais surprises.	0.0459258668124675	0	1	1.0
+624	l'eus-tu surprise?	l'eus-tu surprise?	0.0464607924222946	0	1	1.0
+625	il ne t'aura pas surprise.	il ne t'aura pas surprise.	0.047379795461893	0	1	1.0
+626	elles nous surprirent.	elles nous surprirent.	0.0459527410566806	0	1	1.0
+627	t'eurent-elles sensibilisée par elles?	t'eurent-elles sensibilisée par elles?	0.0457245074212551	0	1	1.0
+628	t'y auront-ils sensibilisée?	t'y auront-ils sensibilisée?	0.0465099662542343	0	1	1.0
+629	nous sensibilises-tu par eux?	nous sensibilises-tu par eux?	0.0455692671239376	0	1	1.0
+630	nous sensibiliserons avec lui.	nous sensibiliserons avec lui.	0.044192548841238	0	1	1.0
+631	t'avions-nous sensibilisée par elles?	t'avions-nous sensibilisée par elles?	0.0458077788352966	0	1	1.0
+632	il t'a sensibilisée par vous.	il t'a sensibilisée par vous.	0.045876994729042	0	1	1.0
+633	ne vous ont-ils pas sensibilisés par moi?	ne vous ont-ils pas sensibilisés par moi?	0.0467550083994865	0	1	1.0
+634	tu ne m'avais pas sensibilisé par elle.	tu ne m'avais pas sensibilisé par elle.	0.0466643348336219	0	1	1.0
+635	ils ne nous auront pas sensibilisées avec moi.	ils ne nous auront pas sensibilisées avec moi.	0.046902596950531	0	1	1.0
+636	le sensibilisez-vous avec vous?	le sensibilisez-vous avec vous?	0.0455262288451194	0	1	1.0
+637	tu ne nous sensibilisas pas avec eux.	tu ne nous sensibilisas pas avec eux.	0.0456415377557277	0	1	1.0
+638	ne vous eurent-elles pas sensibilisés avec cela?	ne vous eurent-elles pas sensibilisés avec cela?	0.0463216826319694	0	1	1.0
+639	sensibilisez-toi avec elles!	sensibilisez-toi avec elles!	0.0612987615168094	0	1	1.0
+640	ne les sensibilisait-il pas avec lui?	ne les sensibilisait-il pas avec lui?	0.0460546314716339	0	1	1.0
+641	ne m'eurent-ils pas sensibilisée avec toi?	ne m'eurent-ils pas sensibilisée avec toi?	0.0465527474880218	0	1	1.0
+642	nous vous avons sensibilisés avec toi.	nous vous avons sensibilisés avec toi.	0.0449619553983211	0	1	1.0
+643	elle ne les sensibilisa pas avec cela.	elle ne les sensibilisa pas avec cela.	0.04577162489295	0	1	1.0
+644	il ne nous avait pas craquées.	il ne nous avait pas craquées.	0.0475112311542034	0	1	1.0
+645	elle n'avait pas craqué.	elle n'avait pas craqué.	0.0480125695466995	0	1	1.0
+646	nous vous craquâmes.	nous vous craquâmes.	0.0461223423480987	0	1	1.0
+647	les avons-nous craquées?	les avons-nous craquées?	0.0468861684203147	0	1	1.0
+648	ne les craquait-elle pas?	ne les craquait-elle pas?	0.0481112450361251	0	1	1.0
+649	ne les craquais-tu pas?	ne les craquais-tu pas?	0.048040360212326	0	1	1.0
+650	je nous craquai.	je nous craquai.	0.0471474938094615	0	1	1.0
+651	nous ne le craquâmes pas.	nous ne le craquâmes pas.	0.0471504665911197	0	1	1.0
+652	vous avaient-ils craquées?	vous avaient-ils craquées?	0.0471443571150302	0	1	1.0
+653	je craquai.	je craquai.	0.0469870083034038	0	1	1.0
+654	ne m'aura-t-elle pas craqué?	ne m'aura-t-elle pas craqué?	0.0494916699826717	0	1	1.0
+655	je la craque.	je la craque.	0.0466773547232151	0	1	1.0
+656	elles nous avaient craquées.	elles nous avaient craquées.	0.0464477092027664	0	1	1.0
+657	nous craquons.	nous craquons.	0.0457831136882305	0	1	1.0
+658	nous craquèrent-elles?	nous craquèrent-elles?	0.0463414341211319	0	1	1.0
+659	je ne t'avais pas craquée.	je ne t'avais pas craquée.	0.0484346896409988	0	1	1.0
+660	tu me craquas.	tu me craquas.	0.0460491143167018	0	1	1.0
+661	ils ne m'ont pas craquée.	ils ne m'ont pas craquée.	0.0483306050300598	0	1	1.0
+662	nous ne me nuisîmes pas.	nous ne me nuisîmes pas.	0.047175358980894	0	1	1.0
+663	ne nuirais-tu pas?	ne nuirais-tu pas?	0.0484156794846057	0	1	1.0
+664	ne lui nuirez-vous pas?	ne lui nuirez-vous pas?	0.0479467026889324	0	1	1.0
+665	tu ne lui auras pas nuit.	tu ne lui auras pas nui.	0.2755483388900757	1	0	0.8333333333333334
+666	leur as-tu nuit?	leur as-tu nui?	0.4206159710884094	1	0	0.6666666666666666
+667	t'avions-nous nuit?	t'avions-nous nui?	0.3599947988986969	1	0	0.5
+668	nuisons-lui!	nuisons-lui!	0.0436126999557018	0	1	1.0
+669	ne te nuit-il pas?	ne te nuit-il pas?	0.0484932176768779	0	1	1.0
+670	ils ne t'ont pas nuit.	ils ne t'ont pas nui.	0.30985227227211	1	0	0.8
+671	elle n'avait pas nuit.	elle n'avait pas nui.	0.2930786311626434	1	0	0.75
+672	il m'avait nuit.	il m'avait nui.	0.3728198409080505	1	0	0.6666666666666666
+673	ne me nuisîmes-nous pas?	ne me nuisîmes-nous pas?	0.0476864613592624	0	1	1.0
+674	il t'avait nuit.	il t'avait nui.	0.381168782711029	1	0	0.6666666666666666
+675	eus-je nuit?	eus-je nui?	0.5962157845497131	1	0	0.5
+676	ils lui nuiront.	ils lui nuiront.	0.0452477671205997	0	1	1.0
+677	les aurez-vous stoppées?	les aurez-vous stoppées?	0.047247190028429	0	1	1.0
+678	te stoppa-t-il?	te stoppa-t-il?	0.047604776918888	0	1	1.0
+679	vous ne nous eûtes pas stoppées.	vous ne nous eûtes pas stoppées.	0.0472710467875003	0	1	1.0
+680	ne me stoppe-t-elle pas?	ne me stoppe-t-elle pas?	0.0485099256038665	0	1	1.0
+681	vous l'aurez stoppée.	vous l'aurez stoppée.	0.0470784269273281	0	1	1.0
+682	m'avais-tu stoppé?	m'avais-tu stoppé?	0.0483084544539451	0	1	1.0
+683	je l'aurai stoppée.	je l'aurai stoppée.	0.0474721454083919	0	1	1.0
+684	je ne nous eus pas stoppés.	je ne nous eus pas stoppés.	0.0481687523424625	0	1	1.0
+685	les stoppâmes-nous?	les stoppâmes-nous?	0.0467990823090076	0	1	1.0
+686	ne les stopperait-elle pas?	ne les stopperait-elle pas?	0.0477984510362148	0	1	1.0
+687	ils l'avaient stoppée.	ils l'avaient stoppée.	0.0466918796300888	0	1	1.0
+688	tu vous stoppes.	tu vous stoppes.	0.0459452532231807	0	1	1.0
+689	tu ne les eus pas stoppées.	tu ne les eus pas stoppées.	0.0473187230527401	0	1	1.0
+690	stoppent-ils?	stoppent-ils?	0.0468352511525154	0	1	1.0
+691	nous stoppaient-elles?	nous stoppaient-elles?	0.0469221174716949	0	1	1.0
+692	tu l'eus stoppé.	tu l'eus stoppé.	0.0470085889101028	0	1	1.0
+693	nous stoppe-t-il?	nous stoppe-t-il?	0.0477086007595062	0	1	1.0
+694	je la stopperai.	je la stopperai.	0.0461630411446094	0	1	1.0
+695	ils vous ont stoppées.	ils vous ont stoppées.	0.046639546751976	0	1	1.0
+696	me stoppâtes-vous?	me stoppâtes-vous?	0.0464258678257465	0	1	1.0
+697	nous les y suspendons.	nous les y suspendons.	0.049529667943716	0	1	1.0
+698	elles le suspendaient.	elles le suspendaient.	0.0464875996112823	0	1	1.0
+699	ils l'auront suspendu.	ils l'auront suspendu.	0.0456674247980117	0	1	1.0
+700	tu ne nous y as pas suspendus.	tu ne nous y as pas suspendus.	0.0469481945037841	0	1	1.0
+701	ne vous y suspendons-nous pas?	ne vous y suspendons-nous pas?	0.04855827242136	0	1	1.0
+702	nous aurai-je suspendus?	nous aurai-je suspendus?	0.0468625389039516	0	1	1.0
+703	ne l'avais-tu pas suspendu?	ne l'avais-tu pas suspendu?	0.0477780289947986	0	1	1.0
+704	il nous aura suspendus.	il nous aura suspendus.	0.0457758791744709	0	1	1.0
+705	elles t'y eurent suspendue.	elles t'y eurent suspendue.	0.045454379171133	0	1	1.0
+706	il ne vous suspendra pas.	il ne vous suspendra pas.	0.0471279993653297	0	1	1.0
+707	le suspendis-tu?	le suspendis-tu?	0.0460983403027057	0	1	1.0
+708	ne m'eûtes-vous pas suspendu?	ne m'eûtes-vous pas suspendu?	0.0475347898900508	0	1	1.0
+709	ne l'y suspendrez-vous pas?	ne l'y suspendrez-vous pas?	0.0479017384350299	0	1	1.0
+710	vous suspends-je?	vous suspends-je?	0.0474140793085098	0	1	1.0
+711	je l'y avais suspendu.	je l'y avais suspendu.	0.0462308712303638	0	1	1.0
+712	vous avait-il suspendues?	vous avait-il suspendues?	0.0463395193219184	0	1	1.0
+713	il ne t'a pas suspendue.	il ne t'a pas suspendue.	0.047315165400505	0	1	1.0
+714	elles t'eurent collectée.	elles t'eurent collectée.	0.0460856892168521	0	1	1.0
+715	collecte-t-elle?	collecte-t-elle?	0.0470127947628498	0	1	1.0
+716	elles ne t'avaient pas collectée.	elles ne t'avaient pas collectée.	0.0474926009774208	0	1	1.0
+717	elles ne vous avaient pas collectés.	elles ne vous avaient pas collectés.	0.0473168678581714	0	1	1.0
+718	la collecteraient-ils?	la collecteraient-ils?	0.0459444299340248	0	1	1.0
+719	me collectera-t-il?	me collectera-t-il?	0.047113049775362	0	1	1.0
+720	ne le collectent-elles pas?	ne le collectent-elles pas?	0.0476483888924121	0	1	1.0
+721	m'eurent-elles collectée?	m'eurent-elles collectée?	0.0469798408448696	0	1	1.0
+722	il ne vous collecta pas.	il ne vous collecta pas.	0.047689352184534	0	1	1.0
+723	collectent-elles?	collectent-elles?	0.0462850779294967	0	1	1.0
+724	il nous eut collectés.	il nous eut collectés.	0.046072032302618	0	1	1.0
+725	vous l'aurez collecté.	vous l'aurez collecté.	0.0466945208609104	0	1	1.0
+726	je vous aurai collectées.	je vous aurai collectées.	0.0465977005660533	0	1	1.0
+727	il nous a collectés.	il nous a collectés.	0.0467504449188709	0	1	1.0
+728	tu auras collecté.	tu auras collecté.	0.0459741353988647	0	1	1.0
+729	elles ne m'eurent pas collecté.	elles ne m'eurent pas collecté.	0.0476994924247264	0	1	1.0
+730	tu ne l'auras pas collecté.	tu ne l'auras pas collecté.	0.0477504655718803	0	1	1.0
+731	le collectèrent-ils?	le collectèrent-ils?	0.0457861237227916	0	1	1.0
+732	ne nous eûtes-vous pas collectées?	ne nous eûtes-vous pas collectées?	0.0474487766623497	0	1	1.0
+733	vous l'y pilotez.	vous l'y pilotez.	0.0469617135822773	0	1	1.0
+734	vous les y eûtes pilotés.	vous les y eûtes pilotés.	0.0460592433810234	0	1	1.0
+735	vous les pilotâtes.	vous les pilotâtes.	0.0458573997020721	0	1	1.0
+736	y avez-vous piloté?	y avez-vous piloté?	0.0480836331844329	0	1	1.0
+737	il ne nous a pas pilotés.	il ne nous a pas pilotés.	0.0481904223561286	0	1	1.0
+738	elles ne le pilotent pas.	elles ne le pilotent pas.	0.0474996641278266	0	1	1.0
+739	nous y pilotiez-vous?	nous y pilotiez-vous?	0.0471576899290084	0	1	1.0
+740	elle nous pilotera.	elle nous pilotera.	0.0467084944248199	0	1	1.0
+741	tu ne vous pilotes pas.	tu ne vous pilotes pas.	0.0475305803120136	0	1	1.0
+742	ne le pilotions-nous pas?	ne le pilotions-nous pas?	0.0478760451078414	0	1	1.0
+743	ne nous pilotas-tu pas?	ne nous pilotas-tu pas?	0.0485379882156848	0	1	1.0
+744	t'y avaient-elles pilotée?	t'y avaient-elles pilotée?	0.0475259013473987	0	1	1.0
+745	je ne nous ai pas pilotés.	je ne nous ai pas pilotés.	0.0484552681446075	0	1	1.0
+746	ne l'aurez-vous pas piloté?	ne l'aurez-vous pas piloté?	0.0491394810378551	0	1	1.0
+747	l'y ont-elles piloté?	l'y ont-elles piloté?	0.0481006540358066	0	1	1.0
+748	ne vous y eus-je pas pilotés?	ne vous y eus-je pas pilotés?	0.0489118620753288	0	1	1.0
+749	ne me pilota-t-elle pas?	ne me pilota-t-elle pas?	0.0490431897342205	0	1	1.0
+750	vous pilotera-t-elle?	vous pilotera-t-elle?	0.047781728208065	0	1	1.0
+751	tu ne l'avais pas piloté.	tu ne l'avais pas piloté.	0.0482638105750083	0	1	1.0
+752	enquêtait-elle sur vous?	enquêtait-elle sur vous?	0.0449953228235244	0	1	1.0
+753	je n'eus pas enquêté sur lui.	je n'eus pas enquêté sur lui.	0.0461242422461509	0	1	1.0
+754	avions-nous enquêté sur toi?	avions-nous enquêté sur toi?	0.0448592156171798	0	1	1.0
+755	il n'enquêtera pas sur elle.	il n'enquêtera pas sur elle.	0.0455146543681621	0	1	1.0
+756	elle n'avait pas enquêté.	elle n'avait pas enquêté.	0.0471696108579635	0	1	1.0
+757	avons-nous enquêté?	avons-nous enquêté?	0.0462369695305824	0	1	1.0
+758	aura-t-il enquêté sur toi?	aura-t-il enquêté sur toi?	0.0455062054097652	0	1	1.0
+759	je n'enquêtais pas sur moi.	je n'enquêtais pas sur moi.	0.0457138605415821	0	1	1.0
+760	n'auront-ils pas enquêté sur cela?	n'auront-ils pas enquêté sur cela?	0.0463057458400726	0	1	1.0
+761	n'enquêtas-tu pas sur elle?	n'enquêtas-tu pas sur elle?	0.0462061055004596	0	1	1.0
+762	enquêté-je sur eux?	enquêté-je sur eux?	0.0452618971467018	0	1	1.0
+763	n'eus-tu pas enquêté sur elles?	n'eus-tu pas enquêté sur elles?	0.046391811221838	0	1	1.0
+764	ils enquêteraient sur toi.	ils enquêteraient sur toi.	0.0437654927372932	0	1	1.0
+765	enquêterions-nous sur elle?	enquêterions-nous sur elle?	0.0443466939032077	0	1	1.0
+766	enquêterais-je sur lui?	enquêterais-je sur lui?	0.0447048358619213	0	1	1.0
+767	n'enquêterait-il pas sur cela?	n'enquêterait-il pas sur cela?	0.0457949414849281	0	1	1.0
+768	elle avait enquêté sur elle.	elle avait enquêté sur elle.	0.0448342971503734	0	1	1.0
+769	elles auront enquêté sur vous.	elles auront enquêté sur vous.	0.0448982566595077	0	1	1.0
+770	je ne l'en avais pas doté.	je ne l'en avais pas doté.	0.0485149063169956	0	1	1.0
+771	elles ne m'avaient pas doté.	elles ne m'avaient pas doté.	0.0485875196754932	0	1	1.0
+772	je ne t'en avais pas dotée.	je ne t'en avais pas dotée.	0.048333466053009	0	1	1.0
+773	elles ne le dotaient pas.	elles ne le dotaient pas.	0.0476048626005649	0	1	1.0
+774	elles en avaient doté.	elles en avaient doté.	0.0463622100651264	0	1	1.0
+775	ils te dotaient.	ils te dotaient.	0.0460377596318721	0	1	1.0
+776	m'en doteront-ils?	m'en doteront-ils?	0.0469413176178932	0	1	1.0
+777	nous ne les en avons pas dotés.	nous ne les en avons pas dotés.	0.0472958981990814	0	1	1.0
+778	nous dotaient-ils?	nous dotaient-ils?	0.04731922224164	0	1	1.0
+779	tu ne nous doteras pas.	tu ne nous doteras pas.	0.04755375161767	0	1	1.0
+780	il ne nous avait pas dotés.	il ne nous avait pas dotés.	0.0480634905397892	0	1	1.0
+781	tu l'en as doté.	tu l'en as doté.	0.0469111204147338	0	1	1.0
+782	je n'ai pas doté.	je n'ai pas doté.	0.0498153455555439	0	1	1.0
+783	ne nous en eurent-ils pas dotées?	ne nous en eurent-ils pas dotées?	0.0477813966572284	0	1	1.0
+784	ne te dotais-je pas?	ne te dotais-je pas?	0.049190554767847	0	1	1.0
+785	elles m'eurent doté.	elles m'eurent doté.	0.0471288636326789	0	1	1.0
+786	il les dota.	il les dota.	0.0467965267598629	0	1	1.0
+787	ne l'en avions-nous pas doté?	ne l'en avions-nous pas doté?	0.0484322383999824	0	1	1.0
+788	m'avais-tu dotée?	m'avais-tu dotée?	0.0485100001096725	0	1	1.0
+789	ne doteront-ils pas?	ne doteront-ils pas?	0.0483671650290489	0	1	1.0
+790	te cernera-t-elle?	te cernera-t-elle?	0.0477592311799526	0	1	1.0
+791	je t'aurai cerné.	je t'aurai cerné.	0.0480261519551277	0	1	1.0
+792	il ne cerne pas.	il ne cerne pas.	0.0481985881924629	0	1	1.0
+793	cerniez-vous?	cerniez-vous?	0.0476198308169841	0	1	1.0
+794	ne cerne-t-elle pas?	ne cerne-t-elle pas?	0.0491325333714485	0	1	1.0
+795	l'auras-tu cerné?	l'auras-tu cerné?	0.0483541525900363	0	1	1.0
+796	nous cernaient-ils?	nous cernaient-ils?	0.047345794737339	0	1	1.0
+797	vous eûmes-nous cernées?	vous eûmes-nous cernées?	0.0470819771289825	0	1	1.0
+798	ils ne te cernent pas.	ils ne te cernent pas.	0.0477629080414772	0	1	1.0
+799	il ne me cernait pas.	il ne me cernait pas.	0.047905646264553	0	1	1.0
+800	ils la cerneraient.	ils la cerneraient.	0.0456860475242137	0	1	1.0
+801	ils cerneraient.	ils cerneraient.	0.0458439923822879	0	1	1.0
+802	tu cernes.	tu cernes.	0.0461956821382045	0	1	1.0
+803	vous ne le cernâtes pas.	vous ne le cernâtes pas.	0.0475623980164527	0	1	1.0
+804	vous avons-nous cernées?	vous avons-nous cernées?	0.0474175922572612	0	1	1.0
+805	elle les avait cernés.	elle les avait cernés.	0.04683643206954	0	1	1.0
+806	ils nous cerneront.	ils nous cerneront.	0.0462885536253452	0	1	1.0
+807	ne vous cernons-nous pas?	ne vous cernons-nous pas?	0.0484375618398189	0	1	1.0
+808	nous eut-elle cernés?	nous eut-elle cernés?	0.0477364100515842	0	1	1.0
+809	il ne nous cernait pas.	il ne nous cernait pas.	0.0477406792342662	0	1	1.0
+810	t'eus-je cernée?	t'eus-je cernée?	0.0492384694516658	0	1	1.0
+811	il nous accusera.	il nous accusera.	0.0464698933064937	0	1	1.0
+812	m'en accuserions-nous?	m'en accuserions-nous?	0.046434961259365	0	1	1.0
+813	vous ne nous eûtes pas accusées.	vous ne nous eûtes pas accusées.	0.0473335869610309	0	1	1.0
+814	ils nous accusent.	ils nous accusent.	0.0463799461722373	0	1	1.0
+815	nous ne les aurons pas accusées.	nous ne les aurons pas accusées.	0.0473658293485641	0	1	1.0
+816	vous nous en accuserez.	vous nous en accuserez.	0.0460464507341384	0	1	1.0
+817	elle a accusé.	elle a accusé.	0.0475019291043281	0	1	1.0
+818	m'accuserions-nous?	m'accuserions-nous?	0.0467481426894664	0	1	1.0
+819	elle accuse.	elle accuse.	0.0466910526156425	0	1	1.0
+820	ne m'accusais-je pas?	ne m'accusais-je pas?	0.0496174953877925	0	1	1.0
+821	nous nous fûmes accusées.	nous nous fûmes accusées.	0.0459389835596084	0	1	1.0
+822	elles ne t'ont pas accusé.	elles ne t'ont pas accusé.	0.0482751876115798	0	1	1.0
+823	elles l'en accuseraient.	elles l'en accuseraient.	0.0458162054419517	0	1	1.0
+824	nous aurez-vous accusés?	nous aurez-vous accusés?	0.0475354939699173	0	1	1.0
+825	vous t'accusiez.	vous t'accusiez.	0.0467084236443042	0	1	1.0
+826	t'es-tu accusée?	t'es-tu accusée?	0.0475681610405445	0	1	1.0
+827	ne vous en ont-elles pas accusés?	ne vous en ont-elles pas accusés?	0.0479736551642417	0	1	1.0
+828	je ne nous avais pas accusées.	je ne nous avais pas accusées.	0.0479938127100467	0	1	1.0
+829	ne nous en accuseraient-ils pas?	ne nous en accuseraient-ils pas?	0.0473570898175239	0	1	1.0
+830	ne vous fûtes-vous pas accusées?	ne vous fûtes-vous pas accusées?	0.0477000065147876	0	1	1.0
+831	se sera-t-il accusé?	se sera-t-il accusé?	0.0472592040896415	0	1	1.0
+832	ne t'en accusez-vous pas?	ne t'en accusez-vous pas?	0.0483761243522167	0	1	1.0
+833	tu ne me les auras pas filées.	tu ne me les auras pas filées.	0.0475406497716903	0	1	1.0
+834	vous filâmes-nous à lui?	vous filâmes-nous à lui?	0.0459193028509616	0	1	1.0
+835	elle ne nous filait pas à eux.	elle ne nous filait pas à eux.	0.0467866174876689	0	1	1.0
+836	les leur aurai-je filés?	les leur aurai-je filés?	0.0470998138189315	0	1	1.0
+837	ne me filerais-tu pas à eux?	ne me filerais-tu pas à eux?	0.0472848862409591	0	1	1.0
+838	elles t'ont filé.	elles t'ont filé.	0.0474534928798675	0	1	1.0
+839	la lui auront-elles filée?	la lui auront-elles filée?	0.0466511882841587	0	1	1.0
+840	ne le leur aurai-je pas filé?	ne le leur aurai-je pas filé?	0.0483721829950809	0	1	1.0
+841	vous la filerai-je?	vous la filerai-je?	0.0475824512541294	0	1	1.0
+842	elles ne t'auront pas filé à elle.	elles ne t'auront pas filé à elle.	0.0473508350551128	0	1	1.0
+843	ne m'a-t-elle pas filée à vous?	ne m'a-t-elle pas filée à vous?	0.0488245859742164	0	1	1.0
+844	vous le filèrent-ils?	vous le filèrent-ils?	0.0465121231973171	0	1	1.0
+845	vous avons-nous filés à moi?	vous avons-nous filés à moi?	0.0466393008828163	0	1	1.0
+846	ne vous eurent-elles pas filés à elle?	ne vous eurent-elles pas filés à elle?	0.0474315248429775	0	1	1.0
+847	ils ont filé.	ils ont filé.	0.0476554855704307	0	1	1.0
+848	tu ne les lui avais pas filées.	tu ne les lui avais pas filées.	0.0469072945415973	0	1	1.0
+849	elle ne vous a pas filées à eux.	elle ne vous a pas filées à eux.	0.0472651124000549	0	1	1.0
+850	nous le filerai-je?	nous le filerai-je?	0.0477700866758823	0	1	1.0
+851	je ne vous les eus pas filées.	je ne vous les eus pas filées.	0.0480039529502391	0	1	1.0
+852	file-vous à nous!	file-vous à nous!	0.0460136756300926	0	1	1.0
+853	filez-moi!	filez-moi!	0.0445288754999637	0	1	1.0
+854	me la fileraient-elles?	me la fileraient-elles?	0.0463846884667873	0	1	1.0
+855	tu ne m'auras pas endormi.	tu ne m'auras pas endormi.	0.0476240068674087	0	1	1.0
+856	ne nous fûmes-nous pas endormies?	ne nous fûmes-nous pas endormies?	0.0470213666558265	0	1	1.0
+857	t'endormis-tu?	t'endormis-tu?	0.0470012091100215	0	1	1.0
+858	ils nous endormirent.	ils nous endormirent.	0.0456328876316547	0	1	1.0
+859	ne l'eus-tu pas endormie?	ne l'eus-tu pas endormie?	0.0480659753084182	0	1	1.0
+860	l'avaient-elles endormi?	l'avaient-elles endormi?	0.0468264929950237	0	1	1.0
+861	ne vous aurai-je pas endormies?	ne vous aurai-je pas endormies?	0.047999583184719	0	1	1.0
+862	il ne s'endormirait pas.	il ne s'endormirait pas.	0.0470868125557899	0	1	1.0
+863	elle ne m'endormira pas.	elle ne m'endormira pas.	0.0479697436094284	0	1	1.0
+864	je les endorme.	je les endors.	0.4654164016246795	2	0	0.6666666666666666
+865	t'endormiraient-ils?	t'endormiraient-ils?	0.0462950132787227	0	1	1.0
+866	vous les endormiez.	vous les endormiez.	0.0457766503095626	0	1	1.0
+867	je les ai endormies.	je les ai endormies.	0.0461757630109787	0	1	1.0
+868	nous aurez-vous endormis?	nous aurez-vous endormis?	0.0467272587120533	0	1	1.0
+869	vous avait-il endormis?	vous avait-il endormis?	0.0466778762638568	0	1	1.0
+870	elle les endorme.	elle les endort.	0.4358844757080078	2	0	0.6666666666666666
+871	ne vous endorme-t-il pas?	ne vous endort-il pas?	0.47500079870224	3	0	0.75
+872	l'eus-je endormi?	l'eus-je endormi?	0.0478439778089523	0	1	1.0
+873	ne m'avait-il pas endormi?	ne m'avait-il pas endormi?	0.0485275946557521	0	1	1.0
+874	nous avaient-elles endormies?	nous avaient-elles endormies?	0.0464397259056568	0	1	1.0
+875	s'en évadaient-ils?	s'en s’évadaient-ils?	0.4956052899360657	2	0	0.5
+876	nous en serons-nous évadées?	nous en serons-nous évadées?	0.0466788969933986	0	1	1.0
+877	nous nous sommes évadées.	nous nous sommes évadées.	0.0466472841799259	0	1	1.0
+878	t'y es-tu évadée?	t'y es-tu évadée?	0.0478784888982772	0	1	1.0
+879	je ne m'y évadais pas.	je ne m'y m’évadais pas.	0.5384641289710999	2	0	0.8
+880	il s'en évade.	il s'en s’évade.	0.5803753733634949	2	0	0.6666666666666666
+881	évadons-nous en!	évadons-nous-nous en!	0.4242790341377258	5	0	0.5
+882	tu t'y évaderais.	tu t'y t’évaderais.	1.005293607711792	2	0	0.6666666666666666
+883	vous serez-vous évadées?	vous serez-vous évadées?	0.04734343662858	0	1	1.0
+884	ne nous serons-nous pas évadées?	ne nous serons-nous pas évadées?	0.0479482598602771	0	1	1.0
+885	t'y fus-tu évadé?	t'y fus-tu évadé?	0.0479980818927288	0	1	1.0
+886	tu t'en fus évadé.	tu t'en fus évadé.	0.0465476289391517	0	1	1.0
+887	vous en fûtes-vous évadés?	vous en fûtes-vous évadés?	0.0467631816864013	0	1	1.0
+888	nous ne nous en fûmes pas évadées.	nous ne nous en fûmes pas évadées.	0.047079250216484	0	1	1.0
+889	elle ne s'évade pas.	elle ne se s’évade pas.	0.830821692943573	4	0	0.4444444444444444
+890	ne s'y évadent-elles pas?	ne s'y s’évadent-elles pas?	0.4979470074176788	2	0	0.75
+891	il ne s'évadera pas.	il ne se s’évadera pas.	0.8345355987548828	4	0	0.4444444444444444
+892	je ne m'y suis pas évadé.	je ne m'y suis pas évadé.	0.0484278127551078	0	1	1.0
+893	nous y fûmes-nous évadés?	nous y fûmes-nous évadés?	0.0470624342560768	0	1	1.0
+894	ne s'y furent-elles pas évadées?	ne s'y furent-elles pas évadées?	0.0482209436595439	0	1	1.0
+895	n'interagirons-nous pas avec cela?	n'interagirons-nous pas avec cela?	0.046319656074047	0	1	1.0
+896	il n'interagirait pas avec lui.	il n'interagirait pas avec lui.	0.0456877201795578	0	1	1.0
+897	n'auront-ils pas interagi avec lui?	n'auront-ils pas interagi avec lui?	0.0464768856763839	0	1	1.0
+898	n'interagis-tu pas avec nous?	n'interagis-tu pas avec nous?	0.0467002019286155	0	1	1.0
+899	ils avaient interagi avec moi.	ils avaient interagi avec moi.	0.0449234172701835	0	1	1.0
+900	il n'interagissait pas avec elle.	il n'interagissait pas avec elle.	0.0454383306205272	0	1	1.0
+901	auras-tu interagi avec elles?	auras-tu interagi avec elles?	0.0455085672438144	0	1	1.0
+902	auront-ils interagi avec eux?	auront-ils interagi avec eux?	0.0452275201678276	0	1	1.0
+903	elle n'avait pas interagi avec nous.	elle n'avait pas interagi avec nous.	0.0462617017328739	0	1	1.0
+904	je n'interagirai pas avec cela.	je n'interagirai pas avec cela.	0.0461782440543174	0	1	1.0
+905	nous n'interagissions pas avec elle.	nous n'interagissions pas avec elle.	0.045691605657339	0	1	1.0
+906	n'interagîmes-nous pas avec toi?	n'interagîmes-nous pas avec toi?	0.0467040315270423	0	1	1.0
+907	vous interagissez avec cela.	vous interagissez avec cela.	0.044512428343296	0	1	1.0
+908	n'avait-elle pas interagi avec toi?	n'avait-elle pas interagi avec toi?	0.0466223247349262	0	1	1.0
+909	ils interagissaient avec cela.	ils interagissaient avec cela.	0.0441190674901008	0	1	1.0
+910	interagit-il avec vous?	interagit-il avec vous?	0.0456131510436534	0	1	1.0
+911	vous eûtes interagi avec vous.	vous eûtes interagi avec vous.	0.0447262488305568	0	1	1.0
+912	avaient-elles interagi avec elle?	avaient-elles interagi avec elle?	0.0455313362181186	0	1	1.0
+913	n'interagirait-elle pas avec elle?	n'interagirait-elle pas avec elle?	0.0465008132159709	0	1	1.0
+914	n'interagit-il pas avec elles?	n'interagit-il pas avec elles?	0.0465470887720584	0	1	1.0
+915	interagirait-il avec nous?	interagirait-il avec nous?	0.045512493699789	0	1	1.0
+916	n'interagissais-tu pas avec elles?	n'interagissais-tu pas avec elles?	0.0460806265473365	0	1	1.0
+917	le désireraient-elles?	le désireraient-elles?	0.0466464050114154	0	1	1.0
+918	ils ne l'avaient pas désiré.	ils ne l'avaient pas désiré.	0.0483700521290302	0	1	1.0
+919	ne l'auras-tu pas désiré?	ne l'auras-tu pas désiré?	0.0494109541177749	0	1	1.0
+920	nous avait-elle désirées?	nous avait-elle désirées?	0.0477042570710182	0	1	1.0
+921	elles ne vous désireraient pas.	elles ne vous désireraient pas.	0.0473824441432952	0	1	1.0
+922	ne me désireraient-elles pas?	ne me désireraient-elles pas?	0.0478444136679172	0	1	1.0
+923	ne m'eut-elle pas désiré?	ne m'eut-elle pas désiré?	0.0496053919196128	0	1	1.0
+924	ils ne l'eurent pas désiré.	ils ne l'eurent pas désiré.	0.0482280068099498	0	1	1.0
+925	je ne l'ai pas désiré.	je ne l'ai pas désiré.	0.049484759569168	0	1	1.0
+926	te désiré-je?	te désiré-je?	0.0489437505602836	0	1	1.0
+927	nous ne vous désirâmes pas.	nous ne vous désirâmes pas.	0.0475814901292324	0	1	1.0
+928	elles ne m'auront pas désiré.	elles ne m'auront pas désiré.	0.0484921596944332	0	1	1.0
+929	ne te désirait-il pas?	ne te désirait-il pas?	0.0484227612614631	0	1	1.0
+930	nous vous avions désirées.	nous vous avions désirées.	0.0466566607356071	0	1	1.0
+931	la désireraient-elles?	la désireraient-elles?	0.046474028378725	0	1	1.0
+932	ne nous désirèrent-elles pas?	ne nous désirèrent-elles pas?	0.0477664954960346	0	1	1.0
+933	elle m'avait désirée.	elle m'avait désirée.	0.0476386062800884	0	1	1.0
+934	ne le désirons pas!	ne le désirons pas!	0.0472630336880683	0	1	1.0
+935	ne nous ai-je pas désirés?	ne nous ai-je pas désirés?	0.0494041107594966	0	1	1.0
+936	elles la désiraient.	elles la désiraient.	0.0461304374039173	0	1	1.0
+937	la désireront-elles?	la désireront-elles?	0.0466358959674835	0	1	1.0
+938	il ne postulait pas pour lui.	il ne postulait pas pour lui.	0.0458782687783241	0	1	1.0
+939	postulas-tu pour lui?	postulas-tu pour lui?	0.0452153533697128	0	1	1.0
+940	tu ne l'eus pas postulé.	tu ne l'eus pas postulé.	0.0478462688624858	0	1	1.0
+941	m'aura-t-il postulée?	m'aura-t-il postulée?	0.0485019125044345	0	1	1.0
+942	ne postulons pas pour lui!	ne postulons pas pour lui!	0.0452896915376186	0	1	1.0
+943	ne postulez pas pour elle!	ne postulez pas pour elle!	0.0458107031881809	0	1	1.0
+944	n'avions-nous pas postulé pour toi?	n'avions-nous pas postulé pour toi?	0.046718992292881	0	1	1.0
+945	a-t-elle postulé pour eux?	a-t-elle postulé pour eux?	0.0463955141603946	0	1	1.0
+946	n'eûmes-nous pas postulé pour cela?	n'eûmes-nous pas postulé pour cela?	0.0465188324451446	0	1	1.0
+947	tu les as postulées.	tu les as postulées.	0.0463053174316883	0	1	1.0
+948	nous postulerez-vous?	nous postulerez-vous?	0.0470202714204788	0	1	1.0
+949	ils ne nous ont pas postulés.	ils ne nous ont pas postulés.	0.0475058108568191	0	1	1.0
+950	les postulez-vous?	les postulez-vous?	0.0470038764178752	0	1	1.0
+951	tu ne l'eus pas postulée.	tu ne l'eus pas postulée.	0.0476403161883354	0	1	1.0
+952	vous le postulez.	vous le postulez.	0.0460390523076057	0	1	1.0
+953	vous postulerez pour elles.	vous postulerez pour elles.	0.045039527118206	0	1	1.0
+954	me postulâtes-vous?	me postulâtes-vous?	0.0463507175445556	0	1	1.0
+955	postuleras-tu pour eux?	postuleras-tu pour eux?	0.0452897958457469	0	1	1.0
+956	elle n'avait pas postulé pour cela.	elle n'avait pas postulé pour cela.	0.0463708601891994	0	1	1.0
+957	nous ne postulons pas pour vous.	nous ne postulons pas pour vous.	0.0461636595427989	0	1	1.0
+958	je postulai.	je postulai.	0.0465491861104965	0	1	1.0
+959	elles postuleraient pour nous.	elles postuleraient pour nous.	0.0450676456093788	0	1	1.0
+960	s'étaient-elles souciées?	s'étaient-elles souciées?	0.046435035765171	0	1	1.0
+961	ne vous êtes-vous pas souciées?	ne vous êtes-vous pas souciées?	0.0475775226950645	0	1	1.0
+962	ne se sont-elles pas souciées?	ne se sont-elles pas souciées?	0.0472818128764629	0	1	1.0
+963	se fut-il soucié?	se fut-il soucié?	0.0467400923371315	0	1	1.0
+964	vous ne vous souciâtes pas.	vous ne vous souciâtes pas.	0.0471408851444721	0	1	1.0
+965	vous vous en serez souciées.	vous vous en serez souciées.	0.0458648614585399	0	1	1.0
+966	ne te fus-tu pas soucié?	ne te fus-tu pas soucié?	0.0480371750891208	0	1	1.0
+967	il ne s'en fut pas soucié.	il ne s'en fut pas soucié.	0.0473355129361152	0	1	1.0
+968	ne se soucièrent-ils pas?	ne se soucièrent-ils pas?	0.0471357367932796	0	1	1.0
+969	elle ne s'en souciait pas.	elle ne s'en souciait pas.	0.0472284741699695	0	1	1.0
+970	nous nous en sommes souciées.	nous nous en sommes souciées.	0.0454721599817276	0	1	1.0
+971	elle ne se soucie pas.	elle ne se soucie pas.	0.0473512299358844	0	1	1.0
+972	vous ne vous en étiez pas souciés.	vous ne vous en étiez pas souciés.	0.04702939838171	0	1	1.0
+973	ne nous en serons-nous pas souciés?	ne nous en serons-nous pas souciés?	0.0472386740148067	0	1	1.0
+974	ne s'en soucièrent-elles pas?	ne s'en soucièrent-elles pas?	0.0473003461956977	0	1	1.0
+975	tu ne te soucies pas.	tu ne te soucies pas.	0.0470037199556827	0	1	1.0
+976	tu ne te souciais pas.	tu ne te souciais pas.	0.046995174139738	0	1	1.0
+977	ne vous en souciâtes-vous pas?	ne vous en souciâtes-vous pas?	0.0472876839339733	0	1	1.0
+978	elle ne se soucia pas.	elle ne se soucia pas.	0.0475456416606903	0	1	1.0
+979	nous nous soucierons.	nous nous soucierons.	0.0457790046930313	0	1	1.0
+980	ne t'en soucierais-tu pas?	ne t'en soucierais-tu pas?	0.0475680530071258	0	1	1.0
+981	n'éprouvait-elle pas?	n'éprouvait-elle pas?	0.0486447699368	0	1	1.0
+982	l'éprouveront-elles?	l'éprouveront-elles?	0.0469014383852481	0	1	1.0
+983	ils l'auront éprouvé.	ils l'auront éprouvé.	0.0469860546290874	0	1	1.0
+984	m'auras-tu éprouvée?	m'auras-tu éprouvée?	0.0481926538050174	0	1	1.0
+985	ils ne l'auront pas éprouvée.	ils ne l'auront pas éprouvée.	0.0480124466121196	0	1	1.0
+986	vous les aviez éprouvés.	vous les aviez éprouvés.	0.0466853827238082	0	1	1.0
+987	ne m'avais-tu pas éprouvé?	ne m'avais-tu pas éprouvé?	0.049240443855524	0	1	1.0
+988	t'avaient-ils éprouvée?	t'avaient-ils éprouvée?	0.0476279444992542	0	1	1.0
+989	vous n'éprouvez pas.	vous n'éprouvez pas.	0.0482698231935501	0	1	1.0
+990	aurez-vous éprouvé?	aurez-vous éprouvé?	0.0478980466723442	0	1	1.0
+991	je ne t'aurai pas éprouvé.	je ne t'aurai pas éprouvé.	0.0487156100571155	0	1	1.0
+992	ils ne l'éprouveront pas.	ils ne l'éprouveront pas.	0.0475323759019374	0	1	1.0
+993	ne les aurez-vous pas éprouvées?	ne les aurez-vous pas éprouvées?	0.0481668971478939	0	1	1.0
+994	ne nous avait-elle pas éprouvés?	ne nous avait-elle pas éprouvés?	0.048368364572525	0	1	1.0
+995	ne l'éprouverons-nous pas?	ne l'éprouverons-nous pas?	0.0480431616306304	0	1	1.0
+996	nous les eûmes éprouvés.	nous les eûmes éprouvés.	0.0461348742246627	0	1	1.0
+997	vous les aviez éprouvés.	vous les aviez éprouvés.	0.0466853827238082	0	1	1.0
+998	elles t'auront éprouvé.	elles t'auront éprouvé.	0.0469999425113201	0	1	1.0
+999	éprouvez-la!	éprouvez-la!	0.0450234860181808	0	1	1.0

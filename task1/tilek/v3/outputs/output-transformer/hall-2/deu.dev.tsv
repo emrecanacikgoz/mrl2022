@@ -1,0 +1,1001 @@
+	prediction	target	loss	dist	clause_match	word_match
+0	er nähme sich ihr nicht ab.	er nähme sich ihr nicht ab.	0.047257125377655	0	1	1.0
+1	er wird euch ihr abgenommen haben.	er wird euch ihr abgenommen haben.	0.0464202724397182	0	1	1.0
+2	er werde es abgenommen haben?	er werde es abgenommen haben?	0.0466443784534931	0	1	1.0
+3	nimmt es es uns ab?	nimmt es es uns ab?	0.0451849065721035	0	1	1.0
+4	werden Sie sich ihm nicht abgenommen haben?	werden Sie sich ihm nicht abgenommen haben?	0.0473976880311965	0	1	1.0
+5	du wirst mich euch nicht abgenommen haben.	du wirst mich euch nicht abgenommen haben.	0.0469992533326149	0	1	1.0
+6	nehmet ihr mich uns nicht ab?	nehmet ihr mich uns nicht ab?	0.0471280738711357	0	1	1.0
+7	nehmen Sie sie uns ab?	nehmen Sie sie uns ab?	0.0464771166443824	0	1	1.0
+8	habe ich uns uns abgenommen?	habe ich uns uns abgenommen?	0.0460317470133304	0	1	1.0
+9	wird es euch sich abgenommen haben?	wird es euch sich abgenommen haben?	0.0470661595463752	0	1	1.0
+10	nahm er mich uns ab?	nahm er mich uns ab?	0.0462464094161987	0	1	1.0
+11	er werde sich ihm nicht abgenommen haben?	er werde sich ihm nicht abgenommen haben?	0.0474064946174621	0	1	1.0
+12	sie nähmen sie ihr nicht ab.	sie nähmen sie ihr nicht ab.	0.0468157120048999	0	1	1.0
+13	wir haben ihn mir nicht abgenommen.	wir haben ihn mir nicht abgenommen.	0.0463974140584468	0	1	1.0
+14	nehmt ihn ihm nicht ab!	nehmt ihn ihm nicht ab!	0.0504511483013629	0	1	1.0
+15	hast du ihn dir abgenommen?	hast du ihn dir abgenommen?	0.0455427579581737	0	1	1.0
+16	würden sie sie nicht abnehmen?	würden sie sie nicht abnehmen?	0.0481130592525005	0	1	1.0
+17	nehmen Sie sie mir ab!	nehmen Sie sie mir ab!	0.0456268936395645	0	1	1.0
+18	hatte sie sich ihm nicht abgenommen?	hatte sie sich ihm nicht abgenommen?	0.0467425473034381	0	1	1.0
+19	sie werde ihn abnehmen?	sie werde ihn abnehmen?	0.0476171933114528	0	1	1.0
+20	nimmt er Sie euch nicht ab?	nimmt er Sie euch nicht ab?	0.047489259392023	0	1	1.0
+21	es setze uns von ihnen ab?	es setze uns von ihnen ab?	0.0445943512022495	0	1	1.0
+22	wird er ihn von ihnen nicht abgesetzt haben?	wird er ihn von ihnen nicht abgesetzt haben?	0.0461394414305686	0	1	1.0
+23	werde er dich von sich absetzen?	werde er dich von sich absetzen?	0.0476504452526569	0	1	1.0
+24	wirst du dich von ihr nicht absetzen?	wirst du dich von ihr nicht absetzen?	0.0471700318157672	0	1	1.0
+25	werdet ihr sie von uns absetzen?	werdet ihr sie von uns absetzen?	0.0464682579040527	0	1	1.0
+26	werden sie mich nicht absetzen?	werden sie mich nicht absetzen?	0.0486223064363002	0	1	1.0
+27	werden sie euch von Ihnen absetzen?	werden sie euch von Ihnen absetzen?	0.046593252569437	0	1	1.0
+28	wird sie sie von sich nicht absetzen?	wird sie sie von sich nicht absetzen?	0.0473788380622863	0	1	1.0
+29	wirst du sie von ihr nicht abgesetzt haben?	wirst du sie von ihr nicht abgesetzt haben?	0.046402845531702	0	1	1.0
+30	er wird es von dir abgesetzt haben.	er wird es von dir abgesetzt haben.	0.0455439835786819	0	1	1.0
+31	er setzte mich von ihm ab.	er setzte mich von ihm ab.	0.0457983165979385	0	1	1.0
+32	sie werden ihn von uns absetzen.	sie werden ihn von uns absetzen.	0.0462516099214553	0	1	1.0
+33	es hat euch von ihm nicht abgesetzt.	es hat euch von ihm nicht abgesetzt.	0.0461041629314422	0	1	1.0
+34	sie würden ihn von sich absetzen.	sie würden ihn von sich absetzen.	0.0467954501509666	0	1	1.0
+35	setzen sie sie von Ihnen nicht ab?	setzen sie sie von Ihnen nicht ab?	0.0460638515651226	0	1	1.0
+36	sie setzten es von ihnen nicht ab.	sie setzten es von ihnen nicht ab.	0.0458977036178112	0	1	1.0
+37	er setzt es von euch nicht ab.	er setzt es von euch nicht ab.	0.0465788356959819	0	1	1.0
+38	er setzt ihn von Ihnen nicht ab.	er setzt ihn von Ihnen nicht ab.	0.0457585491240024	0	1	1.0
+39	du habest euch von dir abgesetzt?	du habest euch von dir abgesetzt?	0.0459192395210266	0	1	1.0
+40	werdest du es von uns absetzen?	werdest du es von uns absetzen?	0.0461004450917243	0	1	1.0
+41	werdet ihr sie von sich abgesetzt haben?	werdet ihr sie von sich abgesetzt haben?	0.0466627739369869	0	1	1.0
+42	Sie gäben sich nicht an.	Sie gäben sich nicht an.	0.0481502152979373	0	1	1.0
+43	gabt ihr uns an?	gabt ihr uns an?	0.045525174587965	0	1	1.0
+44	wird er Sie angegeben haben?	wird er Sie angegeben haben?	0.0467114113271236	0	1	1.0
+45	werden wir euch angeben?	werden wir euch angeben?	0.0488559007644653	0	1	1.0
+46	wird es euch nicht angegeben haben?	wird es euch nicht angegeben haben?	0.0473892539739608	0	1	1.0
+47	werden wir Sie angeben?	werden wir Sie angeben?	0.0485094338655471	0	1	1.0
+48	ich gebe sie an.	ich gebe sie an.	0.0478199645876884	0	1	1.0
+49	du werdest mich angegeben haben?	du werdest mich angegeben haben?	0.0470257177948951	0	1	1.0
+50	habe ich euch angegeben?	habe ich euch angegeben?	0.047403085976839	0	1	1.0
+51	ihr würdet mich angeben.	ihr würdet mich angeben.	0.0478224903345108	0	1	1.0
+52	es gab mich an.	es gab mich an.	0.0465455316007137	0	1	1.0
+53	du werdest sie angegeben haben?	du werdest sie angegeben haben?	0.046716034412384	0	1	1.0
+54	sie würden mich angeben.	sie würden mich angeben.	0.0481176674365997	0	1	1.0
+55	sie haben sich nicht angegeben.	sie haben sich nicht angegeben.	0.0472534820437431	0	1	1.0
+56	hast du sie nicht angegeben?	hast du sie nicht angegeben?	0.046862743794918	0	1	1.0
+57	ihr hattet Sie nicht angegeben.	ihr hattet Sie nicht angegeben.	0.0463558509945869	0	1	1.0
+58	hätten Sie sie nicht angegeben?	hätten Sie sie nicht angegeben?	0.0471595525741577	0	1	1.0
+59	wir werden es nicht angeben.	wir werden es nicht angeben.	0.0483371876180172	0	1	1.0
+60	es passte mich Ihnen an.	es passte mich Ihnen an.	0.0457436181604862	0	1	1.0
+61	es hätte sie Ihnen nicht angepasst.	es hätte sie Ihnen nicht angepasst.	0.0459850989282131	0	1	1.0
+62	es passt sich mir nicht an.	es passt sich mir nicht an.	0.0472402833402156	0	1	1.0
+63	du würdest mich ihr nicht anpassen.	du würdest mich ihr nicht anpassen.	0.047485452145338	0	1	1.0
+64	passe er uns dir an?	passe er uns dir an?	0.0459068119525909	0	1	1.0
+65	passtet ihr ihn sich nicht an?	passtet ihr ihn sich nicht an?	0.0472873225808143	0	1	1.0
+66	passen Sie uns sich nicht an?	passen Sie uns sich nicht an?	0.0475535579025745	0	1	1.0
+67	werden wir dich euch anpassen?	werden wir dich euch anpassen?	0.0485871508717536	0	1	1.0
+68	du hattest dich ihm angepasst.	du hattest dich ihm angepasst.	0.0459777303040027	0	1	1.0
+69	ihr werdet mich ihr nicht anpassen?	ihr werdet mich ihr nicht anpassen?	0.0481201857328414	0	1	1.0
+70	habest du dich euch angepasst?	habest du dich euch angepasst?	0.0471535138785839	0	1	1.0
+71	werde sie Sie ihm anpassen?	werde sie Sie ihm anpassen?	0.0474711880087852	0	1	1.0
+72	würden sie uns mir nicht anpassen?	würden sie uns mir nicht anpassen?	0.0473523437976837	0	1	1.0
+73	sie passt euch Ihnen nicht an.	sie passt euch Ihnen nicht an.	0.0466733947396278	0	1	1.0
+74	werde er sie uns nicht anpassen?	werde er sie uns nicht anpassen?	0.0478080175817012	0	1	1.0
+75	sie haben ihn angepasst.	sie haben ihn angepasst.	0.0461599826812744	0	1	1.0
+76	wir hätten euch uns angepasst.	wir hätten euch uns angepasst.	0.0463695675134658	0	1	1.0
+77	haben sie dich ihm nicht angepasst?	haben sie dich ihm nicht angepasst?	0.0474330931901931	0	1	1.0
+78	sie hatten mich ihr nicht angepasst.	sie hatten mich ihr nicht angepasst.	0.0469002798199653	0	1	1.0
+79	sie würde Sie sich anpassen.	sie würde Sie sich anpassen.	0.0476721376180648	0	1	1.0
+80	twortete es auf dich an?	antwortete es auf dich?	0.5944163203239441	5	0	0.4444444444444444
+81	sie werden uns auf mich antworten?	sie werden uns auf mich antworten?	0.0470026358962059	0	1	1.0
+82	wir werden euch auf ihn nicht antworten?	wir werden euch auf ihn nicht antworten?	0.0475854538381099	0	1	1.0
+83	du wirst dir angetwortet haben.	du wirst dir geantwortet haben.	0.4692948758602142	4	0	0.8
+84	du twortest ihr auf dich nicht an?	du antwortest ihr auf dich nicht?	0.332234263420105	5	0	0.6153846153846154
+85	ich hatte ihnen auf Sie nicht angetwortet.	ich hatte ihnen auf Sie nicht geantwortet.	0.3617535829544067	4	0	0.8571428571428571
+86	Sie würden auf sie nicht antworten.	Sie würden auf sie nicht antworten.	0.0471763052046299	0	1	1.0
+87	werden Sie auf euch nicht angetwortet haben?	werden Sie auf euch nicht geantwortet haben?	0.3486746549606323	4	0	0.8571428571428571
+88	werden Sie uns auf sich nicht antworten?	werden Sie uns auf sich nicht antworten?	0.0474413447082042	0	1	1.0
+89	sie hatte ihr nicht angetwortet.	sie hatte ihr nicht geantwortet.	0.4581011235713959	4	0	0.8
+90	ich werde ihr auf Sie nicht antworten?	ich werde ihr auf Sie nicht antworten?	0.0477071851491928	0	1	1.0
+91	ihr werdet ihm antworten.	ihr werdet ihm antworten.	0.0466863960027694	0	1	1.0
+92	tworten Sie sich auf sie an?	antworten Sie sich auf sie?	0.5026959776878357	5	0	0.5454545454545454
+93	hattet ihr dir auf euch angetwortet?	hattet ihr dir auf euch geantwortet?	0.4127425253391266	4	0	0.8333333333333334
+94	er hat mir auf mich angetwortet.	er hat mir auf mich geantwortet.	0.4569121897220611	4	0	0.8333333333333334
+95	ich werde ihr auf sich angetwortet haben?	ich werde ihr auf sich geantwortet haben?	0.3690288960933685	4	0	0.8571428571428571
+96	twortete er ihm auf uns nicht an?	antwortete er ihm auf uns nicht?	0.4299547672271728	5	0	0.6153846153846154
+97	würden wir euch auf dich nicht antworten?	würden wir euch auf dich nicht antworten?	0.0477147623896598	0	1	1.0
+98	hätten wir ihm auf sie nicht angetwortet?	hätten wir ihm auf sie nicht geantwortet?	0.369179219007492	4	0	0.8571428571428571
+99	twortete es ihm auf euch nicht an?	antwortete es ihm auf euch nicht?	0.4150359034538269	5	0	0.6153846153846154
+100	wird es auf euch angetwortet haben?	wird es auf euch geantwortet haben?	0.4226106703281402	4	0	0.8333333333333334
+101	werden wir sie aufbauen?	werden wir sie aufbauen?	0.0478091761469841	0	1	1.0
+102	wirst du dich nicht aufgebaut haben?	wirst du dich nicht aufgebaut haben?	0.0474458262324333	0	1	1.0
+103	Sie werden sich nicht aufgebaut haben.	Sie werden sich nicht aufgebaut haben.	0.0478564202785491	0	1	1.0
+104	werdest du mich aufgebaut haben?	werdest du mich aufgebaut haben?	0.0471087507903575	0	1	1.0
+105	Sie hätten sie nicht aufgebaut.	Sie hätten sie nicht aufgebaut.	0.0468447208404541	0	1	1.0
+106	ich habe Sie nicht aufgebaut?	ich habe Sie nicht aufgebaut?	0.0477538518607616	0	1	1.0
+107	bau ihn auf!	bau ihn auf!	0.0443544387817382	0	1	1.0
+108	bauet ihr ihn auf?	bauet ihr ihn auf?	0.0460271276533603	0	1	1.0
+109	bauen sie sich auf?	bauen sie sich auf?	0.0473103858530521	0	1	1.0
+110	haben Sie uns nicht aufgebaut?	haben Sie uns nicht aufgebaut?	0.0469751879572868	0	1	1.0
+111	wir bauten mich nicht auf.	wir bauten mich nicht auf.	0.0479234382510185	0	1	1.0
+112	ihr würdet mich aufbauen.	ihr würdet mich aufbauen.	0.0473688803613185	0	1	1.0
+113	du baust dich auf.	du baust dich auf.	0.0465424992144107	0	1	1.0
+114	werde er es nicht aufbauen?	werde er es nicht aufbauen?	0.048041433095932	0	1	1.0
+115	sie wird ihn nicht aufbauen.	sie wird ihn nicht aufbauen.	0.0474771261215209	0	1	1.0
+116	habe ich Sie aufgebaut?	habe ich Sie aufgebaut?	0.0471149049699306	0	1	1.0
+117	ihr habet euch aufgebaut?	ihr habet euch aufgebaut?	0.046679563820362	0	1	1.0
+118	werden sie sie aufgebaut haben?	werden sie sie aufgebaut haben?	0.0470728725194931	0	1	1.0
+119	bauen wir sie nicht auf?	bauen wir sie nicht auf?	0.0476306714117527	0	1	1.0
+120	ich baute dich nicht auf.	ich baute dich nicht auf.	0.0483616217970848	0	1	1.0
+121	bauen Sie mich auf?	bauen Sie mich auf?	0.0474483892321586	0	1	1.0
+122	werde er uns beanspruchen?	werde er uns beanspruchen?	0.0470338612794876	0	1	1.0
+123	er würde mich nicht beanspruchen.	er würde mich nicht beanspruchen.	0.0478900671005249	0	1	1.0
+124	werdet ihr mich beanspruchen?	werdet ihr mich beanspruchen?	0.0476490259170532	0	1	1.0
+125	sie hätten es beansprucht.	sie hätten es beansprucht.	0.045863177627325	0	1	1.0
+126	er beanspruchte es nicht.	er beanspruchte es nicht.	0.0467974282801151	0	1	1.0
+127	er hätte euch nicht beansprucht.	er hätte euch nicht beansprucht.	0.0471971444785594	0	1	1.0
+128	es würde dich beanspruchen.	es würde dich beanspruchen.	0.0473065711557865	0	1	1.0
+129	du werdest dich nicht beansprucht haben?	du werdest dich nicht beansprucht haben?	0.0477681159973144	0	1	1.0
+130	Sie werden sich nicht beanspruchen?	Sie werden sich nicht beanspruchen?	0.0486484952270984	0	1	1.0
+131	hätten wir uns nicht beansprucht?	hätten wir uns nicht beansprucht?	0.0469087027013301	0	1	1.0
+132	es würde Sie nicht beanspruchen.	es würde Sie nicht beanspruchen.	0.0474920719861984	0	1	1.0
+133	es wird Sie beanspruchen.	es wird Sie beanspruchen.	0.0465849488973617	0	1	1.0
+134	hätte er dich nicht beansprucht?	hätte er dich nicht beansprucht?	0.0476370379328727	0	1	1.0
+135	Sie beanspruchten es nicht.	Sie beanspruchten es nicht.	0.0469496510922908	0	1	1.0
+136	werde es sie beanspruchen?	werde es sie beanspruchen?	0.0472781732678413	0	1	1.0
+137	sie wird sie nicht beanspruchen.	sie wird sie nicht beanspruchen.	0.0474049039185047	0	1	1.0
+138	ihr beanspruchtet mich.	ihr beanspruchtet mich.	0.0459979623556137	0	1	1.0
+139	beanspruche es sie nicht?	beanspruche es sie nicht?	0.0474285818636417	0	1	1.0
+140	werde ich sie nicht beeinflussen?	werde ich sie nicht beeinflussen?	0.04824810475111	0	1	1.0
+141	beeinflussen Sie ihn nicht?	beeinflussen Sie ihn nicht?	0.0471576415002346	0	1	1.0
+142	hatten sie sich beeinflusst?	hatten sie sich beeinflusst?	0.0466206483542919	0	1	1.0
+143	habe er Sie nicht beeinflusst?	habe er Sie nicht beeinflusst?	0.0470647923648357	0	1	1.0
+144	es wird uns nicht beeinflussen.	es wird uns nicht beeinflussen.	0.0465526729822158	0	1	1.0
+145	du würdest mich beeinflussen.	du würdest mich beeinflussen.	0.0637839511036872	0	1	1.0
+146	es werde uns nicht beeinflussen?	es werde uns nicht beeinflussen?	0.0472762770950794	0	1	1.0
+147	beeinflusse ich uns nicht?	beeinflusse ich uns nicht?	0.0480456873774528	0	1	1.0
+148	werdest du mich nicht beeinflusst haben?	werdest du mich nicht beeinflusst haben?	0.0476606637239456	0	1	1.0
+149	beeinflusstet ihr sie?	beeinflusstet ihr sie?	0.0500500723719596	0	1	1.0
+150	sie haben sich beeinflusst.	sie haben sich beeinflusst.	0.0468696728348732	0	1	1.0
+151	werde er uns beeinflusst haben?	werde er uns beeinflusst haben?	0.0465144217014312	0	1	1.0
+152	beeinflusste es ihn?	beeinflusste es ihn?	0.0785214528441429	0	1	1.0
+153	er beeinflusse sich nicht?	er beeinflusse sich nicht?	0.0513934604823589	0	1	1.0
+154	du beeinflusst dich.	du beeinflusst dich.	0.045935358852148	0	1	1.0
+155	sie werden dich nicht beeinflussen?	sie werden dich nicht beeinflussen?	0.0482126735150814	0	1	1.0
+156	hätten sie sich beeinflusst?	hätten sie sich beeinflusst?	0.0465866588056087	0	1	1.0
+157	wir werden euch beeinflusst haben?	wir werden euch beeinflusst haben?	0.0473072864115238	0	1	1.0
+158	er berücksichtige mich?	er berücksichtige mich?	0.0464464277029037	0	1	1.0
+159	er habe euch nicht berücksichtigt?	er habe euch nicht berücksichtigt?	0.0474180914461612	0	1	1.0
+160	er hätte sie nicht berücksichtigt.	er hätte sie nicht berücksichtigt.	0.0465904586017131	0	1	1.0
+161	hattet ihr sie nicht berücksichtigt?	hattet ihr sie nicht berücksichtigt?	0.0465669222176075	0	1	1.0
+162	würden Sie sie nicht berücksichtigen?	würden Sie sie nicht berücksichtigen?	0.0475771613419055	0	1	1.0
+163	hätten sie es berücksichtigt?	hätten sie es berücksichtigt?	0.0459163449704647	0	1	1.0
+164	es wird es nicht berücksichtigt haben.	es wird es nicht berücksichtigt haben.	0.0465261153876781	0	1	1.0
+165	hatte es mich nicht berücksichtigt?	hatte es mich nicht berücksichtigt?	0.0470269322395324	0	1	1.0
+166	es wird sich berücksichtigen.	es wird sich berücksichtigen.	0.0468172505497932	0	1	1.0
+167	sie hatte sich berücksichtigt.	sie hatte sich berücksichtigt.	0.0462363213300704	0	1	1.0
+168	würdest du sie nicht berücksichtigen?	würdest du sie nicht berücksichtigen?	0.0471758022904396	0	1	1.0
+169	werde es dich nicht berücksichtigen?	werde es dich nicht berücksichtigen?	0.0479324683547019	0	1	1.0
+170	hattet ihr sie nicht berücksichtigt?	hattet ihr sie nicht berücksichtigt?	0.0465744845569133	0	1	1.0
+171	berücksichtige er ihn nicht?	berücksichtige er ihn nicht?	0.0468723811209201	0	1	1.0
+172	sie wird ihn nicht berücksichtigt haben.	sie wird ihn nicht berücksichtigt haben.	0.046729352325201	0	1	1.0
+173	hatte sie Sie nicht berücksichtigt?	hatte sie Sie nicht berücksichtigt?	0.046807762235403	0	1	1.0
+174	hat es sie berücksichtigt?	hat es sie berücksichtigt?	0.0460574850440025	0	1	1.0
+175	berücksichtigtet ihr euch nicht?	berücksichtigtet ihr euch nicht?	0.046988770365715	0	1	1.0
+176	Sie haben uns berücksichtigt?	Sie haben uns berücksichtigt?	0.046104796230793	0	1	1.0
+177	ihr werdet ihn nicht berücksichtigen?	ihr werdet ihn nicht berücksichtigen?	0.047468613833189	0	1	1.0
+178	du hattest es besichtigt.	du hattest es besichtigt.	0.0456658825278282	0	1	1.0
+179	sie werden sie besichtigen.	sie werden sie besichtigen.	0.0475335381925106	0	1	1.0
+180	er besichtigte Sie.	er besichtigte Sie.	0.0461964979767799	0	1	1.0
+181	Sie hätten es besichtigt.	Sie hätten es besichtigt.	0.0463079400360584	0	1	1.0
+182	ihr besichtigtet sie.	ihr besichtigtet sie.	0.0458481535315513	0	1	1.0
+183	besichtigtest du euch nicht?	besichtigtest du euch nicht?	0.0476045347750186	0	1	1.0
+184	ihr werdet mich nicht besichtigt haben?	ihr werdet mich nicht besichtigt haben?	0.0480915531516075	0	1	1.0
+185	wir besichtigen uns nicht?	wir besichtigen uns nicht?	0.0473166294395923	0	1	1.0
+186	besichtige er ihn?	besichtige er ihn?	0.0467804297804832	0	1	1.0
+187	haben wir dich besichtigt?	haben wir dich besichtigt?	0.0481570661067962	0	1	1.0
+188	werden wir ihn nicht besichtigen?	werden wir ihn nicht besichtigen?	0.0482754036784172	0	1	1.0
+189	ihr habt sie nicht besichtigt.	ihr habt sie nicht besichtigt.	0.0482721552252769	0	1	1.0
+190	hast du es nicht besichtigt?	hast du es nicht besichtigt?	0.0473845452070236	0	1	1.0
+191	es besichtigte sie.	es besichtigte sie.	0.0458381883800029	0	1	1.0
+192	wird er dich nicht besichtigen?	wird er dich nicht besichtigen?	0.0485535040497779	0	1	1.0
+193	ich habe uns besichtigt?	ich habe uns besichtigt?	0.0473252385854721	0	1	1.0
+194	werden sie sich nicht besichtigt haben?	werden sie sich nicht besichtigt haben?	0.0482505224645137	0	1	1.0
+195	werde es mich besichtigt haben?	werde es mich besichtigt haben?	0.0478196740150451	0	1	1.0
+196	besichtigten Sie sie nicht?	besichtigten Sie sie nicht?	0.0475950203835964	0	1	1.0
+197	wir würden Sie besichtigen.	wir würden Sie besichtigen.	0.0475857257843017	0	1	1.0
+198	sie wird dich uns nicht bestritten haben.	sie wird dich uns nicht bestritten haben.	0.0471337214112281	0	1	1.0
+199	hatte ich sie ihm nicht bestritten?	hatte ich sie ihm nicht bestritten?	0.0470079779624938	0	1	1.0
+200	er hatte uns Ihnen nicht bestritten.	er hatte uns Ihnen nicht bestritten.	0.0455555878579616	0	1	1.0
+201	ich bestreite ihn Ihnen nicht?	ich bestreite ihn Ihnen nicht?	0.0469142645597457	0	1	1.0
+202	sie werden es euch nicht bestreiten?	sie werden es euch nicht bestreiten?	0.0481484159827232	0	1	1.0
+203	wird sie es ihm bestreiten?	wird sie es ihm bestreiten?	0.0466225333511829	0	1	1.0
+204	ihr werdet dich ihm nicht bestreiten.	ihr werdet dich ihm nicht bestreiten.	0.0476513616740703	0	1	1.0
+205	hast du es bestritten?	hast du es bestritten?	0.0542391426861286	0	1	1.0
+206	ihr habt euch Ihnen nicht bestritten.	ihr habt euch Ihnen nicht bestritten.	0.0495262444019317	0	1	1.0
+207	es bestreite mich ihm nicht?	es bestreite mich ihm nicht?	0.0472350381314754	0	1	1.0
+208	bestritten sie euch Ihnen?	bestritten sie euch Ihnen?	0.0541705600917339	0	1	1.0
+209	wir bestreiten Sie sich nicht.	wir bestreiten Sie sich nicht.	0.0478223673999309	0	1	1.0
+210	bestreitet ihr sie ihm nicht?	bestreitet ihr sie ihm nicht?	0.0468158945441246	0	1	1.0
+211	er hätte sie ihnen bestritten.	er hätte sie ihnen bestritten.	0.0481737963855266	0	1	1.0
+212	bestritte sie ihn mir nicht?	bestritte sie ihn mir nicht?	0.0470822490751743	0	1	1.0
+213	sie wird es euch nicht bestritten haben.	sie wird es euch nicht bestritten haben.	0.0472256653010845	0	1	1.0
+214	du hattest dich euch nicht bestritten.	du hattest dich euch nicht bestritten.	0.0472522713243961	0	1	1.0
+215	sie bestritt dich.	sie bestritt dich.	0.0499301441013813	0	1	1.0
+216	bestreite ich euch dir nicht?	bestreite ich euch dir nicht?	0.0480210371315479	0	1	1.0
+217	werden wir uns ihm nicht bestritten haben?	werden wir uns ihm nicht bestritten haben?	0.0469437874853611	0	1	1.0
+218	habet ihr euch uns nicht bestritten?	habet ihr euch uns nicht bestritten?	0.0468892753124237	0	1	1.0
+219	beziehlt ihr mich uns?	bezahltet ihr mich uns?	0.2181439846754074	4	0	0.75
+220	werden wir mich dir bezahlen?	werden wir mich dir bezahlen?	0.04803466796875	0	1	1.0
+221	wir bezahlen sie uns nicht?	wir bezahlen sie uns nicht?	0.0472557805478572	0	1	1.0
+222	sie haben euch Ihnen nicht bezahlt.	sie haben euch Ihnen nicht bezahlt.	0.0466690845787525	0	1	1.0
+223	du beziehltest uns ihm.	du bezahltest uns ihm.	0.093380220234394	2	0	0.75
+224	werden wir ihn ihm bezahlen?	werden wir ihn ihm bezahlen?	0.0474414676427841	0	1	1.0
+225	werdest du dich euch bezahlen?	werdest du dich euch bezahlen?	0.048249177634716	0	1	1.0
+226	werdet ihr es ihr nicht bezahlt haben?	werdet ihr es ihr nicht bezahlt haben?	0.0472762621939182	0	1	1.0
+227	ihr bezahlet es ihm nicht?	ihr bezahlet es ihm nicht?	0.0466374009847641	0	1	1.0
+228	habe ich uns dir nicht bezahlt?	habe ich uns dir nicht bezahlt?	0.047319583594799	0	1	1.0
+229	es wird dich uns nicht bezahlen.	es wird dich uns nicht bezahlen.	0.0475238561630249	0	1	1.0
+230	sie hätten es ihm bezahlt.	sie hätten es ihm bezahlt.	0.0457450449466705	0	1	1.0
+231	er hatte euch mir nicht bezahlt.	er hatte euch mir nicht bezahlt.	0.0469140373170375	0	1	1.0
+232	sie hat euch bezahlt.	sie hat euch bezahlt.	0.0469692610204219	0	1	1.0
+233	werde sie sie dir bezahlen?	werde sie sie dir bezahlen?	0.0474084205925464	0	1	1.0
+234	du hattest euch euch nicht bezahlt.	du hattest euch euch nicht bezahlt.	0.0471738241612911	0	1	1.0
+235	Sie bezahlen mich uns?	Sie bezahlen mich uns?	0.0469178929924964	0	1	1.0
+236	wir werden es uns nicht bezahlen.	wir werden es uns nicht bezahlen.	0.0475260429084301	0	1	1.0
+237	definiere sie sich?	definiere sie sich?	0.0471884906291961	0	1	1.0
+238	Sie werden es definiert haben.	Sie werden es definiert haben.	0.0468929670751094	0	1	1.0
+239	Sie würden sie definieren.	Sie würden sie definieren.	0.0473397560417652	0	1	1.0
+240	wir werden sie nicht definieren.	wir werden sie nicht definieren.	0.0480145029723644	0	1	1.0
+241	haben wir mich definiert?	haben wir mich definiert?	0.0475567132234573	0	1	1.0
+242	ihr würdet ihn nicht definieren.	ihr würdet ihn nicht definieren.	0.0474293492734432	0	1	1.0
+243	hatten sie sie nicht definiert?	hatten sie sie nicht definiert?	0.0472835749387741	0	1	1.0
+244	definieren sie dich?	definieren sie dich?	0.0473101548850536	0	1	1.0
+245	werde sie sich definieren?	werde sie sich definieren?	0.0481378771364688	0	1	1.0
+246	sie würde es definieren.	sie würde es definieren.	0.046794518828392	0	1	1.0
+247	sie hatte sie nicht definiert.	sie hatte sie nicht definiert.	0.046775933355093	0	1	1.0
+248	werdest du sie definiert haben?	werdest du sie definiert haben?	0.0469272024929523	0	1	1.0
+249	er definiere ihn?	er definiere ihn?	0.0460736490786075	0	1	1.0
+250	definierte sie es?	definierte sie es?	0.0460351482033729	0	1	1.0
+251	haben Sie sich nicht definiert?	haben Sie sich nicht definiert?	0.0481842719018459	0	1	1.0
+252	wird er es definiert haben?	wird er es definiert haben?	0.0466786064207553	0	1	1.0
+253	du hast sie nicht definiert.	du hast sie nicht definiert.	0.0467468053102493	0	1	1.0
+254	wir definierten sie.	wir definierten sie.	0.0461115688085556	0	1	1.0
+255	wird er euch definiert haben?	wird er euch definiert haben?	0.0473263040184974	0	1	1.0
+256	sie definieren ihn?	sie definieren ihn?	0.0460543259978294	0	1	1.0
+257	es wird es nicht definieren.	es wird es nicht definieren.	0.0472085699439048	0	1	1.0
+258	er würde dich nicht definieren.	er würde dich nicht definieren.	0.0481500513851642	0	1	1.0
+259	Sie hatten uns gedeutet.	Sie hatten uns gedeutet.	0.0466835834085941	0	1	1.0
+260	deutete er mich nicht?	deutete er mich nicht?	0.0484823212027549	0	1	1.0
+261	hatten wir auf sie nicht gedeutet?	hatten wir auf sie nicht gedeutet?	0.0468430295586586	0	1	1.0
+262	wir haben mich nicht gedeutet.	wir haben mich nicht gedeutet.	0.047857753932476	0	1	1.0
+263	hatte sie auf mich nicht gedeutet?	hatte sie auf mich nicht gedeutet?	0.0470137186348438	0	1	1.0
+264	hätte es auf ihn nicht gedeutet?	hätte es auf ihn nicht gedeutet?	0.0464337468147277	0	1	1.0
+265	es habe auf sich gedeutet?	es habe auf sich gedeutet?	0.0464169681072235	0	1	1.0
+266	deutetet ihr Sie?	deutetet ihr Sie?	0.0465715415775775	0	1	1.0
+267	er hatte sie gedeutet.	er hatte sie gedeutet.	0.0461230166256427	0	1	1.0
+268	hatte ich ihn gedeutet?	hatte ich ihn gedeutet?	0.047965083271265	0	1	1.0
+269	es hat mich nicht gedeutet.	es hat mich nicht gedeutet.	0.0475326515734195	0	1	1.0
+270	sie deuten es?	sie deuten es?	0.0472924746572971	0	1	1.0
+271	ich habe sie gedeutet.	ich habe sie gedeutet.	0.0470769368112087	0	1	1.0
+272	habe es es gedeutet?	habe es es gedeutet?	0.0465411618351936	0	1	1.0
+273	es wird auf ihn nicht deuten.	es wird auf ihn nicht deuten.	0.0468918718397617	0	1	1.0
+274	würde sie auf euch nicht deuten?	würde sie auf euch nicht deuten?	0.0478635393083095	0	1	1.0
+275	werde sie sich nicht gedeutet haben?	werde sie sich nicht gedeutet haben?	0.0484019555151462	0	1	1.0
+276	ich dominiere uns.	ich dominiere uns.	0.0463479049503803	0	1	1.0
+277	haben wir dominiert?	haben wir dominiert?	0.0468468219041824	0	1	1.0
+278	dominiertet ihr mich?	dominiertet ihr mich?	0.0464157499372959	0	1	1.0
+279	wir dominierten sie.	wir dominierten sie.	0.0460100397467613	0	1	1.0
+280	sie werden nicht dominiert haben?	sie werden nicht dominiert haben?	0.0480718947947025	0	1	1.0
+281	sie werden es nicht dominieren.	sie werden es nicht dominieren.	0.0478013530373573	0	1	1.0
+282	wir werden ihn nicht dominieren.	wir werden ihn nicht dominieren.	0.0479296930134296	0	1	1.0
+283	dominierest du dich nicht?	dominierest du dich nicht?	0.0477049499750137	0	1	1.0
+284	dominieren wir uns nicht!	dominieren wir uns nicht!	0.0464446544647216	0	1	1.0
+285	er habe dominiert?	er habe dominiert?	0.0465647242963314	0	1	1.0
+286	wir haben dich nicht dominiert.	wir haben dich nicht dominiert.	0.0477018989622592	0	1	1.0
+287	er dominierte es.	er dominierte es.	0.0453692637383937	0	1	1.0
+288	werden sie dich nicht dominiert haben?	werden sie dich nicht dominiert haben?	0.0480703115463256	0	1	1.0
+289	ihr werdet euch dominiert haben.	ihr werdet euch dominiert haben.	0.0472133159637451	0	1	1.0
+290	werde ich uns nicht dominieren?	werde ich uns nicht dominieren?	0.048313770443201	0	1	1.0
+291	werde ich uns nicht dominiert haben?	werde ich uns nicht dominiert haben?	0.0477700270712375	0	1	1.0
+292	er würde euch nicht dominieren.	er würde euch nicht dominieren.	0.0484539717435836	0	1	1.0
+293	es dominiere mich nicht?	es dominiere mich nicht?	0.0476838499307632	0	1	1.0
+294	wir würden euch dominieren.	wir würden euch dominieren.	0.0477900020778179	0	1	1.0
+295	ihr würdet dominieren.	ihr würdet dominieren.	0.0466891378164291	0	1	1.0
+296	Sie werden sie dominiert haben?	Sie werden sie dominiert haben?	0.0474230013787746	0	1	1.0
+297	wird sie sich nicht einfallen?	wird sie sich nicht einfallen?	0.0479722693562507	0	1	1.0
+298	war sie in Ihnen nicht eingefallen?	war sie in Ihnen nicht eingefallen?	0.0453671738505363	0	1	1.0
+299	fielen wir in uns nicht ein?	fielen wir in uns nicht ein?	0.045627623796463	0	1	1.0
+300	ich werde ihm nicht einfallen.	ich werde ihm nicht einfallen.	0.0477962642908096	0	1	1.0
+301	werde sie in ihnen eingefallen sein?	werde sie in ihnen eingefallen sein?	0.0453037843108177	0	1	1.0
+302	fielen wir in mir nicht ein?	fielen wir in mir nicht ein?	0.0458654202520847	0	1	1.0
+303	würde er Ihnen einfallen?	würde er Ihnen einfallen?	0.0461249090731143	0	1	1.0
+304	du fallest ihr nicht ein?	du fallest ihr nicht ein?	0.0468317866325378	0	1	1.0
+305	Sie sind euch nicht eingefallen.	Sie sind euch nicht eingefallen.	0.0461209677159786	0	1	1.0
+306	werden sie ihm einfallen?	werden sie ihm einfallen?	0.0468362942337989	0	1	1.0
+307	würdet ihr in Ihnen einfallen?	würdet ihr in Ihnen einfallen?	0.0460273064672946	0	1	1.0
+308	wäre ich mir eingefallen?	wäre ich mir eingefallen?	0.0460570603609085	0	1	1.0
+309	fiel es euch ein?	fiel es euch ein?	0.0457320772111415	0	1	1.0
+310	du werdest euch nicht eingefallen sein?	du werdest euch nicht eingefallen sein?	0.0469501838088035	0	1	1.0
+311	fielet ihr in uns ein?	fielet ihr in uns ein?	0.0438662357628345	0	1	1.0
+312	werde ich uns nicht eingefallen sein?	werde ich uns nicht eingefallen sein?	0.0470280461013317	0	1	1.0
+313	er wird in uns eingefallen sein.	er wird in uns eingefallen sein.	0.0447752624750137	0	1	1.0
+314	sie fielen uns ein.	sie fielen uns ein.	0.0445440076291561	0	1	1.0
+315	ich falle in ihm ein.	ich falle in ihm ein.	0.0460084900259971	0	1	1.0
+316	greif in euch ein!	greif in euch ein!	0.0448354259133338	0	1	1.0
+317	würden wir in euch nicht eingreifen?	würden wir in euch nicht eingreifen?	0.0474555976688861	0	1	1.0
+318	sie werden in ihnen eingegriffen haben.	sie werden in ihnen eingegriffen haben.	0.0455822087824344	0	1	1.0
+319	greifen wir in ihnen nicht ein?	greifen wir in ihnen nicht ein?	0.0461848825216293	0	1	1.0
+320	sie hätte in ihnen eingegriffen.	sie hätte in ihnen eingegriffen.	0.0455680973827838	0	1	1.0
+321	es würde in mir eingreifen.	es würde in mir eingreifen.	0.0457480959594249	0	1	1.0
+322	es griff in uns ein.	es griff in uns ein.	0.0444472171366214	0	1	1.0
+323	sie wird in dir eingegriffen haben.	sie wird in dir eingegriffen haben.	0.0457275956869125	0	1	1.0
+324	wird er in ihm eingreifen?	wird er in ihm eingreifen?	0.0460144467651844	0	1	1.0
+325	sie griffen in ihr nicht ein.	sie griffen in ihr nicht ein.	0.0464218258857727	0	1	1.0
+326	sie werden in mir eingegriffen haben.	sie werden in mir eingegriffen haben.	0.0460576005280017	0	1	1.0
+327	greife ich in ihm ein?	greife ich in ihm ein?	0.0460864156484603	0	1	1.0
+328	ich würde in ihr eingreifen.	ich würde in ihr eingreifen.	0.046703178435564	0	1	1.0
+329	er grifft in ihm nicht ein.	er greift in ihm nicht ein.	0.0782860144972801	2	0	0.8333333333333334
+330	du griffst in euch nicht ein.	du greifst in euch nicht ein.	0.1411677151918411	2	0	0.8333333333333334
+331	er hätte in dir eingegriffen.	er hätte in dir eingegriffen.	0.0459089502692222	0	1	1.0
+332	greifen wir in mir ein?	greifen wir in mir ein?	0.0455246679484844	0	1	1.0
+333	es hatte in dir eingegriffen.	es hatte in dir eingegriffen.	0.0459269508719444	0	1	1.0
+334	haben Sie in sich nicht eingegriffen?	haben Sie in sich nicht eingegriffen?	0.0465224087238311	0	1	1.0
+335	werden sie in ihr eingreifen?	werden sie in ihr eingreifen?	0.0467038080096244	0	1	1.0
+336	wirst du mich nicht entwickelt haben?	wirst du mich nicht entwickelt haben?	0.0479597821831703	0	1	1.0
+337	entwickeltet ihr euch?	entwickeltet ihr euch?	0.0482428707182407	0	1	1.0
+338	es wird euch nicht entwickeln.	es wird euch nicht entwickeln.	0.0485673137009143	0	1	1.0
+339	entwickele sie euch nicht?	entwickele sie euch nicht?	0.0493290424346923	0	1	1.0
+340	es entwickele sich nicht?	es entwickele sich nicht?	0.0489882603287696	0	1	1.0
+341	ich habe sie nicht entwickelt.	ich habe sie nicht entwickelt.	0.0491492301225662	0	1	1.0
+342	werdet ihr sie entwickelt haben?	werdet ihr sie entwickelt haben?	0.0475338660180568	0	1	1.0
+343	würdet ihr euch nicht entwickeln?	würdet ihr euch nicht entwickeln?	0.04874724522233	0	1	1.0
+344	habe ich sie entwickelt?	habe ich sie entwickelt?	0.0501604788005352	0	1	1.0
+345	entwickelten sie es nicht?	entwickelten sie es nicht?	0.0482141263782978	0	1	1.0
+346	ich entwickelte dich.	ich entwickelte dich.	0.0488857999444007	0	1	1.0
+347	wirst du uns nicht entwickeln?	wirst du uns nicht entwickeln?	0.0478318445384502	0	1	1.0
+348	wird sie es nicht entwickeln?	wird sie es nicht entwickeln?	0.0482410416007041	0	1	1.0
+349	sie wird uns nicht entwickeln.	sie wird uns nicht entwickeln.	0.047951653599739	0	1	1.0
+350	habt ihr sie entwickelt?	habt ihr sie entwickelt?	0.047297965735197	0	1	1.0
+351	sie entwickelten Sie.	sie entwickelten Sie.	0.0474300123751163	0	1	1.0
+352	wird er dich entwickeln?	wird er dich entwickeln?	0.0489978268742561	0	1	1.0
+353	haben wir mich nicht erbracht?	haben wir mich nicht erbracht?	0.0484005063772201	0	1	1.0
+354	sie hatte es erbracht.	sie hatte es erbracht.	0.0459597632288932	0	1	1.0
+355	wir würden sie erbringen.	wir würden sie erbringen.	0.0473717488348484	0	1	1.0
+356	es erbringe es nicht?	es erbringe es nicht?	0.047524344176054	0	1	1.0
+357	sie erbringen dich nicht.	sie erbringen dich nicht.	0.0481758676469326	0	1	1.0
+358	erbringen Sie uns nicht?	erbringen Sie uns nicht?	0.047637291252613	0	1	1.0
+359	sie erbrächte dich.	sie erbrächte dich.	0.0471282228827476	0	1	1.0
+360	sie würden euch nicht erbringen.	sie würden euch nicht erbringen.	0.048329722136259	0	1	1.0
+361	es erbringt sie nicht.	es erbringt sie nicht.	0.0476574674248695	0	1	1.0
+362	sie würde Sie erbringen.	sie würde Sie erbringen.	0.0472952090203762	0	1	1.0
+363	würden Sie sie nicht erbringen?	würden Sie sie nicht erbringen?	0.0483640134334564	0	1	1.0
+364	werde es Sie erbracht haben?	werde es Sie erbracht haben?	0.0474574491381645	0	1	1.0
+365	ihr hättet Sie erbracht.	ihr hättet Sie erbracht.	0.0462305545806884	0	1	1.0
+366	es erbrächte Sie nicht.	es erbrächte Sie nicht.	0.0475055612623691	0	1	1.0
+367	er erbrächte es.	er erbrächte es.	0.0462212823331356	0	1	1.0
+368	habt ihr uns erbracht?	habt ihr uns erbracht?	0.0464431010186672	0	1	1.0
+369	Sie hatten mich nicht erbracht.	Sie hatten mich nicht erbracht.	0.0477485582232475	0	1	1.0
+370	sie werden mich erbracht haben.	sie werden mich erbracht haben.	0.0477408319711685	0	1	1.0
+371	ich hätte es erbracht.	ich hätte es erbracht.	0.0467314720153808	0	1	1.0
+372	er erbringe ihn nicht?	er erbringe ihn nicht?	0.0478727556765079	0	1	1.0
+373	sie erbringen ihn.	sie erbringen ihn.	0.0461040809750556	0	1	1.0
+374	sie erbrachten sie.	sie erbrachten sie.	0.0464887768030166	0	1	1.0
+375	wir haben dich nicht erfasst.	wir haben dich nicht erfasst.	0.0479010120034217	0	1	1.0
+376	wir hätten sie erfasst.	wir hätten sie erfasst.	0.0464602410793304	0	1	1.0
+377	erfasste er sie?	erfasste er sie?	0.0465287528932094	0	1	1.0
+378	hätten wir ihn nicht erfasst?	hätten wir ihn nicht erfasst?	0.0474604442715644	0	1	1.0
+379	sie würde ihn erfassen.	sie würde ihn erfassen.	0.0471821390092372	0	1	1.0
+380	erfasstest du dich?	erfasstest du dich?	0.0466875657439231	0	1	1.0
+381	ich erfasste uns.	ich erfasste uns.	0.046355877071619	0	1	1.0
+382	wird es sie nicht erfassen?	wird es sie nicht erfassen?	0.0479232147336006	0	1	1.0
+383	er hatte ihn nicht erfasst.	er hatte ihn nicht erfasst.	0.0468881614506244	0	1	1.0
+384	du hast uns nicht erfasst.	du hast uns nicht erfasst.	0.0464831814169883	0	1	1.0
+385	hättet ihr sie nicht erfasst?	hättet ihr sie nicht erfasst?	0.0472027063369751	0	1	1.0
+386	habe es sie erfasst?	habe es sie erfasst?	0.0466012507677078	0	1	1.0
+387	Sie haben euch nicht erfasst.	Sie haben euch nicht erfasst.	0.0476804487407207	0	1	1.0
+388	haben sie euch erfasst?	haben sie euch erfasst?	0.0473339520394802	0	1	1.0
+389	erfasst du es?	erfasst du es?	0.0488390512764453	0	1	1.0
+390	Sie werden mich nicht erfasst haben?	Sie werden mich nicht erfasst haben?	0.0484324656426906	0	1	1.0
+391	Sie werden ihn nicht erfassen.	Sie werden ihn nicht erfassen.	0.0481253303587436	0	1	1.0
+392	habe sie dich erfasst?	habe sie dich erfasst?	0.0475610867142677	0	1	1.0
+393	sie hatte mich nicht erfasst.	sie hatte mich nicht erfasst.	0.0473889075219631	0	1	1.0
+394	werdest du nicht erfolgen?	werdest du nicht erfolgen?	0.0484432019293308	0	1	1.0
+395	haben sie erfolgt?	sind sie erfolgt?	0.2420960217714309	5	0	0.6666666666666666
+396	werde er nicht erfolgen?	werde er nicht erfolgen?	0.0489833652973175	0	1	1.0
+397	werdest du nicht erfolgt haben?	werdest du nicht erfolgt sein?	0.1719965636730194	4	0	0.8
+398	er würde erfolgen.	er würde erfolgen.	0.0475614964962005	0	1	1.0
+399	ich werde nicht erfolgt haben?	ich werde nicht erfolgt sein?	0.1832118332386016	4	0	0.8
+400	es hat nicht erfolgt.	es ist nicht erfolgt.	0.2034310400485992	2	0	0.75
+401	ihr erfolget?	ihr erfolget?	0.0469784811139106	0	1	1.0
+402	erfolge ich nicht?	erfolge ich nicht?	0.0496695339679718	0	1	1.0
+403	wird er nicht erfolgen?	wird er nicht erfolgen?	0.0486364364624023	0	1	1.0
+404	ich würde erfolgen.	ich würde erfolgen.	0.0484971031546592	0	1	1.0
+405	er erfolgte.	er erfolgte.	0.0464203730225563	0	1	1.0
+406	wird er erfolgt haben?	wird er erfolgt sein?	0.2813316583633423	4	0	0.75
+407	es erfolgt nicht.	es erfolgt nicht.	0.0477763824164867	0	1	1.0
+408	wird er erfolgt haben?	wird er erfolgt sein?	0.2813316583633423	4	0	0.75
+409	werden wir nicht erfolgt haben?	werden wir nicht erfolgt sein?	0.1867298781871795	4	0	0.8
+410	Sie hätten nicht erfolgt.	Sie wären nicht erfolgt.	0.123810313642025	3	0	0.75
+411	erfolgtest du nicht?	erfolgtest du nicht?	0.047740239650011	0	1	1.0
+412	erfolge es nicht?	erfolge es nicht?	0.0485884100198745	0	1	1.0
+413	hatten sie erfolgt?	waren sie erfolgt?	0.2163118869066238	3	0	0.6666666666666666
+414	sie würden erfolgen.	sie würden erfolgen.	0.0476466082036495	0	1	1.0
+415	erfolgten Sie nicht?	erfolgten Sie nicht?	0.0483852736651897	0	1	1.0
+416	sie werden sie um sie ergänzt haben.	sie werden sie um sie ergänzt haben.	0.0465430319309234	0	1	1.0
+417	sie ergänze Sie nicht?	sie ergänze Sie um sich nicht?	0.2882284522056579	8	0	0.6
+418	sie werden sie um ihn nicht ergänzen?	sie werden sie um ihn nicht ergänzen?	0.0474088117480278	0	1	1.0
+419	er ergänzte mich um sie.	er ergänzte mich um sie.	0.0460637919604778	0	1	1.0
+420	hättest du mich um euch ergänzt?	hättest du mich um euch ergänzt?	0.0464531742036342	0	1	1.0
+421	es wird sich ergänzt haben.	es wird sich ergänzt haben.	0.047174148261547	0	1	1.0
+422	habe es sie um mich nicht ergänzt?	habe es sie um mich nicht ergänzt?	0.0469697751104831	0	1	1.0
+423	werdet ihr Sie um mich nicht ergänzen?	werdet ihr Sie um mich nicht ergänzen?	0.0476433224976062	0	1	1.0
+424	ergänztet ihr Sie um sie?	ergänztet ihr Sie um sie?	0.0455720238387584	0	1	1.0
+425	würde sie Sie um ihn nicht ergänzen?	würde sie Sie um ihn nicht ergänzen?	0.04714335501194	0	1	1.0
+426	habe er mich um sie nicht ergänzt?	habe er mich um sie nicht ergänzt?	0.0471797436475753	0	1	1.0
+427	haben Sie sie um uns ergänzt?	haben Sie sie um uns ergänzt?	0.0459848642349243	0	1	1.0
+428	werde ich sie um dich ergänzen?	werde ich sie um dich ergänzen?	0.0478297621011734	0	1	1.0
+429	habet ihr sie um ihn nicht ergänzt?	habet ihr sie um ihn nicht ergänzt?	0.0464458912611007	0	1	1.0
+430	er würde ihn um Sie ergänzen.	er würde ihn um Sie ergänzen.	0.0463533289730548	0	1	1.0
+431	er werde sie um dich ergänzt haben?	er werde sie um dich ergänzt haben?	0.0471304506063461	0	1	1.0
+432	wirst du es um es nicht ergänzt haben?	wirst du es um es nicht ergänzt haben?	0.0463830307126045	0	1	1.0
+433	habest du sie um uns ergänzt?	habest du sie um uns ergänzt?	0.0455461218953132	0	1	1.0
+434	werden sie Sie zu sich ergänzt haben?	werden sie Sie um sich ergänzt haben?	0.1882583647966385	2	0	0.8571428571428571
+435	hatte er euch um uns nicht ergänzt?	hatte er euch um uns nicht ergänzt?	0.0466212145984172	0	1	1.0
+436	werden Sie sie um uns ergänzen?	werden Sie sie um uns ergänzen?	0.0468396544456481	0	1	1.0
+437	ihr hättet euch um mich ergänzt.	ihr hättet euch um mich ergänzt.	0.0462501421570777	0	1	1.0
+438	sie habe sich nicht erholt?	sie habe sich nicht erholt?	0.0486695542931556	0	1	1.0
+439	ich hatte mich erholt.	ich hatte mich erholt.	0.0478991158306598	0	1	1.0
+440	hatten sie sich erholt?	hatten sie sich erholt?	0.0479575656354427	0	1	1.0
+441	es hat sich nicht erholt.	es hat sich nicht erholt.	0.0481124445796012	0	1	1.0
+442	sie hatten sich nicht erholt.	sie hatten sich nicht erholt.	0.0480320863425731	0	1	1.0
+443	haben Sie sich erholt?	haben Sie sich erholt?	0.048517495393753	0	1	1.0
+444	er erholt sich.	er erholt sich.	0.0475850254297256	0	1	1.0
+445	ihr erholet euch?	ihr erholet euch?	0.0471789054572582	0	1	1.0
+446	werde sie sich erholt haben?	werde sie sich erholt haben?	0.0483665540814399	0	1	1.0
+447	es wird sich nicht erholen.	es wird sich nicht erholen.	0.0486199222505092	0	1	1.0
+448	du hättest dich nicht erholt.	du hättest dich nicht erholt.	0.0477000139653682	0	1	1.0
+449	wird sie sich erholt haben?	wird sie sich erholt haben?	0.0480831861495971	0	1	1.0
+450	du würdest dich nicht erholen.	du würdest dich nicht erholen.	0.0484264902770519	0	1	1.0
+451	erholen Sie sich nicht!	erholen Sie sich nicht!	0.04803067445755	0	1	1.0
+452	ich werde mich erholt haben?	ich werde mich erholt haben?	0.0489760711789131	0	1	1.0
+453	Sie erholten sich.	Sie erholten sich.	0.0475600510835647	0	1	1.0
+454	wir erholen uns nicht.	wir erholen uns nicht.	0.0476369485259056	0	1	1.0
+455	erholte sie sich?	erholte sie sich?	0.0476795025169849	0	1	1.0
+456	ich werde mich nicht erholt haben.	ich werde mich nicht erholt haben.	0.0488353595137596	0	1	1.0
+457	erholest du dich?	erholest du dich?	0.0475840419530868	0	1	1.0
+458	wir ermitteln gegen sie nicht.	wir ermitteln gegen sie nicht.	0.0468141064047813	0	1	1.0
+459	haben Sie gegen mich nicht ermittelt?	haben Sie gegen mich nicht ermittelt?	0.0495119169354438	0	1	1.0
+460	ermittelten sie gegen dich?	ermittelten sie gegen dich?	0.0628242194652557	0	1	1.0
+461	habe sie es ermittelt?	habe sie es ermittelt?	0.0489042736589908	0	1	1.0
+462	ihr werdet gegen dich ermittelt haben.	ihr werdet gegen dich ermittelt haben.	0.0466539002954959	0	1	1.0
+463	wir ermitteln gegen ihn nicht?	wir ermitteln gegen ihn nicht?	0.0469677820801734	0	1	1.0
+464	werden wir euch nicht ermitteln?	werden wir euch nicht ermitteln?	0.0487698838114738	0	1	1.0
+465	ich habe gegen euch ermittelt?	ich habe gegen euch ermittelt?	0.0466738566756248	0	1	1.0
+466	wir ermittelten es nicht.	wir ermittelten es nicht.	0.0492531657218933	0	1	1.0
+467	es werde ihn ermittelt haben?	es werde ihn ermittelt haben?	0.0483697392046451	0	1	1.0
+468	wird es euch nicht ermitteln?	wird es euch nicht ermitteln?	0.0483055748045444	0	1	1.0
+469	es werde gegen sich nicht ermittelt haben?	es werde gegen sich nicht ermittelt haben?	0.0473815724253654	0	1	1.0
+470	Sie ermitteln gegen euch nicht.	Sie ermitteln gegen euch nicht.	0.0472059175372123	0	1	1.0
+471	habe ich uns erschlossen?	habe ich uns erschlossen?	0.0466444045305252	0	1	1.0
+472	Sie erschlössen sie nicht.	Sie erschlössen sie nicht.	0.047589398920536	0	1	1.0
+473	wird sie dich erschlossen haben?	wird sie dich erschlossen haben?	0.0472123362123966	0	1	1.0
+474	hätten Sie ihn nicht erschlossen?	hätten Sie ihn nicht erschlossen?	0.0470955558121204	0	1	1.0
+475	es habe sich nicht erschlossen?	es habe sich nicht erschlossen?	0.0476669520139694	0	1	1.0
+476	hätte er uns nicht erschlossen?	hätte er uns nicht erschlossen?	0.046786967664957	0	1	1.0
+477	sie hatten uns nicht erschlossen.	sie hatten uns nicht erschlossen.	0.0464181117713451	0	1	1.0
+478	erschließe er sich nicht?	erschließe er sich nicht?	0.0484892800450325	0	1	1.0
+479	er hätte mich nicht erschlossen.	er hätte mich nicht erschlossen.	0.0471461936831474	0	1	1.0
+480	hätte er ihn erschlossen?	hätte er ihn erschlossen?	0.0461348555982112	0	1	1.0
+481	Sie hätten uns erschlossen.	Sie hätten uns erschlossen.	0.0456402115523815	0	1	1.0
+482	werden sie es nicht erschließen?	werden sie es nicht erschließen?	0.0478815957903862	0	1	1.0
+483	habt ihr uns nicht erschlossen?	habt ihr uns nicht erschlossen?	0.0467372201383113	0	1	1.0
+484	wir haben dich erschlossen.	wir haben dich erschlossen.	0.0467542447149753	0	1	1.0
+485	ihr erschlosst euch.	ihr erschlosst euch.	0.0459495820105075	0	1	1.0
+486	hätte er es erschlossen?	hätte er es erschlossen?	0.0460873022675514	0	1	1.0
+487	haben wir uns nicht erschlossen?	haben wir uns nicht erschlossen?	0.0470081977546215	0	1	1.0
+488	ich habe es erschlossen.	ich habe es erschlossen.	0.0463743209838867	0	1	1.0
+489	hat sie mich nicht erschlossen?	hat sie mich nicht erschlossen?	0.0475772842764854	0	1	1.0
+490	wir erschließen Sie nicht.	wir erschließen Sie nicht.	0.0476094484329223	0	1	1.0
+491	er hätte Sie nicht erschlossen.	er hätte Sie nicht erschlossen.	0.04686776176095	0	1	1.0
+492	Sie erschlossen mich.	Sie erschlossen mich.	0.046562660485506	0	1	1.0
+493	würde er uns sich erweisen?	würde er uns sich erweisen?	0.0478158257901668	0	1	1.0
+494	erweise sie es ihr?	erweise sie es ihr?	0.0463708415627479	0	1	1.0
+495	werden sie uns ihm nicht erwiesen haben?	werden sie uns ihm nicht erwiesen haben?	0.0471238493919372	0	1	1.0
+496	hatte sie uns euch erwiesen?	hatte sie uns euch erwiesen?	0.0464729592204093	0	1	1.0
+497	wirst du es mir nicht erweisen?	wirst du es mir nicht erweisen?	0.0473632141947746	0	1	1.0
+498	ihr werdet sie uns erweisen.	ihr werdet sie uns erweisen.	0.0470563545823097	0	1	1.0
+499	werden wir dich ihm nicht erwiesen haben?	werden wir dich ihm nicht erwiesen haben?	0.0478199310600757	0	1	1.0
+500	es werde mich mir erwiesen haben?	es werde mich mir erwiesen haben?	0.0471997186541557	0	1	1.0
+501	erweise sie euch uns nicht?	erweise sie euch uns nicht?	0.0475620441138744	0	1	1.0
+502	erwiest du es nicht?	erwiest du es nicht?	0.0477073639631271	0	1	1.0
+503	wir würden ihn uns erweisen.	wir würden ihn uns erweisen.	0.0471109189093112	0	1	1.0
+504	du wirst sie mir erweisen.	du wirst sie mir erweisen.	0.0465244986116886	0	1	1.0
+505	sie erwiese sie euch nicht.	sie erwiese sie euch nicht.	0.0478862449526786	0	1	1.0
+506	Sie erweisen es euch.	Sie erweisen es euch.	0.0470147244632244	0	1	1.0
+507	hatten wir mich ihr erwiesen?	hatten wir mich ihr erwiesen?	0.0469455309212207	0	1	1.0
+508	erwiesen sie sie nicht?	erwiesen sie sie nicht?	0.0479708798229694	0	1	1.0
+509	sie werden dich mir nicht erwiesen haben.	sie werden dich mir nicht erwiesen haben.	0.0475831553339958	0	1	1.0
+510	erwiese er mich euch?	erwiese er mich euch?	0.0477489568293094	0	1	1.0
+511	habe er sie sich nicht erwiesen?	habe er sie sich nicht erwiesen?	0.0478433370590209	0	1	1.0
+512	Sie werden ihn uns erwiesen haben.	Sie werden ihn uns erwiesen haben.	0.0467179007828235	0	1	1.0
+513	ich stelle ihn nicht fest?	ich stelle ihn nicht fest?	0.048297856003046	0	1	1.0
+514	stellte er euch nicht fest?	stellte er euch nicht fest?	0.0479895174503326	0	1	1.0
+515	du stellest euch nicht fest?	du stellest euch nicht fest?	0.0479912273585796	0	1	1.0
+516	sie werde ihn nicht festgestellt haben?	sie werde ihn nicht festgestellt haben?	0.047685120254755	0	1	1.0
+517	hatte es uns nicht festgestellt?	hatte es uns nicht festgestellt?	0.0478006638586521	0	1	1.0
+518	sie stellte mich nicht fest.	sie stellte mich nicht fest.	0.0477734394371509	0	1	1.0
+519	du stelltest mich nicht fest.	du stelltest mich nicht fest.	0.0475313067436218	0	1	1.0
+520	habe er dich nicht festgestellt?	habe er dich nicht festgestellt?	0.0483745671808719	0	1	1.0
+521	wir haben uns festellt.	wir haben uns festgestellt.	0.2577859163284302	4	0	0.75
+522	du werdest ihn festgestellt haben?	du werdest ihn festgestellt haben?	0.0538286827504634	0	1	1.0
+523	stellen Sie sich nicht fest?	stellen Sie sich nicht fest?	0.0483334548771381	0	1	1.0
+524	ich stelle Sie festelle fest?	ich stelle Sie fest?	0.1565741151571273	9	0	0.6666666666666666
+525	es hätte Sie nicht festgellt.	es hätte Sie nicht festgestellt.	0.1166515350341796	3	0	0.8
+526	stelle ich es nicht fest?	stelle ich es nicht fest?	0.0482303127646446	0	1	1.0
+527	stellte ich ihn nicht fest?	stellte ich ihn nicht fest?	0.0480122193694114	0	1	1.0
+528	ihr habet sie festellt?	ihr habet sie festgestellt?	0.2137878686189651	4	0	0.75
+529	wir werden uns festellt haben?	wir werden uns festgestellt haben?	0.086202248930931	4	0	0.8
+530	er hatte dich nicht festgestellt.	er hatte dich nicht festgestellt.	0.0482712760567665	0	1	1.0
+531	es werde es festellen?	es werde es feststellen?	0.2052858769893646	2	0	0.75
+532	Sie stellten ihn fest.	Sie stellten ihn fest.	0.04698146879673	0	1	1.0
+533	stellten wir sie nicht fest?	stellten wir sie nicht fest?	0.0476727485656738	0	1	1.0
+534	stellten wir ihn nicht fest?	stellten wir ihn nicht fest?	0.0475456789135932	0	1	1.0
+535	habe ich dich nicht festgestellt?	habe ich dich nicht festgestellt?	0.0490743108093738	0	1	1.0
+536	werde ich es festgestellt haben?	werde ich es festgestellt haben?	0.0478089451789855	0	1	1.0
+537	habe ich euch nicht gefolgt?	sei ich euch nicht gefolgt?	0.2653858363628387	4	0	0.8
+538	Sie werden uns folgen?	Sie werden uns folgen?	0.0480830110609531	0	1	1.0
+539	hatten sie mir gefolgt?	waren sie mir gefolgt?	0.315020740032196	3	0	0.75
+540	folgten Sie mir nicht?	folgten Sie mir nicht?	0.0477393232285976	0	1	1.0
+541	sie folgte ihm nicht.	sie folgte ihm nicht.	0.0471326671540737	0	1	1.0
+542	würden sie uns nicht folgen?	würden sie uns nicht folgen?	0.0480924732983112	0	1	1.0
+543	ihr habt dir gefolgt.	ihr seid dir gefolgt.	0.3199146687984466	4	0	0.75
+544	werden sie mir folgen?	werden sie mir folgen?	0.0478168241679668	0	1	1.0
+545	werden sie ihnen nicht gefolgt haben?	werden sie ihnen nicht gefolgt sein?	0.2204884141683578	4	0	0.8333333333333334
+546	ich habe mir nicht gefolgt.	ich bin mir nicht gefolgt.	0.2265239953994751	4	0	0.8
+547	folgest du ihm nicht?	folgest du ihm nicht?	0.0472287535667419	0	1	1.0
+548	folgte es ihm?	folgte es ihm?	0.0459391623735427	0	1	1.0
+549	hatte sie dir gefolgt?	war sie dir gefolgt?	0.3365344703197479	4	0	0.75
+550	habe ich Ihnen gefolgt?	bin ich Ihnen gefolgt?	0.3070466518402099	4	0	0.75
+551	wird es uns gefolgt haben?	wird es uns gefolgt sein?	0.2852867245674133	4	0	0.8
+552	folge ich ihnen nicht?	folge ich ihnen nicht?	0.0480961911380291	0	1	1.0
+553	es folgte uns.	es folgte uns.	0.0454801395535469	0	1	1.0
+554	es folge dir nicht?	es folge dir nicht?	0.0478082671761512	0	1	1.0
+555	werden sie ihnen nicht folgen?	werden sie ihnen nicht folgen?	0.0479460507631301	0	1	1.0
+556	würde ich mich für sie nicht freuen?	würde ich mich für sie nicht freuen?	0.0483360551297664	0	1	1.0
+557	ich hätte sie gefreut.	ich hätte sie gefreut.	0.0469980202615261	0	1	1.0
+558	ihr werdet euch für sie freuen.	ihr werdet euch für sie freuen.	0.0472416654229164	0	1	1.0
+559	freuten Sie es nicht?	freuten Sie es nicht?	0.0479711331427097	0	1	1.0
+560	du freutest mich nicht.	du freutest mich nicht.	0.0478478856384754	0	1	1.0
+561	freu dich für ihn nicht!	freu dich für ihn nicht!	0.0466659441590309	0	1	1.0
+562	du hattest dich über ihn nicht gefreut.	du hattest dich über ihn nicht gefreut.	0.0463882200419902	0	1	1.0
+563	freute es sich über mich nicht?	freute es sich über mich nicht?	0.0476090386509895	0	1	1.0
+564	Sie haben mich nicht gefreut?	Sie haben mich nicht gefreut?	0.0482764169573783	0	1	1.0
+565	freute er sich für Sie?	freute er sich für Sie?	0.0468279905617237	0	1	1.0
+566	wirst du dich für mich gefreut haben?	wirst du dich für mich gefreut haben?	0.0472051985561847	0	1	1.0
+567	er werde es nicht gefreut haben?	er werde es nicht gefreut haben?	0.0480257458984851	0	1	1.0
+568	sie werde dich gefreut haben?	sie werde dich gefreut haben?	0.0480847507715225	0	1	1.0
+569	freuen wir es?	freuen wir es?	0.0475400499999523	0	1	1.0
+570	freuten wir Sie?	freuten wir Sie?	0.0477393791079521	0	1	1.0
+571	wir hatten uns über dich gefreut.	wir hatten uns über dich gefreut.	0.0460103414952755	0	1	1.0
+572	wir haben uns über es gefreut.	wir haben uns über es gefreut.	0.0456340238451957	0	1	1.0
+573	werde ich dich gefreut haben?	werde ich dich gefreut haben?	0.0485850237309932	0	1	1.0
+574	er werde nicht funktionieren?	er werde nicht funktionieren?	0.0478362068533897	0	1	1.0
+575	sie funktionierte nicht.	sie funktionierte nicht.	0.0466273538768291	0	1	1.0
+576	würde ich funktionieren?	würde ich funktionieren?	0.0475810803472995	0	1	1.0
+577	haben Sie funktioniert?	haben Sie funktioniert?	0.0465255565941333	0	1	1.0
+578	ich habe funktioniert.	ich habe funktioniert.	0.0463612750172615	0	1	1.0
+579	hätte es nicht funktioniert?	hätte es nicht funktioniert?	0.0466232150793075	0	1	1.0
+580	sie wird funktionieren.	sie wird funktionieren.	0.0463278032839298	0	1	1.0
+581	sie hätten funktioniert.	sie hätten funktioniert.	0.045497003942728	0	1	1.0
+582	haben sie nicht funktioniert?	haben sie nicht funktioniert?	0.0471243485808372	0	1	1.0
+583	funktionierst du nicht?	funktionierst du nicht?	0.0467986427247524	0	1	1.0
+584	es wird nicht funktioniert haben.	es wird nicht funktioniert haben.	0.0465703047811985	0	1	1.0
+585	werde ich nicht funktionieren?	werde ich nicht funktionieren?	0.0483058206737041	0	1	1.0
+586	sie funktionierte.	sie funktionierte.	0.045339498668909	0	1	1.0
+587	funktioniere er?	funktioniere er?	0.0459569357335567	0	1	1.0
+588	funktioniere ich nicht?	funktioniere ich nicht?	0.047864843159914	0	1	1.0
+589	funktioniert ihr?	funktioniert ihr?	0.0455705374479293	0	1	1.0
+590	hat sie nicht funktioniert?	hat sie nicht funktioniert?	0.0468438602983951	0	1	1.0
+591	wird sie nicht funktioniert haben?	wird sie nicht funktioniert haben?	0.0470093302428722	0	1	1.0
+592	es hat funktioniert.	es hat funktioniert.	0.0451689288020134	0	1	1.0
+593	ich werde nicht funktioniert haben?	ich werde nicht funktioniert haben?	0.0478430837392807	0	1	1.0
+594	haben Sie euch gebraucht?	haben Sie euch gebraucht?	0.0477711968123912	0	1	1.0
+595	gebrauche ich euch nicht?	gebrauche ich euch nicht?	0.0489606708288192	0	1	1.0
+596	es hatte es gebraucht.	es hatte es gebraucht.	0.04575165361166	0	1	1.0
+597	gebrauche ich es nicht?	gebrauche ich es nicht?	0.0484007485210895	0	1	1.0
+598	hätten Sie uns gebraucht?	hätten Sie uns gebraucht?	0.0466005429625511	0	1	1.0
+599	du werdest es nicht gebrauchen?	du werdest es nicht gebrauchen?	0.0479191094636917	0	1	1.0
+600	sie habe Sie nicht gebraucht?	sie habe Sie nicht gebraucht?	0.0477164238691329	0	1	1.0
+601	ihr gebrauchtet ihn nicht.	ihr gebrauchtet ihn nicht.	0.0468999706208705	0	1	1.0
+602	wird sie euch gebraucht haben?	wird sie euch gebraucht haben?	0.0474767833948135	0	1	1.0
+603	wir werden mich nicht gebrauchen.	wir werden mich nicht gebrauchen.	0.0485145822167396	0	1	1.0
+604	Sie gebrauchen mich?	Sie gebrauchen mich?	0.0474653840065002	0	1	1.0
+605	ich gebrauche euch.	ich gebrauche euch.	0.0477085039019584	0	1	1.0
+606	ihr habt es gebraucht.	ihr habt es gebraucht.	0.0461096055805683	0	1	1.0
+607	werde ich sie nicht gebraucht haben?	werde ich sie nicht gebraucht haben?	0.0483824647963047	0	1	1.0
+608	werden Sie mich nicht gebraucht haben?	werden Sie mich nicht gebraucht haben?	0.0482935979962348	0	1	1.0
+609	werden wir ihn gebrauchen?	werden wir ihn gebrauchen?	0.0477924346923828	0	1	1.0
+610	du werdest uns nicht gebrauchen?	du werdest uns nicht gebrauchen?	0.0477369911968708	0	1	1.0
+611	ihr gebrauchtet ihn.	ihr gebrauchtet ihn.	0.0457432903349399	0	1	1.0
+612	werden sie ihn gebrauchen?	werden sie ihn gebrauchen?	0.047686330974102	0	1	1.0
+613	werde ich sie gebraucht haben?	werde ich sie gebraucht haben?	0.0479741618037223	0	1	1.0
+614	wir haben ihn gebraucht.	wir haben ihn gebraucht.	0.0466385930776596	0	1	1.0
+615	ihr werdet es nicht kontaktiert haben.	ihr werdet es nicht kontaktiert haben.	0.0468579828739166	0	1	1.0
+616	sie habe mich kontaktiert?	sie habe mich kontaktiert?	0.0467504560947418	0	1	1.0
+617	wir werden euch nicht kontaktieren?	wir werden euch nicht kontaktieren?	0.0483553260564804	0	1	1.0
+618	du werdest mit uns nicht kontaktiert haben?	du werdest mit uns nicht kontaktiert haben?	0.0463214255869388	0	1	1.0
+619	wird sie mich kontaktieren?	wird sie mich kontaktieren?	0.0472459122538566	0	1	1.0
+620	würdest du ihn kontaktieren?	würdest du ihn kontaktieren?	0.0464833974838256	0	1	1.0
+621	haben sie mit ihr nicht kontaktiert?	haben sie mit ihr nicht kontaktiert?	0.0464778654277324	0	1	1.0
+622	ich werde mit dir nicht kontaktiert haben?	ich werde mit dir nicht kontaktiert haben?	0.0470166765153408	0	1	1.0
+623	ihr werdet mich nicht kontaktieren.	ihr werdet mich nicht kontaktieren.	0.0477533265948295	0	1	1.0
+624	kontaktiert es euch nicht?	kontaktiert es euch nicht?	0.0476188920438289	0	1	1.0
+625	ich werde mit mir kontaktieren.	ich werde mit mir kontaktieren.	0.0466568544507026	0	1	1.0
+626	sie werden uns nicht kontaktieren.	sie werden uns nicht kontaktieren.	0.0472698807716369	0	1	1.0
+627	es kontaktierte sich.	es kontaktierte sich.	0.0460395254194736	0	1	1.0
+628	hätte es uns kontaktiert?	hätte es uns kontaktiert?	0.0455128625035285	0	1	1.0
+629	habe sie sie kontaktiert?	habe sie sie kontaktiert?	0.0462903343141078	0	1	1.0
+630	habe sie mit euch nicht kontaktiert?	habe sie mit euch nicht kontaktiert?	0.0467738658189773	0	1	1.0
+631	kontaktieren Sie es!	kontaktieren Sie es!	0.0450763776898384	0	1	1.0
+632	werde er mit dir nicht kontaktiert haben?	werde er mit dir nicht kontaktiert haben?	0.0466065928339958	0	1	1.0
+633	sie kontrolierten sie.	sie kontrollierten sie.	0.1752643138170242	1	0	0.6666666666666666
+634	ihr werdet mich nicht kontrollieren.	ihr werdet mich nicht kontrollieren.	0.049291830509901	0	1	1.0
+635	ihr werdet mich nicht kontrollieren?	ihr werdet mich nicht kontrollieren?	0.0497022569179534	0	1	1.0
+636	du kontrolliertest euch nicht.	du kontrolliertest euch nicht.	0.0560092739760875	0	1	1.0
+637	Sie werden sie nicht kontrollieren?	Sie werden sie nicht kontrollieren?	0.0493668131530284	0	1	1.0
+638	sie kontrolierte euch.	sie kontrollierte euch.	0.111218512058258	1	0	0.6666666666666666
+639	Sie werden sich kontrollieren?	Sie werden sich kontrollieren?	0.0532638803124427	0	1	1.0
+640	kontrolliere sie es?	kontrolliere sie es?	0.0510146841406822	0	1	1.0
+641	sie kontroliere ihn?	sie kontrolliere ihn?	0.1864468604326248	1	0	0.6666666666666666
+642	würde es sie kontrollieren?	würde es sie kontrollieren?	0.0476641654968261	0	1	1.0
+643	du werdest ihn nicht kontrollieren?	du werdest ihn nicht kontrollieren?	0.0487753301858902	0	1	1.0
+644	sie werden sich kontrolliert haben.	sie werden sich kontrolliert haben.	0.0480110570788383	0	1	1.0
+645	ihr kontroliertet es.	ihr kontrolliertet es.	0.1289154589176178	1	0	0.6666666666666666
+646	hat er Sie nicht kontrolliert?	hat er Sie nicht kontrolliert?	0.0486217066645622	0	1	1.0
+647	kontrollier euch nicht!	kontrollier euch nicht!	0.0520920790731906	0	1	1.0
+648	du habest mich nicht kontrolliert?	du habest mich nicht kontrolliert?	0.0478086732327938	0	1	1.0
+649	es wird sie kontrollieren.	es wird sie kontrollieren.	0.0477377735078334	0	1	1.0
+650	wir haben uns nicht kontrolliert.	wir haben uns nicht kontrolliert.	0.0469212457537651	0	1	1.0
+651	kontrollierte er es?	kontrollierte er es?	0.0473840422928333	0	1	1.0
+652	sie würde dich kontrollieren.	sie würde dich kontrollieren.	0.0491332150995731	0	1	1.0
+653	er hatte dich kontrolliert.	er hatte dich kontrolliert.	0.0465088188648223	0	1	1.0
+654	würdest du euch kontrollieren?	würdest du euch kontrollieren?	0.054666019976139	0	1	1.0
+655	hättest du ihn geloben?	hättest du ihn geliebt?	0.5058625340461731	4	0	0.75
+656	ich werde Sie geloben haben.	ich werde Sie geliebt haben.	0.4881231784820556	4	0	0.8
+657	er habe ihn geloben?	er habe ihn geliebt?	0.6461904644966125	4	0	0.75
+658	wird er uns geloben haben?	wird er uns geliebt haben?	0.5154740810394287	4	0	0.8
+659	ihr hättet mich nicht geloben.	ihr hättet mich nicht geliebt.	0.3265733122825622	4	0	0.8
+660	ihr löbet Sie nicht.	ihr liebtet Sie nicht.	0.3020670711994171	3	0	0.75
+661	werdest du sie nicht geloben haben?	werdest du sie nicht geliebt haben?	0.3680446743965149	4	0	0.8333333333333334
+662	er werde es nicht lieben?	er werde es nicht lieben?	0.0488846562802791	0	1	1.0
+663	er habe euch nicht geloben?	er habe euch nicht geliebt?	0.473339706659317	4	0	0.8
+664	haben Sie sie geloben?	haben Sie sie geliebt?	0.5637989640235901	4	0	0.75
+665	hattest du es nicht geloben?	hattest du es nicht geliebt?	0.4409574270248413	4	0	0.8
+666	hast du ihn nicht geloben?	hast du ihn nicht geliebt?	0.4201133847236633	4	0	0.8
+667	wir löben dich.	wir liebten dich.	0.5167803168296814	3	0	0.6666666666666666
+668	ihr würdet es lieben.	ihr würdet es lieben.	0.0473244935274124	0	1	1.0
+669	ich löbe sie nicht.	ich liebte sie nicht.	0.433347225189209	3	0	0.75
+670	haben sie sich geloben?	haben sie sich geliebt?	0.5307067036628723	4	0	0.75
+671	habe er sich geloben?	habe er sich geliebt?	0.6321362853050232	4	0	0.75
+672	sie hatten Sie nicht geloben.	sie hatten Sie nicht geliebt.	0.2751571834087372	4	0	0.8
+673	hätte sie es nicht geloben?	hätte sie es nicht geliebt?	0.4532831311225891	4	0	0.8
+674	sie haben sich mir gemitteilt.	sie haben sich mir mitgeteilt.	0.2445123791694641	4	0	0.8
+675	Sie haben ihn uns gemitteilt?	Sie haben ihn uns mitgeteilt?	0.2365486919879913	4	0	0.8
+676	sie haben Sie ihm nicht mitgeteilt?	sie haben Sie ihm nicht mitgeteilt?	0.0472249053418636	0	1	1.0
+677	ich werde uns mir nicht mitgeteilt haben?	ich werde uns mir nicht mitgeteilt haben?	0.0474738515913486	0	1	1.0
+678	es werde mich ihr nicht mitgeteilt haben?	es werde mich ihr nicht mitgeteilt haben?	0.047607772052288	0	1	1.0
+679	würde sie Sie mir mitteilen?	würde sie Sie mir mitteilen?	0.0470448695123195	0	1	1.0
+680	habet ihr mich ihr nicht mitgeteilt?	habet ihr mich ihr nicht mitgeteilt?	0.0471916906535625	0	1	1.0
+681	ich habe euch euch nicht mitgeteilt.	ich habe euch euch nicht mitgeteilt.	0.0478744395077228	0	1	1.0
+682	es habe sich ihm gemitteilt?	es habe sich ihm mitgeteilt?	0.2570225596427917	4	0	0.8
+683	ihr habet es ihnen nicht mitgeteilt?	ihr habet es ihnen nicht mitgeteilt?	0.046470507979393	0	1	1.0
+684	sie werden es ihm gemitteilt haben.	sie werden es ihm mitgeteilt haben.	0.1697210818529129	4	0	0.8333333333333334
+685	mitteiltest du sie uns nicht?	teiltest du sie uns nicht mit?	0.1621699184179306	7	0	0.5454545454545454
+686	ich werde ihn ihr nicht mitteilen?	ich werde ihn ihr nicht mitteilen?	0.0483330711722373	0	1	1.0
+687	mitteil sie mir!	teil sie mir mit!	0.7756259441375732	7	0	0.2857142857142857
+688	er würde euch Ihnen nicht mitteilen.	er würde euch Ihnen nicht mitteilen.	0.0471228472888469	0	1	1.0
+689	es mitteilte sie sich nicht.	es teilte sie sich nicht mit.	0.4931378066539764	7	0	0.5454545454545454
+690	werden Sie sie ihr mitgeteilt haben?	werden Sie sie ihr mitgeteilt haben?	0.0473920665681362	0	1	1.0
+691	hatte sie ihn Ihnen nicht mitgeteilt?	hatte sie ihn Ihnen nicht mitgeteilt?	0.0463627278804779	0	1	1.0
+692	wir werden euch ihnen nicht mitteilen?	wir werden euch ihnen nicht mitteilen?	0.0478786639869213	0	1	1.0
+693	mitteilten Sie sich uns?	teilten Sie sich uns mit?	0.244867667555809	7	0	0.4444444444444444
+694	haben Sie mich nachvolziehen?	haben Sie mich nachvollzogen?	0.4399212300777435	4	0	0.75
+695	hatten Sie sie nachvolziehen?	hatten Sie sie nachvollzogen?	0.3992554247379303	4	0	0.75
+696	werdet ihr mich nicht nachvolziehen haben?	werdet ihr mich nicht nachvollzogen haben?	0.2849535942077636	4	0	0.8333333333333334
+697	es nachvolziehe uns nicht.	es vollzöge uns nicht nach.	0.942987859249115	13	0	0.4444444444444444
+698	nachvolziehen wir uns nicht!	vollziehen wir uns nicht nach!	0.810626745223999	10	0	0.4444444444444444
+699	wir werden es nachvolziehen?	wir werden es nachvollziehen?	0.2671065628528595	1	0	0.75
+700	nachvolzieht ihr uns nicht?	vollzogt ihr uns nicht nach?	1.111128330230713	13	0	0.4444444444444444
+701	nachvolzieht sie es?	vollzieht sie es nach?	1.095882534980774	10	0	0.2857142857142857
+702	nachvolziehe er sie nicht?	vollziehe er sie nicht nach?	0.7248961329460144	10	0	0.4444444444444444
+703	nachvolziehtest du es nicht?	vollzogst du es nicht nach?	1.1659804582595823	15	0	0.4444444444444444
+704	werde er ihn nachvolziehen?	werde er ihn nachvollziehen?	0.2771961092948913	1	0	0.75
+705	nachvolziehe sie mich nicht?	vollziehe sie mich nicht nach?	0.6318949460983276	10	0	0.4444444444444444
+706	er hat dich nicht nachvolziehen.	er hat dich nicht nachvollzogen.	0.3836033642292022	4	0	0.8
+707	habe es sie nicht nachvolziehen?	habe es sie nicht nachvollzogen?	0.3306352794170379	4	0	0.8
+708	nachvolziehe ich sie nicht?	vollziehe ich sie nicht nach?	0.6532964110374451	10	0	0.4444444444444444
+709	sie nachvolziehen mich.	sie vollziehen mich nach.	1.114179611206055	10	0	0.2857142857142857
+710	haben sie sie nicht nachvolziehen?	haben sie sie nicht nachvollzogen?	0.3614903092384338	4	0	0.8
+711	nachvolziehen sie sie?	vollziehen sie sie nach?	1.10710871219635	10	0	0.2857142857142857
+712	nachvolziehe ich uns?	vollziehe ich uns nach?	0.97237628698349	10	0	0.2857142857142857
+713	es nachvolzieh uns nicht.	es vollzog uns nicht nach.	0.8921692371368408	13	0	0.4444444444444444
+714	er nachvolziehe euch nicht?	er vollziehe euch nicht nach?	0.9313756227493286	10	0	0.4444444444444444
+715	nachvolziehen wir uns nicht!	vollziehen wir uns nicht nach!	0.810626745223999	10	0	0.4444444444444444
+716	haben Sie euch nicht nachvolziehen?	haben Sie euch nicht nachvollzogen?	0.36695197224617	4	0	0.8
+717	hätten Sie uns nachvolziehen?	hätten Sie uns nachvollzogen?	0.4532699286937713	4	0	0.75
+718	sie werden sie dir nicht nachweisen?	sie werden sie dir nicht nachweisen?	0.0479704290628433	0	1	1.0
+719	du habest es mir nicht nachgewiesen?	du habest es mir nicht nachgewiesen?	0.0623832009732723	0	1	1.0
+720	ihr werdet Sie ihr nachgewiesen haben?	ihr werdet Sie ihr nachgewiesen haben?	0.0520142912864685	0	1	1.0
+721	würde es sich mir nachweisen?	würde es sich mir nachweisen?	0.0475421771407127	0	1	1.0
+722	werden wir sie sich nicht nachwiesen haben?	werden wir sie sich nicht nachgewiesen haben?	0.1269364953041076	2	0	0.8571428571428571
+723	werde es es sich nicht nachweisen?	werde es es sich nicht nachweisen?	0.0481991693377494	0	1	1.0
+724	er nachwies sie.	er wies sie nach.	1.1559940576553345	9	0	0.2857142857142857
+725	würde sie sie uns nicht nachweisen?	würde sie sie uns nicht nachweisen?	0.0475787967443466	0	1	1.0
+726	sie werden sie euch nicht nachweisen.	sie werden sie euch nicht nachweisen.	0.0480900667607784	0	1	1.0
+727	hat sie sie mir nicht nachgewiesen?	hat sie sie mir nicht nachgewiesen?	0.0554141141474247	0	1	1.0
+728	hat sie sie nicht nachgewiesen?	hat sie sie nicht nachgewiesen?	0.0558284223079681	0	1	1.0
+729	er wird ihn ihr nachgewiesen haben.	er wird ihn ihr nachgewiesen haben.	0.0680388361215591	0	1	1.0
+730	würde er uns sich nachweisen?	würde er uns sich nachweisen?	0.0476139262318611	0	1	1.0
+731	nachwiese es dich ihm?	wiese es dich ihm nach?	0.4244484603404999	9	0	0.4444444444444444
+732	hattet ihr mich mir nicht nachwiesen?	hattet ihr mich mir nicht nachgewiesen?	0.144466832280159	2	0	0.8333333333333334
+733	wird es sich ihm nachweisen?	wird es sich ihm nachweisen?	0.0474459566175937	0	1	1.0
+734	werden sie sie sich nachgewiesen haben?	werden sie sie sich nachgewiesen haben?	0.0480854585766792	0	1	1.0
+735	sie hat von ihr profitiert.	sie hat von ihr profitiert.	0.0452812351286411	0	1	1.0
+736	wird sie von euch nicht profitieren?	wird sie von euch nicht profitieren?	0.047242447733879	0	1	1.0
+737	wird sie von uns nicht profitieren?	wird sie von uns nicht profitieren?	0.0467743575572967	0	1	1.0
+738	werden sie von Ihnen profitiert haben?	werden sie von Ihnen profitiert haben?	0.0464503690600395	0	1	1.0
+739	sie profitierten von ihr.	sie profitierten von ihr.	0.0454299114644527	0	1	1.0
+740	ihr hättet von ihr nicht profitiert.	ihr hättet von ihr nicht profitiert.	0.0460527762770652	0	1	1.0
+741	hätte sie von ihnen profitiert?	hätte sie von ihnen profitiert?	0.0456201285123825	0	1	1.0
+742	würden sie von euch profitieren?	würden sie von euch profitieren?	0.0471104755997657	0	1	1.0
+743	sie werden von mir profitieren.	sie werden von mir profitieren.	0.0463710613548755	0	1	1.0
+744	werden Sie von ihnen nicht profitieren?	werden Sie von ihnen nicht profitieren?	0.0469661504030227	0	1	1.0
+745	ihr habet von mir profitiert?	ihr habet von mir profitiert?	0.045583289116621	0	1	1.0
+746	habet ihr von ihr profitiert?	habet ihr von ihr profitiert?	0.0456972233951091	0	1	1.0
+747	hättet ihr von ihnen profitiert?	hättet ihr von ihnen profitiert?	0.0458491370081901	0	1	1.0
+748	habe sie von ihnen nicht profitiert?	habe sie von ihnen nicht profitiert?	0.0461750403046608	0	1	1.0
+749	sie wird von ihm nicht profitieren.	sie wird von ihm nicht profitieren.	0.0465865023434162	0	1	1.0
+750	Sie profitierten von ihnen nicht.	Sie profitierten von ihnen nicht.	0.046211514621973	0	1	1.0
+751	wir profitieren von uns?	wir profitieren von uns?	0.0455286391079425	0	1	1.0
+752	werdet ihr von ihnen nicht profitiert haben?	werdet ihr von ihnen nicht profitiert haben?	0.0464587435126304	0	1	1.0
+753	er habe von uns profitiert?	er habe von uns profitiert?	0.0457201190292835	0	1	1.0
+754	Sie profitieren von uns.	Sie profitieren von uns.	0.0453130826354026	0	1	1.0
+755	rührte ich Sie nicht?	rührte ich Sie nicht?	0.0489457994699478	0	1	1.0
+756	werden sie an sich rühren?	werden sie an sich rühren?	0.0479182749986648	0	1	1.0
+757	ihr hättet uns nicht gerührt.	ihr hättet uns nicht gerührt.	0.0466266945004463	0	1	1.0
+758	rühre er euch?	rühre er euch?	0.0482775457203388	0	1	1.0
+759	rühre ich dich?	rühre ich dich?	0.0494134873151779	0	1	1.0
+760	rührte es an sie?	rührte es an sie?	0.0456067323684692	0	1	1.0
+761	rühre ich sie nicht?	rühre ich sie nicht?	0.049250915646553	0	1	1.0
+762	haben wir an euch gerührt?	haben wir an euch gerührt?	0.0469910204410553	0	1	1.0
+763	habt ihr an Sie gerührt?	habt ihr an Sie gerührt?	0.0463186651468277	0	1	1.0
+764	er hatte an euch gerührt.	er hatte an euch gerührt.	0.0459388941526412	0	1	1.0
+765	rührten wir an mich?	rührten wir an mich?	0.0467715673148632	0	1	1.0
+766	hättet ihr an euch nicht gerührt?	hättet ihr an euch nicht gerührt?	0.0470125041902065	0	1	1.0
+767	rührten Sie sich nicht?	rührten Sie sich nicht?	0.0489811301231384	0	1	1.0
+768	rührt er an euch nicht?	rührt er an euch nicht?	0.0474737472832202	0	1	1.0
+769	wird es ihn rühren?	wird es ihn rühren?	0.0475611314177513	0	1	1.0
+770	werden Sie nicht rühren?	werden Sie nicht rühren?	0.0492569655179977	0	1	1.0
+771	rühren sie ihn nicht?	rühren sie ihn nicht?	0.0480496510863304	0	1	1.0
+772	sie rührte uns nicht.	sie rührte uns nicht.	0.0472125299274921	0	1	1.0
+773	würdest du sie nicht rühren?	würdest du sie nicht rühren?	0.0481772385537624	0	1	1.0
+774	werde es an euch gerührt haben?	werde es an euch gerührt haben?	0.0471257790923118	0	1	1.0
+775	du rührest?	du rührest?	0.0471899956464767	0	1	1.0
+776	werde ich für Sie gestimmt haben?	werde ich für Sie gestimmt haben?	0.0472280196845531	0	1	1.0
+777	würde er für es nicht stimmen?	würde er für es nicht stimmen?	0.0473437123000621	0	1	1.0
+778	wird er für euch gestimmt haben?	wird er für euch gestimmt haben?	0.0468194596469402	0	1	1.0
+779	wir werden für ihn stimmen.	wir werden für ihn stimmen.	0.0467210412025451	0	1	1.0
+780	hätte er für sich gestimmt?	hätte er für sich gestimmt?	0.0464377328753471	0	1	1.0
+781	stimmte sie für sich?	stimmte sie für sich?	0.0461823903024196	0	1	1.0
+782	stimmte es?	stimmte es?	0.0462290346622467	0	1	1.0
+783	stimmen Sie nicht stimmen sicht?	stimmen Sie für sich nicht?	0.4660669863224029	11	0	0.4
+784	hätte ich für Sie gestimmt?	hätte ich für Sie gestimmt?	0.0466033853590488	0	1	1.0
+785	stimme sie für es?	stimme sie für es?	0.0456069335341453	0	1	1.0
+786	du hattest für mich gestimmt.	du hattest für mich gestimmt.	0.045790072530508	0	1	1.0
+787	werdest du für ihn nicht stimmen?	werdest du für ihn nicht stimmen?	0.0472357124090194	0	1	1.0
+788	stimmtest du für uns nicht?	stimmtest du für uns nicht?	0.0460197664797306	0	1	1.0
+789	hatte er für dich nicht gestimmt?	hatte er für dich nicht gestimmt?	0.0471334531903266	0	1	1.0
+790	hätten sie für uns gestimmt?	hätten sie für uns gestimmt?	0.045753177255392	0	1	1.0
+791	er wird für sie gestimmt haben.	er wird für sie gestimmt haben.	0.0461075901985168	0	1	1.0
+792	stimmen Sie für sie?	stimmen Sie für sie?	0.0458421893417835	0	1	1.0
+793	sie wird für Sie gestimmt haben.	sie wird für Sie gestimmt haben.	0.0461427569389343	0	1	1.0
+794	es hat für Sie nicht gestimmt.	es hat für Sie nicht gestimmt.	0.0463665537536144	0	1	1.0
+795	stimmen sie für mich?	stimmen sie für mich?	0.0464413501322269	0	1	1.0
+796	es würde für uns nicht stimmen.	es würde für uns nicht stimmen.	0.0468729436397552	0	1	1.0
+797	werden sie stimmen?	werden sie stimmen?	0.0480194799602031	0	1	1.0
+798	stimmen wir für sie!	stimmen wir für sie!	0.0450586527585983	0	1	1.0
+799	du wirst für euch stimmen.	du wirst für euch stimmen.	0.0465268790721893	0	1	1.0
+800	stritten Sie gegen sich nicht?	stritten Sie gegen sich nicht?	0.0472252741456031	0	1	1.0
+801	ich werde für es nicht streiten.	ich werde für es nicht streiten.	0.0476740449666976	0	1	1.0
+802	streite für sie!	streite für sie!	0.0480732023715972	0	1	1.0
+803	stritte ich für sie nicht?	stritte ich für sie nicht?	0.0482123866677284	0	1	1.0
+804	er werde sich mit ihr gestritten haben?	er werde sich mit ihr gestritten haben?	0.0473604090511798	0	1	1.0
+805	hättest du dich mit ihm nicht gestritten?	hättest du dich mit ihm nicht gestritten?	0.0472037382423877	0	1	1.0
+806	sie werden für sie nicht streiten?	sie werden für sie nicht streiten?	0.0476492308080196	0	1	1.0
+807	werden sie gestritten haben?	werden sie gestritten haben?	0.0473444052040576	0	1	1.0
+808	ich streite mich mit euch nicht.	ich streite mich mit euch nicht.	0.0478376410901546	0	1	1.0
+809	du hast gegen es nicht gestritten.	du hast gegen es nicht gestritten.	0.0455445311963558	0	1	1.0
+810	haben Sie gegen uns gestritten?	haben Sie gegen uns gestritten?	0.0455632433295249	0	1	1.0
+811	ich streite für sie?	ich streite für sie?	0.0463463142514228	0	1	1.0
+812	er stritt gegen sie.	er stritt gegen sie.	0.0522904843091964	0	1	1.0
+813	er werde für ihn nicht streiten?	er werde für ihn nicht streiten?	0.0474735833704471	0	1	1.0
+814	hatte er sich mit ihnen gestritten?	hatte er sich mit ihnen gestritten?	0.0462472066283226	0	1	1.0
+815	werden wir uns mit ihnen gestritten haben?	werden wir uns mit ihnen gestritten haben?	0.0470886714756488	0	1	1.0
+816	ihr werdet für es streiten.	ihr werdet für es streiten.	0.046294268220663	0	1	1.0
+817	er wird dich trocknen.	er wird dich trocknen.	0.0478223301470279	0	1	1.0
+818	sie werden sich getrocknet haben?	sie werden sich getrocknet haben?	0.0477050133049488	0	1	1.0
+819	trockne sie?	trockne sie?	0.0467260628938674	0	1	1.0
+820	würde es Sie trocknen?	würde es Sie trocknen?	0.0476525649428367	0	1	1.0
+821	er wird getrocknet haben.	er wird getrocknet sein.	0.2653250992298126	4	0	0.75
+822	ihr hattet mich getrocknet.	ihr hattet mich getrocknet.	0.0461581163108348	0	1	1.0
+823	hätte sie uns getrocknet?	hätte sie uns getrocknet?	0.0459517166018486	0	1	1.0
+824	sie würde sie trocknen.	sie würde sie trocknen.	0.0473370254039764	0	1	1.0
+825	wir haben ihn nicht getrocknet.	wir haben ihn nicht getrocknet.	0.0470695570111274	0	1	1.0
+826	trocknete sie sie nicht?	trocknete sie sie nicht?	0.0474683754146099	0	1	1.0
+827	trockneten sie mich?	trockneten sie mich?	0.0471456386148929	0	1	1.0
+828	es hat sie nicht getrocknet.	es hat sie nicht getrocknet.	0.0467765480279922	0	1	1.0
+829	würden wir sie nicht trocknen?	würden wir sie nicht trocknen?	0.0484119541943073	0	1	1.0
+830	ihr trocknetet Sie.	ihr trocknetet Sie.	0.0463677942752838	0	1	1.0
+831	er hat sich getrocknet.	er hat sich getrocknet.	0.0467452220618724	0	1	1.0
+832	werden sie sich nicht getrocknet haben?	werden sie sich nicht getrocknet haben?	0.0481359437108039	0	1	1.0
+833	du habest es nicht getrocknet?	du habest es nicht getrocknet?	0.0469124652445316	0	1	1.0
+834	du trocknest euch nicht?	du trocknest euch nicht?	0.0482503361999988	0	1	1.0
+835	ich habe sie getrocknet.	ich habe sie getrocknet.	0.0467757694423198	0	1	1.0
+836	hatte ich Sie getrocknet?	hatte ich Sie getrocknet?	0.0472256392240524	0	1	1.0
+837	ich trockne ihn nicht?	ich trockne ihn nicht?	0.048545204102993	0	1	1.0
+838	hätten sie es nicht vereinfacht?	hätten sie es nicht vereinfacht?	0.0468748211860656	0	1	1.0
+839	habe sie uns nicht vereinfacht?	habe sie uns nicht vereinfacht?	0.0467779077589511	0	1	1.0
+840	ihr vereinfachtet dich.	ihr vereinfachtet dich.	0.0461199283599853	0	1	1.0
+841	vereinfachte er euch nicht?	vereinfachte er euch nicht?	0.0476302467286586	0	1	1.0
+842	hättest du sie nicht vereinfacht?	hättest du sie nicht vereinfacht?	0.0467275530099868	0	1	1.0
+843	sie werden sich vereinfacht haben.	sie werden sich vereinfacht haben.	0.0472787991166114	0	1	1.0
+844	werden sie euch vereinfachen?	werden sie euch vereinfachen?	0.0477799251675605	0	1	1.0
+845	werde sie Sie vereinfachen?	werde sie Sie vereinfachen?	0.0474876128137111	0	1	1.0
+846	es habe mich vereinfacht?	es habe mich vereinfacht?	0.0468326434493064	0	1	1.0
+847	werde sie ihn nicht vereinfachen?	werde sie ihn nicht vereinfachen?	0.0477747209370136	0	1	1.0
+848	ich hatte uns vereinfacht.	ich hatte uns vereinfacht.	0.0461107827723026	0	1	1.0
+849	ich werde Sie nicht vereinfachen?	ich werde Sie nicht vereinfachen?	0.0485460013151168	0	1	1.0
+850	du vereinfachtest sie.	du vereinfachtest sie.	0.0455136969685554	0	1	1.0
+851	vereinfachtest du sie nicht?	vereinfachtest du sie nicht?	0.0468731634318828	0	1	1.0
+852	wird es es nicht vereinfacht haben?	wird es es nicht vereinfacht haben?	0.0469866320490837	0	1	1.0
+853	sie vereinfache sie?	sie vereinfache sie?	0.0462494157254695	0	1	1.0
+854	ihr vereinfachtet euch nicht.	ihr vereinfachtet euch nicht.	0.0471085794270038	0	1	1.0
+855	ich habe mich vereinfacht?	ich habe mich vereinfacht?	0.0475732088088989	0	1	1.0
+856	vereinfachte es uns?	vereinfachte es uns?	0.0456771627068519	0	1	1.0
+857	es werde sie vereinfachen?	es werde sie vereinfachen?	0.0472378395497798	0	1	1.0
+858	vereinfache es sich nicht?	vereinfache es sich nicht?	0.0480872169137001	0	1	1.0
+859	hätte es sie nicht vereinfacht?	hätte es sie nicht vereinfacht?	0.0469015724956989	0	1	1.0
+860	hast du ihn vereinfacht?	hast du ihn vereinfacht?	0.0460132546722888	0	1	1.0
+861	wir vereinfachten sie.	wir vereinfachten sie.	0.0461307764053344	0	1	1.0
+862	sie würden Sie sich nicht vergeben.	sie würden Sie sich nicht vergeben.	0.0484151430428028	0	1	1.0
+863	sie sei euch vergeben?	sie habe euch vergeben?	0.3297649323940277	4	0	0.75
+864	werden Sie sie ihnen nicht vergeben?	werden Sie sie ihnen nicht vergeben?	0.047919999808073	0	1	1.0
+865	werde sie sie dir nicht vergeben?	werde sie sie dir nicht vergeben?	0.0481057837605476	0	1	1.0
+866	ist sie Ihnen vergeben?	hat sie Ihnen vergeben?	0.2178143411874771	2	0	0.75
+867	würdet ihr ihn mir nicht vergeben?	würdet ihr ihn mir nicht vergeben?	0.0475749969482421	0	1	1.0
+868	ich vergäbe uns ihm nicht.	ich vergäbe uns ihm nicht.	0.0471496246755123	0	1	1.0
+869	du habest sie ihm vergeben?	du habest sie ihm vergeben?	0.0461769923567771	0	1	1.0
+870	wir haben mich mir nicht vergeben?	wir haben mich mir nicht vergeben?	0.0475836545228958	0	1	1.0
+871	sie werden sie Ihnen vergeben haben?	sie werden sie Ihnen vergeben haben?	0.0467315912246704	0	1	1.0
+872	Sie würden euch ihm nicht vergeben.	Sie würden euch ihm nicht vergeben.	0.0481358915567398	0	1	1.0
+873	sie vergebe euch?	sie vergebe euch?	0.0474827475845813	0	1	1.0
+874	vergäbet ihr uns dir?	vergäbet ihr uns dir?	0.0456788316369056	0	1	1.0
+875	er vergebe sich ihr?	er vergebe sich ihr?	0.0475695244967937	0	1	1.0
+876	ihr würdet Sie ihm vergeben.	ihr würdet Sie ihm vergeben.	0.0470863692462444	0	1	1.0
+877	hätte ich es ihm vergeben?	hätte ich es ihm vergeben?	0.0467228032648563	0	1	1.0
+878	er hatte dich ihm nicht vergeben.	er hatte dich ihm nicht vergeben.	0.0469761118292808	0	1	1.0
+879	du werdest sie ihr nicht vergeben?	du werdest sie ihr nicht vergeben?	0.04797850176692	0	1	1.0
+880	Sie werden sie sich nicht vergeben haben.	Sie werden sie sich nicht vergeben haben.	0.0478266067802906	0	1	1.0
+881	Sie hätten sie ihm nicht vergeben.	Sie hätten sie ihm nicht vergeben.	0.0467895530164241	0	1	1.0
+882	vergeben wir Sie mir!	vergeben wir Sie mir!	0.0462653487920761	0	1	1.0
+883	wir würden euch verlassen.	wir würden euch verlassen.	0.0481124445796012	0	1	1.0
+884	werde es euch nicht verlassen?	werde es euch nicht verlassen?	0.0488826036453247	0	1	1.0
+885	er würde mich nicht verlassen.	er würde mich nicht verlassen.	0.048456385731697	0	1	1.0
+886	sie verlässt.	sie verlässt.	0.0468888282775878	0	1	1.0
+887	sie werden mich nicht verlassen?	sie werden mich nicht verlassen?	0.048976793885231	0	1	1.0
+888	verlassest du uns nicht?	verlassest du uns nicht?	0.0471414290368557	0	1	1.0
+889	ich hätte mich auf sie nicht verlassen.	ich hätte mich auf sie nicht verlassen.	0.0614945888519287	0	1	1.0
+890	sie werden sich auf es verlassen haben.	sie werden sich auf es verlassen haben.	0.0599646680057048	0	1	1.0
+891	verließ es sich auf sie nicht?	verließ es sich auf sie nicht?	0.0468100048601627	0	1	1.0
+892	wärt ihr nicht verlasst?	hättet ihr nicht verlassen?	0.1206735149025917	6	0	0.5
+893	es werde sich auf mich verlassen?	es werde sich auf mich verlassen?	0.0479861944913864	0	1	1.0
+894	sie werden sie nicht verlassen?	sie werden sie nicht verlassen?	0.048660721629858	0	1	1.0
+895	ich werde sie verlassen?	ich werde sie verlassen?	0.0488338954746723	0	1	1.0
+896	verlässt du dich auf mich?	verlässt du dich auf mich?	0.0470730029046535	0	1	1.0
+897	hattet ihr euch auf Sie verlassen?	hattet ihr euch auf Sie verlassen?	0.055844135582447	0	1	1.0
+898	verlassen Sie nicht?	verlassen Sie nicht?	0.0485027283430099	0	1	1.0
+899	werden sie sich auf dich nicht verlassen haben?	werden sie sich auf dich nicht verlassen haben?	0.0512932650744915	0	1	1.0
+900	du hattest dich auf mich nicht verlasst.	du hattest dich auf mich nicht verlassen.	0.0666390284895896	2	0	0.8571428571428571
+901	ihr verließet uns.	ihr verließet uns.	0.0446121767163276	0	1	1.0
+902	er wird es verlassen.	er wird es verlassen.	0.0469483882188797	0	1	1.0
+903	hätte sie uns in ihr nicht versetzt?	hätte sie uns in ihr nicht versetzt?	0.0467169620096683	0	1	1.0
+904	werden wir dich in dir versetzen?	werden wir dich in dir versetzen?	0.0476169139146804	0	1	1.0
+905	Sie hatten mich ihm versetzt.	Sie hatten mich ihm versetzt.	0.0464298650622367	0	1	1.0
+906	werden sie Sie nicht versetzt haben?	werden sie Sie nicht versetzt haben?	0.0479460582137107	0	1	1.0
+907	werdet ihr ihn mir nicht versetzt haben?	werdet ihr ihn mir nicht versetzt haben?	0.0471255891025066	0	1	1.0
+908	du werdest sie mit mir nicht versetzt haben?	du werdest sie mit mir nicht versetzt haben?	0.0468799583613872	0	1	1.0
+909	sie versetzten es in dir.	sie versetzten es in dir.	0.046330776065588	0	1	1.0
+910	werde es Sie sich versetzen?	werde es Sie sich versetzen?	0.0480159968137741	0	1	1.0
+911	werden wir es ihr nicht versetzt haben?	werden wir es ihr nicht versetzt haben?	0.0473611578345298	0	1	1.0
+912	hätte es Sie ihnen versetzt?	hätte es Sie ihnen versetzt?	0.0458993427455425	0	1	1.0
+913	versetzen wir sie ihnen!	versetzen wir sie ihnen!	0.0452445708215236	0	1	1.0
+914	es versetze uns mit mir nicht?	es versetze uns mit mir nicht?	0.0461790785193443	0	1	1.0
+915	Sie versetzten euch mit sich.	Sie versetzten euch mit sich.	0.0467347241938114	0	1	1.0
+916	hattest du ihn in ihm nicht versetzt?	hattest du ihn in ihm nicht versetzt?	0.0461887195706367	0	1	1.0
+917	Sie hatten sie mit ihnen versetzt.	Sie hatten sie mit ihnen versetzt.	0.0454240143299102	0	1	1.0
+918	Sie werden euch in ihm versetzt haben?	Sie werden euch in ihm versetzt haben?	0.053943034261465	0	1	1.0
+919	wird es sich mit ihnen nicht versetzt haben?	wird es sich mit ihnen nicht versetzt haben?	0.0466979816555976	0	1	1.0
+920	hat er es sich versetzt?	hat er es sich versetzt?	0.0470515675842762	0	1	1.0
+921	sie hat sie nicht widerrufen.	sie hat sie nicht widerrufen.	0.0468227714300155	0	1	1.0
+922	widerruft es ihn nicht?	widerruft es ihn nicht?	0.0475710444152355	0	1	1.0
+923	ich hatte dich nicht widerruft.	ich hatte dich nicht widerrufen.	0.1563093215227127	2	0	0.8
+924	du widerriefest uns.	du widerriefest uns.	0.0465545319020748	0	1	1.0
+925	ihr würdet mich widerrufen.	ihr würdet mich widerrufen.	0.0473064668476581	0	1	1.0
+926	wir werden mich widerrufen?	wir werden mich widerrufen?	0.0482550784945488	0	1	1.0
+927	es hat uns nicht widerrufen.	es hat uns nicht widerrufen.	0.0462576523423194	0	1	1.0
+928	Sie widerrufen sie.	Sie widerrufen sie.	0.0473309978842735	0	1	1.0
+929	er wird euch widerrufen.	er wird euch widerrufen.	0.0473897121846675	0	1	1.0
+930	werden sie sie widerrufen?	werden sie sie widerrufen?	0.0476031936705112	0	1	1.0
+931	haben sie ihn widerrufen?	haben sie ihn widerrufen?	0.055276695638895	0	1	1.0
+932	widerruften Sie sie?	widerriefen Sie sie?	0.5611713528633118	3	0	0.6666666666666666
+933	werden wir mich nicht widerrufen?	werden wir mich nicht widerrufen?	0.0486939921975135	0	1	1.0
+934	widerrufte ich dich?	widerrief ich dich?	0.5574353933334351	4	0	0.6666666666666666
+935	widerruften sie sie?	widerriefen sie sie?	0.5763211250305176	3	0	0.6666666666666666
+936	hätten Sie es nicht widerruft?	hätten Sie es nicht widerrufen?	0.0852514803409576	2	0	0.8
+937	sie hätte euch nicht widerrufen.	sie hätte euch nicht widerrufen.	0.0490026995539665	0	1	1.0
+938	werdest du uns widerruft haben?	werdest du uns widerrufen haben?	0.1265515387058258	2	0	0.8
+939	übergibt sie uns ihr nicht?	übergibt sie uns ihr nicht?	0.0468075685203075	0	1	1.0
+940	er habe Sie nicht übergeben?	er habe Sie nicht übergeben?	0.0473448671400547	0	1	1.0
+941	würde er mich an es übergeben?	würde er mich an es übergeben?	0.0470371693372726	0	1	1.0
+942	haben sie sie ihnen übergeben?	haben sie sie ihnen übergeben?	0.0458941459655761	0	1	1.0
+943	übergab sie mich an sich nicht?	übergab sie mich an sich nicht?	0.0470840819180011	0	1	1.0
+944	ich werde mich an euch nicht übergeben?	ich werde mich an euch nicht übergeben?	0.0484316274523735	0	1	1.0
+945	ich habe Sie ihm übergeben?	ich habe Sie ihm übergeben?	0.0467183589935302	0	1	1.0
+946	werden sie ihn ihm übergeben?	werden sie ihn ihm übergeben?	0.0471859760582447	0	1	1.0
+947	wir werden ihn an Sie übergeben haben?	wir werden ihn an Sie übergeben haben?	0.0465997010469436	0	1	1.0
+948	hätte sie sich ihnen nicht übergeben?	hätte sie sich ihnen nicht übergeben?	0.0467285923659801	0	1	1.0
+949	Sie übergeben ihn sich nicht?	Sie übergeben ihn sich nicht?	0.04796052724123	0	1	1.0
+950	hatten sie Sie an sie nicht übergeben?	hatten sie Sie an sie nicht übergeben?	0.0465124323964118	0	1	1.0
+951	übergäbe er mich an sie?	übergäbe er mich an sie?	0.0459805577993392	0	1	1.0
+952	sie übergab Sie sich.	sie übergab Sie sich.	0.0462675914168357	0	1	1.0
+953	sie übergäben ihn an euch.	sie übergäben ihn an euch.	0.0456730090081691	0	1	1.0
+954	würdest du es nicht übergeben?	würdest du es nicht übergeben?	0.0476148501038551	0	1	1.0
+955	sie haben uns an sie übergeben.	sie haben uns an sie übergeben.	0.0452435910701751	0	1	1.0
+956	ich übergab uns.	ich übergab uns.	0.045660775154829	0	1	1.0
+957	werden sie Sie mir übergeben?	werden sie Sie mir übergeben?	0.047409500926733	0	1	1.0
+958	haben sie euch überlebt?	haben sie euch überlebt?	0.0474762730300426	0	1	1.0
+959	es hat mich nicht überlebt.	es hat mich nicht überlebt.	0.04758807644248	0	1	1.0
+960	ich werde uns überleben?	ich werde uns überleben?	0.0483211986720562	0	1	1.0
+961	sie werden es nicht überlebt haben?	sie werden es nicht überlebt haben?	0.0478676185011863	0	1	1.0
+962	er wird Sie überlebt haben.	er wird Sie überlebt haben.	0.0469082072377204	0	1	1.0
+963	er werde mich nicht überlebt haben?	er werde mich nicht überlebt haben?	0.0483251735568046	0	1	1.0
+964	du werdest uns überlebt haben?	du werdest uns überlebt haben?	0.0468358621001243	0	1	1.0
+965	überleben wir uns nicht?	überleben wir uns nicht?	0.0477917939424514	0	1	1.0
+966	werden Sie sie überlebt haben?	werden Sie sie überlebt haben?	0.0476641431450843	0	1	1.0
+967	sie werden uns nicht überlebt haben?	sie werden uns nicht überlebt haben?	0.0476995296776294	0	1	1.0
+968	hätte er sie nicht überlebt?	hätte er sie nicht überlebt?	0.0475534088909626	0	1	1.0
+969	werden Sie sie überlebt haben?	werden Sie sie überlebt haben?	0.0476242490112781	0	1	1.0
+970	du habest dich überlebt?	du habest dich überlebt?	0.0473017245531082	0	1	1.0
+971	ich habe mich überlebt.	ich habe mich überlebt.	0.0476293452084064	0	1	1.0
+972	wird sie sie überleben?	wird sie sie überleben?	0.0475732870399951	0	1	1.0
+973	ich überlebte sie nicht.	ich überlebte sie nicht.	0.0481489337980747	0	1	1.0
+974	werden wir ihn nicht überlebt haben?	werden wir ihn nicht überlebt haben?	0.0479121394455432	0	1	1.0
+975	wir überleben sie.	wir überleben sie.	0.0466084852814674	0	1	1.0
+976	überleben wir mich nicht?	überleben wir mich nicht?	0.0487269572913646	0	1	1.0
+977	überlebtest du es?	überlebtest du es?	0.0459533594548702	0	1	1.0
+978	er überlebe Sie nicht?	er überlebe Sie nicht?	0.0481975302100181	0	1	1.0
+979	überlebt er sich?	überlebt er sich?	0.0478660315275192	0	1	1.0
+980	überzeugten sie sie von ihm nicht?	überzeugten sie sie von ihm nicht?	0.0461798682808876	0	1	1.0
+981	würde ich Sie von uns nicht überzeugen?	würde ich Sie von uns nicht überzeugen?	0.0472992062568664	0	1	1.0
+982	haben sie uns von Ihnen überzeugt?	haben sie uns von Ihnen überzeugt?	0.045221023261547	0	1	1.0
+983	überzeugte er Sie von ihm?	überzeugte er Sie von ihm?	0.0453653819859027	0	1	1.0
+984	werden wir mich von ihnen nicht überzeugen?	werden wir mich von ihnen nicht überzeugen?	0.0471010841429233	0	1	1.0
+985	ich würde Sie von ihnen nicht überzeugen.	ich würde Sie von ihnen nicht überzeugen.	0.0469779819250106	0	1	1.0
+986	hattest du euch von mir nicht überzeugt?	hattest du euch von mir nicht überzeugt?	0.0462219789624214	0	1	1.0
+987	wir hatten Sie von ihr überzeugt.	wir hatten Sie von ihr überzeugt.	0.0457009486854076	0	1	1.0
+988	er hat sie von ihnen nicht überzeugt.	er hat sie von ihnen nicht überzeugt.	0.0457737930119037	0	1	1.0
+989	habt ihr sie von sich nicht überzeugt?	habt ihr sie von sich nicht überzeugt?	0.0468270182609558	0	1	1.0
+990	Sie überzeugten sie von ihm.	Sie überzeugten sie von ihm.	0.0454039834439754	0	1	1.0
+991	werde sie sie von sich nicht überzeugt haben?	werde sie sie von sich nicht überzeugt haben?	0.0472299009561538	0	1	1.0
+992	Sie hätten sie von ihnen überzeugt.	Sie hätten sie von ihnen überzeugt.	0.0453434810042381	0	1	1.0
+993	sie hatte uns von ihnen überzeugt.	sie hatte uns von ihnen überzeugt.	0.0447195097804069	0	1	1.0
+994	ich werde uns von uns überzeugen?	ich werde uns von uns überzeugen?	0.0468766987323761	0	1	1.0
+995	er überzeugte dich von uns nicht.	er überzeugte dich von uns nicht.	0.0463730171322822	0	1	1.0
+996	überzeugen wir euch von Ihnen?	überzeugen wir euch von Ihnen?	0.0457677468657493	0	1	1.0
+997	werdest du dich von mir nicht überzeugt haben?	werdest du dich von mir nicht überzeugt haben?	0.0468548014760017	0	1	1.0
+998	er würde euch von uns überzeugen.	er würde euch von uns überzeugen.	0.0464923270046711	0	1	1.0
+999	er hatte es nicht überzeugt.	er hatte es nicht überzeugt.	0.0465585142374038	0	1	1.0

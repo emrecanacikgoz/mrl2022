@@ -1,0 +1,1001 @@
+	prediction	target	loss	dist	clause_match	word_match
+0	sizi Türkçeleştiriyor olmamalıydık.	sizi Türkçeleştiriyor olmamalıydık.	9.163960385194514e-06	0	1	1.0
+1	kendimizi Türkçeleştirmemişiz.	kendimizi Türkçeleştirmemişiz.	1.4840863514109516e-05	0	1	1.0
+2	kendilerini Türkçeleştiriyor olmamalılar mı?	kendilerini Türkçeleştiriyor olmamalılar mı?	1.257366056961473e-05	0	1	1.0
+3	seni Türkçeleştirdim mi?	seni Türkçeleştirdim mi?	0.0001274289243156	0	1	1.0
+4	onu Türkçeleştirdiydin.	onu Türkçeleştirdiydin.	0.0025340374559164	0	1	1.0
+5	bizi Türkçeleştirmiş olmayacak mıydınız?	bizi Türkçeleştirmiş olmayacak mıydınız?	1.072675900104514e-06	0	1	1.0
+6	seni Türkçeleştirin!	seni Türkçeleştirin!	8.459149103146046e-05	0	1	1.0
+7	beni Türkçeleştirmiş olacak mı?	beni Türkçeleştirmiş olacak mı?	7.755935803288594e-05	0	1	1.0
+8	onları Türkçeleştiriyor olmaz mıydım?	onları Türkçeleştiriyor olmaz mıydım?	2.4488140297762584e-06	0	1	1.0
+9	sizi Türkçeleştirmeyecekmişiz.	sizi Türkçeleştirmeyecekmişiz.	8.094622899079695e-06	0	1	1.0
+10	kendinizi Türkçeleştirir miydiniz?	kendinizi Türkçeleştirir miydiniz?	8.966676432464737e-06	0	1	1.0
+11	seni Türkçeleştirmiş olacak mıyım?	seni Türkçeleştirmiş olacak mıyım?	0.0002189529477618	0	1	1.0
+12	beni Türkçeleştirmemiş miydiniz?	beni Türkçeleştirmemiş miydiniz?	2.1026546164648607e-05	0	1	1.0
+13	beni Türkçeleştirmiş miymişiz?	beni Türkçeleştirmiş miymişiz?	1.008450908557279e-05	0	1	1.0
+14	onu Türkçeleştirmiş olacak.	onu Türkçeleştirmiş olacak.	2.0792108443856705e-06	0	1	1.0
+15	onları Türkçeleştirmeyecek miymişsiniz?	onları Türkçeleştirmeyecek miymişsiniz?	1.7961683624889702e-06	0	1	1.0
+16	onu Türkçeleştirmedin.	onu Türkçeleştirmedin.	3.070240381930489e-06	0	1	1.0
+17	ağlıyor olmalılar mıydı?	ağlıyor olmalılar mıydı?	7.561180609627627e-06	0	1	1.0
+18	ağlıyor olmayacakmış.	ağlıyor olmayacakmış.	2.911914634751156e-06	0	1	1.0
+19	ağlamıştı.	ağlamıştı.	1.4977225873735732e-05	0	1	1.0
+20	ağlamış mıymış?	ağlamış mıymış?	3.4034251257253345e-06	0	1	1.0
+21	ağlıyor olmamalılar mı?	ağlıyor olmamalılar mı?	1.1155861102452036e-05	0	1	1.0
+22	ağlamıyormuşsunuz.	ağlamıyormuşsunuz.	4.907537913823035e-06	0	1	1.0
+23	ağlamalılar.	ağlameliler.	0.2544939517974853	3	0	0.0
+24	ağlamış mıymışsınız?	ağlamış mıymışsınız?	3.057718231502804e-06	0	1	1.0
+25	ağlamayınız!	ağlamayınız!	1.2685269211942796e-05	0	1	1.0
+26	ağlamalı mıydınız?	ağlamalı mıydınız?	3.3038004403351806e-06	0	1	1.0
+27	ağlar mısın?	ağlar mısın?	1.477404930483317e-05	0	1	1.0
+28	ağlamamalı mı?	ağlamameli mi?	0.2534410059452057	3	0	0.0
+29	ağlıyorduk.	ağlıyorduk.	5.848120508744614e-06	0	1	1.0
+30	ağlamazsınız.	ağlamazsınız.	5.425401013781084e-06	0	1	1.0
+31	ağladım mı?	ağladım mı?	1.3298328667588066e-05	0	1	1.0
+32	ağlamalılar mı?	ağlameliler mi?	0.2996838092803955	4	0	0.0
+33	ağlıyor olacağız.	ağlıyor olacağız.	5.089172191219404e-06	0	1	1.0
+34	ağlıyor olmayacakmışsın.	ağlıyor olmayacakmışsın.	5.637215963361086e-06	0	1	1.0
+35	bana aşık olacak mısınız?	bana aşık olacak mısınız?	6.767703780496959e-06	0	1	1.0
+36	bize aşık oluyorlar.	bize aşık oluyorlar.	4.1529841837473214e-05	0	1	1.0
+37	ona aşık olmuş olmayacağız.	ona aşık olmuş olmayacağız.	0.0116960108280181	0	1	1.0
+38	bana aşık olmadık.	bana aşık olmadık.	8.68484130478464e-06	0	1	1.0
+39	kendinize aşık oluyor olacaktınız.	kendinize aşık oluyor olacaktınız.	6.60785690342891e-06	0	1	1.0
+40	ona aşık olmalılarmış.	ona aşık olmalılarmış.	3.303662742837332e-05	0	1	1.0
+41	bize aşık oluyor olmamalı mıymış?	bize aşık oluyor olmamalı mıymış?	0.0062900236807763	0	1	1.0
+42	sana aşık olacak mıymışsınız?	sana aşık olacak mıymışsınız?	5.361498097045114e-06	0	1	1.0
+43	sana aşık olacaktı.	sana aşık olacaktı.	7.769453077344224e-06	0	1	1.0
+44	size aşık oluyor olmamalıydı.	size aşık oluyor olmamalıydı.	0.0019055214943364	0	1	1.0
+45	kendine aşık olacak olacak mı?	kendine aşık olacak olacak mı?	1.0043831935035996e-05	0	1	1.0
+46	bize aşık olduydu.	bize aşık olduydu.	0.0089759239926934	0	1	1.0
+47	sana aşık oluyordunuz.	sana aşık oluyordunuz.	2.4958790163509548e-05	0	1	1.0
+48	kendine aşık olmamış.	kendine aşık olmamış.	8.193177563953213e-06	0	1	1.0
+49	bize aşık olmalı mıyım?	bize aşık olmalı mıyım?	9.0772073235712e-06	0	1	1.0
+50	size aşık olmadıydık.	size aşık olmadıydık.	1.4545597878168335e-05	0	1	1.0
+51	onlara aşık olmadılardı.	onlara aşık olmadılardı.	2.1878513507544994e-06	0	1	1.0
+52	bize aşık oluyor olmalıymışsınız.	bize aşık oluyor olmalıymışsınız.	3.3866333978949115e-05	0	1	1.0
+53	bizi başarmamalı mıymış?	bizi başarmamalı mıymış?	6.560455403814558e-06	0	1	1.0
+54	sizi başarmayacakmışsın.	sizi başarmayacakmışsın.	6.610856416955357e-06	0	1	1.0
+55	kendini başarmıyor muymuşsun?	kendini başarmıyor muymuşsun?	2.898889397329185e-05	0	1	1.0
+56	onları başarmayacak mıydı?	onları başarmayacak mıydı?	2.0511010916379746e-06	0	1	1.0
+57	onu başarmamışım.	onu başarmamışım.	2.5676892619230784e-05	0	1	1.0
+58	kendimi başarmıştım.	kendimi başarmıştım.	5.8419673223397695e-06	0	1	1.0
+59	beni başarıyor olmayacakmış.	beni başarıyor olmayacakmış.	3.548229415173409e-06	0	1	1.0
+60	onları başarmalıymışım.	onları başarmalıymışım.	3.4681715987971984e-06	0	1	1.0
+61	onu başarmayacakmışsın.	onu başarmayacakmışsın.	3.528083425408113e-06	0	1	1.0
+62	onları başarıyor olmazdınız.	onları başarıyor olmazdınız.	1.5609024330842658e-06	0	1	1.0
+63	sizi başarıyor olmalıydık.	sizi başarıyor olmalıydık.	1.3642405974678695e-05	0	1	1.0
+64	beni başaracak olacakmışsınız.	beni başaracak olacakmışsınız.	3.146714334434364e-06	0	1	1.0
+65	onları başarmıyorlar.	onları başarmıyorlar.	8.448139851680025e-06	0	1	1.0
+66	onları başarmışmışım.	onları başarmışmışım.	2.786479626593064e-06	0	1	1.0
+67	bizi başarıyor olmalıymışsınız.	bizi başarıyor olmalıymışsınız.	6.242802191991359e-05	0	1	1.0
+68	beni başaracaklar mı?	beni başaracaklar mı?	4.13130464949063e-06	0	1	1.0
+69	kendilerini başarırlar mı?	kendilerini başarırlar mı?	0.0070064384490251	0	1	1.0
+70	sizi başaracak olacak mısın?	sizi başaracak olacak mısın?	7.824211024853867e-06	0	1	1.0
+71	onu başarıyor olacak mıydım?	onu başarıyor olacak mıydım?	5.603026693279389e-06	0	1	1.0
+72	onu başarmıyor.	onu başarmıyor.	8.202343451557681e-06	0	1	1.0
+73	sizi başarmıyorduk.	sizi başarmıyorduk.	4.79040454592905e-06	0	1	1.0
+74	onu başarmadıydın.	onu başarmadıydın.	2.7865062293130904e-05	0	1	1.0
+75	kendinizi başarmadıydınız.	kendinizi başarmadıydınız.	1.2218933989061045e-06	0	1	1.0
+76	kendini beklemiş.	kendini beklemiş.	3.072672188864089e-05	0	1	1.0
+77	beni beklemiş olmayacaklar.	beni beklemiş olmayacaklar.	9.582437996868975e-06	0	1	1.0
+78	beni bekliyor olmalı mıymışız?	beni bekliyor olmalı mıymışız?	5.310172127792612e-05	0	1	1.0
+79	sizi beklememeliler.	sizi beklememeliler.	3.906638085027225e-05	0	1	1.0
+80	kendilerini beklememişlerdi.	kendilerini beklememişlerdi.	0.002164299134165	0	1	1.0
+81	bizi bekliyor olacak mısın?	bizi bekliyor olacak mısın?	0.0001956548367161	0	1	1.0
+82	beni beklemiyordun.	beni beklemiyordun.	5.1264050853205845e-05	0	1	1.0
+83	beni beklemez miydik?	beni beklemez miydik?	7.76926663093036e-06	0	1	1.0
+84	seni bekler miydim?	seni bekler miydim?	2.5076837118831463e-05	0	1	1.0
+85	sizi bekliyor olmalıyız.	sizi bekliyor olmalıyız.	0.0002711139677558	0	1	1.0
+86	onu bekliyor olmayacak mıydın?	onu bekliyor olmayacak mıydın?	4.91206519654952e-05	0	1	1.0
+87	onu beklemiş olacak mıyım?	onu beklemiş olacak mıyım?	3.800820559263229e-05	0	1	1.0
+88	onu bekleyecek olmayacak mısınız?	onu bekleyecek olmayacak mısınız?	3.010058935615234e-05	0	1	1.0
+89	onu bekliyormuşuz.	onu bekliyormuşuz.	0.0010369303636252	0	1	1.0
+90	onları beklemeliydik.	onları beklemeliydik.	1.0383861990703736e-05	0	1	1.0
+91	bizi bekliyor olmayacaklar mıydı?	bizi bekliyor olmayacaklar mıydı?	0.0005308232503011	0	1	1.0
+92	onları bekliyor olacak mı?	onları bekliyor olacak mı?	0.0004269160272087	0	1	1.0
+93	beni bekliyor olur muyduk?	beni bekliyor olur muyduk?	6.647728878306225e-05	0	1	1.0
+94	beni beklemezdin.	beni beklemezdin.	8.47749561216915e-06	0	1	1.0
+95	bizi boşluyor olmamalı mıymış?	bizi boşluyor olmamalı mıymış?	3.7026373320259154e-05	0	1	1.0
+96	sizi boşlamalılar mı?	sizi boşlamalılar mı?	8.994785457616672e-05	0	1	1.0
+97	onu boşlayacak olmayacağız.	onu boşlayacak olmayacağız.	1.2419832273735665e-05	0	1	1.0
+98	seni boşluyor olacak.	seni boşluyor olacak.	1.10693517854088e-05	0	1	1.0
+99	beni boşlayacakmışız.	beni boşlayacakmışız.	8.207720384234563e-06	0	1	1.0
+100	seni boşlamayacak mıymışız?	seni boşlamayacak mıymışız?	1.7998867406276986e-05	0	1	1.0
+101	onları boşluyor olacak mı?	onları boşluyor olacak mı?	4.873750640399521e-06	0	1	1.0
+102	onu boşlamamalıydık.	onu boşlamamalıydık.	1.2722161045530813e-05	0	1	1.0
+103	onları boşlamaz.	onları boşlamaz.	4.9543512432137504e-05	0	1	1.0
+104	onları boşlamayacak mıymışız?	onları boşlamayacak mıymışız?	1.6444413631688803e-05	0	1	1.0
+105	sizi boşlayacak olmayacak mıymış?	sizi boşlayacak olmayacak mıymış?	2.336111356271431e-05	0	1	1.0
+106	bizi boşluyor olmamalılar.	bizi boşluyor olmamalılar.	0.0001650843041716	0	1	1.0
+107	beni boşlamayacak mıydık?	beni boşlamayacak mıydık?	1.0184920938627329e-05	0	1	1.0
+108	onları boşlayacak olmayacakmışsın.	onları boşlayacak olmayacakmışsın.	1.305550631514052e-05	0	1	1.0
+109	kendini boşluyor olmayacaksın.	kendini boşluyor olmayacaksın.	7.792994438204914e-06	0	1	1.0
+110	sizi boşlamışmışız.	sizi boşlamışmışız.	5.197903010412119e-05	0	1	1.0
+111	seni boşlamış olmayacak mıydı?	seni boşlamış olmayacak mıydı?	9.54146798903821e-06	0	1	1.0
+112	onları boşlar olacaklarmış.	onları boşlar olacaklarmış.	7.942444426589645e-06	0	1	1.0
+113	kendimi boşlar olmayacakmışım.	kendimi boşlar olmayacakmışım.	9.578856406733394e-06	0	1	1.0
+114	seni kendine daldıracak olacaklar.	seni kendine daldıracak olacaklar.	6.698360084556043e-05	0	1	1.0
+115	onları onlara daldıracak olmayacağım.	onları onlara daldıracak olmayacağım.	1.3202255104260985e-05	0	1	1.0
+116	bizi onlara daldırmış olacaklar mıydı?	bizi onlara daldırmış olacaklar mıydı?	1.1932163033634424e-05	0	1	1.0
+117	onu kendine daldırıyorlar mıydı?	onu kendine daldırıyorlar mıydı?	0.0013143757823854	0	1	1.0
+118	seni kendine daldırıyor olurdunuz.	seni kendine daldırıyor olurdunuz.	0.0001166914807981	0	1	1.0
+119	onları sana daldırıyor olmalılar mıymış?	onları sana daldırıyor olmalılar mıymış?	0.0005613919929601	0	1	1.0
+120	onu size daldırırmışsın.	onu size daldırırmışsın.	0.0102452542632818	0	1	1.0
+121	onu kendine daldırmış mıymışsınız?	onu kendine daldırmış mıymışsınız?	2.3567621610709463e-05	0	1	1.0
+122	kendimi bize daldırmalı mıydım?	kendimi bize daldırmalı mıydım?	5.277102900436148e-05	0	1	1.0
+123	onu size daldırmayacaklar mı?	onu size daldırmayacaklar mı?	0.0006886355695314	0	1	1.0
+124	onları kendime daldırmamalıydım.	onları kendime daldırmamalıydım.	1.2750520909321494e-05	0	1	1.0
+125	kendini ona daldırmıyor muydu?	kendini ona daldırmıyor muydu?	1.3622573533211836e-05	0	1	1.0
+126	onu onlara daldırıyor olmazdım.	onu onlara daldırıyor olmazdım.	0.0011085590813308	0	1	1.0
+127	seni onlara daldırmıştık.	seni onlara daldırmıştık.	1.0367878530814778e-05	0	1	1.0
+128	kendilerini onlara daldırmayacaklar mıymış?	kendilerini onlara daldırmayacaklar mıymış?	0.0001108076103264	0	1	1.0
+129	onu kendimize daldıracak olacak mıymışız?	onu kendimize daldıracak olacak mıymışız?	5.766610775026493e-05	0	1	1.0
+130	sizi kendine daldırmış olacak mıydın?	sizi kendine daldırmış olacak mıydın?	2.226989272458013e-05	0	1	1.0
+131	onu kendime daldırıyor olmayacak mıymışım?	onu kendime daldırıyor olmayacak mıymışım?	8.097896352410316e-05	0	1	1.0
+132	bize dayamaz mıydın?	bize dayamaz mıydın?	9.975173270504456e-06	0	1	1.0
+133	onu onlara dayamalılar mı?	onu onlara dayamalılar mı?	3.042783282580785e-05	0	1	1.0
+134	sana dayıyor olmamalı.	sana dayıyor olmamalı.	1.4480627214652486e-05	0	1	1.0
+135	onları bana dayarlar mı?	onları bana dayarlar mı?	0.0001847273233579	0	1	1.0
+136	kendimizi sana dayıyor olurduk.	kendimizi sana dayıyor olurduk.	0.0002714758738875	0	1	1.0
+137	bize dayadı mıydın?	bize dayadı mıydın?	7.430210098391399e-05	0	1	1.0
+138	beni kendime dayar olmayacak mıymışsınız?	beni kendime dayar olmayacak mıymışsınız?	0.0001293827226618	0	1	1.0
+139	kendilerini size dayıyor olmalılar mı?	kendilerini size dayıyor olmalılar mı?	2.534061059122905e-05	0	1	1.0
+140	bize dayadınız mı?	bize dayadınız mı?	1.616506233403925e-05	0	1	1.0
+141	bana dayamıyor muymuş?	bana dayamıyor muymuş?	1.5541258107987233e-05	0	1	1.0
+142	beni bize dayıyorlarmış.	beni bize dayıyorlarmış.	0.0008828357676975	0	1	1.0
+143	onu size dayayacak olacaklar mıymış?	onu size dayayacak olacaklar mıymış?	0.0007244140724651	0	1	1.0
+144	beni onlara dayıyor olmalı mıymışsınız?	beni onlara dayıyor olmalı mıymışsınız?	4.7994031774578616e-05	0	1	1.0
+145	size dayamış olacak mıyım?	size dayamış olacak mıyım?	4.816195087187225e-06	0	1	1.0
+146	bizi kendimize dayıyor olacağım.	bizi kendimize dayıyor olacağım.	0.0004005871887784	0	1	1.0
+147	onları kendine dayarmış.	onları kendine dayarmış.	0.008961490355432	0	1	1.0
+148	sana dayamazdı.	sana dayamazdı.	4.267400072421879e-06	0	1	1.0
+149	sizi ona dayıyoruz.	sizi ona dayıyoruz.	0.0002683130733203	0	1	1.0
+150	onları bana dayayacaktınız.	onları bana dayayacaktınız.	2.605170084279962e-05	0	1	1.0
+151	onu size dayama!	onu size dayama!	0.0005879384116269	0	1	1.0
+152	onları size dayayacak olacak mıyım?	onları size dayayacak olacak mıyım?	6.633996963500977e-05	0	1	1.0
+153	kendilerini demliyor olacaklarmış.	kendilerini demliyor olacaklarmış.	9.103431511903182e-05	0	1	1.0
+154	onları demliyor olmalı mıydın?	onları demliyor olmalı mıydın?	3.420497250772314e-06	0	1	1.0
+155	onu demliyor olacakmış.	onu demliyor olacakmış.	2.3453932953998446e-05	0	1	1.0
+156	seni demlememeli mi?	seni demlememeli mi?	0.0002559546264819	0	1	1.0
+157	sizi demliyor olurlardı.	sizi demliyor olurlardı.	4.538859138847329e-05	0	1	1.0
+158	kendilerini demlemediler.	kendilerini demlemediler.	2.935366319434252e-05	0	1	1.0
+159	beni demlemeyecek miydiniz?	beni demlemeyecek miydiniz?	2.116000132446061e-06	0	1	1.0
+160	onları demliyor olmamalı mıyız?	onları demliyor olmamalı mıyız?	7.931220352475066e-06	0	1	1.0
+161	kendilerini demlemeyecekler miydi?	kendilerini demlemeyecekler miydi?	1.8006445316132158e-05	0	1	1.0
+162	onları demlediniz.	onları demlediniz.	4.627620000974275e-05	0	1	1.0
+163	sizi demlemişim.	sizi demlemişim.	0.0001525342668173	0	1	1.0
+164	sizi demlememeliydin.	sizi demlememeliydin.	1.3930825843999628e-05	0	1	1.0
+165	beni demlemeyecek miydi?	beni demlemeyecek miydi?	4.429170076036826e-06	0	1	1.0
+166	beni demliyor olacak mıymışız?	beni demliyor olacak mıymışız?	4.29980627814075e-06	0	1	1.0
+167	kendini demliyor olmayacak mıymış?	kendini demliyor olmayacak mıymış?	6.515588665934047e-06	0	1	1.0
+168	sizi demleyeceklerdi.	sizi demleyeceklerdi.	1.083125880541047e-05	0	1	1.0
+169	onu demlemeli miymişiz?	onu demlemeli miymişiz?	8.191429515136406e-06	0	1	1.0
+170	beni demlemezlermiş.	beni demlemezlermiş.	7.760372682241723e-06	0	1	1.0
+171	kendilerini demliyor olacaklar mıymış?	kendilerini demliyor olacaklar mıymış?	0.0002448498271405	0	1	1.0
+172	onu demliyor olacaktı.	onu demliyor olacaktı.	7.19818535799277e-06	0	1	1.0
+173	onu demlemiyor muymuş?	onu demlemiyor muymuş?	0.0013275982346385	0	1	1.0
+174	seni dokumamışlardı.	seni dokumamışlardı.	3.2514835766050965e-05	0	1	1.0
+175	onu dokumayacakmışız.	onu dokumayacakmışız.	1.2270437764527742e-05	0	1	1.0
+176	onu dokuyacak mısınız?	onu dokuyacak mısınız?	2.239759123767726e-05	0	1	1.0
+177	onları dokuyor olmayacak.	onları dokuyor olmayacak.	4.751942014991073e-06	0	1	1.0
+178	onu dokumuyormuşsun.	onu dokumuyormuşsun.	3.566296754797804e-06	0	1	1.0
+179	onu dokumayacak mısın?	onu dokumayacak mısın?	7.059788185870275e-05	0	1	1.0
+180	seni dokuyor olacaktınız.	seni dokuyor olacaktınız.	1.668514232733287e-05	0	1	1.0
+181	onları dokumamışlar mıymış?	onları dokumamışlar mıymış?	5.370694452722091e-06	0	1	1.0
+182	kendilerini dokumuş olacaklar mıydı?	kendilerini dokumuş olacaklar mıydı?	1.3352362657315098e-05	0	1	1.0
+183	sizi dokumayacak mıydı?	sizi dokumayacak mıydı?	3.785838998737745e-06	0	1	1.0
+184	kendini dokumaz mıymışsın?	kendini dokumaz mıymışsın?	9.13352323550498e-06	0	1	1.0
+185	bizi dokumazlar mıymış?	bizi dokumazlar mıymış?	0.0001142031542258	0	1	1.0
+186	beni dokurum.	beni dokur.	0.0395638160407543	2	0	0.5
+187	bizi dokumayacağım.	bizi dokumayacağım.	1.609956962056458e-05	0	1	1.0
+188	bizi dokudu muydum?	bizi dokudu muydum?	0.0141075709834694	0	1	1.0
+189	seni dokumamalıydınız.	seni dokumamalıydınız.	0.0001028088663588	0	1	1.0
+190	onları dokumuşsunuz.	onları dokumuşsunuz.	8.588433956902009e-06	0	1	1.0
+191	beni dokuyacak olmayacaklar mı?	beni dokuyacak olmayacaklar mı?	4.259183697286062e-05	0	1	1.0
+192	seni kendine dolamıyor muyuz?	seni kendine dolamıyor muyuz?	0.0001708138152025	0	1	1.0
+193	onu kendimize doladık.	onu kendimize doladık.	0.0002531679929234	0	1	1.0
+194	seni kendine doluyorum.	seni kendine doluyorum.	7.749068754492328e-05	0	1	1.0
+195	seni ona dolamıyor muyuz?	seni ona dolamıyor muyuz?	5.1330087444512174e-05	0	1	1.0
+196	kendimi ona dolamış olacaktım.	kendimi ona dolamış olacaktım.	0.0008577416883781	0	1	1.0
+197	onu kendine dolamalıydık.	onu kendine dolamalıydık.	0.0012029020581394	0	1	1.0
+198	bizi bana dolamamalıymışsın.	bizi bana dolamamalıymışsın.	2.7862446586368605e-05	0	1	1.0
+199	onu onlara dolardık.	onu onlara dolardık.	0.0002072809147648	0	1	1.0
+200	beni kendilerine dolamış olmayacaklardı.	beni kendilerine dolamış olmayacaklardı.	5.04265735798981e-05	0	1	1.0
+201	beni size dolamış olmayacaksın.	beni size dolamış olmayacaksın.	7.593724876642227e-05	0	1	1.0
+202	seni ona dolamalıydım.	seni ona dolamalıydım.	1.3872982890461572e-05	0	1	1.0
+203	sizi bize dolama!	sizi bize dolama!	0.0005518230609595	0	1	1.0
+204	onları onlara doluyor olmalı mıymışsınız?	onları onlara doluyor olmalı mıymışsınız?	6.587250391021371e-05	0	1	1.0
+205	onu size dolamadılar.	onu size dolamadılar.	0.0006684024119749	0	1	1.0
+206	bizi onlara dolamalı.	bizi onlara dolamalı.	0.0001097282583941	0	1	1.0
+207	onları bana doluyor olmamalılarmış.	onları bana doluyor olmamalılarmış.	0.000218325847527	0	1	1.0
+208	bizi kendilerine dolayacak olmayacaklar mı?	bizi kendilerine dolayacak olmayacaklar mı?	0.0015664345119148	0	1	1.0
+209	bizi kendilerine dolamadılar mı?	bizi kendilerine dolamadılar mı?	0.000106182291347	0	1	1.0
+210	sizi kendinize dolamameli mi?	sizi kendinize dolamamalı mı?	0.0211503244936466	3	0	0.5
+211	onu kendine doluyor olmamalılar mıymış?	onu kendine doluyor olmamalılar mıymış?	0.0005959822447039	0	1	1.0
+212	dolacaklar.	dolacaklar.	1.904948476294521e-05	0	1	1.0
+213	doluyor olacaklar mı?	doluyor olacaklar mı?	8.710744623385835e-06	0	1	1.0
+214	dolacak olmayacak mıyım?	dolacak olmayacak mıyım?	2.002589098992757e-05	0	1	1.0
+215	dolmamış mısın?	dolmamış mısın?	1.8281894881511107e-05	0	1	1.0
+216	dolacak olmayacak mısın?	dolacak olmayacak mısın?	1.7007771020871587e-05	0	1	1.0
+217	dolunuz!	dolunuz!	0.0009206153335981	0	1	1.0
+218	dolacak olacak mısın?	dolacak olacak mısın?	9.057154784386512e-06	0	1	1.0
+219	dolmayım.	dolmam.	0.028780648484826	2	0	0.0
+220	dolmamalılardı.	dolmamalılardı.	1.5731588064227253e-05	0	1	1.0
+221	doluyordu.	doluyordu.	9.129698446486144e-05	0	1	1.0
+222	dolmuyorlar mıydı?	dolmuyorlar mıydı?	2.612173557281494e-05	0	1	1.0
+223	dolmadım mı?	dolmadım mı?	3.06415677187033e-05	0	1	1.0
+224	dolacaklar mıymış?	dolacaklar mıymış?	1.719302417768631e-05	0	1	1.0
+225	doluyor olurdunuz.	doluyor olurdunuz.	1.746542693581432e-05	0	1	1.0
+226	dolarsın.	dolarsın.	0.0044680135324597	0	1	1.0
+227	dolmuş olmayacak.	dolmuş olmayacak.	1.3541268344852142e-05	0	1	1.0
+228	doluyor olmazdı.	doluyor olmazdı.	3.3850348700070754e-05	0	1	1.0
+229	dolacak olacakmışım.	dolacak olacakmışım.	4.11093897128012e-05	0	1	1.0
+230	doluyor olacak mıydık?	doluyor olacak mıydık?	4.149260712438263e-05	0	1	1.0
+231	dolmamış mıydınız?	dolmamış mıydınız?	4.87958786834497e-05	0	1	1.0
+232	dolduk mu?	dolduk mu?	0.0001897241745609	0	1	1.0
+233	dolmamalı mı?	dolmamalı mı?	0.016411093994975	0	1	1.0
+234	eskimeli miymişim?	eskimeli miymişim?	1.9166061974829063e-05	0	1	1.0
+235	eskimeyecektim.	eskimeyecektim.	6.514944288937841e-06	0	1	1.0
+236	eskir miymişsiniz?	eskir miymişsiniz?	3.530449021127424e-06	0	1	1.0
+237	eskimiyorsun.	eskimiyorsun.	1.0168599146709312e-05	0	1	1.0
+238	eskimeliyiz.	eskimeliyiz.	1.854152105806861e-05	0	1	1.0
+239	eskimeyecek misin?	eskimeyecek misin?	5.1936863201262895e-06	0	1	1.0
+240	eskidiydim.	eskidiydim.	0.0092635639011859	0	1	1.0
+241	eskimiş misiniz?	eskimiş misiniz?	6.286962616286473e-06	0	1	1.0
+242	eskimediler.	eskimediler.	2.1779706003144383e-06	0	1	1.0
+243	eskiyor olacak.	eskiyor olacak.	2.1540233774430817e-06	0	1	1.0
+244	eskiyor olmamalıydı.	eskiyor olmamalıydı.	1.5090446368049015e-06	0	1	1.0
+245	eskimeliydi.	eskimeliydi.	2.806214524753159e-06	0	1	1.0
+246	eskiyorlar mıydı?	eskiyorlar mıydı?	2.795780119413393e-06	0	1	1.0
+247	eskiniz!	eskiyiniz!	0.2443813979625702	2	0	0.0
+248	eskimeli miydin?	eskimeli miydin?	2.704309054024634e-06	0	1	1.0
+249	eskiyor olacak mıyım?	eskiyor olacak mıyım?	9.609235576135688e-07	0	1	1.0
+250	eskiyor olacak mısınız?	eskiyor olacak mısınız?	2.4695655156392604e-06	0	1	1.0
+251	eskimemiş miydin?	eskimemiş miydin?	7.839964382583275e-05	0	1	1.0
+252	eskimeli miydim?	eskimeli miydim?	4.248844561516307e-06	0	1	1.0
+253	eskiyor olmayacaklar mıymış?	eskiyor olmayacaklar mıymış?	7.345869903474522e-07	0	1	1.0
+254	bizimle hava atmış olacaktı.	bizimle hava atmış olacaktı.	1.1892437214555684e-05	0	1	1.0
+255	kendiyle hava atacak olacakmış.	kendiyle hava atacak olacakmış.	3.379438567208126e-05	0	1	1.0
+256	sizinle hava atıyor olmayacak mıyız?	sizinle hava atıyor olmayacak mıyız?	1.1338379408698527e-05	0	1	1.0
+257	hava atıyor olmalıyım.	hava atıyor olmalıyım.	2.1232788185443496e-06	0	1	1.0
+258	sizinle hava atar mıyız?	sizinle hava atar mıyız?	8.937651728047058e-05	0	1	1.0
+259	onunla hava atacak olacaklar mıymış?	onunla hava atacak olacaklar mıymış?	2.215879248979036e-05	0	1	1.0
+260	onunla hava atmayacaklarmış.	onunla hava atmayacaklarmış.	2.4045641112024896e-05	0	1	1.0
+261	bizimle hava atmamalısınız.	bizimle hava atmamalısınız.	0.0002029337920248	0	1	1.0
+262	onunla hava atacakmışsın.	onunla hava atacakmışsın.	0.0005168059142306	0	1	1.0
+263	onunla hava atar olmayacakmışız.	onunla hava atar olmayacakmışız.	0.0004272150981705	0	1	1.0
+264	onlarınla hava atacak olmayacaklar.	onlarınla hava atacak olmayacaklar.	4.15597423852887e-05	0	1	1.0
+265	seninle hava atıyor olacak mıydınız?	seninle hava atıyor olacak mıydınız?	4.185817033430794e-06	0	1	1.0
+266	onunla hava atmadınız mı?	onunla hava atmadınız mı?	0.0172955766320228	0	1	1.0
+267	onlarınla hava atmış mıydın?	onlarınla hava atmış mıydın?	8.051620534388348e-05	0	1	1.0
+268	hava atmamışsın.	hava atmamışsın.	4.227276349411113e-06	0	1	1.0
+269	seninle hava atmayacaklarmış.	seninle hava atmayacaklarmış.	4.314892976253759e-06	0	1	1.0
+270	benimle hava atmadıydı.	benimle hava atmadıydı.	0.0001691495708655	0	1	1.0
+271	onunla hava atmışlar.	onunla hava atmışlar.	4.917001933790744e-05	0	1	1.0
+272	onunla hava atmamışsın.	onunla hava atmamışsın.	3.424488386372104e-05	0	1	1.0
+273	hava atıyor olur muydum?	hava atıyor olur muydum?	6.416561063815607e-06	0	1	1.0
+274	heyecanlanıyor olmalı mıydık?	heyecanlanıyor olmalı mıydık?	6.387254870787729e-06	0	1	1.0
+275	heyecanlanıyorlar mıydı?	heyecanlanıyorlar mıydı?	9.283619874622673e-06	0	1	1.0
+276	heyecanlanmış mıydınız?	heyecanlanmış mıydınız?	9.38451921683736e-06	0	1	1.0
+277	heyecanlanacak olmayacaklar mıymış?	heyecanlanacak olmayacaklar mıymış?	1.8140697193302917e-06	0	1	1.0
+278	heyecanlanıyor olmamalılar mıymış?	heyecanlanıyor olmamalılar mıymış?	6.493532964668702e-06	0	1	1.0
+279	heyecanlanmış mıydın?	heyecanlanmış mıydın?	9.07894536794629e-06	0	1	1.0
+280	heyecanlanmazlar mıydı?	heyecanlanmazlar mıydı?	2.8838881007686723e-06	0	1	1.0
+281	heyecanlanmaz mıymışım?	heyecanlanmaz mıymışım?	4.848057869821787e-06	0	1	1.0
+282	heyecanlanıyor olmalıydınız.	heyecanlanıyor olmalıydınız.	5.808655259897932e-06	0	1	1.0
+283	heyecanlanır mıydık?	heyecanlanır mıydık?	4.097574219485978e-06	0	1	1.0
+284	heyecanlanmamış mıydım?	heyecanlanmamış mıydım?	7.608512078149943e-06	0	1	1.0
+285	heyecanlanmıştım.	heyecanlanmıştım.	7.870296030887403e-06	0	1	1.0
+286	heyecanlanmazlar mı?	heyecanlanmazlar mı?	4.8772262744023465e-06	0	1	1.0
+287	heyecanlanmadı mıydım?	heyecanlanmadı mıydım?	1.0151400601898786e-05	0	1	1.0
+288	heyecanlanıyor olacaktın.	heyecanlanıyor olacaktın.	7.453371381416218e-06	0	1	1.0
+289	heyecanlanmamışlar mı?	heyecanlanmamışlar mı?	4.886122042080388e-06	0	1	1.0
+290	heyecanlanıyor olmayacaktın.	heyecanlanıyor olmayacaktın.	4.549988716462394e-06	0	1	1.0
+291	heyecanlanıyor olmamalısınız.	heyecanlanıyor olmamalısınız.	1.0802862561831716e-05	0	1	1.0
+292	heyecanlanıyor olmayacak mıydım?	heyecanlanıyor olmayacak mıydım?	5.205474280955968e-06	0	1	1.0
+293	heyecanlanıyor olmamalısın.	heyecanlanıyor olmamalısın.	1.1610323781496843e-05	0	1	1.0
+294	heyecanlanmış mıymışız?	heyecanlanmış mıymışız?	3.073915877394029e-06	0	1	1.0
+295	heyecanlanıyor olmamalı.	heyecanlanıyor olmamalı.	2.342152765777428e-05	0	1	1.0
+296	onları iletiyor olmayacak mısınız?	onları iletiyor olmayacak mısınız?	2.3791301373421447e-06	0	1	1.0
+297	bizi iletirsin.	bizi iletirsin.	0.0002841981768142	0	1	1.0
+298	seni iletmeyecekler miydi?	seni iletmeyecekler miydi?	3.3222138426936e-06	0	1	1.0
+299	sizi iletmeliydim.	sizi iletmeliydim.	2.425040747766616e-06	0	1	1.0
+300	onları iletiyor olmazdı.	onları iletiyor olmazdı.	1.446941041649552e-06	0	1	1.0
+301	onları iletmemeliymişsin.	onları iletmemeliymişsin.	6.255813786992803e-06	0	1	1.0
+302	seni ilettiler miydi?	seni ilettiler miydi?	4.206378434901126e-06	0	1	1.0
+303	beni iletmeliymiş.	beni iletmeliymiş.	2.534162604206358e-06	0	1	1.0
+304	beni iletmiyorsunuz.	beni iletmiyorsunuz.	5.022637651563855e-06	0	1	1.0
+305	seni iletmedim.	seni iletmedim.	2.4580129320384003e-05	0	1	1.0
+306	kendilerini iletmeyecekler mi?	kendilerini iletmeyecekler mi?	6.46421949568321e-06	0	1	1.0
+307	seni iletiyor olmazlardı.	seni iletiyor olmazlardı.	1.021944081003312e-05	0	1	1.0
+308	kendini iletmeyeceksin.	kendini iletmeyeceksin.	5.580325250775786e-06	0	1	1.0
+309	bizi ileteceklermiş.	bizi ileteceklermiş.	3.163344445056282e-05	0	1	1.0
+310	onları iletmedi.	onları iletmedi.	2.510793092369568e-05	0	1	1.0
+311	beni ilettiniz mi?	beni ilettiniz mi?	5.689771569450386e-06	0	1	1.0
+312	onları iletirsiniz.	onları iletirsiniz.	1.4966488379286602e-05	0	1	1.0
+313	sizi iletmiş olmayacak mısın?	sizi iletmiş olmayacak mısın?	4.347773938206956e-06	0	1	1.0
+314	onu iletmeliler miymiş?	onu iletmeliler miymiş?	2.5714734874782152e-06	0	1	1.0
+315	onları iletmiş olacak mıyız?	onları iletmiş olacak mıyız?	3.857478077406995e-06	0	1	1.0
+316	kendinize imrenmez miydiniz?	kendinize imrenmez miydiniz?	2.4019431293709204e-05	0	1	1.0
+317	onlara imrenmiş misin?	onlara imrenmiş misin?	0.0001964355324162	0	1	1.0
+318	ona imrenmemeliymişiz.	ona imrenmemeliymişiz.	1.2328016964602284e-05	0	1	1.0
+319	onlara imrenmez miydik?	onlara imrenmez miydik?	2.0001109078293663e-05	0	1	1.0
+320	bana imrenmeyecektik.	bana imrenmeyecektik.	2.4825129003147595e-05	0	1	1.0
+321	onlara imrenmeli misiniz?	onlara imrenmeli misiniz?	0.0009731223108246	0	1	1.0
+322	onlara imreniyor olmayacak mıydınız?	onlara imreniyor olmayacak mıydınız?	3.3020971841324358e-06	0	1	1.0
+323	ona imrenmiş olacaktım.	ona imrenmiş olacaktım.	9.081570169655606e-05	0	1	1.0
+324	bize imreniyor olmalıyım.	bize imreniyor olmalıyım.	4.746846025227569e-05	0	1	1.0
+325	onlara imrenmemiş miymişsin?	onlara imrenmemiş miymişsin?	1.3338216376723722e-05	0	1	1.0
+326	ona imrenecek misin?	ona imrenecek misin?	1.337999310635496e-05	0	1	1.0
+327	ona imreniyor olmayacakmışsın.	ona imreniyor olmayacakmışsın.	6.979047611821443e-06	0	1	1.0
+328	size imrendi miydik?	size imrendi miydik?	9.596542804501952e-05	0	1	1.0
+329	onlara imrenmemeli miymişim?	onlara imrenmemeli miymişim?	3.558639946277253e-05	0	1	1.0
+330	bize imrenmiyorlar mı?	bize imrenmiyorlar mı?	2.7000613044947382e-05	0	1	1.0
+331	onlara imreniyor olmayacaklar mıymış?	onlara imreniyor olmayacaklar mıymış?	1.956865617103176e-06	0	1	1.0
+332	bana imrenmişmişiz.	bana imrenmişmişiz.	0.0002203718322562	0	1	1.0
+333	size imrenmemeliler.	size imrenmemeliler.	4.199764225631952e-05	0	1	1.0
+334	onlara imrenmeli miymişsin?	onlara imrenmeli miymişsin?	9.016814146889374e-06	0	1	1.0
+335	kendinize imrenmeli misiniz?	kendinize imrenmeli misiniz?	4.912962140224408e-06	0	1	1.0
+336	bize imrenmezdi.	bize imrenmezdi.	1.4224192455003504e-05	0	1	1.0
+337	bizi onlardan istiyor olacak mıymışsınız?	bizi onlardan istiyor olacak mıymışsınız?	0.0002977653057314	0	1	1.0
+338	sizi kendinden istiyorsun.	sizi kendinden istiyorsun.	0.0007362161995843	0	1	1.0
+339	sizi istememeliler miymiş?	sizi istememeliler miymiş?	3.970407760789385e-06	0	1	1.0
+340	kendimi ondan ister olacak mıymışım?	kendimi ondan ister olacak mıymışım?	0.0011749825207516	0	1	1.0
+341	onları sizden ister olacakmışım.	onları sizden ister olacakmışım.	0.0017734109424054	0	1	1.0
+342	bizi benden istemeliler.	bizi benden istemeliler.	0.0043397564440965	0	1	1.0
+343	onu kendilerinden istemeyeceklermiş.	onu kendilerinden istemeyeceklermiş.	0.0006810932536609	0	1	1.0
+344	seni kendinden istemeyecektim.	seni kendinden istemeyecektim.	5.742217399529181e-05	0	1	1.0
+345	sizi istememişmiş.	sizi istememişmiş.	1.153958510258235e-05	0	1	1.0
+346	kendini istiti miydin?	kendini istedi miydin?	0.1020581424236297	2	0	0.6666666666666666
+347	kendinizi senden istiyor olmalıymışsınız.	kendinizi senden istiyor olmalıymışsınız.	0.002701120218262	0	1	1.0
+348	onları sizden isteyecekler mi?	onları sizden isteyecekler mi?	0.0017662179889157	0	1	1.0
+349	onu onlardan isterler mi?	onu onlardan isterler mi?	0.0249215569347143	0	1	1.0
+350	kendilerini ondan istemeyecekler miymiş?	kendilerini ondan istemeyecekler miymiş?	0.0001361214090138	0	1	1.0
+351	beni senden istemiyor muyduk?	beni senden istemiyor muyduk?	0.0094114718958735	0	1	1.0
+352	beni kendinden istemiş olacak mıydınız?	beni kendimden istemiş olacak mıydınız?	0.056828211992979	1	0	0.8
+353	bizi onlardan istemişlermiş.	bizi onlardan istemişlermiş.	0.002631425159052	0	1	1.0
+354	seni istemiyorduk.	seni istemiyorduk.	0.0025746738538146	0	1	1.0
+355	onu senden istemeli.	onu senden istemeli.	0.0045284493826329	0	1	1.0
+356	bizi istemezler miymiş?	bizi istemezler miymiş?	1.5737145076855086e-05	0	1	1.0
+357	işiyor olmamalı mıymışsınız?	işiyor olmamalı mıymışsınız?	0.0120965419337153	0	1	1.0
+358	işemişsiniz.	işemişsiniz.	1.0075883665194851e-06	0	1	1.0
+359	işer olacak mıymışsınız?	işer olacak mıymışsınız?	1.1465388070064364e-06	0	1	1.0
+360	işemediler miydi?	işemediler miydi?	1.6946416508289985e-05	0	1	1.0
+361	işiyor olacak mısın?	işiyor olacak mısın?	0.0206009689718484	0	1	1.0
+362	işememeliymişiz.	işememeliymişiz.	1.093158880394185e-05	0	1	1.0
+363	işemez miymişsin?	işemez miymişsin?	9.677834896137938e-06	0	1	1.0
+364	işeiyor olmayacak mıymışız?	işiyor olmayacak mıymışız?	0.0808350145816803	1	0	0.6666666666666666
+365	işeyin!	işeyin!	0.0146183269098401	0	1	1.0
+366	işemiş miymiş?	işemiş miymiş?	1.8103121419699164e-06	0	1	1.0
+367	işiyor olacaklarmış.	işiyor olacaklarmış.	0.0204806346446275	0	1	1.0
+368	işememeli miyim?	işememeli miyim?	0.000300670042634	0	1	1.0
+369	işer olmayacak mıymışız?	işer olmayacak mıymışız?	1.8017335605691187e-06	0	1	1.0
+370	işemiyordu.	işemiyordu.	2.96480834549584e-06	0	1	1.0
+371	işemiş olacaklar mıydı?	işemiş olacaklar mıydı?	1.3368985491979402e-06	0	1	1.0
+372	işiyordu.	işiyordu.	0.0188184827566146	0	1	1.0
+373	işedin.	işedin.	4.511219231062569e-06	0	1	1.0
+374	işemiyor mu?	işemiyor mu?	4.800877377419965e-06	0	1	1.0
+375	işleyecek miymişiz?	işleyecek miymişiz?	1.138256152444228e-06	0	1	1.0
+376	onları işliyor olmamalıymışım.	onları işliyor olmamalıymışım.	9.159891305898782e-06	0	1	1.0
+377	işler olmayacakmışsınız.	işler olmayacakmışsınız.	1.6074295672297012e-06	0	1	1.0
+378	seni işleyecek.	seni işleyecek.	3.3993042052316014e-06	0	1	1.0
+379	onları işlemişmişsiniz.	onları işlemişmişsiniz.	1.999628466364811e-06	0	1	1.0
+380	seni işliyor olmamalılar mı?	seni işliyor olmamalılar mı?	2.89647559839068e-05	0	1	1.0
+381	seni işlemiş olmayacak mıyız?	seni işlemiş olmayacak mıyız?	1.3131648302078247e-06	0	1	1.0
+382	kendimize işlemez miydik?	kendimize işlemez miydik?	5.380992661230266e-06	0	1	1.0
+383	size işliyor olur muydum?	size işliyor olur muydum?	4.2340485379099846e-05	0	1	1.0
+384	bizi işliyor olmalısın.	bizi işliyor olmalısın.	0.0004233020008541	0	1	1.0
+385	onu işliyor olmalı mıydın?	onu işliyor olmalı mıydın?	4.77087996841874e-06	0	1	1.0
+386	onlara işlemiş olmayacaktı.	onlara işlemiş olmayacaktı.	3.7706449802499264e-06	0	1	1.0
+387	onlara işliyor olmamalı mıydın?	onlara işliyor olmamalı mıydın?	1.999562664423138e-05	0	1	1.0
+388	onu işlememişler.	onu işlememişler.	2.7729704015655443e-05	0	1	1.0
+389	kendimi işliyor olmalıyım.	kendimi işliyor olmalıyım.	1.3444813703245018e-05	0	1	1.0
+390	beni işliyor olmalıydı.	beni işliyor olmalıydı.	3.858156560454518e-06	0	1	1.0
+391	sizi işliyor olmazdı.	sizi işliyor olmazdı.	1.8888427803176452e-05	0	1	1.0
+392	onları işlemiş olacak mıydı?	onları işlemiş olacak mıydı?	3.193970769643784e-06	0	1	1.0
+393	onları işlememişler miymiş?	onları işlememişler miymiş?	3.232931339880452e-05	0	1	1.0
+394	işlermişsiniz.	işlermişsiniz.	2.4310404114658013e-05	0	1	1.0
+395	kararacaksın.	kararacaksın.	2.741785465332214e-06	0	1	1.0
+396	kararırmışım.	kararırmışım.	0.004321776330471	0	1	1.0
+397	kararmıyor muymuşsun?	kararmıyor muymuşsun?	2.57821648119716e-06	0	1	1.0
+398	kararıyor olmalı mıydınız?	kararıyor olmalı mıydınız?	2.155285983462818e-06	0	1	1.0
+399	kararırdık.	kararırdık.	0.0039329770952463	0	1	1.0
+400	kararmadılar mıydı?	kararmadılar mıydı?	1.516934389655944e-05	0	1	1.0
+401	kararmamalıyım.	kararmamalıyım.	0.0001871059503173	0	1	1.0
+402	kararmazmışsın.	kararmazmışsın.	2.416013785477844e-06	0	1	1.0
+403	kararmalısınız.	kararmalısınız.	4.071544753969647e-05	0	1	1.0
+404	kararmıyorlarmış.	kararmıyorlarmış.	3.4399429296172457e-06	0	1	1.0
+405	kararmalı mıydı?	kararmalı mıydı?	2.9504558369808365e-06	0	1	1.0
+406	kararacak olacakmışsın.	kararacak olacakmışsın.	2.0981744910386624e-06	0	1	1.0
+407	kararmamışsın.	kararmamışsın.	3.23442327498924e-06	0	1	1.0
+408	kararıyor olmayacakmışım.	kararıyor olmayacakmışım.	1.8838804862753025e-06	0	1	1.0
+409	kararmayacak mıydınız?	kararmayacak mıydınız?	1.145324404205894e-06	0	1	1.0
+410	kararmalılar.	kararmalılar.	3.892181121045724e-05	0	1	1.0
+411	kararıyor olmalı mıymışsınız?	kararıyor olmalı mıymışsınız?	1.860055249380821e-06	0	1	1.0
+412	kararıyor muydu?	kararıyor muydu?	8.05043146101525e-06	0	1	1.0
+413	kararıyor olacak mı?	kararıyor olacak mı?	2.0038808088429505e-06	0	1	1.0
+414	kararıyor olmalılardı.	kararıyor olmalılardı.	4.839767370867776e-06	0	1	1.0
+415	kararmışlar mıymış?	kararmışlar mıymış?	1.928560322994599e-06	0	1	1.0
+416	kararıyor olmalılar mıymış?	kararıyor olmalılar mıymış?	3.1990718980523525e-06	0	1	1.0
+417	seni kasmış olmayacak mıyım?	seni kasmış olmayacak mıyım?	2.1020573512942065e-06	0	1	1.0
+418	kendimizi kasarmışız.	kendimizi kasarmışız.	4.852649362874217e-05	0	1	1.0
+419	bizi kasmamalı mıydınız?	bizi kasmamalı mıydınız?	1.4030437341716606e-05	0	1	1.0
+420	onu kasıyorlar.	onu kasıyorlar.	3.530520643835189e-06	0	1	1.0
+421	onu kasıyor olmayacak mıymış?	onu kasıyor olmayacak mıymış?	1.426128733328369e-06	0	1	1.0
+422	onu kasmıyor muyduk?	onu kasmıyor muyduk?	9.672606893218472e-07	0	1	1.0
+423	seni kasıyor olacaksınız.	seni kasıyor olacaksınız.	8.66984646563651e-06	0	1	1.0
+424	sizi kasmamışlar mı?	sizi kasmamışlar mı?	1.3552935342886483e-06	0	1	1.0
+425	onu kasıyor olmalıymış.	onu kasıyor olmalıymış.	3.9461779124394525e-06	0	1	1.0
+426	onları kasıyor olmayacakmışsınız.	onları kasıyor olmayacakmışsınız.	2.693604074011091e-06	0	1	1.0
+427	onları kasar.	onları kasar.	0.0003753609780687	0	1	1.0
+428	onları kasmalı mıyım?	onları kasmalı mıyım?	0.0109304515644907	0	1	1.0
+429	kendinizi kasar mıymışsınız?	kendinizi kasar mıymışsınız?	1.1107063073723111e-05	0	1	1.0
+430	onu kasacak olmayacak mısınız?	onu kasacak olmayacak mısınız?	2.2706740310241003e-06	0	1	1.0
+431	onu kasmıyor musun?	onu kasmıyor musun?	5.523619620362297e-06	0	1	1.0
+432	kendini kasmayacak mıydın?	kendini kasmayacak mıydın?	7.676727364014369e-06	0	1	1.0
+433	beni kastı mıydınız?	beni kastı mıydınız?	1.1174994142493231e-05	0	1	1.0
+434	kendini kasmayacaksın.	kendini kasmayacaksın.	8.936862286645919e-06	0	1	1.0
+435	sizi kasmıyor muydum?	sizi kasmıyor muydum?	1.9283854726381837e-06	0	1	1.0
+436	bizi katılaştırmalıyım.	bizi katılaştırmalıyım.	0.0017023894470185	0	1	1.0
+437	onları katılaştırıyor.	onları katılaştırıyor.	8.109373084153049e-06	0	1	1.0
+438	beni katılaştıracak olmayacak mı?	beni katılaştıracak olmayacak mı?	2.479039267200278e-06	0	1	1.0
+439	seni katılaştırmalı mıydı?	seni katılaştırmalı mıydı?	2.432646624583868e-06	0	1	1.0
+440	onları katılaştırmalıydım.	onları katılaştırmalıydım.	2.2828135115560144e-06	0	1	1.0
+441	bizi katılaştırmalılardı.	bizi katılaştırmalılardı.	1.992710713238921e-05	0	1	1.0
+442	sizi katılaştırıyor olmamalı mıymışsın?	sizi katılaştırıyor olmamalı mıymışsın?	6.249171747185756e-06	0	1	1.0
+443	seni katılaştırmış olmayacak mıyım?	seni katılaştırmış olmayacak mıyım?	1.473661882300803e-06	0	1	1.0
+444	beni katılaştırmalıymış.	beni katılaştırmalıymış.	1.1384945537429305e-06	0	1	1.0
+445	seni katılaştırırlar.	seni katılaştırırlar.	6.9343659561127424e-06	0	1	1.0
+446	sizi katılaştırıyor olmamalı mıydın?	sizi katılaştırıyor olmamalı mıydın?	5.729106760554714e-06	0	1	1.0
+447	bizi katılaştırıyor olmamalıydın.	bizi katılaştırıyor olmamalıydın.	8.462888217763975e-05	0	1	1.0
+448	bizi katılaştırmadınız.	bizi katılaştırmadınız.	6.410224159481004e-06	0	1	1.0
+449	beni katılaştırmıyorsunuz.	beni katılaştırmıyorsunuz.	3.079126827287837e-06	0	1	1.0
+450	beni katılaştırıyor olmayacak mısınız?	beni katılaştırıyor olmayacak mısınız?	1.201280042550934e-06	0	1	1.0
+451	seni katılaştırmayacak mıydım?	seni katılaştırmayacak mıydım?	1.4823312994849402e-06	0	1	1.0
+452	onları katılaştırmışlarmış.	onları katılaştırmışlarmış.	1.453496497560991e-05	0	1	1.0
+453	komikleşmiş olmayacak mı?	komikleşmiş olmayacak mı?	1.2568431202453212e-06	0	1	1.0
+454	komikleşmiyorsun.	komikleşmiyorsun.	2.58086356552667e-06	0	1	1.0
+455	komikleşecekler miydi?	komikleşecekler miydi?	1.3655923794431146e-05	0	1	1.0
+456	komikleşiyor olmamalıymış.	komikleşiyor olmamalıymış.	1.085233520825568e-06	0	1	1.0
+457	komikleşmemeliydi.	komikleşmemeliydi.	2.095114723488223e-06	0	1	1.0
+458	komikleşmiş olmayacaklardı.	komikleşmiş olmayacaklardı.	7.860351729505055e-07	0	1	1.0
+459	komikleşir olacak mıymışsınız?	komikleşir olacak mıymışsınız?	1.2852300415033824e-06	0	1	1.0
+460	komikleşiyor olmamalı mıyım?	komikleşiyor olmamalı mıyım?	1.3402300282905344e-06	0	1	1.0
+461	komikleşecek miydi?	komikleşecek miydi?	2.347310555705917e-06	0	1	1.0
+462	komikleşti mi?	komikleşti mi?	0.0004854456055909	0	1	1.0
+463	komikleşiyormuşsunuz.	komikleşiyormuşsunuz.	1.5538244042545557e-06	0	1	1.0
+464	komikleşmeyecek miymişim?	komikleşmeyecek miymişim?	1.0077637853100896e-06	0	1	1.0
+465	komikleşmeliler.	komikleşmeliler.	0.0034453067928552	0	1	1.0
+466	komikleşiyorlarmış.	komikleşiyorlarmış.	4.024267127533676e-06	0	1	1.0
+467	komikleştik.	komikleştik.	0.0001478347985539	0	1	1.0
+468	komikleşmiş olmayacaklar.	komikleşmiş olmayacaklar.	1.17865647553117e-06	0	1	1.0
+469	komikleşmelilerdi.	komikleşmelilerdi.	0.0014310068218037	0	1	1.0
+470	komikleşmeyecekmişiz.	komikleşmeyecekmişiz.	9.046273703461338e-07	0	1	1.0
+471	komikleşmiş olmayacağım.	komikleşmiş olmayacağım.	3.3545034057169687e-06	0	1	1.0
+472	komikleşiyormuşsunuz.	komikleşiyormuşsunuz.	1.5538244042545557e-06	0	1	1.0
+473	kötüleşti miydik?	kötüleşti miydik?	4.012354474980384e-05	0	1	1.0
+474	kötüleşmiyorlar mıydı?	kötüleşmiyorlar mıydı?	3.1380111522594234e-06	0	1	1.0
+475	kötüleşiyor olmayacaktık.	kötüleşiyor olmayacaktık.	3.990749519289238e-06	0	1	1.0
+476	kötüleşiyor olmamalı mıydım?	kötüleşiyor olmamalı mıydım?	4.507858193392167e-06	0	1	1.0
+477	kötüleşecek miymişim?	kötüleşecek miymişim?	1.945789790624985e-06	0	1	1.0
+478	kötüleşmiyordu.	kötüleşmiyordu.	1.9119934222544543e-06	0	1	1.0
+479	kötüleşmemeliler miydi?	kötüleşmemeliler miydi?	2.4726605261093937e-06	0	1	1.0
+480	kötüleşiyor olacak mıydın?	kötüleşiyor olacak mıydın?	3.6476474178925855e-06	0	1	1.0
+481	kötüleşmiş olacaklardı.	kötüleşmiş olacaklardı.	8.246910510933958e-06	0	1	1.0
+482	kötüleşir misin?	kötüleşir misin?	0.0001238675031345	0	1	1.0
+483	kötüleşecek olacak mıymışım?	kötüleşecek olacak mıymışım?	1.2289536925891298e-06	0	1	1.0
+484	kötüleşiyor olmalı mıymış?	kötüleşiyor olmalı mıymış?	1.7261819493796793e-06	0	1	1.0
+485	kötüleşmeyecektim.	kötüleşmeyecektim.	9.133701155406017e-07	0	1	1.0
+486	kötüleşmez miymişsiniz?	kötüleşmez miymişsiniz?	9.602302952771424e-07	0	1	1.0
+487	kötüleşecekmiş.	kötüleşecekmiş.	6.937556804587075e-07	0	1	1.0
+488	kötüleşiyor olmayacakmış.	kötüleşiyor olmayacakmış.	1.217728822666686e-06	0	1	1.0
+489	kötüleşecek olmayacakmışsın.	kötüleşecek olmayacakmışsın.	9.046573268278736e-07	0	1	1.0
+490	sizi kötüleştiriyordum.	sizi kötüleştiriyordum.	9.38545690587489e-06	0	1	1.0
+491	seni kötüleştirir olmayacakmışsınız.	seni kötüleştirir olmayacakmışsınız.	2.4097862478811294e-06	0	1	1.0
+492	onu kötüleştiriyor olmamalıymış.	onu kötüleştiriyor olmamalıymış.	4.836403149965918e-06	0	1	1.0
+493	onları kötüleştirmeli miydin?	onları kötüleştirmeli miydin?	1.9199044345441507e-06	0	1	1.0
+494	kendilerini kötüleştirmemelilerdi.	kendilerini kötüleştirmemelilerdi.	1.852688365033828e-05	0	1	1.0
+495	bizi kötüleştiriyor olacaklar.	bizi kötüleştiriyor olacaklar.	2.521895112295169e-05	0	1	1.0
+496	sizi kötüleştiriyor olmayacaktı.	sizi kötüleştiriyor olmayacaktı.	9.916343515214976e-06	0	1	1.0
+497	kendimi kötüleştirmeliyim.	kendimi kötüleştirmeliyim.	2.5766234102775343e-05	0	1	1.0
+498	sizi kötüleştiriyor muyduk?	sizi kötüleştiriyor muyduk?	3.999848559033126e-06	0	1	1.0
+499	seni kötüleştirecek olmayacak mıymış?	seni kötüleştirecek olmayacak mıymış?	1.875835096143419e-06	0	1	1.0
+500	onları kötüleştirmeyecektik.	onları kötüleştirmeyecektik.	2.6728164357336937e-06	0	1	1.0
+501	onları kötüleştiriyor olmamalıyım.	onları kötüleştiriyor olmamalıyım.	3.478674898360623e-06	0	1	1.0
+502	onu kötüleştirmeliymiş.	onu kötüleştirmeliymiş.	8.75246314535616e-07	0	1	1.0
+503	onu kötüleştirmedi mi?	onu kötüleştirmedi mi?	2.088929250021465e-06	0	1	1.0
+504	seni kötüleştirmiyor mu?	seni kötüleştirmiyor mu?	1.74108595274447e-06	0	1	1.0
+505	bizi kötüleştirirdiniz.	bizi kötüleştirirdiniz.	7.425956573570147e-05	0	1	1.0
+506	onu kötüleştirirdik.	onu kötüleştirirdik.	9.381791642226744e-06	0	1	1.0
+507	bizi kötüleştirmemişmişim.	bizi kötüleştirmemişmişim.	5.341865835362114e-05	0	1	1.0
+508	seni kötüleştirmiş olacaktım.	seni kötüleştirmiş olacaktım.	1.5002580084910733e-06	0	1	1.0
+509	beni kötüleştirmeyecektin.	beni kötüleştirmeyecektin.	4.536066171567654e-06	0	1	1.0
+510	onları küremiş miyim?	onları küremiş miyim?	8.032464393181726e-06	0	1	1.0
+511	bizi küreyecek olmayacak mıymışsınız?	bizi küreyecek olmayacak mıymışsınız?	1.694654201855883e-05	0	1	1.0
+512	onu kürer olmayacakmışım.	onu kürer olmayacakmışım.	3.4280512863915646e-06	0	1	1.0
+513	kendinizi küremiş miydiniz?	kendinizi küremiş miydiniz?	6.868192576803267e-05	0	1	1.0
+514	onu küredilerdi.	onu küredilerdi.	0.0001213982395711	0	1	1.0
+515	sizi kürememiş miyim?	sizi kürememiş miyim?	7.132362497941358e-06	0	1	1.0
+516	kendini kürememişmiş.	kendini kürememişmiş.	4.515887667366769e-06	0	1	1.0
+517	bizi küremiştiniz.	bizi küremiştiniz.	0.0004424135258886	0	1	1.0
+518	beni kürediniz mi?	beni kürediniz mi?	5.655643235513708e-06	0	1	1.0
+519	sizi kürer miyim?	sizi kürer miyim?	1.1916767107322812e-05	0	1	1.0
+520	seni küreyecekmişsiniz.	seni küreyecekmişsiniz.	1.8811546397046183e-05	0	1	1.0
+521	sizi küremezler mi?	sizi küremezler mi?	2.426475930406013e-06	0	1	1.0
+522	kendini kürüyor olmalı mıymış?	kendini kürüyor olmalı mıymış?	1.5232056284730788e-05	0	1	1.0
+523	onları küremeyecek miydim?	onları küremeyecek miydim?	1.5960234804879292e-06	0	1	1.0
+524	onu kürüyor olmazdı.	onu kürüyor olmazdı.	8.256416549556889e-06	0	1	1.0
+525	bizi kürememiş.	bizi kürememiş.	9.693745596450754e-06	0	1	1.0
+526	sizi küreyeceğim.	sizi küreyeceğim.	3.5161316191079095e-05	0	1	1.0
+527	seni küremeyecekmiş.	seni küremeyecekmiş.	2.0150368982285727e-06	0	1	1.0
+528	onu küreyecek olacakmışsın.	onu küreyecek olacakmışsın.	0.0005157013074494	0	1	1.0
+529	kendini küremeyecekti.	kendini küremeyecekti.	2.8225447294971677e-06	0	1	1.0
+530	bizi küreyecek olmayacak.	bizi küreyecek olmayacak.	1.879613046185113e-05	0	1	1.0
+531	sizi küremişim.	sizi küremişim.	5.103204603074119e-05	0	1	1.0
+532	beni kürerlerdi.	beni kürerlerdi.	2.5921557607944123e-05	0	1	1.0
+533	küsüyordun.	küsüyordun.	2.287382585564046e-06	0	1	1.0
+534	küsüyor muydun?	küsüyor muydun?	2.387835820627515e-06	0	1	1.0
+535	küsüyor olmamalılar mı?	küsüyor olmamalılar mı?	1.3712034387936e-06	0	1	1.0
+536	küstü.	küstü.	0.0004181857802905	0	1	1.0
+537	küsmüyormuşuz.	küsmüyormuşuz.	4.847355285164667e-06	0	1	1.0
+538	küsüyor olmalıydı.	küsüyor olmalıydı.	1.0427054348838285e-06	0	1	1.0
+539	küser olmayacak mıymışsınız?	küser olmayacak mıymışsınız?	8.276621520053595e-05	0	1	1.0
+540	küsüyor olmalı mıyım?	küsüyor olmalı mıyım?	1.3231554021331249e-06	0	1	1.0
+541	küsüyormuş.	küsüyormuş.	1.0945580015686571e-06	0	1	1.0
+542	küserdik.	küserdik.	1.4506759725918528e-05	0	1	1.0
+543	küsmeliymiş.	küsmeliymiş.	7.018668384262128e-07	0	1	1.0
+544	küsmeliydim.	küsmeliydim.	3.6851361073786393e-07	0	1	1.0
+545	küsüyor olmayacak mı?	küsüyor olmayacak mı?	9.187920682052208e-07	0	1	1.0
+546	küsüyor olmamalılar.	küsüyor olmamalılar.	1.263646026927745e-06	0	1	1.0
+547	küsermiş.	küsermiş.	4.987719512428157e-05	0	1	1.0
+548	küsecek olmayacak mıymışsın?	küsecek olmayacak mıymışsın?	2.634119027788984e-06	0	1	1.0
+549	küsmemişler miydi?	küsmemişler miydi?	3.5953285077994224e-06	0	1	1.0
+550	onu kendinden kıskanmışmışsın.	onu kendinden kıskanmışmışsın.	0.0001324940385529	0	1	1.0
+551	onu bizden kıskanmıyorlar mıymış?	onu bizden kıskanmıyorlar mıymış?	0.0007500612409785	0	1	1.0
+552	kendilerini bizden kıskanıyor olmalılarmış.	kendilerini bizden kıskanıyor olmalılarmış.	0.0004309567157179	0	1	1.0
+553	bizi kendinden kıskanma!	bizi kendimizden kıskanma!	0.1448063254356384	3	0	0.6666666666666666
+554	beni kendimizden kıskanıyor olmamalı mıyız?	beni kendimizden kıskanıyor olmamalı mıyız?	0.0004571517347358	0	1	1.0
+555	kendilerini benden kıskanacak olacaklar.	kendilerini benden kıskanacak olacaklar.	0.0048186122439801	0	1	1.0
+556	kendini ondan kıskanır olacakmışsın.	kendini ondan kıskanır olacakmışsın.	0.0011443319963291	0	1	1.0
+557	onları kendimizden kıskanmamalı mıymışım?	onları kendilerinden kıskanmamalı mıymışım?	0.1810532361268997	4	0	0.75
+558	beni kıskanmış olmayacak mıydık?	beni kıskanmış olmayacak mıydık?	2.5550355076120468e-06	0	1	1.0
+559	kendilerini onlardan kıskanmayacaklar mıydı?	kendilerini onlardan kıskanmayacaklardı.	0.0674719661474227	5	0	0.5714285714285714
+560	onu ondan kıskanmıştınız.	onu ondan kıskanmıştınız.	0.0042775552719831	0	1	1.0
+561	beni onlardan kıskanıyor olurduk.	beni onlardan kıskanıyor olurduk.	0.0011609892826527	0	1	1.0
+562	beni kendinizden kıskanmamış mıymışsınız?	beni kendinizden kıskanmamış mıymışsınız?	0.0015500809531658	0	1	1.0
+563	seni bizden kıskanıyor olmalı.	seni bizden kıskanıyor olmalı.	0.0033112405799329	0	1	1.0
+564	onları benden kıskanmış olacaksınız.	onları benden kıskanmış olacaksınız.	5.905702710151672e-05	0	1	1.0
+565	beni kendimizden kıskanıyor olmamalı mıymışsınız?	beni kendimden kıskanıyor olmamalı mıymışsınız?	0.0860488563776016	2	0	0.8
+566	seni ondan kıskanmaz mı?	seni ondan kıskanmaz mı?	0.0036426340229809	0	1	1.0
+567	bizi benden kıskanmış olmayacak mıydı?	bizi benden kıskanmış olmayacak mıydı?	0.0015281526139006	0	1	1.0
+568	seni onlardan kıskanmadık.	seni onlardan kıskanmadık.	1.1678988812491298e-05	0	1	1.0
+569	sizi senden kıskanmalıydık.	sizi senden kıskanmalıydık.	0.000708510982804	0	1	1.0
+570	sizinle papaz oluyor olmaz mıydık?	sizinle papaz oluyor olmaz mıydık?	3.7710502510890365e-05	0	1	1.0
+571	benimle papaz olurlardı.	benimle papaz olurlardı.	0.0031966415699571	0	1	1.0
+572	onunla papaz olmuş olmayacak.	onunla papaz olmuş olmayacak.	0.0008088054601103	0	1	1.0
+573	kendinizle papaz olmuyorsunuz.	kendinizle papaz olmuyorsunuz.	1.4250632375478745e-05	0	1	1.0
+574	onunla papaz oluyor olmalı mıydık?	onunla papaz oluyor olmalı mıydık?	9.81284974841401e-05	0	1	1.0
+575	kendileriyle papaz olmuyorlar mıydı?	kendileriyle papaz olmuyorlar mıydı?	4.9917431169888005e-05	0	1	1.0
+576	onunla papaz oluyor olacaktınız.	onunla papaz oluyor olacaktınız.	7.306738098122878e-06	0	1	1.0
+577	sizinle papaz olmuş olacaktık.	sizinle papaz olmuş olacaktık.	3.901862510247156e-05	0	1	1.0
+578	onlarınla papaz olmayacak mı?	onlarınla papaz olmayacak mı?	0.0005344167584553	0	1	1.0
+579	onlarınla papaz olacak mıymışsınız?	onlarınla papaz olacak olacak mıymışsınız?	0.0156379621475934	7	0	0.6666666666666666
+580	seninle papaz oluyor olmalı.	seninle papaz oluyor olmalı.	1.1396121408324689e-05	0	1	1.0
+581	sizinle papaz olmuşlar.	sizinle papaz olmuşlar.	4.42971104348544e-05	0	1	1.0
+582	onunla papaz olacakmışsınız.	onunla papaz olacakmışsınız.	6.937476427992806e-06	0	1	1.0
+583	bizimle papaz olmuyorum.	bizimle papaz olmuyorum.	0.000354438991053	0	1	1.0
+584	onlarınla papaz olmamışlarmış.	onlarınla papaz olmamışlarmış.	0.0001178881648229	0	1	1.0
+585	benimle papaz oldu mu?	benimle papaz oldu mu?	0.0006491867825388	0	1	1.0
+586	kendiyle papaz olacak mıydı?	kendiyle papaz olacak mıydı?	2.5536446628393605e-05	0	1	1.0
+587	sizinle papaz olacaklar mıymış?	sizinle papaz olur olacaklar mıymış?	0.1087516769766807	5	0	0.4444444444444444
+588	kendinizle papaz olmuş olacak mıydınız?	kendinizle papaz olmuş olacak mıydınız?	4.748915671370924e-05	0	1	1.0
+589	onunla papaz olmuş olmayacak mısınız?	onunla papaz olmuş olmayacak mısınız?	1.5147323210840112e-05	0	1	1.0
+590	kendimi savunıyor olmayacak mıymışım?	kendimi savunuyor olmayacak mıymışım?	0.0213708616793155	1	0	0.75
+591	sizi savunuyor olacaklardı.	sizi savunuyor olacaklardı.	0.0005775332683697	0	1	1.0
+592	kendilerini savunuyor olmalılar mı?	kendilerini savunuyor olmalılar mı?	0.0125405639410018	0	1	1.0
+593	onu savunmadıydı.	onu savunmadıydı.	1.3681674317922443e-06	0	1	1.0
+594	beni savunmamışlar mıymış?	beni savunmamışlar mıymış?	2.6345253445470007e-06	0	1	1.0
+595	kendini savunacak olmayacakmışsın.	kendini savunacak olmayacakmışsın.	6.316602139122551e-06	0	1	1.0
+596	beni savunır mısın?	beni savunur musun?	0.1210066229104995	3	0	0.3333333333333333
+597	onu savunmamışlar mı?	onu savunmamışlar mı?	9.109079655900132e-06	0	1	1.0
+598	bizi savunmuş olacak mıydı?	bizi savunmuş olacak mıydı?	0.0045390832237899	0	1	1.0
+599	onları savunma!	onları savunma!	0.0031689312309026	0	1	1.0
+600	bizi savunmış olmayacaktım.	bizi savunmuş olmayacaktım.	0.0266007836908102	1	0	0.6666666666666666
+601	seni savunuyor olmazlar mıydı?	seni savunuyor olmazlar mıydı?	0.0003320792748127	0	1	1.0
+602	onu savunmamalılarmış.	onu savunmamalılarmış.	3.5234745610068785e-06	0	1	1.0
+603	kendini savunmadı mıydın?	kendini savunmadı mıydın?	9.023961865750609e-06	0	1	1.0
+604	beni savunmuşlar mıydı?	beni savunmuşlar mıydı?	0.0178256351500749	0	1	1.0
+605	onu savundılar mıydı?	onu savundular mıydı?	0.0251600481569767	1	0	0.6666666666666666
+606	onları savunmazmışsınız.	onları savunmazmışsınız.	2.4734251837799093e-06	0	1	1.0
+607	kendimi savunıyor olmaz mıydım?	kendimi savunuyor olmaz mıydım?	0.0358313061296939	1	0	0.75
+608	seni savunır olmayacaklar mıymış?	seni savunur olmayacaklar mıymış?	0.0233857985585927	1	0	0.75
+609	onları savunıyor olmalı mıymışsınız?	onları savunuyor olmalı mıymışsınız?	0.1166122555732727	1	0	0.75
+610	kendimi savunmameliyim.	kendimi savunmameliyim.	0.0133165176957845	0	1	1.0
+611	onu savunuyor olmayacaklar.	onu savunuyor olmayacaklar.	0.0001559259108034	0	1	1.0
+612	seni savunmadılar mı?	seni savunmadılar mı?	1.4173373301673564e-06	0	1	1.0
+613	sizi savunuyor olacaklar mıydı?	sizi savunuyor olacaklar mıydı?	0.0021085003390908	0	1	1.0
+614	seni seyretmiş olacağız.	seni seyretmiş olacağız.	7.390634891635273e-06	0	1	1.0
+615	beni seyretiyor olacakmışsın.	beni seyretiyor olacakmışsın.	7.933188499009702e-06	0	1	1.0
+616	beni seyretecek olacakmışsınız.	beni seyretecek olacakmışsınız.	4.05139599024551e-06	0	1	1.0
+617	seni seyretiyor olmamalıydım.	seni seyretiyor olmamalıydım.	1.6828109437483363e-05	0	1	1.0
+618	onları seyretmemelilerdi.	onları seyretmemelilerdi.	4.752315362566151e-06	0	1	1.0
+619	beni seyretiyor olmayacaktık.	beni seyretiyor olmayacaktık.	3.479886117929709e-06	0	1	1.0
+620	onları seyretmiyor muyduk?	onları seyretmiyor muyduk?	8.084243177108874e-07	0	1	1.0
+621	sizi seyretmiş olacak mısın?	sizi seyretmiş olacak mısın?	4.752160293719498e-06	0	1	1.0
+622	seni seyretmiş olacak.	seni seyretmiş olacak.	6.3567945289833006e-06	0	1	1.0
+623	kendimi seyretmez miymişim?	kendimi seyretmez miymişim?	5.146630883245962e-06	0	1	1.0
+624	onları seyretirler mi?	onları seyretirler mi?	2.718951327551622e-05	0	1	1.0
+625	sizi seyretti miydi?	sizi seyretti miydi?	4.510894541454036e-06	0	1	1.0
+626	onları seyretecek miymiş?	onları seyretecek miymiş?	1.1518539395183325e-05	0	1	1.0
+627	onları seyretiyor olmamalı.	onları seyretiyor olmamalı.	7.785547495586798e-06	0	1	1.0
+628	onları seyretmiş olacak mıyım?	onları seyretmiş olacak mıyım?	3.545045501596178e-06	0	1	1.0
+629	kendini seyretmemeli miymiş?	kendini seyretmemeli miymiş?	5.062543550593546e-06	0	1	1.0
+630	onları seyretecek olmayacak mıymışsınız?	onları seyretecek olmayacak mıymışsınız?	2.722104682106874e-06	0	1	1.0
+631	kendimizi seyretiyor olurduk.	kendimizi seyretiyor olurduk.	7.018553787929704e-06	0	1	1.0
+632	onları seyretecek miymiş?	onları seyretecek miymiş?	1.1518539395183325e-05	0	1	1.0
+633	seni seyretmeliymiş.	seni seyretmeliymiş.	5.712823167414172e-06	0	1	1.0
+634	seni seyretecek olmayacak mıyız?	seni seyretecek olmayacak mıyız?	7.641777301614638e-06	0	1	1.0
+635	onu seçmiyor.	onu seçmiyor.	1.2827548516725074e-06	0	1	1.0
+636	kendimizi seçmeli miymişiz?	kendimizi seçmeli miymişiz?	3.440992486503092e-06	0	1	1.0
+637	seni seçmeyecek mi?	seni seçmeyecek mi?	4.162875484325923e-06	0	1	1.0
+638	kendinizi seçecek miymişsiniz?	kendinizi seçecek miymişsiniz?	1.4386661177923088e-06	0	1	1.0
+639	onu seçiyor olmalısın.	onu seçiyor olmalısın.	8.60522959555965e-06	0	1	1.0
+640	seni seçiyor muydu?	seni seçiyor muydu?	2.0108584067202173e-05	0	1	1.0
+641	bizi seçmiyor.	bizi seçmiyor.	1.9286491806269623e-05	0	1	1.0
+642	sizi seçmiyormuş.	sizi seçmiyormuş.	4.384027306514327e-06	0	1	1.0
+643	kendimizi seçmiş olmayacak mıydık?	kendimizi seçmiş olmayacak mıydık?	3.912193278665654e-06	0	1	1.0
+644	kendini seçecek miymişsin?	kendini seçecek miymişsin?	8.619822438049596e-06	0	1	1.0
+645	kendimizi seçer olacak mıymışız?	kendimizi seçer olacak mıymışız?	6.8182393988536205e-06	0	1	1.0
+646	sizi seçiyor olur muydum?	sizi seçiyor olur muydum?	8.32911318866536e-05	0	1	1.0
+647	bizi seçmeyecekler.	bizi seçmeyecekler.	7.836033546482213e-06	0	1	1.0
+648	onu seçiyor olmalı.	onu seçiyor olmalı.	3.763223730857135e-06	0	1	1.0
+649	beni seçiyor olmamalısın.	beni seçiyor olmamalısın.	8.460418939648662e-06	0	1	1.0
+650	onu seçecek olmayacak mı?	onu seçecek olmayacak mı?	3.4042618608509656e-06	0	1	1.0
+651	kendini seçmiyor musun?	kendini seçmiyor musun?	2.172504900954664e-05	0	1	1.0
+652	sizi seçiyor olacaklar mıydı?	sizi seçiyor olacaklar mıydı?	2.153059176634997e-05	0	1	1.0
+653	sikilmiyorduk.	sikilmiyorduk.	1.5769654737596284e-06	0	1	1.0
+654	sikilmemiş miymişsiniz?	sikilmemiş miymişsiniz?	2.4114549432852077e-06	0	1	1.0
+655	sikiliyoruz.	sikiliyoruz.	4.165407517575659e-06	0	1	1.0
+656	sikilmiş olacaktı.	sikilmiş olacaktı.	4.531014837994007e-06	0	1	1.0
+657	sikilir olacakmışsın.	sikilir olacakmışsın.	1.546999737911392e-05	0	1	1.0
+658	sikilmemiş miydi?	sikilmemiş miydi?	8.405414519074839e-06	0	1	1.0
+659	sikilmezsiniz.	sikilmezsiniz.	4.717122919828398e-06	0	1	1.0
+660	sikiliyordunuz.	sikiliyordunuz.	2.309098363184603e-06	0	1	1.0
+661	sikiliyor olmazlardı.	sikiliyor olmazlardı.	4.238387646182673e-06	0	1	1.0
+662	sikiliyor olmalı mıydın?	sikiliyor olmalı mıydın?	4.712328973255353e-06	0	1	1.0
+663	sikilmemelisiniz.	sikilmemelisiniz.	5.002301804779563e-06	0	1	1.0
+664	sikildim mi?	sikildim mi?	1.0141310667677317e-05	0	1	1.0
+665	sikilmeyecek miydin?	sikilmeyecek miydin?	8.966936547949445e-06	0	1	1.0
+666	sikilmeyecek misin?	sikilmeyecek misin?	1.4921932915967773e-06	0	1	1.0
+667	sikiliyor olmamalı mıydık?	sikiliyor olmamalı mıydık?	2.668817842277349e-06	0	1	1.0
+668	sikilmiştin.	sikilmiştin.	1.2321963367867284e-05	0	1	1.0
+669	sikiliyor olacak mıymış?	sikiliyor olacak mıymış?	2.623391083034221e-06	0	1	1.0
+670	sikilmiş miymiş?	sikilmiş miymiş?	2.393059048699797e-06	0	1	1.0
+671	sikilecek olmayacaksınız.	sikilecek olmayacaksınız.	8.74209831636108e-07	0	1	1.0
+672	sikilmeyecekler miymiş?	sikilmeyecekler miymiş?	1.944446466950467e-06	0	1	1.0
+673	sikilmemiş miyiz?	sikilmemiş miyiz?	3.236253178329207e-06	0	1	1.0
+674	sikiliniz!	sikiliniz!	0.000148379796883	0	1	1.0
+675	sikilmeli miydiniz?	sikilmeli miydiniz?	1.3290465403770213e-06	0	1	1.0
+676	soluyor olmalı mı?	soluyor olmalı mı?	6.417674740077928e-06	0	1	1.0
+677	solmameli misin?	solmamalı mısın?	0.0405379720032215	4	0	0.0
+678	solacaklar.	solacaklar.	8.463672202196904e-06	0	1	1.0
+679	soluyoruz.	soluyoruz.	5.06943024447537e-06	0	1	1.0
+680	solacaklardı.	solacaklardı.	6.626918093388667e-06	0	1	1.0
+681	solacakmışım.	solacakmışım.	5.483435415953863e-06	0	1	1.0
+682	solmuş musunuz?	solmuş musunuz?	6.600533197342884e-06	0	1	1.0
+683	solmuyormuşuz.	solmuyormuşuz.	2.1680673398805084e-06	0	1	1.0
+684	solur olacak mıymışsın?	solar olacak mıymışsın?	0.1071019172668457	1	0	0.6666666666666666
+685	solmalıyız.	solmalıyız.	0.0033382065594196	0	1	1.0
+686	solmuyor mu?	solmuyor mu?	4.812547103938414e-06	0	1	1.0
+687	solmuyorsun.	solmuyorsun.	5.549751676880987e-06	0	1	1.0
+688	solmamıştınız.	solmamıştınız.	4.472771706787171e-06	0	1	1.0
+689	solmayacak.	solmayacak.	2.017712859014864e-06	0	1	1.0
+690	solmuş olacak.	solmuş olacak.	2.274175812999601e-06	0	1	1.0
+691	solmamalılar.	solmamalılar.	0.0098302643746137	0	1	1.0
+692	soluyor olmayacak mıyız?	soluyor olmayacak mıyız?	8.401414675063279e-07	0	1	1.0
+693	soluyor olurdun.	soluyor olurdun.	3.1347192361863563e-06	0	1	1.0
+694	soluyor olmamalı mıydınız?	soluyor olmamalı mıydınız?	2.4868409127520863e-06	0	1	1.0
+695	solmamışsınız.	solmamışsınız.	2.1104638108226936e-06	0	1	1.0
+696	kendimize sövecek miyiz?	kendimize sövecek miyiz?	2.616256824694574e-05	0	1	1.0
+697	ona sövmüş olacak mıyız?	ona sövmüş olacak mıyız?	1.68469559866935e-05	0	1	1.0
+698	bana sövmez misiniz?	bana sövmez misiniz?	1.878412331279833e-05	0	1	1.0
+699	sana sövmezlermiş.	sana sövmezlermiş.	1.4234000445867425e-05	0	1	1.0
+700	ona sövme!	ona sövme!	6.472178483818425e-06	0	1	1.0
+701	size sövmüyordu.	size sövmüyordu.	3.786442903219722e-05	0	1	1.0
+702	ona sövmüş müymüşüm?	ona sövmüş müymüşüm?	4.152044130023569e-05	0	1	1.0
+703	size sövüyorlardı.	size sövüyorlardı.	6.821483111707494e-05	0	1	1.0
+704	sana sövüyor muyuz?	sana sövüyor muyuz?	3.4446602512616664e-05	0	1	1.0
+705	bize sövmüyor muymuş?	bize sövmüyor muymuş?	2.65094822680112e-05	0	1	1.0
+706	sana sövüyor olmayacaktık.	sana sövüyor olmayacaktık.	1.1977082067460287e-05	0	1	1.0
+707	sana söverlermiş.	sana söverlermiş.	4.799372254638001e-05	0	1	1.0
+708	bana sövmüş olacak mıyız?	bana sövmüş olacak mıyız?	1.8488561181584373e-05	0	1	1.0
+709	size sövüyor olacak mıydın?	size sövüyor olacak mıydın?	2.1226540411589667e-05	0	1	1.0
+710	bize sövmüyor muymuşum?	bize sövmüyor muymuşum?	7.416065636789426e-05	0	1	1.0
+711	kendinize sövüyor olmayacaksınız.	kendinize sövüyor olmayacaksınız.	8.277868801087607e-06	0	1	1.0
+712	sana sövmüyor mu?	sana sövmüyor mu?	6.293272690527374e-06	0	1	1.0
+713	sana sövmemişti.	sana sövmemişti.	2.950480666186195e-05	0	1	1.0
+714	bana sövdü müydünüz?	bana sövdü müydünüz?	0.0052938358858227	0	1	1.0
+715	size sövmüş olacağım.	size sövmüş olacağım.	7.263905445142882e-06	0	1	1.0
+716	sizi süpürüyor muymuşum?	sizi süpürüyor muymuşum?	4.866885319643188e-06	0	1	1.0
+717	kendimi süpürmedim.	kendimi süpürmedim.	5.64130141356145e-06	0	1	1.0
+718	bizi süpürmüş olmayacak mıydım?	bizi süpürmüş olmayacak mıydım?	7.644570359843783e-06	0	1	1.0
+719	sizi süpürdüler mi?	sizi süpürdüler mi?	7.39031020202674e-06	0	1	1.0
+720	bizi süpürmüyordunuz.	bizi süpürmüyordunuz.	1.022247761284234e-05	0	1	1.0
+721	seni süpürecek olmayacaklar mı?	seni süpürecek olmayacaklar mı?	1.12163752419292e-05	0	1	1.0
+722	onu süpürürler miydi?	onu süpürürler miydi?	3.7247693853714736e-06	0	1	1.0
+723	onu süpürecek miymiş?	onu süpürecek miymiş?	2.609428292998928e-06	0	1	1.0
+724	beni süpürüyor muymuş?	beni süpürüyor muymuş?	3.595238013076596e-06	0	1	1.0
+725	kendilerini süpürür olmayacaklar mıymış?	kendilerini süpürür olmayacaklar mıymış?	6.818040674261283e-06	0	1	1.0
+726	seni süpürecek miymişiz?	seni süpürecek miymişiz?	4.982859536539763e-06	0	1	1.0
+727	onu süpür!	onu süpürün!	0.0206857118755579	2	0	0.5
+728	seni süpürüyorsunuz.	seni süpürüyorsunuz.	2.528344703023322e-05	0	1	1.0
+729	onu süpürmemeli miymişsin?	onu süpürmemeli miymişsin?	1.7561951608513482e-06	0	1	1.0
+730	seni süpürüyor olacak mısınız?	seni süpürüyor olacak mısınız?	1.95413322217064e-05	0	1	1.0
+731	onları süpürmüş olacaktım.	onları süpürmüş olacaktım.	2.79906407740782e-06	0	1	1.0
+732	beni süpürmemeli miymişsin?	beni süpürmemeli miymişsin?	4.3554400690482e-06	0	1	1.0
+733	seni süpürmez miymişsiniz?	seni süpürmez miymişsiniz?	2.0934216991008725e-06	0	1	1.0
+734	onları kendilerine takıyor muydunuz?	onları kendilerine takıyor muydunuz?	0.013157682493329	0	1	1.0
+735	onları bize takacak mısınız?	onları bize takacak mısınız?	1.8976083083543926e-05	0	1	1.0
+736	seni ona takıyor olmalılar mı?	seni ona takıyor olmalılar mı?	3.7702889130741823e-06	0	1	1.0
+737	kendini takıyor olurdun.	kendini takıyor olurdun.	2.416254937998019e-05	0	1	1.0
+738	onu ona takıyor olmamalı mıymışım?	onu ona takıyor olmamalı mıymışım?	1.159964540420333e-05	0	1	1.0
+739	onları kendilerine takardım.	onları kendilerine takardım.	0.0151990531012415	0	1	1.0
+740	beni ona takıyor muydu?	beni ona takıyor muydu?	1.8978143998538144e-05	0	1	1.0
+741	onları bana taktılar mıydı?	onları bana taktılar mıydı?	0.0003879448631778	0	1	1.0
+742	beni onlara takmamalısınız.	beni onlara takmamelisiniz.	0.0305867847055196	4	0	0.6666666666666666
+743	sizi kendinize takıyorum.	sizi kendinize takıyorum.	0.0004688776971306	0	1	1.0
+744	onu bize takmış olmayacak mıydım?	onu bize takmış olmayacak mıydım?	0.0003032472450286	0	1	1.0
+745	sizi kendinize takıyor olmayacak mı?	sizi kendinize takıyor olmayacak mı?	0.0001511296431999	0	1	1.0
+746	sizi kendime takıyor muymuşum?	sizi kendime takıyor muymuşum?	1.551382774778176e-05	0	1	1.0
+747	beni bize takmayacakmış.	beni bize takmayacakmış.	9.761024557519704e-06	0	1	1.0
+748	onları onlara takıyordun.	onları onlara takıyordun.	3.427366027608514e-05	0	1	1.0
+749	kendini bana takıyor olmalıydı.	kendini bana takıyor olmalıydı.	0.0002124787861248	0	1	1.0
+750	bizi sana takıyor olacak mıymışsınız?	bizi sana takıyor olacak mıymışsınız?	0.0005271098343655	0	1	1.0
+751	beni kendime takıyor olmayacak mıydın?	beni kendime takıyor olmayacak mıydın?	0.0003759440733119	0	1	1.0
+752	kendilerini takmadılar mı?	kendilerini takmadılar mı?	4.3014856601075735e-06	0	1	1.0
+753	sizi ona takıyor olmayacaktım.	sizi ona takıyor olmayacaktım.	4.730163709609769e-05	0	1	1.0
+754	seni onlara takıyor olmamalıydık.	seni onlara takıyor olmamalıydık.	6.975606083869934e-06	0	1	1.0
+755	sizi kendinize takmıyorlar mıydı?	sizi kendinize takmıyorlar mıydı?	0.0019009399693459	0	1	1.0
+756	beni tarıyor olur muydun?	beni tarıyor olur muydun?	6.085917448217515e-06	0	1	1.0
+757	onu tarıyor olmamalıydın.	onu tarıyor olmamalıydın.	3.405457846383797e-06	0	1	1.0
+758	onu tararlarmış.	onu tararlarmış.	1.2362828783807345e-05	0	1	1.0
+759	onları taramıyor muydum?	onları taramıyor muydum?	0.0001120242231991	0	1	1.0
+760	onları tarıyoruz.	onları tarıyoruz.	2.6727137083071284e-05	0	1	1.0
+761	onları taramıyorlar.	onları taramıyorlar.	0.0001362183102173	0	1	1.0
+762	seni tarıyorum.	seni tarıyorum.	2.3597887775395066e-05	0	1	1.0
+763	onu tarıyor olacak mıymışım?	onu tarıyor olacak mıymışım?	2.823478826030623e-05	0	1	1.0
+764	kendini tarayacak olmayacak mı?	kendini tarayacak olmayacak mı?	0.0001269908971153	0	1	1.0
+765	sizi tarıyor olmalı mıyım?	sizi tarıyor olmalı mıyım?	2.9249627914396115e-05	0	1	1.0
+766	onları taramamalıydım.	onları taramamalıydım.	5.702790531358914e-06	0	1	1.0
+767	seni tarıyor olmalısınız.	seni tarıyor olmalısınız.	4.274455932318233e-05	0	1	1.0
+768	onları taramış olacak mı?	onları taramış olacak mı?	2.483177922840696e-05	0	1	1.0
+769	onları taramamalı mıymış?	onları taramamalı mıymış?	2.2178617200552253e-06	0	1	1.0
+770	onu taramış mıymışsın?	onu taramış mıymışsın?	2.0063898773514666e-06	0	1	1.0
+771	onu tararmışım.	onu tararmışım.	0.0009519070154055	0	1	1.0
+772	onları tarayacak olacak mıymışsın?	onları taraacak olacak mıymışsın?	0.1209991946816444	1	0	0.75
+773	kendilerini tarıyor olmayacaklar mı?	kendilerini tarıyor olmayacaklar mı?	2.0760766346938908e-05	0	1	1.0
+774	bizi tarıyor olmalısın.	bizi tarıyor olmalısın.	0.0004769021179527	0	1	1.0
+775	seni topluyor olmalı mıymış?	seni topluyor olmalı mıymış?	9.625260281609373e-05	0	1	1.0
+776	onları topluyor olmalı mıymışım?	onları topluyor olmalı mıymışım?	0.0004222237039357	0	1	1.0
+777	sizi toplamamalıydım.	sizi toplamamalıydım.	6.722755188093288e-06	0	1	1.0
+778	onu toplamalıymışım.	onu toplamalıymışım.	2.271448920510011e-06	0	1	1.0
+779	bizi toplamış olmayacaklar mıydı?	bizi toplamış olmayacaklar mıydı?	8.03689363237936e-06	0	1	1.0
+780	onu toplamamalı.	onu toplamameli.	0.106998972594738	2	0	0.5
+781	seni topluyorlardı.	seni topluyorlardı.	4.703507875092328e-05	0	1	1.0
+782	beni toplamıştınız.	beni toplamıştınız.	1.7809085193221108e-06	0	1	1.0
+783	beni topluyor olmamalı mı?	beni topluyor olmamalı mı?	0.000339670543326	0	1	1.0
+784	beni toplamışız.	beni toplamışız.	5.252267783362186e-06	0	1	1.0
+785	seni topluyor olacaklardı.	seni topluyor olacaklardı.	7.434767030645162e-05	0	1	1.0
+786	kendinizi toplamamıştınız.	kendinizi toplamamıştınız.	4.541129328572424e-06	0	1	1.0
+787	seni toplamamışlardı.	seni toplamamışlardı.	5.823777428304311e-06	0	1	1.0
+788	kendimi topluyor olmamalıymışım.	kendimi topluyor olmamalıymışım.	4.047863330924884e-05	0	1	1.0
+789	seni topluyor olacakmışım.	seni topluyor olacakmışım.	4.7543697291985154e-05	0	1	1.0
+790	kendimizi toplamış mıymışız?	kendimizi toplamış mıymışız?	1.4528004612657242e-05	0	1	1.0
+791	bizi topluyor olacak mısın?	bizi topluyor olacak mısın?	0.0002426601131446	0	1	1.0
+792	bizi toplamıyordun.	bizi toplamıyordun.	9.314694761997087e-05	0	1	1.0
+793	kendinizi toplamıştınız.	kendinizi toplamıştınız.	3.5401155855652178e-06	0	1	1.0
+794	onları topluyor olmalı mıydım?	onları topluyor olmalı mıydım?	0.0087501918897032	0	1	1.0
+795	onu toplamış olacağız.	onu toplamış olacağız.	4.139851625950541e-06	0	1	1.0
+796	kendilerini topladılar mı?	kendilerini topladılar mı?	4.960911246598698e-05	0	1	1.0
+797	beni toplayacak olmayacak mıyız?	beni toplayacak olmayacak mıyız?	1.845230144681409e-05	0	1	1.0
+798	onu tükürmüş olacak mısınız?	onu tükürmüş olacak mısınız?	6.300118002400268e-06	0	1	1.0
+799	sizi tükürmüşsün.	sizi tükürmüşsün.	4.421523954079021e-06	0	1	1.0
+800	seni tükürüyor olacaklar mıydı?	seni tükürüyor olacaklar mıydı?	7.282083242898807e-05	0	1	1.0
+801	onu tükürmüş olmayacak mıyız?	onu tükürmüş olmayacak mıyız?	1.5790966472195578e-06	0	1	1.0
+802	kendini tükürüyor olmamalı mısın?	kendini tükürüyor olmamalı mısın?	2.4800694518489763e-05	0	1	1.0
+803	bizi tükürüyor olmalı.	bizi tükürüyor olmalı.	5.402873284765519e-05	0	1	1.0
+804	seni tükürüyor olmalıymışız.	seni tükürüyor olmalıymışız.	0.0002083416038658	0	1	1.0
+805	seni tükürürlermiş.	seni tükürürlermiş.	2.752129512373358e-05	0	1	1.0
+806	onları tükürmeyecek miydiniz?	onları tükürmeyecek miydiniz?	1.175375587081362e-06	0	1	1.0
+807	kendimi tükürecek olacakmışım.	kendimi tükürecek olacakmışım.	9.539721759210806e-06	0	1	1.0
+808	onu tükürecekmişiz.	onu tükürecekmişiz.	3.5622053928818787e-06	0	1	1.0
+809	kendilerini tükürdülerdi.	kendilerini tükürdülerdi.	1.5275294572347775e-05	0	1	1.0
+810	onları tükürmüyormuşum.	onları tükürmüyormuşum.	4.028548573842272e-06	0	1	1.0
+811	onu tükürüyor olmamalıydınız.	onu tükürüyor olmamalıydınız.	1.975251507246867e-06	0	1	1.0
+812	seni tükürecek olmayacakmışsınız.	seni tükürecek olmayacakmışsınız.	9.480803782935254e-06	0	1	1.0
+813	uyuyor olacaklar mıymış?	uyuyor olacaklar mıymış?	4.107461336388951e-06	0	1	1.0
+814	uyuyor olmazdınız.	uyuyor olmazdınız.	9.124770258495118e-06	0	1	1.0
+815	uyur mu?	uyur mu?	1.3234860489319544e-05	0	1	1.0
+816	uyumalı mıydı?	uyumalı mıydı?	2.213523657701444e-05	0	1	1.0
+817	uyuyor olurlar mıydı?	uyuyor olurlar mıydı?	7.901998287707102e-06	0	1	1.0
+818	uyumaz mıydık?	uyumaz mıydık?	1.7294112240051618e-06	0	1	1.0
+819	uyuyor olmamalıymış.	uyuyor olmamalıymış.	1.8968302128996584e-06	0	1	1.0
+820	uyuyacak olmayacak mıyız?	uyuyacak olmayacak mıyız?	0.0002209636004408	0	1	1.0
+821	uyuyor olmamalı mıymışsın?	uyuyor olmamalı mıymışsın?	3.703328502524528e-06	0	1	1.0
+822	uyur muymuşum?	uyur muymuşum?	1.960368990694405e-06	0	1	1.0
+823	uyuyacak olmayacaklar mı?	uyuyacak olmayacaklar mı?	0.0001010277919704	0	1	1.0
+824	uyuyacaklardı.	uyuyacaklardı.	0.0016696910606697	0	1	1.0
+825	uyur olmayacakmışsınız.	uyur olmayacakmışsınız.	2.197834646722185e-06	0	1	1.0
+826	uyumadın.	uyumadın.	7.16464091965463e-06	0	1	1.0
+827	uyuyor olacak mıydınız?	uyuyor olacak mıydınız?	4.152225756115513e-06	0	1	1.0
+828	uyumuş olacak mıydı?	uyumuş olacak mıydı?	1.331173962171306e-06	0	1	1.0
+829	uyumamışlardı.	uyumamışlardı.	1.1183494279976005e-05	0	1	1.0
+830	uyumuşsunuz.	uyumuşsunuz.	9.264493883165414e-07	0	1	1.0
+831	uyuyor olmayacak mıydım?	uyuyor olmayacak mıydım?	3.5964103517471813e-06	0	1	1.0
+832	uyudunuz.	uyudunuz.	0.0016007639933377	0	1	1.0
+833	uyuyor olurduk.	uyuyor olurduk.	4.531339072855189e-06	0	1	1.0
+834	uyuyor olmayacaklarmış.	uyuyor olmayacaklarmış.	2.2382930637832037e-06	0	1	1.0
+835	kendimi verimsizleştirmemeliymişim.	kendimi verimsizleştirmemeliymişim.	6.221004696271848e-06	0	1	1.0
+836	onu verimsizleştirmeyecek mi?	onu verimsizleştirmeyecek mi?	4.829464614886092e-06	0	1	1.0
+837	sizi verimsizleştiriyordum.	sizi verimsizleştiriyordum.	7.3574151429056656e-06	0	1	1.0
+838	seni verimsizleştiriyordunuz.	seni verimsizleştiriyordunuz.	1.2564907592604868e-05	0	1	1.0
+839	onları verimsizleştiriyor olacak mıymışım?	onları verimsizleştiriyor olacak mıymışım?	1.555263952468522e-05	0	1	1.0
+840	onu verimsizleştirmiş olacak mı?	onu verimsizleştirmiş olacak mı?	7.978101166372653e-06	0	1	1.0
+841	sizi verimsizleştirecek olacak mıymışım?	sizi verimsizleştirecek olacak mıymışım?	5.575065642915433e-06	0	1	1.0
+842	onu verimsizleştiriyor olmamalıydık.	onu verimsizleştiriyor olmamalıydık.	2.7219966796110384e-06	0	1	1.0
+843	beni verimsizleştirmiyormuşsunuz.	beni verimsizleştirmiyormuşsunuz.	3.1420104278367944e-06	0	1	1.0
+844	onu verimsizleştirir olacaklar mıymış?	onu verimsizleştirir olacaklar mıymış?	1.680830064287875e-05	0	1	1.0
+845	bizi verimsizleştirir miymiş?	bizi verimsizleştirir miymiş?	4.744148463942111e-05	0	1	1.0
+846	onu verimsizleştiriyor muymuş?	onu verimsizleştiriyor muymuş?	2.549013061070582e-06	0	1	1.0
+847	onları verimsizleştirmiş olacağız.	onları verimsizleştirmiş olacağız.	1.4582194125978276e-05	0	1	1.0
+848	beni verimsizleştirmiş olacaktınız.	beni verimsizleştirmiş olacaktınız.	4.248760433256393e-06	0	1	1.0
+849	kendini verimsizleştirmiş olacak mısın?	kendini verimsizleştirmiş olacak mısın?	6.437424417526927e-06	0	1	1.0
+850	onları verimsizleştiriyor olmayacağım.	onları verimsizleştiriyor olmayacağım.	3.658883315438288e-06	0	1	1.0
+851	bizi verimsizleştirecekler mi?	bizi verimsizleştirecekler mi?	1.045591397996759e-05	0	1	1.0
+852	sizi verimsizleştirmemiştik.	sizi verimsizleştirmemiştik.	8.596843144914601e-06	0	1	1.0
+853	beni verimsizleştiriyor olmalılar mıymış?	beni verimsizleştiriyor olmalılar mıymış?	4.3187606024730485e-06	0	1	1.0
+854	onu verimsizleştirmiş olmayacağım.	onu verimsizleştirmiş olmayacağım.	2.381216518188012e-06	0	1	1.0
+855	onları verimsizleştirir olacakmışsın.	onları verimsizleştirir olacakmışsın.	0.0003446102491579	0	1	1.0
+856	kendinizi bize yaptırtmış olmayacaksınız.	kendinizi bize yaptırtmış olmayacaksınız.	3.955460215365747e-06	0	1	1.0
+857	bizi bana yaptırtıyor olacaklardı.	bizi bana yaptırtıyor olacaklardı.	0.0001444880472263	0	1	1.0
+858	bizi size yaptırttıydın.	bizi size yaptırttıydın.	0.0028646469581872	0	1	1.0
+859	bizi ona yaptırtmalı mıymışsın?	bizi ona yaptırtmalı mıymışsın?	8.503808930981904e-05	0	1	1.0
+860	onları onlara yaptırtıyoruz.	onları onlara yaptırtıyoruz.	1.0532224223425146e-05	0	1	1.0
+861	beni size yaptırtırlar.	beni size yaptırtırlar.	0.000465592747787	0	1	1.0
+862	onu size yaptırtırdık.	onu size yaptırtırdık.	0.0008986416505649	0	1	1.0
+863	seni bana yaptırtacak mıyız?	seni bana yaptırtacak mıyız?	0.0002390902373008	0	1	1.0
+864	seni size yaptırtmışlardı.	seni size yaptırtmışlardı.	0.0001274429960176	0	1	1.0
+865	onu bize yaptırtmış olmayacaksınız.	onu bize yaptırtmış olmayacaksınız.	1.1417399946367368e-05	0	1	1.0
+866	beni onlara yaptırttı mıydık?	beni onlara yaptırttı mıydık?	0.0002412598551018	0	1	1.0
+867	kendilerini onlara yaptırtmıyorlarmış.	kendilerini onlara yaptırtmıyorlarmış.	3.354169166414067e-05	0	1	1.0
+868	sizi kendilerine yaptırtmadılar.	sizi kendilerine yaptırtmadılar.	5.330088606569916e-05	0	1	1.0
+869	bizi yaptırtmıyor mu?	bizi yaptırtmıyor mu?	3.0688877359352773e-06	0	1	1.0
+870	onu kendine yaptırtmalı mıymışız?	onu kendine yaptırtmalı mıymışız?	6.820543785579503e-05	0	1	1.0
+871	kendini yaptırttı.	kendini yaptırttı.	0.0048996396362781	0	1	1.0
+872	onu size yaptırtırız.	onu size yaptırtırız.	0.0007591770845465	0	1	1.0
+873	onları ona yaptırtmış olacak mısınız?	onları ona yaptırtmış olacak mısınız?	2.727049286477268e-05	0	1	1.0
+874	sizi yaracak mı?	sizi yaracak mı?	1.6184952983167022e-05	0	1	1.0
+875	onları yarmış olacaktım.	onları yarmış olacaktım.	4.184169665677473e-05	0	1	1.0
+876	kendini yarmış olacak mı?	kendini yarmış olacak mı?	3.91709500036086e-06	0	1	1.0
+877	beni yarmamalı mıymış?	beni yarmamalı mıymış?	1.690326598691172e-06	0	1	1.0
+878	seni yarar olacak mıymışsınız?	seni yarar olacak mıymışsınız?	2.8763062800862823e-05	0	1	1.0
+879	seni yarmış.	seni yarmış.	1.2532414075394629e-06	0	1	1.0
+880	sizi yarar olacak mıymışsın?	sizi yarar olacak mıymışsın?	1.895987043099012e-05	0	1	1.0
+881	sizi yaracaktın.	sizi yaracaktın.	2.7222897642786847e-06	0	1	1.0
+882	onları yaracak olacak mıymışım?	onları yaracak olacak mıymışım?	2.611268064356409e-05	0	1	1.0
+883	onları yarıyor olurlardı.	onları yarıyor olurlardı.	5.553810296987649e-06	0	1	1.0
+884	bizi yarmış olacaklar mı?	bizi yarmış olacaklar mı?	4.2037399907712825e-06	0	1	1.0
+885	sizi yarmamış mıydın?	sizi yarmamış mıydın?	3.1102267712412868e-06	0	1	1.0
+886	onları yarıyorlar mıymış?	onları yarıyorlar mıymış?	7.421368354698643e-05	0	1	1.0
+887	onları yarıyor musun?	onları yarıyor musun?	2.5483541321591474e-06	0	1	1.0
+888	kendilerini yarıyor olmayacaklar mıymış?	kendilerini yarıyor olmayacaklar mıymış?	1.2974594937986694e-05	0	1	1.0
+889	onu yarmayacak mıydınız?	onu yarmayacak mıydınız?	1.402186967425223e-06	0	1	1.0
+890	sizi yarıyor olmalı mıymışız?	sizi yarıyor olmalı mıymışız?	1.1902574442501646e-05	0	1	1.0
+891	onları yarmayacaklarmış.	onları yarmayacaklarmış.	4.378772700874833e-06	0	1	1.0
+892	kendinizi yarar mıymışsınız?	kendinizi yarar mıymışsınız?	5.059269460616633e-05	0	1	1.0
+893	sizi yarar olacaklarmış.	sizi yarar olacaklarmış.	0.0002002068649744	0	1	1.0
+894	beni yarıyor olmayacaklardı.	beni yarıyor olmayacaklardı.	1.4797820995227084e-06	0	1	1.0
+895	onları yıkamıyor muyduk?	onları yıkamıyor muyduk?	1.1580121963561396e-06	0	1	1.0
+896	onları yıkamamış mıyız?	onları yıkamamış mıyız?	8.607270274296752e-07	0	1	1.0
+897	kendimi yıkayacakmışım.	kendimi yıkayacakmışım.	4.369958787719952e-06	0	1	1.0
+898	sizi yıkayacak olacak.	sizi yıkayacak olacak.	8.637844075565226e-06	0	1	1.0
+899	bizi yıkamıştınız.	bizi yıkamıştınız.	2.4505350666004236e-05	0	1	1.0
+900	sizi yıkıyor olacak mıydı?	sizi yıkıyor olacak mıydı?	0.0003216374025214	0	1	1.0
+901	kendimi yıkıyor olmamalıydım.	kendimi yıkıyor olmamalıydım.	9.677085472503676e-05	0	1	1.0
+902	sizi yıkamalılar.	sizi yıkameliler.	0.1454726755619049	3	0	0.5
+903	sizi yıkıyor olmamalıydı.	sizi yıkıyor olmamalıydı.	0.0002394977927906	0	1	1.0
+904	kendini yıkıyor olmamalıymışsın.	kendini yıkıyor olmamalıymışsın.	0.0009579008328728	0	1	1.0
+905	bizi yıkamayacak mısınız?	bizi yıkamayacak mısınız?	6.24674748905818e-06	0	1	1.0
+906	onları yıkamamışmışsınız.	onları yıkamamışmışsınız.	4.726287079392933e-05	0	1	1.0
+907	kendimizi yıkamazız.	kendimizi yıkamayız.	0.134657934308052	1	0	0.5
+908	bizi yıkamıyormuşsunuz.	bizi yıkamıyormuşsunuz.	6.113405106589198e-05	0	1	1.0
+909	beni yıkamış olmayacak.	beni yıkamış olmayacak.	1.1198449101357255e-06	0	1	1.0
+910	bizi yıkamadıydın.	bizi yıkamadıydın.	8.275093568954617e-05	0	1	1.0
+911	onları yıkıyor muydun?	onları yıkıyor muydun?	0.0001173886412288	0	1	1.0
+912	onu yıkamamalı mıyız?	onu yıkamameli miyiz?	0.0959064364433288	4	0	0.3333333333333333
+913	onları yıkamamalısın.	onları yıkamamelisin.	0.1369733810424804	3	0	0.5
+914	onları yıkamamalı mıydı?	onları yıkamamalı mıydı?	2.369693902437575e-06	0	1	1.0
+915	onu yıkayacak olacak mıyız?	onu yıkayacak olacak mıyız?	1.4870456652715802e-05	0	1	1.0
+916	sizi yıkamamalı mıydım?	sizi yıkamamalı mıydım?	2.6172422167292098e-06	0	1	1.0
+917	beni yıkamamışlar mıydı?	beni yıkamamışlar mıydı?	5.885247810510919e-05	0	1	1.0
+918	yıpranıyor olmayacaktın.	yıpranıyor olmayacaktın.	2.500361233614967e-06	0	1	1.0
+919	yıpranırlar.	yıpranırlar.	5.356809197110124e-06	0	1	1.0
+920	yıpranıyor olmalılar mıymış?	yıpranıyor olmalılar mıymış?	5.363738637242932e-06	0	1	1.0
+921	yıpranıyor olmamalı mıydık?	yıpranıyor olmamalı mıydık?	5.1949036787846126e-06	0	1	1.0
+922	yıpranacak olacaklar.	yıpranacak olacaklar.	7.4649619818956126e-06	0	1	1.0
+923	yıpranmamıştı.	yıpranmamıştı.	9.996583685278893e-06	0	1	1.0
+924	yıpranmış olmayacak mıydın?	yıpranmış olmayacak mıydın?	2.1067282887088368e-06	0	1	1.0
+925	yıpranıyor olmalıymışız.	yıpranıyor olmalıymışız.	4.756271209771512e-06	0	1	1.0
+926	yıpranmayacak mısınız?	yıpranmayacak mısınız?	1.2513216915976957e-06	0	1	1.0
+927	yıpranmış olacak.	yıpranmış olacak.	3.061829829675844e-06	0	1	1.0
+928	yıpranıyor olmayacaklar mı?	yıpranıyor olmayacaklar mı?	1.757769155119604e-06	0	1	1.0
+929	yıpranmıştın.	yıpranmıştın.	9.975383363780566e-06	0	1	1.0
+930	yıpranmış mıydık?	yıpranmış mıydık?	9.445873729418963e-06	0	1	1.0
+931	yıpranmıyor muydunuz?	yıpranmıyor muydunuz?	1.79900257535337e-06	0	1	1.0
+932	yıpranmış mıydınız?	yıpranmış mıydınız?	9.93621961242752e-06	0	1	1.0
+933	yıpranmışmışız.	yıpranmışmışız.	3.045972562176757e-06	0	1	1.0
+934	yıpranacakmış.	yıpranacakmış.	2.203306394221727e-06	0	1	1.0
+935	yıpranacaktık.	yıpranacaktık.	2.063530018858728e-06	0	1	1.0
+936	yıpranmayacaklar mı?	yıpranmayacaklar mı?	1.849155978561612e-06	0	1	1.0
+937	yıpranmıyorlar.	yıpranmıyorlar.	9.19036210689228e-06	0	1	1.0
+938	onları çizecek olmayacak mı?	onları çizecek olmayacak mı?	0.0001497456250945	0	1	1.0
+939	beni çiziyor olacak mıymış?	beni çiziyor olacak mıymış?	9.31476733967429e-06	0	1	1.0
+940	onları çizmeyecek miydik?	onları çizmeyecek miydik?	4.56970610684948e-06	0	1	1.0
+941	seni çizecek olacakmışım.	seni çizecek olacakmışım.	5.113964107295033e-06	0	1	1.0
+942	kendini çizecek olmayacak mısın?	kendini çizecek olmayacak mısın?	7.054744855850004e-06	0	1	1.0
+943	onları çizmez miymişiz?	onları çizmez miymişiz?	1.2923244867124596e-05	0	1	1.0
+944	kendini çizer miymiş?	kendini çizer miymiş?	3.027659658982884e-06	0	1	1.0
+945	sizi çizmezdi.	sizi çizmezdi.	3.204160520908772e-06	0	1	1.0
+946	bizi çizer olacakmış.	bizi çizer olacakmış.	4.194326174911112e-05	0	1	1.0
+947	beni çizdi miydi?	beni çizdi miydi?	0.0018971482058987	0	1	1.0
+948	beni çiziyor olacakmış.	beni çiziyor olacakmış.	3.866470251523424e-06	0	1	1.0
+949	seni çizmeli miymişsiniz?	seni çizmeli miymişsiniz?	4.836979314859491e-06	0	1	1.0
+950	bizi çizmedim mi?	bizi çizmedim mi?	2.817699169099797e-05	0	1	1.0
+951	bizi çiziyor olmamalı mıyım?	bizi çiziyor olmamalı mıyım?	3.480230225250125e-05	0	1	1.0
+952	sizi çizer miyiz?	sizi çizer miyiz?	3.8001480788807385e-06	0	1	1.0
+953	onları çizmiş miydim?	onları çizmiş miydim?	5.3285893955035135e-06	0	1	1.0
+954	bizi çizmeyin!	bizi çizmeyin!	0.0006292891921475	0	1	1.0
+955	sizi çizer miymişsin?	sizi çizer miymişsin?	4.519004505709745e-06	0	1	1.0
+956	ürüyor olmalı mıymış?	ürüyor olmalı mıymış?	0.000204216397833	0	1	1.0
+957	ürememişsiniz.	ürememişsiniz.	1.47745527101506e-06	0	1	1.0
+958	ürüyor olacaklar.	ürüyor olacaklar.	0.0001713559904601	0	1	1.0
+959	üremiyor muydu?	üremiyor muydu?	7.813584488758352e-06	0	1	1.0
+960	üreyeceğiz.	üreyeceğiz.	7.798807928338647e-06	0	1	1.0
+961	üremeliymişsiniz.	üremeliymişsiniz.	9.44504961353232e-07	0	1	1.0
+962	ürememeliydi.	ürememeliydi.	5.992296337353764e-06	0	1	1.0
+963	ürüyor olurdun.	ürüyor olurdun.	0.0002347473346162	0	1	1.0
+964	üremiyorlar mıydı?	üremiyorlar mıydı?	1.3636712537845597e-05	0	1	1.0
+965	ürer olacaklar mıymış?	ürer olacaklar mıymış?	4.467447070055641e-06	0	1	1.0
+966	ürüyor olmalı mıydın?	ürüyor olmalı mıydın?	0.0003507824440021	0	1	1.0
+967	üremiyor muymuşsun?	üremiyor muymuşsun?	1.5068763786985072e-05	0	1	1.0
+968	ürememeli.	ürememeli.	5.9872374549740925e-05	0	1	1.0
+969	ürüyor olmayacak.	ürüyor olmayacak.	0.0002757269830908	0	1	1.0
+970	üremeyecekmişsin.	üremeyecekmişsin.	9.449955200580008e-07	0	1	1.0
+971	üremiş miymişim?	üremiş miymişim?	1.625087679713033e-05	0	1	1.0
+972	üreyecek olmayacak mıyım?	üreyecek olmayacak mıyım?	9.980482900573406e-06	0	1	1.0
+973	üremezler mi?	üremezler mi?	2.0070203845534702e-06	0	1	1.0
+974	üremeliyim.	üremeliyim.	3.5211642170907e-06	0	1	1.0
+975	ürüyor olmayacaklardı.	ürüyor olmayacaklardı.	0.0007613286725245	0	1	1.0
+976	ürüyor olmalıydı.	ürüyor olmalıydı.	0.0002438799128867	0	1	1.0
+977	ürememişler.	ürememişler.	1.5590177326885168e-06	0	1	1.0
+978	üreyecek olacak mısın?	üreyecek olacak mısın?	2.366942135267891e-05	0	1	1.0
+979	üşenmeyeceksiniz.	üşenmeyeceksiniz.	1.0499957170395646e-06	0	1	1.0
+980	üşenmiyor muymuşsun?	üşenmiyor muymuşsun?	1.2628561307792552e-06	0	1	1.0
+981	üşenmezler miydi?	üşenmezler miydi?	1.4702578710057423e-06	0	1	1.0
+982	üşenecek misiniz?	üşenecek misiniz?	1.1876890084749905e-06	0	1	1.0
+983	üşenmemişmiş.	üşenmemişmiş.	1.2892207905679245e-06	0	1	1.0
+984	üşenir olacakmışım.	üşenir olacakmışım.	2.6760701075545512e-05	0	1	1.0
+985	üşenmeyecekti.	üşenmeyecekti.	1.2093947816538275e-06	0	1	1.0
+986	üşenmemişler miydi?	üşenmemişler miydi?	1.134588546847226e-05	0	1	1.0
+987	üşenmiyoruz.	üşenmiyoruz.	1.7176067785840132e-06	0	1	1.0
+988	üşenmezdim.	üşenmezdim.	1.514397467872186e-06	0	1	1.0
+989	üşeniyorduk.	üşeniyorduk.	1.717499458209204e-06	0	1	1.0
+990	üşeniyor olur muydun?	üşeniyor olur muydun?	2.437205466776504e-06	0	1	1.0
+991	üşenir miymişsin?	üşenir miymişsin?	0.000104942912003	0	1	1.0
+992	üşenmeyecekler miymiş?	üşenmeyecekler miymiş?	1.7380045846948633e-06	0	1	1.0
+993	üşeniyorlar mıydı?	üşeniyorlar mıydı?	6.711168225592701e-06	0	1	1.0
+994	üşeniyor olmayacak mıydık?	üşeniyor olmayacak mıydık?	5.140232133271638e-06	0	1	1.0
+995	üşenmezler.	üşenmezler.	1.942775952556985e-06	0	1	1.0
+996	üşendiydim.	üşendiydim.	2.0620570921892067e-06	0	1	1.0
+997	üşenir olacaklarmış.	üşenir olacaklarmış.	4.18311647081282e-05	0	1	1.0
+998	üşenmiyor muyduk?	üşenmiyor muyduk?	8.085950753411453e-07	0	1	1.0
+999	üşenmeyecek miymişim?	üşenmeyecek miymişim?	1.1848097756228526e-06	0	1	1.0
