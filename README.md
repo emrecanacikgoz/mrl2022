@@ -12,10 +12,9 @@ Please try to obey the "rules" of our repo, to make everything as convenient as 
 At the end, lets beat this competition!
 
 ## Calendar of the Competition
-**Days left:** 17 <br/>
+**Days left:** 14 <br/>
 |Week|Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|30|25|26|27|28|29|30|31|
 |31|1|2|3|4|5|6|**7***|
 |32|8|9|10|11|12|13|**14***|
 |33|**15**:round_pushpin:|16|17|18|19|20|21|
