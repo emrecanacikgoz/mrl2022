@@ -1,0 +1,390 @@
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: seed - 0
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: train - ['data/tur-train-high']
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: dev - ['data/tur-dev']
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: test - ['data/tur-dev']
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: model - 'checkpoints/transformer/transformer/sigmorphon17-task1-dropout0.3/tur-high-'
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: load - ''
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: bs - 400
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: epochs - 20
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: max_steps - 20000
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: warmup_steps - 4000
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: total_eval - 50
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: optimizer - <Optimizer.adam: 'adam'>
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: scheduler - <Scheduler.warmupinvsqr: 'warmupinvsqr'>
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: lr - 0.001
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: min_lr - 1e-05
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: momentum - 0.9
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: beta1 - 0.9
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: beta2 - 0.98
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: estop - 1e-08
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: cooldown - 0
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: patience - 0
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: discount_factor - 0.5
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: max_norm - 1.0
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: gpuid - [0]
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: loglevel - 'info'
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: saveall - False
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: shuffle - True
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: cleanup_anyway - True
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: dataset - <Data.sigmorphon17task1: 'sigmorphon17task1'>
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: max_seq_len - 128
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: max_decode_len - 128
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: decode_beam_size - 5
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: init - ''
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: dropout - 0.3
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: embed_dim - 256
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: nb_heads - 4
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: src_layer - 4
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: trg_layer - 4
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: src_hs - 1024
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: trg_hs - 1024
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: label_smooth - 0.1
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: tie_trg_embed - False
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: arch - <Arch.transformer: 'transformer'>
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: nb_sample - 2
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: wid_siz - 11
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: indtag - False
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: decode - <Decode.greedy: 'greedy'>
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: mono - False
+INFO - 08/03/22 13:19:22 - 0:00:00 - command line argument: bestacc - True
+Source_c2i: {'<PAD>': 0, '<BOS>': 1, '<EOS>': 2, '<UNK>': 3, ' ': 4, '!': 5, '.': 6, '?': 7, 'a': 8, 'b': 9, 'c': 10, 'd': 11, 'e': 12, 'f': 13, 'g': 14, 'h': 15, 'i': 16, 'k': 17, 'l': 18, 'm': 19, 'n': 20, 'o': 21, 'p': 22, 'r': 23, 's': 24, 't': 25, 'u': 26, 'v': 27, 'y': 28, 'z': 29, 'ç': 30, 'ö': 31, 'ü': 32, 'ğ': 33, 'ı': 34, 'ş': 35}
+attr_c2i: {'ABL(1,PL)': 36, 'ABL(1,PL,RFLX)': 37, 'ABL(1,SG)': 38, 'ABL(1,SG,RFLX)': 39, 'ABL(2,PL)': 40, 'ABL(2,PL,RFLX)': 41, 'ABL(2,SG)': 42, 'ABL(2,SG,RFLX)': 43, 'ABL(3,PL)': 44, 'ABL(3,PL,RFLX)': 45, 'ABL(3,SG)': 46, 'ABL(3,SG,RFLX)': 47, 'ACC(1,PL)': 48, 'ACC(1,PL,RFLX)': 49, 'ACC(1,SG)': 50, 'ACC(1,SG,RFLX)': 51, 'ACC(2,PL)': 52, 'ACC(2,PL,RFLX)': 53, 'ACC(2,SG)': 54, 'ACC(2,SG,RFLX)': 55, 'ACC(3,PL)': 56, 'ACC(3,PL,RFLX)': 57, 'ACC(3,SG)': 58, 'ACC(3,SG,RFLX)': 59, 'BEN(1,PL)': 60, 'BEN(1,SG)': 61, 'BEN(2,PL)': 62, 'BEN(2,PL,RFLX)': 63, 'BEN(2,SG)': 64, 'BEN(3,PL)': 65, 'BEN(3,PL,RFLX)': 66, 'BEN(3,SG)': 67, 'COM(1,PL)': 68, 'COM(1,PL,RFLX)': 69, 'COM(1,SG)': 70, 'COM(1,SG,RFLX)': 71, 'COM(2,PL)': 72, 'COM(2,PL,RFLX)': 73, 'COM(2,SG)': 74, 'COM(2,SG,RFLX)': 75, 'COM(3,PL)': 76, 'COM(3,PL,RFLX)': 77, 'COM(3,SG)': 78, 'COM(3,SG,RFLX)': 79, 'DAT(1,PL)': 80, 'DAT(1,PL,RFLX)': 81, 'DAT(1,SG)': 82, 'DAT(1,SG,RFLX)': 83, 'DAT(2,PL)': 84, 'DAT(2,PL,RFLX)': 85, 'DAT(2,SG)': 86, 'DAT(2,SG,RFLX)': 87, 'DAT(3,PL)': 88, 'DAT(3,PL,RFLX)': 89, 'DAT(3,SG)': 90, 'DAT(3,SG,RFLX)': 91, 'FUT': 92, 'HAB': 93, 'IMP': 94, 'IND': 95, 'INFR': 96, 'LGSPEC1': 97, 'LOC(1,PL)': 98, 'LOC(1,SG)': 99, 'LOC(1,SG,RFLX)': 100, 'LOC(2,PL)': 101, 'LOC(2,PL,RFLX)': 102, 'LOC(2,SG)': 103, 'LOC(2,SG,RFLX)': 104, 'LOC(3,PL)': 105, 'LOC(3,PL,RFLX)': 106, 'LOC(3,SG)': 107, 'LOC(3,SG,RFLX)': 108, 'NEC': 109, 'NEG': 110, 'NOM(1,PL)': 111, 'NOM(1,SG)': 112, 'NOM(2,PL)': 113, 'NOM(2,PL,LGSPEC2)': 114, 'NOM(2,SG)': 115, 'NOM(3,PL)': 116, 'NOM(3,SG)': 117, 'PERF': 118, 'PROG': 119, 'PRS': 120, 'PRSP': 121, 'PST': 122, 'Q': 123}
+target_c2i: {'<PAD>': 0, '<BOS>': 1, '<EOS>': 2, '<UNK>': 3, ' ': 4, '!': 5, '.': 6, '?': 7, 'a': 8, 'b': 9, 'c': 10, 'd': 11, 'e': 12, 'f': 13, 'g': 14, 'h': 15, 'i': 16, 'k': 17, 'l': 18, 'm': 19, 'n': 20, 'o': 21, 'p': 22, 'r': 23, 's': 24, 't': 25, 'u': 26, 'v': 27, 'y': 28, 'z': 29, 'ç': 30, 'ö': 31, 'ü': 32, 'ğ': 33, 'ı': 34, 'ş': 35}
+
+INFO - 08/03/22 13:19:22 - 0:00:00 - src vocab size 36
+INFO - 08/03/22 13:19:22 - 0:00:00 - trg vocab size 124
+INFO - 08/03/22 13:19:22 - 0:00:00 - src vocab ['<PAD>', '<BOS>', '<EOS>', '<UNK>', ' ', '!', '.', '?', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'y', 'z', 'ç', 'ö', 'ü', 'ğ', 'ı', 'ş']
+INFO - 08/03/22 13:19:22 - 0:00:00 - trg vocab ['<PAD>', '<BOS>', '<EOS>', '<UNK>', ' ', '!', '.', '?', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'v', 'y', 'z', 'ç', 'ö', 'ü', 'ğ', 'ı', 'ş', 'ABL(1,PL)', 'ABL(1,PL,RFLX)', 'ABL(1,SG)', 'ABL(1,SG,RFLX)', 'ABL(2,PL)', 'ABL(2,PL,RFLX)', 'ABL(2,SG)', 'ABL(2,SG,RFLX)', 'ABL(3,PL)', 'ABL(3,PL,RFLX)', 'ABL(3,SG)', 'ABL(3,SG,RFLX)', 'ACC(1,PL)', 'ACC(1,PL,RFLX)', 'ACC(1,SG)', 'ACC(1,SG,RFLX)', 'ACC(2,PL)', 'ACC(2,PL,RFLX)', 'ACC(2,SG)', 'ACC(2,SG,RFLX)', 'ACC(3,PL)', 'ACC(3,PL,RFLX)', 'ACC(3,SG)', 'ACC(3,SG,RFLX)', 'BEN(1,PL)', 'BEN(1,SG)', 'BEN(2,PL)', 'BEN(2,PL,RFLX)', 'BEN(2,SG)', 'BEN(3,PL)', 'BEN(3,PL,RFLX)', 'BEN(3,SG)', 'COM(1,PL)', 'COM(1,PL,RFLX)', 'COM(1,SG)', 'COM(1,SG,RFLX)', 'COM(2,PL)', 'COM(2,PL,RFLX)', 'COM(2,SG)', 'COM(2,SG,RFLX)', 'COM(3,PL)', 'COM(3,PL,RFLX)', 'COM(3,SG)', 'COM(3,SG,RFLX)', 'DAT(1,PL)', 'DAT(1,PL,RFLX)', 'DAT(1,SG)', 'DAT(1,SG,RFLX)', 'DAT(2,PL)', 'DAT(2,PL,RFLX)', 'DAT(2,SG)', 'DAT(2,SG,RFLX)', 'DAT(3,PL)', 'DAT(3,PL,RFLX)', 'DAT(3,SG)', 'DAT(3,SG,RFLX)', 'FUT', 'HAB', 'IMP', 'IND', 'INFR', 'LGSPEC1', 'LOC(1,PL)', 'LOC(1,SG)', 'LOC(1,SG,RFLX)', 'LOC(2,PL)', 'LOC(2,PL,RFLX)', 'LOC(2,SG)', 'LOC(2,SG,RFLX)', 'LOC(3,PL)', 'LOC(3,PL,RFLX)', 'LOC(3,SG)', 'LOC(3,SG,RFLX)', 'NEC', 'NEG', 'NOM(1,PL)', 'NOM(1,SG)', 'NOM(2,PL)', 'NOM(2,PL,LGSPEC2)', 'NOM(2,SG)', 'NOM(3,PL)', 'NOM(3,SG)', 'PERF', 'PROG', 'PRS', 'PRSP', 'PST', 'Q']
+INFO - 08/03/22 13:19:23 - 0:00:00 - model: Transformer(
+                                       (src_embed): Embedding(36, 256, padding_idx=0)
+                                       (trg_embed): Embedding(124, 256, padding_idx=0)
+                                       (position_embed): SinusoidalPositionalEmbedding()
+                                       (encoder): TransformerEncoder(
+                                         (layers): ModuleList(
+                                           (0): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (1): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (2): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (3): TransformerEncoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                         )
+                                         (norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                       )
+                                       (decoder): TransformerDecoder(
+                                         (layers): ModuleList(
+                                           (0): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (1): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (2): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                           (3): TransformerDecoderLayer(
+                                             (self_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (multihead_attn): MultiheadAttention(
+                                               (out_proj): NonDynamicallyQuantizableLinear(in_features=256, out_features=256, bias=True)
+                                             )
+                                             (linear1): Linear(in_features=256, out_features=1024, bias=True)
+                                             (dropout): Dropout(p=0.3, inplace=False)
+                                             (linear2): Linear(in_features=1024, out_features=256, bias=True)
+                                             (norm1): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm2): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (norm3): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                             (activation_dropout): Dropout(p=0.3, inplace=False)
+                                           )
+                                         )
+                                         (norm): LayerNorm((256,), eps=1e-05, elementwise_affine=True)
+                                       )
+                                       (final_out): Linear(in_features=256, out_features=124, bias=True)
+                                       (dropout): Dropout(p=0.3, inplace=False)
+                                     )
+INFO - 08/03/22 13:19:23 - 0:00:00 - number of parameter 7446652
+INFO - 08/03/22 13:19:30 - 0:00:08 - maximum training 20000 steps (800 epochs)
+INFO - 08/03/22 13:19:30 - 0:00:08 - evaluate every 16 epochs
+INFO - 08/03/22 13:19:30 - 0:00:08 - At 0-th epoch with lr 0.000000.
+Source Batch: tensor([24, 21, 32,  9, 21, 21, 21, 21, 24, 24,  9, 24,  9, 21, 16, 21, 24,  9,
+         9, 11, 24, 21, 17, 21, 24, 24,  9, 21, 21, 21, 28, 11,  9, 21,  9, 21,
+         9,  9,  8, 28, 21, 21, 17, 17, 24, 21, 24,  9, 24, 14, 24, 25, 21, 24,
+         9, 24,  9, 21, 22,  9,  9, 21,  9, 32, 21, 21, 17,  9, 15,  9, 24, 21,
+        11, 17, 21, 21, 28, 21,  9, 12,  8,  9, 24, 21, 17,  9, 12, 21, 21, 21,
+        21,  9, 24,  8, 28,  9, 28, 17, 24, 21, 17, 17, 24, 24, 21, 21, 24, 24,
+         9, 21, 17, 24,  9, 17, 17,  9,  9, 21, 24, 24, 21, 32, 16, 21, 26,  9,
+        24, 21, 12, 12, 24, 21, 24, 21, 34, 32, 17,  9, 14, 17, 34, 25, 24,  9,
+        22, 24, 21, 24,  9,  9,  9, 24, 24, 24, 24,  9, 11, 26, 24,  9, 24, 21,
+        17, 21, 21, 24,  9, 21,  9, 21, 28, 10, 24, 17, 17,  9, 30, 21, 24, 24,
+        21, 21, 21, 17, 21, 17, 22, 21, 21, 21, 26,  9, 21, 24, 24, 24,  8, 21,
+         9, 24, 21,  9,  9, 24, 21,  9, 17, 32, 24, 21, 21,  9, 21,  9, 24, 21,
+        21, 21, 30, 21, 24, 24,  9, 14, 21, 24, 24, 21, 24, 22, 21, 24, 17, 17,
+        28, 35, 31,  8,  9, 17, 21,  9, 28, 21, 21, 11, 21, 24, 21,  9, 11, 21,
+        21, 21, 32,  9, 10, 17,  9, 17, 21, 17, 21, 21, 26, 21, 21,  9,  9, 17,
+         9, 28,  8, 24,  9,  9,  9,  9,  9, 17, 21,  9,  9, 17, 21, 24,  9, 17,
+         9, 17, 21,  9, 21, 21, 22, 17, 24, 15, 12, 26, 24, 21, 21, 24, 17,  9,
+         9, 17, 21, 28,  9, 11, 21, 21, 12, 34, 24,  9, 21, 24, 21,  9, 21, 21,
+         9,  9,  9, 21, 17, 21, 17, 21, 24,  9, 24, 17, 24, 24,  9,  9, 24, 21,
+         9,  9, 21, 21, 15, 21,  9,  9,  9, 24, 25,  9, 17,  9, 28, 21,  9, 21,
+        16,  9,  9, 21,  9, 25,  9, 24, 22,  9, 21, 23, 35, 34, 24, 21, 21,  8,
+        24, 32, 21, 24,  9, 21, 17, 17, 21, 21, 24, 24, 21,  9, 24,  9, 12, 24,
+        31, 17,  9, 13], device='cuda:0')
+Target Batch: tensor([ 96,  95,  96,  95,  94,  96,  95,  96,  95,  96,  95,  96, 109, 109,
+         96,  95,  96,  96, 109, 109, 109, 109, 109, 109,  95,  96,  95, 109,
+         95,  96, 109,  95,  96,  95,  96, 109,  95, 109, 109,  95,  96,  95,
+         95,  95, 109, 109,  96,  96, 109,  96,  96,  96,  96,  96,  96, 109,
+         95,  95,  95,  95,  95, 109,  95,  96,  95,  95,  95,  95,  95,  95,
+         95,  95,  95,  95,  96,  95,  95,  96,  96,  96,  95,  95,  96,  96,
+         95,  95,  96,  96,  95,  95, 109,  95,  96, 109,  96,  96, 109,  95,
+         96, 109,  96,  95,  96,  96,  95,  95,  95,  95, 109,  96,  96,  95,
+         96,  96, 109,  96,  95,  96,  96,  95,  96,  95,  96,  95,  95, 109,
+        109,  96,  96,  95, 109,  96, 109, 109,  96,  95,  95,  96,  96, 109,
+         95,  95,  95,  95,  96, 109,  96,  95,  95,  95, 109,  95,  96, 109,
+         96,  95,  96,  96,  95,  96,  95,  96,  96,  96,  96,  95,  96,  96,
+        109,  95,  96, 109, 109,  96,  95,  94,  95,  96, 109,  96,  95,  94,
+         95, 109,  96,  95, 109,  96,  96,  95,  95,  96,  95,  95,  96,  95,
+         95,  96,  95,  95,  96, 109,  96, 109,  95,  95,  95,  96, 109,  96,
+         95, 109, 109,  96,  96,  96,  96,  96,  96,  95,  95,  95,  95,  96,
+         95,  96, 109,  96, 109,  96,  96, 109,  95,  96, 109,  96,  96, 109,
+         95,  95,  96,  96,  95,  96, 109,  95,  95,  95,  95,  96,  95, 109,
+        109,  95,  95,  96,  96,  95,  96,  95,  96,  96,  96,  95,  95,  96,
+         96,  95,  96,  95,  95,  96,  95,  96, 109,  95, 109,  95,  96,  96,
+         96,  96, 109,  95,  96, 109,  95, 109,  95,  95,  96,  96,  96,  95,
+         96, 109, 109, 109,  95,  95,  96,  96,  96,  96,  95,  96,  95,  95,
+        109,  96,  95,  96,  95, 109,  96,  96,  96, 109, 109, 109, 109,  95,
+         96,  96,  95, 109,  95, 109,  96,  95,  95,  95,  96, 109,  96,  96,
+         95,  95,  95,  95,  95,  96,  95,  96,  96, 109,  96, 109,  96,  95,
+        109,  95,  95, 109, 109,  96,  96,  95,  95,  96,  95, 109, 109,  95,
+         95,  95, 109,  95,  95, 109,  95,  95,  96,  96, 109,  95,  96,  95,
+         95, 109,  96, 109,  96,  96,  95,  95,  95,  96,  96,  96,  96,  95,
+         95,  96,  95,  95,  95,  96,  95,  96], device='cuda:0')
+Source Batch: tensor([ 9,  9,  9,  9, 24, 17, 17, 21, 21,  9, 15,  9, 21,  8, 17, 17, 21, 21,
+        24,  9,  9, 21, 14,  8, 34, 24,  9, 28, 24, 21, 19, 17, 24, 24, 24, 10,
+        24, 21, 21, 24, 24, 24, 24, 15, 24,  9,  9,  9,  9, 24, 17, 17, 24,  9,
+        13, 21, 17, 21, 24, 35,  9, 24, 24, 24, 11, 24,  9, 24, 23, 17, 17,  9,
+        17, 24, 21,  9,  8, 21, 21, 28,  9,  9,  9, 21, 31, 14, 21,  9, 21, 24,
+         9,  9, 17, 21, 21, 24, 24, 24, 15, 24, 21, 21, 24, 21,  9, 17,  8, 17,
+        21, 17, 17, 21,  9, 21, 17, 21, 21, 21, 21, 28, 22,  9,  9, 24, 21, 24,
+         9, 17, 24, 11, 17, 24,  9, 24, 11,  9, 11,  9,  9, 17, 24, 21, 21,  9,
+        21, 21, 21, 21,  9, 17, 17, 17, 17, 24, 24, 17, 11, 21, 14, 24, 11, 14,
+        24, 24, 17,  9,  8,  9, 21, 24, 28, 21,  9, 24,  9, 24, 21, 11, 21, 21,
+        17, 21, 15, 21, 21, 17, 24, 24, 24, 24, 21, 17, 24,  9, 21,  9, 22,  9,
+        21, 17,  9, 24, 31, 28,  9, 24, 21, 24,  9, 21, 21,  9, 24, 21,  9,  9,
+        21,  9, 14, 24,  9, 17,  9, 34,  9, 24, 21,  8,  9,  9, 17, 13, 21, 21,
+         9, 28, 17, 21, 24, 21, 17, 10, 17, 17,  9, 21, 28, 21,  9, 21, 21,  9,
+        24, 28, 14, 24, 10,  9, 17, 21, 21, 21,  9, 17, 12, 24, 21, 21, 24, 21,
+        17,  9,  9, 16, 17, 24, 28, 14, 21, 24, 24, 17, 21, 21, 21, 24, 21, 11,
+        24, 21, 22, 24, 24, 21, 21, 24, 21,  9, 21, 11, 21, 21, 24, 21, 21, 21,
+        21, 17, 24,  9,  8,  9, 32, 24,  9, 17, 14, 21, 17, 24, 17,  9, 17, 24,
+        17, 21, 21, 21, 22, 17, 17, 17, 17, 17,  9, 30, 19, 17, 21, 17, 15, 24,
+        24, 22, 30, 15,  8, 32, 24, 21, 17, 24, 17, 24, 24, 17, 17, 24, 21, 17,
+        17,  9, 21, 17, 24,  9, 17, 17, 21, 21, 21, 31, 24, 21, 35, 34, 21, 21,
+        24,  9, 17, 24, 32, 21, 21, 24, 24,  9, 21, 17,  9, 21, 21, 30, 10, 21,
+         9, 21, 21, 17], device='cuda:0')
+Target Batch: tensor([109,  95,  95,  95,  96,  95,  96,  95, 109,  95,  95, 109, 109,  95,
+         96, 109,  96,  96,  96,  95,  95,  96,  96,  95,  96,  95,  95,  95,
+         95,  95,  96,  96,  96,  95,  95,  96,  96,  96,  96,  96,  96,  96,
+         95, 109,  96,  95,  96,  96, 109,  95,  96,  95,  96,  96,  96,  95,
+         95, 109,  95, 109,  96,  95, 109,  95,  95,  96,  96,  96,  95,  95,
+         95,  96,  96,  96,  95,  96,  96,  96,  95,  95,  96,  96,  96,  95,
+         95,  96,  96, 109,  95, 109,  96,  95,  96,  96, 109,  95, 109,  95,
+        109,  95,  96,  96,  95,  96,  96,  96,  95,  95,  96,  95,  95,  96,
+         96, 109,  95,  96,  95,  96,  95,  95,  95, 109,  95,  96, 109,  95,
+        109,  95,  96,  95,  96,  96, 109, 109,  95,  95,  95,  96,  96,  95,
+        109, 109,  96, 109,  95,  95,  95,  96,  95,  95,  96,  96,  95,  95,
+         96, 109,  96,  96,  96,  95,  95, 109,  96,  95,  96,  95,  96,  96,
+         95,  95,  96, 109,  96,  96,  96, 109,  96,  95,  96,  96,  96,  96,
+         96,  96,  95,  95, 109,  95, 109,  96,  96,  95,  95, 109,  96,  95,
+         96,  95,  95,  95,  96,  96, 109,  96,  95,  96,  96,  96,  96, 109,
+         95,  95,  95,  96,  96,  96, 109,  96,  95,  95, 109,  96,  95,  96,
+         96,  95, 109,  96,  96, 109,  95,  95,  96,  95,  96,  95, 109,  95,
+         96,  96,  96,  95,  96,  96,  96,  94,  95,  95,  95,  95,  95,  96,
+        109,  96,  96,  95, 109,  95,  96,  96,  95,  95,  95,  95, 109,  95,
+         96,  96,  95,  95,  95,  96,  95, 109, 109,  95, 109,  95,  96,  96,
+         95,  96,  95,  96,  95, 109,  95,  95,  96,  96, 109,  96,  95,  95,
+         96,  95,  96,  96, 109,  95,  95,  95,  95, 109,  95,  95, 109,  95,
+         96,  95,  95,  96,  96, 109,  96,  96,  94,  96,  95,  95,  96,  95,
+        109,  95,  96,  96,  95,  96,  95,  96, 109,  95,  96, 109,  96,  96,
+         95,  95,  95,  95,  95,  95,  95,  96,  96,  96,  96, 109, 109,  95,
+         95,  96, 109,  95,  95,  95,  96,  95,  95,  96,  96,  96,  96,  96,
+        109,  96,  95,  95,  95,  95,  96,  95,  95,  95,  95,  95,  96, 109,
+         96, 109,  95, 109, 109,  95,  95, 109,  96, 109,  95,  94,  96,  95,
+         95,  96,  95,  95, 109,  96,  95,  95], device='cuda:0')
+Source Batch: tensor([ 9, 21,  9,  9, 14, 24, 24, 24, 17, 17, 21, 31, 17,  9, 17, 21, 21, 11,
+        21, 17, 24, 24, 21, 21, 28, 21, 24, 17,  9, 21, 28, 17, 31, 21, 21,  9,
+        24, 21, 24, 21,  9, 21, 22,  9, 35, 24, 17, 17, 17, 24, 21, 21, 32, 24,
+        14, 21, 17, 24, 21, 21, 28, 21, 21, 11,  8, 24, 24, 24,  9,  8, 21,  9,
+        28, 24, 21, 24,  9,  9, 24, 17, 14,  9,  9, 21, 24,  9,  9, 24, 24, 21,
+        21,  9, 24, 24,  9, 31, 21,  9, 11, 22, 24, 24,  9, 17, 24, 17, 21, 21,
+         9, 21, 24,  9, 21,  9, 17, 15,  9, 24,  9, 21, 22, 21, 17, 11,  9, 11,
+        24, 17, 31, 21, 21,  9, 21, 24, 24, 17,  9, 24, 24, 11, 17, 24,  9, 21,
+        24, 12, 17, 24, 21, 17, 21, 24, 21, 21,  9, 21,  9, 24, 25, 15, 21, 28,
+         8, 21, 17,  9, 24, 17,  9, 17, 17,  9,  9,  9, 24, 21, 11, 24, 21, 24,
+        21,  9,  9,  9, 10,  9, 21, 21, 21, 22, 32,  9,  9, 24, 10, 21, 24, 17,
+        17, 21, 17, 24, 23, 24, 24, 24, 17, 22, 17, 24,  9, 17,  9, 21, 21,  9,
+        21, 21,  9, 17, 21, 24, 30,  9,  9, 21, 24,  9, 21, 21, 21, 15, 21,  9,
+        21,  9, 31,  9, 17,  9, 24, 24, 15, 17, 21,  9, 24, 24, 17, 24,  9, 28,
+        24, 21,  8, 17, 17, 17, 11, 24, 31, 28,  8, 21, 24, 24, 13, 11, 28, 21,
+        17, 17, 24,  9,  9, 17, 24, 24, 21, 14,  9, 21, 12, 21, 24, 24, 31,  9,
+        17, 24, 24, 17, 34,  9,  8, 21, 14, 24, 21,  9, 17, 10, 17,  9, 14, 17,
+        17, 24, 21, 28, 21, 28, 11, 11, 14, 31, 21,  9, 21, 21, 21,  9, 22, 24,
+        17,  9, 21, 21, 21, 14, 28, 24, 21, 21, 21, 31, 24,  9, 21, 21,  9, 24,
+        17,  9,  9, 21, 14, 21, 21,  9, 12, 24,  8, 21, 24, 17, 21, 28, 21, 10,
+         9, 21, 24, 21, 24,  9, 24, 24, 31,  9, 17, 17, 24,  9,  9,  9, 21, 21,
+         9,  9, 24, 21, 21, 21,  9,  9, 11,  9, 22, 11, 24,  9, 24, 24, 22, 17,
+        28, 24, 24,  9], device='cuda:0')
+Target Batch: tensor([ 95,  95, 109,  95,  96,  96,  95,  96,  95,  95,  96,  96,  96,  95,
+         96, 109,  96,  96, 109,  96,  95,  96, 109,  95,  96, 109,  95,  95,
+         95,  95,  95,  96,  96,  95,  94,  96,  96, 109,  95,  95,  96,  95,
+         95,  96,  95,  96,  96,  96,  95, 109,  95, 109,  95,  95, 109,  96,
+        109,  95,  96,  95,  95,  96, 109,  95,  96,  96,  95,  96,  95,  95,
+        109,  95,  95,  96,  95,  96,  95,  95,  95, 109,  95,  95,  95, 109,
+         96, 109,  95, 109,  96,  96,  95,  95, 109, 109,  95,  95, 109,  96,
+        109, 109,  95,  96,  96,  96,  95,  96,  95,  95,  96,  95,  95, 109,
+         95,  95,  96,  95,  95,  95,  95,  96,  95,  95,  95,  95,  95, 109,
+         95,  95,  96,  95,  95,  96,  96,  96,  95,  96,  95,  95,  96,  95,
+         95,  96,  96, 109,  96,  95, 109,  96,  96,  96,  95, 109,  96,  96,
+        109,  96,  96,  96,  96,  96,  95,  96,  95,  96,  96,  96,  96,  96,
+         95,  95,  95, 109,  94,  95,  94,  96, 109,  96, 109,  95,  95,  95,
+         96,  96,  95,  95,  96,  95,  95, 109,  96,  96,  95,  96,  95,  96,
+         95, 109,  95,  95, 109,  95,  95, 109,  95,  95, 109,  95,  95, 109,
+         96,  96,  95,  96,  95,  96,  96,  96,  95,  95,  95,  95,  95, 109,
+         95,  95,  96, 109,  95,  95,  96, 109,  96,  95,  96,  96, 109,  96,
+         96,  96, 109,  95,  96,  96, 109, 109,  96,  96,  96,  95,  95, 109,
+         95,  95, 109, 109,  95,  96,  95,  95,  95,  96,  95,  95,  96,  96,
+         95, 109, 109, 109,  96,  95, 109,  96, 109,  96,  96, 109,  96,  96,
+         96,  94,  96,  96,  95, 109,  96,  95,  95,  96,  96,  95,  95,  95,
+         96,  96, 109, 109,  96,  95,  96,  96, 109, 109,  96,  95,  95,  95,
+         96,  96,  95,  96, 109,  96,  96,  96,  96,  95,  95,  96,  96, 109,
+        109, 109,  96, 109,  95,  96, 109,  95, 109,  95,  95,  95,  95,  95,
+        109,  96,  96,  95,  95, 109,  95,  96, 109,  96,  96,  95,  96,  95,
+        109,  95,  96,  96,  95,  95,  95,  96,  96,  96, 109, 109,  96,  96,
+         95, 109,  94,  95, 109,  96,  95,  95,  96,  95,  95,  95,  95,  96,
+         95,  95, 109,  95,  96, 109,  95,  96,  94, 109,  96,  95,  95,  96,
+         95,  95,  96,  96,  96,  95,  95,  96], device='cuda:0')
+Source Batch: tensor([21, 24, 14,  9, 21, 24,  9, 24, 17, 24, 24, 21, 24, 21, 14,  9, 21, 24,
+        24, 17, 21, 21, 24, 25, 14, 21, 17, 14, 17, 24, 24, 32, 15,  9, 21,  9,
+        32,  9, 24, 21, 24, 28,  9, 21, 17, 28, 21, 21, 24, 21, 21,  9, 21, 21,
+        21,  9, 11,  9, 24,  9, 24, 31, 17, 21, 17, 24, 24, 17, 24,  9, 17, 25,
+        21,  8, 21,  9, 24, 17, 22,  9, 35, 24, 26, 21, 21, 24, 21, 31, 24, 24,
+         9, 21, 21, 24, 17, 21, 21, 17, 14, 21, 17, 21, 21, 17,  9, 24, 24,  9,
+         9, 21, 21, 21, 21, 24,  8, 21, 21, 24,  9, 21, 21, 17, 17, 22, 21, 24,
+         9,  9, 21, 21,  9,  9,  9,  9, 24, 22,  8,  9, 24,  9, 21,  9, 11, 24,
+        15, 24, 11, 17, 22,  9, 17, 17, 17,  9, 17,  9, 11, 24, 28, 15, 12, 17,
+        22, 21, 24, 21,  9, 21, 17, 17, 21, 24, 21,  9, 17, 24, 24, 17,  9,  9,
+        24, 17, 21, 24, 21, 22,  9, 24, 24, 21,  9,  9, 17, 26, 21, 24, 31,  9,
+        14,  9, 21, 17, 24, 32, 17, 21, 11, 24, 11,  9, 17, 17,  9, 24, 24, 10,
+        17, 24, 21, 21, 21, 32, 19, 24,  9, 17, 15, 24,  9, 21, 21, 12, 21, 21,
+        21, 21, 28, 21, 24, 21, 32, 32, 24,  9, 24, 24, 17, 21,  9, 24,  9, 17,
+        24, 15, 17, 24, 24, 24, 11, 21, 24,  9, 17, 17, 21,  9,  9,  8, 24, 12,
+         9, 17, 17, 10, 24, 24, 21, 24, 22, 17,  9, 21,  9, 24, 24, 24, 32,  9,
+         9, 30, 17, 11, 24, 11, 21, 24, 21,  9,  9,  9, 17, 21,  9, 24, 21, 21,
+        24,  9, 11,  9,  9, 11, 24, 21, 17, 17, 24, 17, 21, 17, 21, 21, 24, 24,
+        24, 24, 14, 21, 21, 24,  9, 31, 21,  9, 17,  9, 24, 14, 13,  8,  9, 21,
+        11, 21,  9, 21, 24, 24,  9, 21, 17, 21, 17, 17,  9, 21, 32, 11,  9, 15,
+        21, 24, 21,  9, 24,  9, 30,  9, 24, 24, 17, 21, 21,  9,  9,  9, 24, 24,
+        21, 21,  9, 28, 21, 21,  9, 17, 24, 24, 17,  9, 17, 21,  9, 17, 21, 21,
+         9, 17,  9, 21], device='cuda:0')
+Target Batch: tensor([ 95,  95,  96,  95,  96, 109,  96,  95, 109, 109,  96,  95, 109,  95,
+         96,  96,  95,  96,  95,  95,  96,  96, 109,  95, 109,  95,  96, 109,
+         95,  95, 109,  95,  95, 109,  96,  96,  95,  96,  95,  96,  95, 109,
+         96,  95,  96,  96, 109,  95,  95,  95,  95,  96,  96,  96,  96,  95,
+         96,  95,  95,  95,  96, 109,  95,  96,  95,  96,  96,  96,  95,  95,
+         96,  95,  95,  95, 109,  96, 109, 109,  95,  96, 109,  95,  96,  95,
+         95,  96,  96,  95, 109,  95,  95,  95, 109,  96,  95,  96,  95,  95,
+        109,  96,  96, 109,  95, 109, 109,  95,  95,  96,  96, 109,  95,  95,
+         96,  95,  95,  95,  96,  96,  96, 109,  96,  96,  95,  95,  95, 109,
+         95,  95,  95,  96,  95,  96,  96, 109, 109,  95,  95,  95, 109,  96,
+        109,  95,  96,  96,  95,  95, 109,  96,  95, 109,  95,  95,  95,  95,
+         96,  96,  96,  96,  95,  96, 109,  95, 109,  96, 109, 109,  95,  96,
+         96,  94, 109,  95,  96, 109,  95,  96,  95,  95,  95,  95,  95,  95,
+        109,  95,  96,  96,  96,  95,  96, 109,  96,  95,  95,  95,  96,  96,
+         95, 109,  95, 109,  96, 109,  96,  95,  95,  95,  95,  95,  96,  95,
+         96, 109,  96,  96, 109,  95,  96,  95,  96,  95, 109,  95,  95,  96,
+         96, 109,  96,  96,  95,  96,  95,  95,  96, 109,  96, 109, 109,  95,
+         96,  95,  95,  96,  95, 109,  95,  95,  95,  96,  95,  96,  96,  95,
+         96,  95,  96,  96, 109,  96,  95,  96,  96, 109,  96,  95,  96,  96,
+        109,  95,  95,  96,  96,  96,  96,  96,  96,  96, 109,  96,  95, 109,
+         95,  96,  95,  95,  95,  95,  95,  95,  95, 109,  95, 109,  96,  96,
+         95,  95,  96,  95,  96,  96, 109,  96,  95,  95, 109,  95,  95,  96,
+         96,  95,  95, 109,  95,  95,  96,  96, 109,  95,  96, 109,  94,  96,
+         95, 109,  95,  95,  96,  96,  96, 109, 109,  96,  95, 109, 109,  95,
+        109,  96,  95,  96,  95,  95, 109,  96,  95,  96,  95, 109,  95,  96,
+         96,  95,  96,  95, 109,  96,  95,  95,  95,  96,  95,  96,  96,  96,
+         95,  96, 109,  95,  96, 109, 109,  96,  95,  95,  96,  95,  95,  96,
+         96,  96,  95, 109,  96, 109, 109,  96,  96,  96,  96,  96,  96,  96,
+         95, 109,  95,  96,  95,  96,  96,  96], device='cuda:0')
