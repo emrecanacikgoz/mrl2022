@@ -1,0 +1,53 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061323
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 20971520
+open files                      (-n) 51200
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Mon Aug  8 12:34:53 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 470.57.02    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:1D:00.0 Off |                    0 |
+| N/A   43C    P0    27W /  70W |      0MiB / 15109MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Using pad_token, but it is not set yet.
+Namespace(lang='fra', lr=5e-05, model='gpt2', model_name_or_path='sberbank-ai/mGPT', plm_eval_mode=False, run=1)
+{
+  "guid": 0,
+  "label": null,
+  "meta": {},
+  "text_a": "nous vous les avons trouv\u00e9es.:IND,PST,IPFV,NOM(3,PL,MASC),ACC(1,PL),DAT(2,PL),",
+  "text_b": "",
+  "tgt_text": "ils nous trouvaient \u00e0 vous."
+}
+
+[[{'text': 'nous vous les avons trouvées.:IND,PST,IPFV,NOM(3,PL,MASC),ACC(1,PL),DAT(2,PL),', 'loss_ids': 0, 'shortenable_ids': 1}, {'text': '<mask>', 'loss_ids': 1, 'shortenable_ids': 0}], {'guid': 0, 'tgt_text': 'ils nous trouvaient à vous.'}]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 185it [00:00, 1848.49it/s]tokenizing: 382it [00:00, 1915.88it/s]tokenizing: 583it [00:00, 1954.75it/s]tokenizing: 786it [00:00, 1982.33it/s]tokenizing: 985it [00:00, 1982.60it/s]tokenizing: 1185it [00:00, 1985.62it/s]tokenizing: 1386it [00:00, 1990.73it/s]tokenizing: 1587it [00:00, 1995.16it/s]tokenizing: 1792it [00:00, 2012.00it/s]tokenizing: 1994it [00:01, 2004.87it/s]tokenizing: 2195it [00:01, 1996.48it/s]tokenizing: 2395it [00:01, 1969.41it/s]tokenizing: 2602it [00:01, 1996.03it/s]tokenizing: 2803it [00:01, 1997.56it/s]tokenizing: 3003it [00:01, 1975.10it/s]tokenizing: 3201it [00:01, 1972.51it/s]tokenizing: 3400it [00:01, 1976.21it/s]tokenizing: 3598it [00:01, 1976.15it/s]tokenizing: 3796it [00:02, 1565.04it/s]tokenizing: 3993it [00:02, 1664.85it/s]tokenizing: 4192it [00:02, 1750.75it/s]tokenizing: 4396it [00:02, 1828.10it/s]tokenizing: 4603it [00:02, 1894.60it/s]tokenizing: 4806it [00:02, 1932.46it/s]tokenizing: 5013it [00:02, 1970.22it/s]tokenizing: 5213it [00:02, 1952.84it/s]tokenizing: 5411it [00:02, 1958.44it/s]tokenizing: 5617it [00:02, 1986.01it/s]tokenizing: 5818it [00:03, 1992.21it/s]tokenizing: 6018it [00:03, 1993.17it/s]tokenizing: 6219it [00:03, 1997.73it/s]tokenizing: 6421it [00:03, 2003.66it/s]tokenizing: 6622it [00:03, 2003.02it/s]tokenizing: 6827it [00:03, 2016.55it/s]tokenizing: 7030it [00:03, 2018.99it/s]tokenizing: 7232it [00:03, 2007.71it/s]tokenizing: 7435it [00:03, 2012.18it/s]tokenizing: 7637it [00:03, 2013.88it/s]tokenizing: 7842it [00:04, 2022.84it/s]tokenizing: 8045it [00:04, 2022.71it/s]tokenizing: 8248it [00:04, 2023.32it/s]tokenizing: 8451it [00:04, 2023.27it/s]tokenizing: 8657it [00:04, 2033.84it/s]tokenizing: 8863it [00:04, 2039.89it/s]tokenizing: 9067it [00:04, 2028.80it/s]tokenizing: 9270it [00:04, 2013.53it/s]tokenizing: 9475it [00:04, 2022.07it/s]tokenizing: 9678it [00:04, 2007.51it/s]tokenizing: 9879it [00:05, 2005.84it/s]tokenizing: 10000it [00:05, 1966.81it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 332it [00:00, 3316.28it/s]tokenizing: 668it [00:00, 3338.06it/s]tokenizing: 1000it [00:00, 3355.48it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 373it [00:00, 3720.49it/s]tokenizing: 746it [00:00, 3692.90it/s]tokenizing: 1000it [00:00, 3681.63it/s]Epoch 0, global_step 500 average loss: 11.162716210365295 lr: 4.2e-05

@@ -1,0 +1,54 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061307
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 20971520
+open files                      (-n) 51200
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+No devices were found
+Using pad_token, but it is not set yet.
+Namespace(lang='tur', lr=5e-05, model='gpt2', model_name_or_path='sberbank-ai/mGPT', plm_eval_mode=False, run=1)
+{
+  "guid": 0,
+  "label": null,
+  "meta": {},
+  "text_a": "kendimizi abart\u0131yor olmamal\u0131 m\u0131ym\u0131\u015f\u0131z?:IND,PST,HAB,PROG,NOM(2,SG),ACC(1,PL)",
+  "text_b": "",
+  "tgt_text": "bizi abart\u0131yor olurdun."
+}
+
+[[{'text': 'kendimizi abartıyor olmamalı mıymışız?:IND,PST,HAB,PROG,NOM(2,SG),ACC(1,PL)', 'loss_ids': 0, 'shortenable_ids': 1}, {'text': '<mask>', 'loss_ids': 1, 'shortenable_ids': 0}], {'guid': 0, 'tgt_text': 'bizi abartıyor olurdun.'}]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 177it [00:00, 1759.77it/s]tokenizing: 370it [00:00, 1858.08it/s]tokenizing: 557it [00:00, 1860.02it/s]tokenizing: 750it [00:00, 1884.49it/s]tokenizing: 945it [00:00, 1907.79it/s]tokenizing: 1146it [00:00, 1939.52it/s]tokenizing: 1344it [00:00, 1949.53it/s]tokenizing: 1544it [00:00, 1965.16it/s]tokenizing: 1743it [00:00, 1970.69it/s]tokenizing: 1941it [00:01, 1958.35it/s]tokenizing: 2147it [00:01, 1989.14it/s]tokenizing: 2350it [00:01, 1998.94it/s]tokenizing: 2559it [00:01, 2025.61it/s]tokenizing: 2762it [00:01, 2016.09it/s]tokenizing: 2964it [00:01, 2015.89it/s]tokenizing: 3166it [00:01, 2007.39it/s]tokenizing: 3367it [00:01, 2005.24it/s]tokenizing: 3568it [00:01, 2001.46it/s]tokenizing: 3769it [00:01, 1952.96it/s]tokenizing: 3965it [00:02, 1542.65it/s]tokenizing: 4156it [00:02, 1632.99it/s]tokenizing: 4354it [00:02, 1723.70it/s]tokenizing: 4558it [00:02, 1808.10it/s]tokenizing: 4752it [00:02, 1842.87it/s]tokenizing: 4945it [00:02, 1865.92it/s]tokenizing: 5136it [00:02, 1858.91it/s]tokenizing: 5330it [00:02, 1879.39it/s]tokenizing: 5520it [00:02, 1885.08it/s]tokenizing: 5721it [00:03, 1919.23it/s]tokenizing: 5920it [00:03, 1938.45it/s]tokenizing: 6125it [00:03, 1970.71it/s]tokenizing: 6323it [00:03, 1929.10it/s]tokenizing: 6517it [00:03, 1902.83it/s]tokenizing: 6716it [00:03, 1926.68it/s]tokenizing: 6922it [00:03, 1963.01it/s]tokenizing: 7126it [00:03, 1983.05it/s]tokenizing: 7332it [00:03, 2004.33it/s]tokenizing: 7533it [00:03, 1978.40it/s]tokenizing: 7732it [00:04, 1963.68it/s]tokenizing: 7929it [00:04, 1947.54it/s]tokenizing: 8131it [00:04, 1968.17it/s]tokenizing: 8332it [00:04, 1978.46it/s]tokenizing: 8533it [00:04, 1985.98it/s]tokenizing: 8732it [00:04, 1973.92it/s]tokenizing: 8930it [00:04, 1952.19it/s]tokenizing: 9126it [00:04, 1925.26it/s]tokenizing: 9319it [00:04, 1923.15it/s]tokenizing: 9512it [00:04, 1912.00it/s]tokenizing: 9712it [00:05, 1936.21it/s]tokenizing: 9909it [00:05, 1943.71it/s]tokenizing: 9994it [00:05, 1921.03it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 317it [00:00, 3159.30it/s]tokenizing: 644it [00:00, 3221.10it/s]tokenizing: 992it [00:00, 3338.04it/s]tokenizing: 1000it [00:00, 3293.74it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 406it [00:00, 4056.44it/s]tokenizing: 812it [00:00, 4010.04it/s]tokenizing: 1000it [00:00, 3999.28it/s]
+Traceback (most recent call last):
+  File "conditional_generation_reinf.py", line 136, in <module>
+    prompt_model=  prompt_model.cuda()
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 680, in cuda
+    return self._apply(lambda t: t.cuda(device))
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 593, in _apply
+    param_applied = fn(param)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 680, in <lambda>
+    return self._apply(lambda t: t.cuda(device))
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/cuda/__init__.py", line 214, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

@@ -1,0 +1,54 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061307
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 20971520
+open files                      (-n) 51200
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+No devices were found
+Using pad_token, but it is not set yet.
+Namespace(lang='rus', lr=5e-05, model='gpt2', model_name_or_path='sberbank-ai/mGPT', plm_eval_mode=False, run=3)
+{
+  "guid": 0,
+  "label": null,
+  "meta": {},
+  "text_a": "\u0430\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u043e \u043b\u0438 \u0431\u044b \u044f \u0432\u0430\u0441?:IND,PST,NOM(2,SG,NEUT),NEG,ACC(3,SG,FEM)",
+  "text_b": "",
+  "tgt_text": "\u0442\u044b \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043b\u043e \u0435\u0451."
+}
+
+[[{'text': 'активизировало ли бы я вас?:IND,PST,NOM(2,SG,NEUT),NEG,ACC(3,SG,FEM)', 'loss_ids': 0, 'shortenable_ids': 1}, {'text': '<mask>', 'loss_ids': 1, 'shortenable_ids': 0}], {'guid': 0, 'tgt_text': 'ты не активизировало её.'}]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 170it [00:00, 1696.19it/s]tokenizing: 355it [00:00, 1784.57it/s]tokenizing: 534it [00:00, 1768.12it/s]tokenizing: 716it [00:00, 1788.16it/s]tokenizing: 895it [00:00, 1771.48it/s]tokenizing: 1073it [00:00, 1741.91it/s]tokenizing: 1251it [00:00, 1751.25it/s]tokenizing: 1435it [00:00, 1776.81it/s]tokenizing: 1629it [00:00, 1824.31it/s]tokenizing: 1813it [00:01, 1828.15it/s]tokenizing: 1996it [00:01, 1814.45it/s]tokenizing: 2180it [00:01, 1819.76it/s]tokenizing: 2363it [00:01, 1815.35it/s]tokenizing: 2556it [00:01, 1848.23it/s]tokenizing: 2741it [00:01, 1841.74it/s]tokenizing: 2926it [00:01, 1843.94it/s]tokenizing: 3111it [00:01, 1822.85it/s]tokenizing: 3294it [00:01, 1783.27it/s]tokenizing: 3482it [00:01, 1808.68it/s]tokenizing: 3664it [00:02, 1216.61it/s]tokenizing: 3812it [00:02, 1089.06it/s]tokenizing: 4000it [00:02, 1255.81it/s]tokenizing: 4191it [00:02, 1406.28it/s]tokenizing: 4370it [00:02, 1500.93it/s]tokenizing: 4542it [00:02, 1556.23it/s]tokenizing: 4709it [00:02, 1580.42it/s]tokenizing: 4879it [00:02, 1613.00it/s]tokenizing: 5061it [00:03, 1671.03it/s]tokenizing: 5238it [00:03, 1698.88it/s]tokenizing: 5412it [00:03, 1697.05it/s]tokenizing: 5587it [00:03, 1709.71it/s]tokenizing: 5764it [00:03, 1726.99it/s]tokenizing: 5941it [00:03, 1739.56it/s]tokenizing: 6126it [00:03, 1772.37it/s]tokenizing: 6315it [00:03, 1805.76it/s]tokenizing: 6499it [00:03, 1813.72it/s]tokenizing: 6681it [00:03, 1815.46it/s]tokenizing: 6867it [00:04, 1827.00it/s]tokenizing: 7050it [00:04, 1823.76it/s]tokenizing: 7233it [00:04, 1808.49it/s]tokenizing: 7418it [00:04, 1817.66it/s]tokenizing: 7600it [00:04, 1794.70it/s]tokenizing: 7780it [00:04, 1793.23it/s]tokenizing: 7960it [00:04, 1780.06it/s]tokenizing: 8153it [00:04, 1823.50it/s]tokenizing: 8336it [00:04, 1808.41it/s]tokenizing: 8525it [00:04, 1831.37it/s]tokenizing: 8712it [00:05, 1842.38it/s]tokenizing: 8897it [00:05, 1819.53it/s]tokenizing: 9080it [00:05, 1783.88it/s]tokenizing: 9259it [00:05, 1766.57it/s]tokenizing: 9439it [00:05, 1775.69it/s]tokenizing: 9618it [00:05, 1778.67it/s]tokenizing: 9801it [00:05, 1790.28it/s]tokenizing: 9981it [00:05, 1772.50it/s]tokenizing: 10000it [00:05, 1715.30it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 288it [00:00, 2872.52it/s]tokenizing: 576it [00:00, 2806.35it/s]tokenizing: 857it [00:00, 2792.07it/s]tokenizing: 1000it [00:00, 2780.95it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 360it [00:00, 3594.04it/s]tokenizing: 720it [00:00, 3402.88it/s]tokenizing: 1000it [00:00, 3415.53it/s]
+Traceback (most recent call last):
+  File "conditional_generation_reinf.py", line 136, in <module>
+    prompt_model=  prompt_model.cuda()
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 680, in cuda
+    return self._apply(lambda t: t.cuda(device))
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  [Previous line repeated 1 more time]
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 593, in _apply
+    param_applied = fn(param)
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/nn/modules/module.py", line 680, in <lambda>
+    return self._apply(lambda t: t.cuda(device))
+  File "/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/torch/cuda/__init__.py", line 214, in _lazy_init
+    torch._C._cuda_init()
+RuntimeError: No CUDA GPUs are available
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

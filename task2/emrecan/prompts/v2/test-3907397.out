@@ -1,0 +1,91 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061310
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 20971520
+open files                      (-n) 51200
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Thu Jul 28 13:14:14 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 470.57.02    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:1B:00.0 Off |                    0 |
+| N/A   35C    P0    25W /  70W |      0MiB / 15109MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/transformers/models/t5/tokenization_t5.py:164: FutureWarning: This tokenizer was incorrectly instantiated with a model max length of 512 which will be corrected in Transformers v5.
+For now, this behavior is kept to avoid breaking backwards compatibility when padding/encoding with `truncation is True`.
+- Be aware that you SHOULD NOT rely on t5-base automatically truncating your input to 512 when padding/encoding.
+- If you want to encode/pad to sequences longer than 512 you can either instantiate this tokenizer with `model_max_length` or pass `max_length` when encoding/padding.
+- To avoid this warning, please instantiate this tokenizer with `model_max_length` set to your preferred value.
+  warnings.warn(
+Namespace(lang='eng', lr=5e-05, model='t5', model_name_or_path='t5-base', plm_eval_mode=False, run=2)
+{
+  "guid": 0,
+  "label": null,
+  "meta": {},
+  "text_a": "will he be abusing her?:COND,PROG,NOM,3,PL,NEG,Q,ACC,3,SG,FEM",
+  "text_b": "",
+  "tgt_text": "wouldn't they be abusing her?"
+}
+
+[[{'text': 'will he be abusing her?:COND,PROG,NOM,3,PL,NEG,Q,ACC,3,SG,FEM', 'loss_ids': 0, 'shortenable_ids': 1}, {'text': '<mask>', 'loss_ids': 1, 'shortenable_ids': 0}], {'guid': 0, 'tgt_text': "wouldn't they be abusing her?"}]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 50it [00:00, 496.19it/s]tokenizing: 125it [00:00, 641.10it/s]tokenizing: 224it [00:00, 796.08it/s]tokenizing: 325it [00:00, 877.91it/s]tokenizing: 428it [00:00, 931.35it/s]tokenizing: 529it [00:00, 957.34it/s]tokenizing: 631it [00:00, 975.95it/s]tokenizing: 735it [00:00, 994.12it/s]tokenizing: 841it [00:00, 1012.45it/s]tokenizing: 943it [00:01, 1008.55it/s]tokenizing: 1092it [00:01, 1153.23it/s]tokenizing: 1236it [00:01, 1238.36it/s]tokenizing: 1381it [00:01, 1300.84it/s]tokenizing: 1529it [00:01, 1353.28it/s]tokenizing: 1675it [00:01, 1383.08it/s]tokenizing: 1819it [00:01, 1399.75it/s]tokenizing: 1964it [00:01, 1414.74it/s]tokenizing: 2111it [00:01, 1429.96it/s]tokenizing: 2255it [00:01, 1432.75it/s]tokenizing: 2399it [00:02, 1425.60it/s]tokenizing: 2545it [00:02, 1434.30it/s]tokenizing: 2694it [00:02, 1449.26it/s]tokenizing: 2842it [00:02, 1456.32it/s]tokenizing: 2988it [00:02, 1453.82it/s]tokenizing: 3134it [00:02, 1449.53it/s]tokenizing: 3279it [00:02, 1444.72it/s]tokenizing: 3424it [00:02, 1155.78it/s]tokenizing: 3571it [00:02, 1234.66it/s]tokenizing: 3718it [00:03, 1295.96it/s]tokenizing: 3866it [00:03, 1344.26it/s]tokenizing: 4012it [00:03, 1374.78it/s]tokenizing: 4158it [00:03, 1398.94it/s]tokenizing: 4301it [00:03, 1407.16it/s]tokenizing: 4447it [00:03, 1420.13it/s]tokenizing: 4594it [00:03, 1432.74it/s]tokenizing: 4739it [00:03, 1434.75it/s]tokenizing: 4885it [00:03, 1442.21it/s]tokenizing: 5030it [00:03, 1442.08it/s]tokenizing: 5175it [00:04, 1440.35it/s]tokenizing: 5321it [00:04, 1444.71it/s]tokenizing: 5466it [00:04, 1443.42it/s]tokenizing: 5611it [00:04, 1442.49it/s]tokenizing: 5756it [00:04, 1443.68it/s]tokenizing: 5901it [00:04, 1431.66it/s]tokenizing: 6047it [00:04, 1438.99it/s]tokenizing: 6192it [00:04, 1440.34it/s]tokenizing: 6337it [00:04, 1442.19it/s]tokenizing: 6482it [00:04, 1437.48it/s]tokenizing: 6626it [00:05, 1436.03it/s]tokenizing: 6771it [00:05, 1439.17it/s]tokenizing: 6915it [00:05, 1432.94it/s]tokenizing: 7062it [00:05, 1443.85it/s]tokenizing: 7207it [00:05, 1432.60it/s]tokenizing: 7351it [00:05, 1431.20it/s]tokenizing: 7496it [00:05, 1434.08it/s]tokenizing: 7640it [00:05, 1434.68it/s]tokenizing: 7784it [00:05, 1426.32it/s]tokenizing: 7928it [00:05, 1429.91it/s]tokenizing: 8072it [00:06, 1426.98it/s]tokenizing: 8219it [00:06, 1438.98it/s]tokenizing: 8367it [00:06, 1449.96it/s]tokenizing: 8513it [00:06, 1448.71it/s]tokenizing: 8658it [00:06, 1448.22it/s]tokenizing: 8803it [00:06, 1441.76it/s]tokenizing: 8948it [00:06, 1441.86it/s]tokenizing: 9093it [00:06, 1429.99it/s]tokenizing: 9237it [00:06, 1432.76it/s]tokenizing: 9381it [00:06, 1427.97it/s]tokenizing: 9526it [00:07, 1434.21it/s]tokenizing: 9671it [00:07, 1437.60it/s]tokenizing: 9816it [00:07, 1440.16it/s]tokenizing: 9961it [00:07, 1432.99it/s]tokenizing: 10000it [00:07, 1357.65it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 169it [00:00, 1680.52it/s]tokenizing: 340it [00:00, 1694.50it/s]tokenizing: 511it [00:00, 1698.26it/s]tokenizing: 681it [00:00, 1692.70it/s]tokenizing: 851it [00:00, 1687.63it/s]tokenizing: 1000it [00:00, 1684.16it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 170it [00:00, 1696.88it/s]tokenizing: 340it [00:00, 1692.90it/s]tokenizing: 510it [00:00, 1696.09it/s]tokenizing: 680it [00:00, 1692.04it/s]tokenizing: 850it [00:00, 1692.63it/s]tokenizing: 1000it [00:00, 1697.49it/s]Epoch 0, global_step 500 average loss: 14.104558084487914 lr: 4.75e-05
+Epoch 0, global_step 1000 average loss: 10.726142560958863 lr: 4.5e-05
+Epoch 0, global_step 1500 average loss: 10.321695002555847 lr: 4.25e-05
+Epoch 0, global_step 2000 average loss: 9.682810758590698 lr: 4e-05
+acc: 0.005
+Epoch 1, global_step 2500 average loss: 7.029791480064392 lr: 3.7500000000000003e-05
+Epoch 1, global_step 3000 average loss: 3.987531374812126 lr: 3.5e-05
+Epoch 1, global_step 3500 average loss: 2.194764997124672 lr: 3.2500000000000004e-05
+Epoch 1, global_step 4000 average loss: 1.5800534622371196 lr: 3e-05
+acc: 0.840
+Epoch 2, global_step 4500 average loss: 1.1953154364898801 lr: 2.7500000000000004e-05
+Epoch 2, global_step 5000 average loss: 1.099047011885792 lr: 2.5e-05
+Epoch 2, global_step 5500 average loss: 0.8942072681449353 lr: 2.25e-05
+Epoch 2, global_step 6000 average loss: 0.831949783757329 lr: 2e-05
+acc: 0.885
+Epoch 3, global_step 6500 average loss: 0.679958323046565 lr: 1.75e-05
+Epoch 3, global_step 7000 average loss: 0.6371091528981924 lr: 1.5e-05
+Epoch 3, global_step 7500 average loss: 0.6504048430267722 lr: 1.25e-05
+Epoch 3, global_step 8000 average loss: 0.6063502702694387 lr: 1e-05
+acc: 0.901
+Epoch 4, global_step 8500 average loss: 0.500783512359485 lr: 7.5e-06
+Epoch 4, global_step 9000 average loss: 0.5619542259564623 lr: 5e-06
+Epoch 4, global_step 9500 average loss: 0.47519862943328917 lr: 2.5e-06
+Epoch 4, global_step 10000 average loss: 0.5853288681181148 lr: 0.0
+acc: 0.911
+Epoch 5, global_step 10500 average loss: 0.5085930557660758 lr: 0.0
+Epoch 5, global_step 11000 average loss: 0.43415518703404815 lr: 0.0
+Epoch 5, global_step 11500 average loss: 0.4450693806745112 lr: 0.0
+Epoch 5, global_step 12000 average loss: 0.5491651281239465 lr: 0.0
+
+/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+acc: 0.911
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.
