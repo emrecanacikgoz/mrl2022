@@ -1,0 +1,101 @@
+Setting stack size to unlimited...
+core file size          (blocks, -c) 0
+data seg size           (kbytes, -d) unlimited
+scheduling priority             (-e) 0
+file size               (blocks, -f) unlimited
+pending signals                 (-i) 2061307
+max locked memory       (kbytes, -l) unlimited
+max memory size         (kbytes, -m) 20971520
+open files                      (-n) 51200
+pipe size            (512 bytes, -p) 8
+POSIX message queues     (bytes, -q) 819200
+real-time priority              (-r) 0
+stack size              (kbytes, -s) unlimited
+cpu time               (seconds, -t) unlimited
+max user processes              (-u) 4096
+virtual memory          (kbytes, -v) unlimited
+file locks                      (-x) unlimited
+
+Wed Aug  3 12:04:31 2022       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 470.57.02    Driver Version: 470.57.02    CUDA Version: 11.4     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla T4            Off  | 00000000:41:00.0 Off |                    0 |
+| N/A   41C    P0    26W /  70W |      0MiB / 15109MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|  No running processes found                                                 |
++-----------------------------------------------------------------------------+
+Using pad_token, but it is not set yet.
+Namespace(lang='eng', lr=5e-05, model='gpt2', model_name_or_path='sberbank-ai/mGPT', plm_eval_mode=False, run=1)
+{
+  "guid": 0,
+  "label": null,
+  "meta": {},
+  "text_a": "wasn't I abusing myself?",
+  "text_b": "",
+  "tgt_text": "abuse:IND;PST;PROG;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)"
+}
+
+[[{'text': "wasn't I abusing myself?", 'loss_ids': 0, 'shortenable_ids': 1}, {'text': '<mask>', 'loss_ids': 1, 'shortenable_ids': 0}], {'guid': 0, 'tgt_text': 'abuse:IND;PST;PROG;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)'}]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 83it [00:00, 823.11it/s]tokenizing: 208it [00:00, 1071.80it/s]tokenizing: 372it [00:00, 1329.31it/s]tokenizing: 540it [00:00, 1466.16it/s]tokenizing: 707it [00:00, 1537.20it/s]tokenizing: 876it [00:00, 1587.01it/s]tokenizing: 1046it [00:00, 1622.58it/s]tokenizing: 1218it [00:00, 1651.93it/s]tokenizing: 1387it [00:00, 1661.42it/s]tokenizing: 1606it [00:01, 1822.36it/s]tokenizing: 1846it [00:01, 1997.20it/s]tokenizing: 2088it [00:01, 2123.66it/s]tokenizing: 2333it [00:01, 2220.71it/s]tokenizing: 2573it [00:01, 2272.95it/s]tokenizing: 2815it [00:01, 2316.46it/s]tokenizing: 3060it [00:01, 2356.10it/s]tokenizing: 3306it [00:01, 2384.81it/s]tokenizing: 3545it [00:01, 2383.61it/s]tokenizing: 3787it [00:01, 2392.29it/s]tokenizing: 4027it [00:02, 1888.66it/s]tokenizing: 4267it [00:02, 2016.08it/s]tokenizing: 4510it [00:02, 2124.75it/s]tokenizing: 4755it [00:02, 2211.84it/s]tokenizing: 4997it [00:02, 2270.37it/s]tokenizing: 5235it [00:02, 2301.13it/s]tokenizing: 5479it [00:02, 2338.54it/s]tokenizing: 5719it [00:02, 2354.46it/s]tokenizing: 5963it [00:02, 2377.47it/s]tokenizing: 6209it [00:02, 2399.39it/s]tokenizing: 6451it [00:03, 2401.14it/s]tokenizing: 6692it [00:03, 2398.72it/s]tokenizing: 6933it [00:03, 2383.73it/s]tokenizing: 7172it [00:03, 2385.49it/s]tokenizing: 7411it [00:03, 2368.86it/s]tokenizing: 7655it [00:03, 2389.55it/s]tokenizing: 7895it [00:03, 2390.37it/s]tokenizing: 8135it [00:03, 2382.26it/s]tokenizing: 8379it [00:03, 2396.62it/s]tokenizing: 8626it [00:04, 2416.26it/s]tokenizing: 8869it [00:04, 2417.95it/s]tokenizing: 9111it [00:04, 2393.77it/s]tokenizing: 9351it [00:04, 2389.30it/s]tokenizing: 9595it [00:04, 2401.75it/s]tokenizing: 9838it [00:04, 2409.06it/s]tokenizing: 10000it [00:04, 2183.58it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 540it [00:00, 5393.74it/s]tokenizing: 1000it [00:00, 5389.20it/s]
+tokenizing: 0it [00:00, ?it/s]tokenizing: 562it [00:00, 5613.29it/s]tokenizing: 1000it [00:00, 5586.23it/s]Epoch 0, global_step 500 average loss: 18.55716087770462 lr: 4.75e-05
+Epoch 0, global_step 1000 average loss: 2.787719822049141 lr: 4.5e-05
+Epoch 0, global_step 1500 average loss: 0.9926978036919609 lr: 4.25e-05
+Epoch 0, global_step 2000 average loss: 0.6145390450297855 lr: 4e-05
+acc: 0.920
+Epoch 1, global_step 2500 average loss: 0.42897004872252 lr: 3.7500000000000003e-05
+Epoch 1, global_step 3000 average loss: 0.24140003251632153 lr: 3.5e-05
+Epoch 1, global_step 3500 average loss: 0.23748983722864067 lr: 3.2500000000000004e-05
+Epoch 1, global_step 4000 average loss: 0.24083907037829705 lr: 3e-05
+acc: 0.937
+Epoch 2, global_step 4500 average loss: 0.15363261001188222 lr: 2.7500000000000004e-05
+Epoch 2, global_step 5000 average loss: 0.14681053292033902 lr: 2.5e-05
+Epoch 2, global_step 5500 average loss: 0.11600152372024604 lr: 2.25e-05
+Epoch 2, global_step 6000 average loss: 0.08939999277251627 lr: 2e-05
+acc: 0.956
+Epoch 3, global_step 6500 average loss: 0.07144865210831995 lr: 1.75e-05
+Epoch 3, global_step 7000 average loss: 0.06186392950897789 lr: 1.5e-05
+Epoch 3, global_step 7500 average loss: 0.04693607545188934 lr: 1.25e-05
+Epoch 3, global_step 8000 average loss: 0.07169340853980612 lr: 1e-05
+acc: 0.960
+Epoch 4, global_step 8500 average loss: 0.05681758386088404 lr: 7.5e-06
+Epoch 4, global_step 9000 average loss: 0.03388136426097481 lr: 5e-06
+Epoch 4, global_step 9500 average loss: 0.03563258762730038 lr: 2.5e-06
+Epoch 4, global_step 10000 average loss: 0.02721685912650719 lr: 0.0
+acc: 0.959
+Epoch 5, global_step 10500 average loss: 0.019431952370970975 lr: 0.0
+Epoch 5, global_step 11000 average loss: 0.029375890628372873 lr: 0.0
+Epoch 5, global_step 11500 average loss: 0.03472944680801811 lr: 0.0
+Epoch 5, global_step 12000 average loss: 0.011207947209473787 lr: 0.0
+acc: 0.959
+Epoch 6, global_step 12500 average loss: 0.02484603318365771 lr: 0.0
+Epoch 6, global_step 13000 average loss: 0.034594282606267374 lr: 0.0
+Epoch 6, global_step 13500 average loss: 0.01541235393149691 lr: 0.0
+Epoch 6, global_step 14000 average loss: 0.01850384218144245 lr: 0.0
+acc: 0.959
+Epoch 7, global_step 14500 average loss: 0.013373478215802606 lr: 0.0
+Epoch 7, global_step 15000 average loss: 0.021490492037268268 lr: 0.0
+Epoch 7, global_step 15500 average loss: 0.02206508648509771 lr: 0.0
+Epoch 7, global_step 16000 average loss: 0.02998755595358307 lr: 0.0
+acc: 0.959
+Epoch 8, global_step 16500 average loss: 0.03434487877779247 lr: 0.0
+Epoch 8, global_step 17000 average loss: 0.017684378217632912 lr: 0.0
+Epoch 8, global_step 17500 average loss: 0.021349695253356914 lr: 0.0
+Epoch 8, global_step 18000 average loss: 0.01796650124141888 lr: 0.0
+
+/kuacc/users/eacikgoz17/.conda/envs/eacikgoz17/lib/python3.8/site-packages/transformers/optimization.py:306: FutureWarning: This implementation of AdamW is deprecated and will be removed in a future version. Use the PyTorch implementation torch.optim.AdamW instead, or set `no_deprecation_warning=True` to disable this warning
+  warnings.warn(
+acc: 0.959
+DeprecationWarning: 'source deactivate' is deprecated. Use 'conda deactivate'.

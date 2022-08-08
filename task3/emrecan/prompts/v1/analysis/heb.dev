@@ -1,0 +1,1000 @@
+אֲנִי לֹא מְאַחֵר?	אִחֵר IND;PRS;NOM(1,SG,MASC);NEG;Q
+הֵם לֹא הָיוּ מְאַחֲרִים.	אִחֵר COND;NOM(3,PL,MASC);NEG
+אִחַרְתֶּן?	אִחֵר IND;PST;NOM(2,PL,FEM);Q
+לֹא נְאַחֵר?	אִחֵר IND;FUT;NOM(1,PL);NEG;Q
+הֵם לֹא מְאַחֲרִים?	אִחֵר IND;PRS;NOM(3,PL,MASC);NEG;Q
+לֹא אִחַרְתְּ.	אִחֵר IND;PST;NOM(2,SG,FEM);NEG
+אֲנִי לֹא מְאַחֵר.	אִחֵר IND;PRS;NOM(1,SG,MASC);NEG
+אִחַרְתֶּן.	אִחֵר IND;PST;NOM(2,PL,FEM)
+תְּאַחֵר.	אִחֵר IND;FUT;NOM(2,SG,MASC)
+תְּאַחֲרוּ.	אִחֵר IND;FUT;NOM(2,PL,MASC)
+לֹא אִחַרְתֶּם?	אִחֵר IND;PST;NOM(2,PL,MASC);NEG;Q
+אַחֵר!	אִחֵר IMP;NOM(2,SG,MASC)
+אֲנִי לֹא מְאַחֶרֶת.	אִחֵר IND;PRS;NOM(1,SG,FEM);NEG
+הֵן לֹא אִחֲרוּ.	אִחֵר IND;PST;NOM(3,PL,FEM);NEG
+אֲנִי לֹא הָיִיתִי מְאַחֵר?	אִחֵר COND;NOM(1,SG,MASC);NEG;Q
+הֵם לֹא אִחֲרוּ?	אִחֵר IND;PST;NOM(3,PL,MASC);NEG;Q
+אֲנִי לֹא מְאַחֵר.	אִחֵר IND;PRS;NOM(1,SG,MASC);NEG
+הֵן תְּאַחֵרְנָה?	אִחֵר IND;FUT;NOM(3,PL,FEM);Q
+תְּבַדֵּל אוֹתָהּ מֵעַצְמְךָ?	בִּדֵּל IND;FUT;NOM(2,SG,MASC);ACC(3,SG,FEM);ABL(2,SG,MASC,RFLX);Q
+אַתָּה לֹא הָיִיתָ מְבַדֵּל אוֹתָם מִכֶּן?	בִּדֵּל COND;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);ABL(2,PL,FEM);Q
+בַּדֵּל אוֹתָךְ מֵהֶן!	בִּדֵּל IMP;NOM(2,SG,MASC);ACC(2,SG,FEM);ABL(3,PL,FEM)
+אֲנַחְנוּ לֹא הָיִינוּ מְבַדְּלוֹת אוֹתְךָ מֵעַצְמֵנוּ?	בִּדֵּל COND;NOM(1,PL,FEM);NEG;ACC(2,SG,MASC);ABL(1,PL,RFLX);Q
+הֵן לֹא תְּבַדֵּלְנָה אוֹתְךָ מֵעַצְמָן?	בִּדֵּל IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,SG,MASC);ABL(3,PL,FEM,RFLX);Q
+בַּדֵּלְנָה אוֹתָן מֵהֶן!	בִּדֵּל IMP;NOM(2,PL,FEM);ACC(3,PL,FEM);ABL(3,PL,FEM)
+אַתְּ לֹא הָיִית מְבַדֶּלֶת אוֹתְךָ מִמֶּנָּה.	בִּדֵּל COND;NOM(2,SG,FEM);NEG;ACC(2,SG,MASC);ABL(3,SG,FEM)
+אֲנַחְנוּ לֹא מְבַדְּלוֹת אוֹתָךְ מִמֶּנִּי?	בִּדֵּל IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,SG,FEM);ABL(1,SG);Q
+הֵן לֹא בִּדְּלוּ אוֹתְךָ מֵעַצְמָן.	בִּדֵּל IND;PST;NOM(3,PL,FEM);NEG;ACC(2,SG,MASC);ABL(3,PL,FEM,RFLX)
+בִּדַּלְתִּי אוֹתוֹ מִכֶּן?	בִּדֵּל IND;PST;NOM(1,SG);ACC(3,SG,MASC);ABL(2,PL,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְבַדְּלִים אוֹתָךְ מֵעַצְמֵךְ.	בִּדֵּל COND;NOM(1,PL,MASC);NEG;ACC(2,SG,FEM);ABL(2,SG,FEM,RFLX)
+בִּדַּלְתְּ אוֹתָהּ מִמְּךָ.	בִּדֵּל IND;PST;NOM(2,SG,FEM);ACC(3,SG,FEM);ABL(2,SG,MASC)
+לֹא תְּבַדֵּלְנָה אוֹתָנוּ מִמֵּךְ?	בִּדֵּל IND;FUT;NOM(2,PL,FEM);NEG;ACC(1,PL);ABL(2,SG,FEM);Q
+לֹא אֲבַדֵּל אוֹתָנוּ מִמֶּנָּה?	בִּדֵּל IND;FUT;NOM(1,SG);NEG;ACC(1,PL);ABL(3,SG,FEM);Q
+לֹא בִּדַּלְתִּי אוֹתָן מֵהֶן?	בִּדֵּל IND;PST;NOM(1,SG);NEG;ACC(3,PL,FEM);ABL(3,PL,FEM);Q
+הֵן לֹא הָיוּ מְבַדְּלוֹת אֶתְכֶן מִמְּךָ.	בִּדֵּל COND;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM);ABL(2,SG,MASC)
+הִיא תְּבַדֵּל אוֹתָן מֵהֶן.	בִּדֵּל IND;FUT;NOM(3,SG,FEM);ACC(3,PL,FEM);ABL(3,PL,FEM)
+בִּדַּלְתֶּן אֶתְכֶם מֵעַצְמְכֶם.	בִּדֵּל IND;PST;NOM(2,PL,FEM);ACC(2,PL,MASC);ABL(2,PL,MASC,RFLX)
+אַל תְּבַדְּלִי אֶתְכֶם מִמֶּנּוֹ!	בִּדֵּל IMP;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC);ABL(3,SG,MASC)
+אֲנִי לֹא מְבַדֶּלֶת אוֹתְךָ מִכֶּן?	בִּדֵּל IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,SG,MASC);ABL(2,PL,FEM);Q
+אַל תְּבַדְּלִי אוֹתָם מִכֶּם!	בִּדֵּל IMP;NOM(2,SG,FEM);NEG;ACC(3,PL,MASC);ABL(2,PL,MASC)
+אַל תִּגְנְבוּ אוֹתְךָ!	גָּנַב IMP;NOM(2,PL,MASC);NEG;ACC(2,SG,MASC)
+לֹא גָּנַבְתִּי אוֹתָךְ?	גָּנַב IND;PST;NOM(1,SG);NEG;ACC(2,SG,FEM);Q
+גָּנַבְתִּי אֶת עַצְמִי?	גָּנַב IND;PST;NOM(1,SG);ACC(1,SG,RFLX);Q
+הוּא לֹא הָיָה גּוֹנֵב אֶתְכֶן?	גָּנַב COND;NOM(3,SG,MASC);NEG;ACC(2,PL,FEM);Q
+הוּא לֹא יִגְנֹב אוֹתָם?	גָּנַב IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC);Q
+גָּנַבְתְּ אוֹתִי.	גָּנַב IND;PST;NOM(2,SG,FEM);ACC(1,SG)
+אֲנִי לֹא גּוֹנֶבֶת אוֹתָנוּ?	גָּנַב IND;PRS;NOM(1,SG,FEM);NEG;ACC(1,PL);Q
+אֲתֶּם לֹא גּוֹנְבִים אוֹתְךָ?	גָּנַב IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,SG,MASC);Q
+אֲתֶּם לֹא הֱיִיתֶם גּוֹנְבִים אֶתְכֶן?	גָּנַב COND;NOM(2,PL,MASC);NEG;ACC(2,PL,FEM);Q
+לֹא גְּנַבְתֶּם אוֹתְךָ?	גָּנַב IND;PST;NOM(2,PL,MASC);NEG;ACC(2,SG,MASC);Q
+אַל תִּגְנֹב אוֹתָךְ!	גָּנַב IMP;NOM(2,SG,MASC);NEG;ACC(2,SG,FEM)
+לֹא גָּנַבְתְּ אוֹתָהּ.	גָּנַב IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM)
+אֲנִי לֹא הָיִיתִי גּוֹנֵב אוֹתָן?	גָּנַב COND;NOM(1,SG,MASC);NEG;ACC(3,PL,FEM);Q
+הִיא גָּנְבָה אֶת עַצְמָהּ.	גָּנַב IND;PST;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)
+הִיא תִּגְנֹב אוֹתָךְ.	גָּנַב IND;FUT;NOM(3,SG,FEM);ACC(2,SG,FEM)
+הוּא לֹא יִגְנֹב אֶת עַצְמוֹ?	גָּנַב IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX);Q
+תִּגְנְבוּ אֶתְכֶן?	גָּנַב IND;FUT;NOM(2,PL,MASC);ACC(2,PL,FEM);Q
+גִּנְבוּ אוֹתוֹ!	גָּנַב IMP;NOM(2,PL,MASC);ACC(3,SG,MASC)
+אַתֶּן לֹא גּוֹנְבוֹת אוֹתָן.	גָּנַב IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM)
+לֹא תִּגְנְבִי אֶתְכֶן?	גָּנַב IND;FUT;NOM(2,SG,FEM);NEG;ACC(2,PL,FEM);Q
+הֵן לֹא תִּגְנֹבְנָה אוֹתָךְ?	גָּנַב IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,SG,FEM);Q
+לֹא תִּגְנֹב אֶתְכֶם.	גָּנַב IND;FUT;NOM(2,SG,MASC);NEG;ACC(2,PL,MASC)
+אַתָּה לֹא הָיִיתָ גּוֹנֵב אוֹתָךְ?	גָּנַב COND;NOM(2,SG,MASC);NEG;ACC(2,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי דּוֹפֵק עֲלֵיכֶם?	דָּפַק COND;NOM(1,SG,MASC);NEG;ON(2,PL,MASC);Q
+הֵם יִדְפְקוּ עָלֶיךָ.	דָּפַק IND;FUT;NOM(3,PL,MASC);ON(2,SG,MASC)
+תִּדְפֹק עָלַי.	דָּפַק IND;FUT;NOM(2,SG,MASC);ON(1,SG)
+הוּא יִדְפֹק אוֹתוֹ?	דָּפַק IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC);Q
+אַתָּה לֹא הָיִיתָ דּוֹפֵק עַל עַצְמְךָ.	דָּפַק COND;NOM(2,SG,MASC);NEG;ON(2,SG,MASC,RFLX)
+תִּדְפְקוּ אוֹתָן.	דָּפַק IND;FUT;NOM(2,PL,MASC);ACC(3,PL,FEM)
+הֵם לֹא יִדְפְקוּ אוֹתוֹ.	דָּפַק IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC)
+לֹא דְּפַקְתֶּן עָלָיו?	דָּפַק IND;PST;NOM(2,PL,FEM);NEG;ON(3,SG,MASC);Q
+אֲתֶּם לֹא הֱיִיתֶם דּוֹפְקִים אוֹתְךָ.	דָּפַק COND;NOM(2,PL,MASC);NEG;ACC(2,SG,MASC)
+הוּא לֹא יִדְפֹק עֲלֵיהֶן.	דָּפַק IND;FUT;NOM(3,SG,MASC);NEG;ON(3,PL,FEM)
+הִיא לֹא דּוֹפֶקֶת אֶתְכֶן?	דָּפַק IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,FEM);Q
+הוּא לֹא יִדְפֹק אוֹתוֹ?	דָּפַק IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC);Q
+הֵן לֹא דָּפְקוּ אוֹתָם.	דָּפַק IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC)
+אַתֶּן לֹא דּוֹפְקוֹת עָלֶיךָ?	דָּפַק IND;PRS;NOM(2,PL,FEM);NEG;ON(2,SG,MASC);Q
+הֵן לֹא דָּפְקוּ אוֹתָם.	דָּפַק IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC)
+הוּא לֹא יִדְפֹק אוֹתָם.	דָּפַק IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC)
+אֲנַחְנוּ לֹא דּוֹפְקוֹת אוֹתָם?	דָּפַק IND;PRS;NOM(1,PL,FEM);NEG;ACC(3,PL,MASC);Q
+לֹא אַכֶּה אוֹתָם.	הִכָּה IND;FUT;NOM(1,SG);NEG;ACC(3,PL,MASC)
+לֹא תַּכִּי אֶתְכֶם?	הִכָּה IND;FUT;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC);Q
+הוּא לֹא מַכֶּה אֶת עַצְמוֹ.	הִכָּה IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)
+אֲנַחְנוּ לֹא הָיִינוּ מַכִּים אוֹתָהּ?	הִכָּה COND;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM);Q
+הֵן לֹא הָיוּ מַכּוֹת אוֹתָם.	הִכָּה COND;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC)
+לֹא תַּכִּי אֶת עַצְמֵךְ?	הִכָּה IND;FUT;NOM(2,SG,FEM);NEG;ACC(2,SG,FEM,RFLX);Q
+תַּכֶּה אוֹתָנוּ.	הִכָּה IND;FUT;NOM(2,SG,MASC);ACC(1,PL)
+הִכֵּיתִי אוֹתוֹ.	הִכָּה IND;PST;NOM(1,SG);ACC(3,SG,MASC)
+הֵם לֹא הָיוּ מַכִּים אֶתְכֶן.	הִכָּה COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הֵם לֹא מַכִּים אוֹתָךְ.	הִכָּה IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM)
+הֵן לֹא מַכּוֹת אוֹתָן?	הִכָּה IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM);Q
+הֵם לֹא הָיוּ מַכִּים אֶתְכֶן.	הִכָּה COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+אַתְּ לֹא הָיִית מַכָּה אוֹתָן?	הִכָּה COND;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM);Q
+אַתָּה לֹא מַכֶּה אֶתְכֶם?	הִכָּה IND;PRS;NOM(2,SG,MASC);NEG;ACC(2,PL,MASC);Q
+אַתָּה לֹא מַכֶּה אוֹתָנוּ.	הִכָּה IND;PRS;NOM(2,SG,MASC);NEG;ACC(1,PL)
+הִיא הִכְּתָה אוֹתָךְ.	הִכָּה IND;PST;NOM(3,SG,FEM);ACC(2,SG,FEM)
+הִכֵּית אוֹתָנוּ.	הִכָּה IND;PST;NOM(2,SG,FEM);ACC(1,PL)
+הֵן לֹא תַּכֶּינָה אֶתְכֶם.	הִכָּה IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,PL,MASC)
+לֹא תַּכֶּה אוֹתָם?	הִכָּה IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q
+הִיא לֹא תַּכֶּה אֶתְכֶם.	הִכָּה IND;FUT;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC)
+אֲנַחְנוּ לֹא הָיִינוּ מַפְעִילוֹת אֶת עַצְמֵנוּ.	הִפְעִיל COND;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX)
+הִיא הִפְעִילָה אוֹתָנוּ?	הִפְעִיל IND;PST;NOM(3,SG,FEM);ACC(1,PL);Q
+לֹא הִפְעַלְתְּ אוֹתָהּ?	הִפְעִיל IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM);Q
+הֵם לֹא הָיוּ מַפְעִילִים אוֹתָן?	הִפְעִיל COND;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM);Q
+הֵם לֹא יַפְעִילוּ אוֹתָם?	הִפְעִיל IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC);Q
+לֹא הִפְעַלְתֶּן אוֹתָהּ?	הִפְעִיל IND;PST;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM);Q
+אַפְעִיל אֶת עַצְמִי?	הִפְעִיל IND;FUT;NOM(1,SG);ACC(1,SG,RFLX);Q
+אֲנִי לֹא מַפְעִיל אוֹתוֹ.	הִפְעִיל IND;PRS;NOM(1,SG,MASC);NEG;ACC(3,SG,MASC)
+תַּפְעֵלְנָה אֶתְכֶם.	הִפְעִיל IND;FUT;NOM(2,PL,FEM);ACC(2,PL,MASC)
+תַּפְעִיל אוֹתָהּ.	הִפְעִיל IND;FUT;NOM(2,SG,MASC);ACC(3,SG,FEM)
+הִפְעַלְנוּ אֶתְכֶם.	הִפְעִיל IND;PST;NOM(1,PL);ACC(2,PL,MASC)
+הֵן לֹא תַּפְעֵלְנָה אֶתְכֶם.	הִפְעִיל IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,PL,MASC)
+הַפְעֵל אֶתְכֶם!	הִפְעִיל IMP;NOM(2,SG,MASC);ACC(2,PL,MASC)
+לֹא הִפְעַלְתֶּן אוֹתִי?	הִפְעִיל IND;PST;NOM(2,PL,FEM);NEG;ACC(1,SG);Q
+אֲנַחְנוּ לֹא הָיִינוּ מַפְעִילוֹת אוֹתָהּ?	הִפְעִיל COND;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM);Q
+לֹא הִפְעַלְנוּ אֶת עַצְמֵנוּ.	הִפְעִיל IND;PST;NOM(1,PL);NEG;ACC(1,PL,RFLX)
+לֹא הִפְעַלְתִּי אוֹתָם?	הִפְעִיל IND;PST;NOM(1,SG);NEG;ACC(3,PL,MASC);Q
+הִיא לֹא מַפְעִילָה אֶתְכֶם.	הִפְעִיל IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC)
+לֹא אַפְעִיל אוֹתָן.	הִפְעִיל IND;FUT;NOM(1,SG);NEG;ACC(3,PL,FEM)
+אַתֶּן לֹא מַפְעִילוֹת אוֹתוֹ.	הִפְעִיל IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC)
+לֹא הִפְעַלְתָּ אוֹתָן?	הִפְעִיל IND;PST;NOM(2,SG,MASC);NEG;ACC(3,PL,FEM);Q
+לֹא הִצְטָרַפְתֶּן אֵלֶיךָ.	הִצְטָרֵף IND;PST;NOM(2,PL,FEM);NEG;DAT(2,SG,MASC)
+אַל תִּצְטָרֵפְנָה אֲלֵיהֶם!	הִצְטָרֵף IMP;NOM(2,PL,FEM);NEG;DAT(3,PL,MASC)
+לֹא הִצְטָרַפְתְּ אֲלֵיהֶם?	הִצְטָרֵף IND;PST;NOM(2,SG,FEM);NEG;DAT(3,PL,MASC);Q
+לֹא הִצְטָרַפְתִּי אֲלֵיהֶן.	הִצְטָרֵף IND;PST;NOM(1,SG);NEG;DAT(3,PL,FEM)
+לֹא תִּצְטָרֵפְנָה אֲלֵיהֶם?	הִצְטָרֵף IND;FUT;NOM(2,PL,FEM);NEG;DAT(3,PL,MASC);Q
+הִצְטָרַפְתֶּן אֲלֵיכֶם.	הִצְטָרֵף IND;PST;NOM(2,PL,FEM);DAT(2,PL,MASC)
+הִיא תִּצְטָרֵף אֵלַי?	הִצְטָרֵף IND;FUT;NOM(3,SG,FEM);DAT(1,SG);Q
+לֹא הִצְטָרַפְתְּ אֵלָיו.	הִצְטָרֵף IND;PST;NOM(2,SG,FEM);NEG;DAT(3,SG,MASC)
+הִצְטָרַפְנוּ אֵלַיִךְ?	הִצְטָרֵף IND;PST;NOM(1,PL);DAT(2,SG,FEM);Q
+הֵן לֹא הָיוּ מִצְטָרְפוֹת אֲלֵיכֶם.	הִצְטָרֵף COND;NOM(3,PL,FEM);NEG;DAT(2,PL,MASC)
+אַל תִּצְטָרֵפְנָה אֲלֵיכֶם!	הִצְטָרֵף IMP;NOM(2,PL,FEM);NEG;DAT(2,PL,MASC)
+אַתֶּן לֹא מִצְטָרְפוֹת אֵלֶיךָ.	הִצְטָרֵף IND;PRS;NOM(2,PL,FEM);NEG;DAT(2,SG,MASC)
+הִצְטָרַפְתְּ אֲלֵיהֶם.	הִצְטָרֵף IND;PST;NOM(2,SG,FEM);DAT(3,PL,MASC)
+הִצְטָרֵפְנָה אֵלָיו!	הִצְטָרֵף IMP;NOM(2,PL,FEM);DAT(3,SG,MASC)
+תִּצְטָרְפוּ אֵלֶיהָ?	הִצְטָרֵף IND;FUT;NOM(2,PL,MASC);DAT(3,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי מִצְטָרֵף אֵלֵינוּ.	הִצְטָרֵף COND;NOM(1,SG,MASC);NEG;DAT(1,PL)
+אֲנַחְנוּ לֹא מִצְטָרְפִים אֲלֵיכֶם.	הִצְטָרֵף IND;PRS;NOM(1,PL,MASC);NEG;DAT(2,PL,MASC)
+לֹא תִּצְטָרֵפְנָה אֵלַיִךְ?	הִצְטָרֵף IND;FUT;NOM(2,PL,FEM);NEG;DAT(2,SG,FEM);Q
+אֲתֶּם לֹא מִצְטָרְפִים אֵלַיִךְ?	הִצְטָרֵף IND;PRS;NOM(2,PL,MASC);NEG;DAT(2,SG,FEM);Q
+לֹא תִּצְטָרֵף אֶל עַצְמְךָ.	הִצְטָרֵף IND;FUT;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX)
+לֹא הִצְטָרַפְנוּ אֲלֵיהֶם.	הִצְטָרֵף IND;PST;NOM(1,PL);NEG;DAT(3,PL,MASC)
+הִצְטָרַפְנוּ אֶל עַצְמֵנוּ?	הִצְטָרֵף IND;PST;NOM(1,PL);DAT(1,PL,RFLX);Q
+הוּא לֹא הִצְטָרֵף אֲלֵיכֶן?	הִצְטָרֵף IND;PST;NOM(3,SG,MASC);NEG;DAT(2,PL,FEM);Q
+לֹא אַקְפִּיא אוֹתָהּ?	הִקְפִּיא IND;FUT;NOM(1,SG);NEG;ACC(3,SG,FEM);Q
+הֵם לֹא הִקְפִּיאוּ אוֹתְךָ.	הִקְפִּיא IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC)
+לֹא הִקְפֵּאתֶן אוֹתָן.	הִקְפִּיא IND;PST;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM)
+הֵן לֹא הִקְפִּיאוּ אוֹתָךְ.	הִקְפִּיא IND;PST;NOM(3,PL,FEM);NEG;ACC(2,SG,FEM)
+תַּקְפִּיאִי אוֹתָהּ.	הִקְפִּיא IND;FUT;NOM(2,SG,FEM);ACC(3,SG,FEM)
+אַתָּה לֹא מַקְפִּיא אוֹתָהּ.	הִקְפִּיא IND;PRS;NOM(2,SG,MASC);NEG;ACC(3,SG,FEM)
+לֹא הִקְפֵּאת אֶת עַצְמֵךְ?	הִקְפִּיא IND;PST;NOM(2,SG,FEM);NEG;ACC(2,SG,FEM,RFLX);Q
+הִקְפֵּאתָ אֶתְכֶם.	הִקְפִּיא IND;PST;NOM(2,SG,MASC);ACC(2,PL,MASC)
+לֹא הִקְפֵּאנוּ אוֹתְךָ?	הִקְפִּיא IND;PST;NOM(1,PL);NEG;ACC(2,SG,MASC);Q
+הִיא לֹא מַקְפִּיאָה אוֹתָנוּ?	הִקְפִּיא IND;PRS;NOM(3,SG,FEM);NEG;ACC(1,PL);Q
+לֹא תַּקְפִּיאִי אֶת עַצְמֵךְ.	הִקְפִּיא IND;FUT;NOM(2,SG,FEM);NEG;ACC(2,SG,FEM,RFLX)
+לֹא הִקְפֵּאתֶם אוֹתָן.	הִקְפִּיא IND;PST;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM)
+לֹא הִקְפֵּאתִי אוֹתָהּ.	הִקְפִּיא IND;PST;NOM(1,SG);NEG;ACC(3,SG,FEM)
+הִיא לֹא הִקְפִּיאָה אוֹתָן?	הִקְפִּיא IND;PST;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);Q
+הוּא לֹא יַקְפִּיא אוֹתָם?	הִקְפִּיא IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC);Q
+הִקְפֵּאת אוֹתוֹ.	הִקְפִּיא IND;PST;NOM(2,SG,FEM);ACC(3,SG,MASC)
+לֹא נַקְפִּיא אֶתְכֶם.	הִקְפִּיא IND;FUT;NOM(1,PL);NEG;ACC(2,PL,MASC)
+אֲנַחְנוּ לֹא מַקְפִּיאוֹת אֶתְכֶן.	הִקְפִּיא IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,FEM)
+אֲנַחְנוּ לֹא הָיִינוּ מַקְפִּיאִים אוֹתוֹ?	הִקְפִּיא COND;NOM(1,PL,MASC);NEG;ACC(3,SG,MASC);Q
+אֲנִי לֹא מַקְפִּיא אוֹתְךָ?	הִקְפִּיא IND;PRS;NOM(1,SG,MASC);NEG;ACC(2,SG,MASC);Q
+לֹא הִקְפֵּאנוּ אוֹתוֹ.	הִקְפִּיא IND;PST;NOM(1,PL);NEG;ACC(3,SG,MASC)
+לֹא הִקְפֵּאתִי אֶתְכֶן.	הִקְפִּיא IND;PST;NOM(1,SG);NEG;ACC(2,PL,FEM)
+הוּא לֹא הִקִּיף אוֹתְךָ בָּהֶם.	הִקִּיף IND;PST;NOM(3,SG,MASC);NEG;ACC(2,SG,MASC);IN(3,PL,MASC)
+הֵן לֹא הִקִּיפוּ אֶת עַצְמָן בָּכֶם.	הִקִּיף IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX);IN(2,PL,MASC)
+הִקַּפְתֶּם אֶתְכֶן?	הִקִּיף IND;PST;NOM(2,PL,MASC);ACC(2,PL,FEM);Q
+לֹא הִקַּפְתִּי אוֹתָהּ בָּהֶם.	הִקִּיף IND;PST;NOM(1,SG);NEG;ACC(3,SG,FEM);IN(3,PL,MASC)
+אֲנִי לֹא הָיִיתִי מַקִּיפָה אֶתְכֶן בְּעַצְמְכֶן?	הִקִּיף COND;NOM(1,SG,FEM);NEG;ACC(2,PL,FEM);IN(2,PL,FEM,RFLX);Q
+אֲתֶּם לֹא הֱיִיתֶם מַקִּיפִים אֶת עַצְמְכֶם בּוֹ?	הִקִּיף COND;NOM(2,PL,MASC);NEG;ACC(2,PL,MASC,RFLX);IN(3,SG,MASC);Q
+אַתָּה לֹא הָיִיתָ מַקִּיף אֶת עַצְמְךָ בָּהּ?	הִקִּיף COND;NOM(2,SG,MASC);NEG;ACC(2,SG,MASC,RFLX);IN(3,SG,FEM);Q
+תַּקִּיף אוֹתָהּ בָּכֶן?	הִקִּיף IND;FUT;NOM(2,SG,MASC);ACC(3,SG,FEM);IN(2,PL,FEM);Q
+לֹא נַקִּיף אוֹתָךְ בָּהֶם?	הִקִּיף IND;FUT;NOM(1,PL);NEG;ACC(2,SG,FEM);IN(3,PL,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ מַקִּיפִים אֶתְכֶם בָּכֶן.	הִקִּיף COND;NOM(1,PL,MASC);NEG;ACC(2,PL,MASC);IN(2,PL,FEM)
+אַתָּה לֹא הָיִיתָ מַקִּיף אֶת עַצְמְךָ בִּי.	הִקִּיף COND;NOM(2,SG,MASC);NEG;ACC(2,SG,MASC,RFLX);IN(1,SG)
+לֹא הִקַּפְתֶּן אוֹתוֹ.	הִקִּיף IND;PST;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC)
+לֹא תַּקִּיפִי אוֹתָן בָּהֶן.	הִקִּיף IND;FUT;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM);IN(3,PL,FEM)
+הֵם לֹא יַקִּיפוּ אוֹתָךְ בָּהֶן?	הִקִּיף IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM);IN(3,PL,FEM);Q
+אַקִּיף אוֹתְךָ בְּעַצְמִי.	הִקִּיף IND;FUT;NOM(1,SG);ACC(2,SG,MASC);IN(1,SG,RFLX)
+לֹא תַּקִּיפוּ אֶתְכֶן בָּהּ.	הִקִּיף IND;FUT;NOM(2,PL,MASC);NEG;ACC(2,PL,FEM);IN(3,SG,FEM)
+הֵם לֹא מַקִּיפִים אוֹתָךְ בְּעַצְמֵךְ?	הִקִּיף IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM);IN(2,SG,FEM,RFLX);Q
+אַתֶּן לֹא מַקִּיפוֹת אוֹתָן בָּנוּ?	הִקִּיף IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM);IN(1,PL);Q
+אֲתֶּם לֹא מַקִּיפִים אוֹתָן בּוֹ.	הִקִּיף IND;PRS;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM);IN(3,SG,MASC)
+הוּא לֹא מַקִּיף אֶת עַצְמוֹ בּוֹ.	הִקִּיף IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX);IN(3,SG,MASC)
+הֵם לֹא הָיוּ מַקִּיפִים אוֹתִי בָּךְ?	הִקִּיף COND;NOM(3,PL,MASC);NEG;ACC(1,SG);IN(2,SG,FEM);Q
+הַרְחֵב אוֹתָן!	הִרְחִיב IMP;NOM(2,SG,MASC);ACC(3,PL,FEM)
+הֵן לֹא הָיוּ מַרְחִיבוֹת אֶת עַצְמָן.	הִרְחִיב COND;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX)
+הֵם לֹא הִרְחִיבוּ אוֹתָךְ.	הִרְחִיב IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM)
+הֵם יַרְחִיבוּ אוֹתְךָ.	הִרְחִיב IND;FUT;NOM(3,PL,MASC);ACC(2,SG,MASC)
+הִרְחַבְתֶּם אוֹתָם.	הִרְחִיב IND;PST;NOM(2,PL,MASC);ACC(3,PL,MASC)
+הוּא יַרְחִיב אֶתְכֶן.	הִרְחִיב IND;FUT;NOM(3,SG,MASC);ACC(2,PL,FEM)
+אֲנַחְנוּ לֹא מַרְחִיבוֹת אוֹתָן?	הִרְחִיב IND;PRS;NOM(1,PL,FEM);NEG;ACC(3,PL,FEM);Q
+לֹא הִרְחַבְתִּי אֶתְכֶם?	הִרְחִיב IND;PST;NOM(1,SG);NEG;ACC(2,PL,MASC);Q
+אֲתֶּם לֹא הֱיִיתֶם מַרְחִיבִים אוֹתָן?	הִרְחִיב COND;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM);Q
+אַתֶּן לֹא מַרְחִיבוֹת אוֹתוֹ.	הִרְחִיב IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC)
+לֹא תַּרְחֵבְנָה אוֹתָהּ.	הִרְחִיב IND;FUT;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM)
+הִיא לֹא מַרְחִיבָה אוֹתְךָ.	הִרְחִיב IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC)
+הֵן לֹא הִרְחִיבוּ אוֹתוֹ?	הִרְחִיב IND;PST;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);Q
+הֵם לֹא הִרְחִיבוּ אוֹתָן?	הִרְחִיב IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM);Q
+אַתְּ לֹא מַרְחִיבָה אוֹתִי.	הִרְחִיב IND;PRS;NOM(2,SG,FEM);NEG;ACC(1,SG)
+אַתָּה לֹא הָיִיתָ מַרְחִיב אוֹתָהּ?	הִרְחִיב COND;NOM(2,SG,MASC);NEG;ACC(3,SG,FEM);Q
+הוּא הִרְחִיב אוֹתוֹ.	הִרְחִיב IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC)
+לֹא תַּשְׁתִּיק אוֹתָנוּ?	הִשְׁתִּיק IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,PL);Q
+תַּשְׁתִּיק אוֹתִי?	הִשְׁתִּיק IND;FUT;NOM(2,SG,MASC);ACC(1,SG);Q
+לֹא הִשְׁתַּקְתֶּם אוֹתָהּ?	הִשְׁתִּיק IND;PST;NOM(2,PL,MASC);NEG;ACC(3,SG,FEM);Q
+הוּא לֹא הִשְׁתִּיק אוֹתָם.	הִשְׁתִּיק IND;PST;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC)
+הִיא לֹא תַּשְׁתִּיק אוֹתָהּ.	הִשְׁתִּיק IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)
+הִיא לֹא תַּשְׁתִּיק אֶתְכֶם?	הִשְׁתִּיק IND;FUT;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC);Q
+אַתְּ לֹא מַשְׁתִּיקָה אוֹתָנוּ.	הִשְׁתִּיק IND;PRS;NOM(2,SG,FEM);NEG;ACC(1,PL)
+הוּא יַשְׁתִּיק אוֹתָהּ.	הִשְׁתִּיק IND;FUT;NOM(3,SG,MASC);ACC(3,SG,FEM)
+אַתְּ לֹא הָיִית מַשְׁתִּיקָה אוֹתִי?	הִשְׁתִּיק COND;NOM(2,SG,FEM);NEG;ACC(1,SG);Q
+הִשְׁתַּקְתְּ אֶת עַצְמֵךְ.	הִשְׁתִּיק IND;PST;NOM(2,SG,FEM);ACC(2,SG,FEM,RFLX)
+אֲנִי לֹא מַשְׁתִּיקָה אוֹתָנוּ.	הִשְׁתִּיק IND;PRS;NOM(1,SG,FEM);NEG;ACC(1,PL)
+תַּשְׁתֵּקְנָה אֶת עַצְמְכֶן?	הִשְׁתִּיק IND;FUT;NOM(2,PL,FEM);ACC(2,PL,FEM,RFLX);Q
+תַּשְׁתֵּקְנָה אוֹתָם?	הִשְׁתִּיק IND;FUT;NOM(2,PL,FEM);ACC(3,PL,MASC);Q
+תַּשְׁתִּיקוּ אוֹתָם?	הִשְׁתִּיק IND;FUT;NOM(2,PL,MASC);ACC(3,PL,MASC);Q
+הֵם לֹא יַשְׁתִּיקוּ אוֹתָן.	הִשְׁתִּיק IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM)
+הוּא הִשְׁתִּיק אֶת עַצְמוֹ.	הִשְׁתִּיק IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)
+הִיא לֹא מַשְׁתִּיקָה אוֹתָךְ.	הִשְׁתִּיק IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,SG,FEM)
+לֹא הִשְׁתַּקְתִּי אוֹתוֹ.	הִשְׁתִּיק IND;PST;NOM(1,SG);NEG;ACC(3,SG,MASC)
+הֵן לֹא הִשְׁתִּיקוּ אֶתְכֶן.	הִשְׁתִּיק IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM)
+תִּתְאַרְגְּנוּ?	הִתְאַרְגֵּן IND;FUT;NOM(2,PL,MASC);Q
+הִתְאַרְגֵּנָּה!	הִתְאַרְגֵּן IMP;NOM(2,PL,FEM)
+הִתְאַרְגַּנְתִּי.	הִתְאַרְגֵּן IND;PST;NOM(1,SG)
+אֲנִי לֹא מִתְאַרְגֵּן?	הִתְאַרְגֵּן IND;PRS;NOM(1,SG,MASC);NEG;Q
+הֵם יִתְאַרְגְּנוּ?	הִתְאַרְגֵּן IND;FUT;NOM(3,PL,MASC);Q
+הִיא לֹא הָיְתָה מִתְאַרְגֶּנֶת?	הִתְאַרְגֵּן COND;NOM(3,SG,FEM);NEG;Q
+הִיא לֹא הִתְאַרְגְּנָה.	הִתְאַרְגֵּן IND;PST;NOM(3,SG,FEM);NEG
+הִתְאַרְגֵּנָּה!	הִתְאַרְגֵּן IMP;NOM(2,PL,FEM)
+לֹא נִתְאַרְגֵּן.	הִתְאַרְגֵּן IND;FUT;NOM(1,PL);NEG
+אַתֶּן לֹא מִתְאַרְגְּנוֹת?	הִתְאַרְגֵּן IND;PRS;NOM(2,PL,FEM);NEG;Q
+תִּתְאַרְגְּנוּ?	הִתְאַרְגֵּן IND;FUT;NOM(2,PL,MASC);Q
+אֲנַחְנוּ לֹא מִתְאַרְגְּנוֹת.	הִתְאַרְגֵּן IND;PRS;NOM(1,PL,FEM);NEG
+אֲנַחְנוּ לֹא הָיִינוּ מִתְאַרְגְּנוֹת?	הִתְאַרְגֵּן COND;NOM(1,PL,FEM);NEG;Q
+אֲנַחְנוּ לֹא הָיִינוּ מִתְאַרְגְּנִים.	הִתְאַרְגֵּן COND;NOM(1,PL,MASC);NEG
+הֵם לֹא הָיוּ מִתְאַרְגְּנִים?	הִתְאַרְגֵּן COND;NOM(3,PL,MASC);NEG;Q
+לֹא נִתְאַרְגֵּן?	הִתְאַרְגֵּן IND;FUT;NOM(1,PL);NEG;Q
+הֵן לֹא תִּתְאַרְגֵּנָּה?	הִתְאַרְגֵּן IND;FUT;NOM(3,PL,FEM);NEG;Q
+אֲתֶּם לֹא מִתְאַרְגְּנִים.	הִתְאַרְגֵּן IND;PRS;NOM(2,PL,MASC);NEG
+אֲנַחְנוּ לֹא מִתְלוֹנְנוֹת אֵלַיִךְ.	הִתְלוֹנֵן IND;PRS;NOM(1,PL,FEM);NEG;DAT(2,SG,FEM)
+לֹא הִתְלוֹנַנְתֶּם.	הִתְלוֹנֵן IND;PST;NOM(2,PL,MASC);NEG
+אֶתְלוֹנֵן אֵלֶיךָ?	הִתְלוֹנֵן IND;FUT;NOM(1,SG);DAT(2,SG,MASC);Q
+אֲנִי לֹא הָיִיתִי מִתְלוֹנֵן אֲלֵיכֶם?	הִתְלוֹנֵן COND;NOM(1,SG,MASC);NEG;DAT(2,PL,MASC);Q
+אֲנִי לֹא הָיִיתִי מִתְלוֹנֶנֶת?	הִתְלוֹנֵן COND;NOM(1,SG,FEM);NEG;Q
+אַתֶּן לֹא מִתְלוֹנְנוֹת אֵלֵינוּ?	הִתְלוֹנֵן IND;PRS;NOM(2,PL,FEM);NEG;DAT(1,PL);Q
+הוּא לֹא מִתְלוֹנֵן?	הִתְלוֹנֵן IND;PRS;NOM(3,SG,MASC);NEG;Q
+הֵם לֹא יִתְלוֹנְנוּ אֲלֵיהֶן.	הִתְלוֹנֵן IND;FUT;NOM(3,PL,MASC);NEG;DAT(3,PL,FEM)
+אַל תִּתְלוֹנְנִי!	הִתְלוֹנֵן IMP;NOM(2,SG,FEM);NEG
+אֲנִי לֹא הָיִיתִי מִתְלוֹנֶנֶת אֵלַיִךְ.	הִתְלוֹנֵן COND;NOM(1,SG,FEM);NEG;DAT(2,SG,FEM)
+לֹא הִתְלוֹנַנְתֶּן אֵלֶיהָ.	הִתְלוֹנֵן IND;PST;NOM(2,PL,FEM);NEG;DAT(3,SG,FEM)
+הֵם לֹא מִתְלוֹנְנִים אֵלֶיךָ.	הִתְלוֹנֵן IND;PRS;NOM(3,PL,MASC);NEG;DAT(2,SG,MASC)
+אֲתֶּם לֹא הֱיִיתֶם מִתְלוֹנְנִים אֵלֵינוּ.	הִתְלוֹנֵן COND;NOM(2,PL,MASC);NEG;DAT(1,PL)
+הִתְלוֹנֵנָּה אֵלַי!	הִתְלוֹנֵן IMP;NOM(2,PL,FEM);DAT(1,SG)
+תִּתְלוֹנְנוּ אֵלֶיךָ?	הִתְלוֹנֵן IND;FUT;NOM(2,PL,MASC);DAT(2,SG,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ מִתְלוֹנְנִים אֲלֵיכֶן?	הִתְלוֹנֵן COND;NOM(1,PL,MASC);NEG;DAT(2,PL,FEM);Q
+הֵן לֹא מִתְלוֹנְנוֹת אֵלֵינוּ.	הִתְלוֹנֵן IND;PRS;NOM(3,PL,FEM);NEG;DAT(1,PL)
+אֲנִי לֹא מִתְלוֹנֵן אֲלֵיהֶם?	הִתְלוֹנֵן IND;PRS;NOM(1,SG,MASC);NEG;DAT(3,PL,MASC);Q
+לֹא תִּתְלוֹנְנוּ אֶל עַצְמְכֶם.	הִתְלוֹנֵן IND;FUT;NOM(2,PL,MASC);NEG;DAT(2,PL,MASC,RFLX)
+אֲנַחְנוּ לֹא הָיִינוּ מִתְלוֹנְנִים אֲלֵיכֶן?	הִתְלוֹנֵן COND;NOM(1,PL,MASC);NEG;DAT(2,PL,FEM);Q
+הוּא לֹא יִתְלוֹנֵן אֲלֵיהֶן.	הִתְלוֹנֵן IND;FUT;NOM(3,SG,MASC);NEG;DAT(3,PL,FEM)
+הֵן לֹא תִּתְלוֹנֵנָּה אֵלַי?	הִתְלוֹנֵן IND;FUT;NOM(3,PL,FEM);NEG;DAT(1,SG);Q
+תִּתְלוֹנֵן אֵלַיִךְ?	הִתְלוֹנֵן IND;FUT;NOM(2,SG,MASC);DAT(2,SG,FEM);Q
+אַל תִּתְקַלְקֵל!	הִתְקַלְקֵל IMP;NOM(2,SG,MASC);NEG
+הִיא לֹא הִתְקַלְקְלָה.	הִתְקַלְקֵל IND;PST;NOM(3,SG,FEM);NEG
+תִּתְקַלְקְלִי?	הִתְקַלְקֵל IND;FUT;NOM(2,SG,FEM);Q
+הוּא לֹא מִתְקַלְקֵל.	הִתְקַלְקֵל IND;PRS;NOM(3,SG,MASC);NEG
+לֹא תִּתְקַלְקְלוּ.	הִתְקַלְקֵל IND;FUT;NOM(2,PL,MASC);NEG
+הִיא לֹא תִּתְקַלְקֵל.	הִתְקַלְקֵל IND;FUT;NOM(3,SG,FEM);NEG
+הֵם יִתְקַלְקְלוּ.	הִתְקַלְקֵל IND;FUT;NOM(3,PL,MASC)
+אֲנַחְנוּ לֹא מִתְקַלְקְלוֹת.	הִתְקַלְקֵל IND;PRS;NOM(1,PL,FEM);NEG
+הֵם לֹא הִתְקַלְקְלוּ.	הִתְקַלְקֵל IND;PST;NOM(3,PL,MASC);NEG
+הִתְקַלְקְלוּ!	הִתְקַלְקֵל IMP;NOM(2,PL,MASC)
+לֹא תִּתְקַלְקֵלְנָה?	הִתְקַלְקֵל IND;FUT;NOM(2,PL,FEM);NEG;Q
+הִיא לֹא הִתְקַלְקְלָה.	הִתְקַלְקֵל IND;PST;NOM(3,SG,FEM);NEG
+אֲנַחְנוּ לֹא הָיִינוּ מִתְקַלְקְלוֹת?	הִתְקַלְקֵל COND;NOM(1,PL,FEM);NEG;Q
+הִיא לֹא הִתְקַלְקְלָה?	הִתְקַלְקֵל IND;PST;NOM(3,SG,FEM);NEG;Q
+אַתְּ לֹא מִתְקַלְקֶלֶת?	הִתְקַלְקֵל IND;PRS;NOM(2,SG,FEM);NEG;Q
+אַתָּה לֹא הָיִיתָ מִתְקַלְקֵל.	הִתְקַלְקֵל COND;NOM(2,SG,MASC);NEG
+אֲנִי לֹא מִתְקַלְקֵל?	הִתְקַלְקֵל IND;PRS;NOM(1,SG,MASC);NEG;Q
+הֵם לֹא מִתְקַלְקְלִים.	הִתְקַלְקֵל IND;PRS;NOM(3,PL,MASC);NEG
+אֲתֶּם לֹא מִתְקַלְקְלִים.	הִתְקַלְקֵל IND;PRS;NOM(2,PL,MASC);NEG
+לֹא תִּתְקַלֵּחַ?	הִתְקַלֵּחַ IND;FUT;NOM(2,SG,MASC);NEG;Q
+אַתָּה לֹא הָיִיתָ מִתְקַלֵּחַ.	הִתְקַלֵּחַ COND;NOM(2,SG,MASC);NEG
+לֹא תִּתְקַלְּחוּ.	הִתְקַלֵּחַ IND;FUT;NOM(2,PL,MASC);NEG
+אֲתֶּם לֹא מִתְקַלְּחִים.	הִתְקַלֵּחַ IND;PRS;NOM(2,PL,MASC);NEG
+אֲנַחְנוּ לֹא מִתְקַלְּחִים.	הִתְקַלֵּחַ IND;PRS;NOM(1,PL,MASC);NEG
+לֹא הִתְקַלַּחְתֶּם?	הִתְקַלֵּחַ IND;PST;NOM(2,PL,MASC);NEG;Q
+הֵן לֹא הִתְקַלְּחוּ.	הִתְקַלֵּחַ IND;PST;NOM(3,PL,FEM);NEG
+לֹא נִתְקַלֵּחַ?	הִתְקַלֵּחַ IND;FUT;NOM(1,PL);NEG;Q
+הֵם לֹא הָיוּ מִתְקַלְּחִים?	הִתְקַלֵּחַ COND;NOM(3,PL,MASC);NEG;Q
+תִּתְקַלְּחִי.	הִתְקַלֵּחַ IND;FUT;NOM(2,SG,FEM)
+אֲתֶּם לֹא הֱיִיתֶם מִתְקַלְּחִים.	הִתְקַלֵּחַ COND;NOM(2,PL,MASC);NEG
+לֹא תִּתְקַלֵּחַ.	הִתְקַלֵּחַ IND;FUT;NOM(2,SG,MASC);NEG
+תִּתְקַלְּחִי?	הִתְקַלֵּחַ IND;FUT;NOM(2,SG,FEM);Q
+לֹא תִּתְקַלְּחִי?	הִתְקַלֵּחַ IND;FUT;NOM(2,SG,FEM);NEG;Q
+הֵם לֹא הִתְקַלְּחוּ.	הִתְקַלֵּחַ IND;PST;NOM(3,PL,MASC);NEG
+אַל תִּתְקַלְּחִי!	הִתְקַלֵּחַ IMP;NOM(2,SG,FEM);NEG
+הֵן לֹא הָיוּ מִתְקַלְּחוֹת.	הִתְקַלֵּחַ COND;NOM(3,PL,FEM);NEG
+הִתְקַלַּחְתֶּם.	הִתְקַלֵּחַ IND;PST;NOM(2,PL,MASC)
+הִתְקַלַּחְתִּי.	הִתְקַלֵּחַ IND;PST;NOM(1,SG)
+אַל תִּתְקַלֵּחַ!	הִתְקַלֵּחַ IMP;NOM(2,SG,MASC);NEG
+לֹא נִתְקַלֵּחַ?	הִתְקַלֵּחַ IND;FUT;NOM(1,PL);NEG;Q
+הֵן לֹא הֵאִיצוּ אוֹתָהּ?	הֵאִיץ IND;PST;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);Q
+נָאִיץ אֶת עַצְמֵנוּ?	הֵאִיץ IND;FUT;NOM(1,PL);ACC(1,PL,RFLX);Q
+הֵם לֹא יָאִיצוּ אוֹתָךְ?	הֵאִיץ IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי מְאִיצָה אוֹתָן?	הֵאִיץ COND;NOM(1,SG,FEM);NEG;ACC(3,PL,FEM);Q
+הֵן לֹא מְאִיצוֹת אוֹתָם?	הֵאִיץ IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC);Q
+לֹא אָאִיץ אוֹתָן.	הֵאִיץ IND;FUT;NOM(1,SG);NEG;ACC(3,PL,FEM)
+לֹא הֵאַצְנוּ אוֹתְךָ.	הֵאִיץ IND;PST;NOM(1,PL);NEG;ACC(2,SG,MASC)
+אַתֶּן לֹא הֱיִיתֶן מְאִיצוֹת אוֹתָהּ.	הֵאִיץ COND;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM)
+אַתֶּן לֹא הֱיִיתֶן מְאִיצוֹת אוֹתְךָ.	הֵאִיץ COND;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC)
+לֹא תָּאִיצִי אוֹתָן.	הֵאִיץ IND;FUT;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM)
+תָּאִיץ אֶתְכֶן.	הֵאִיץ IND;FUT;NOM(2,SG,MASC);ACC(2,PL,FEM)
+אֲתֶּם לֹא הֱיִיתֶם מְאִיצִים?	הֵאִיץ COND;NOM(2,PL,MASC);NEG;Q
+הִיא הֵאִיצָה אוֹתָם?	הֵאִיץ IND;PST;NOM(3,SG,FEM);ACC(3,PL,MASC);Q
+לֹא הַאַצְתֶּם אוֹתָנוּ?	הֵאִיץ IND;PST;NOM(2,PL,MASC);NEG;ACC(1,PL);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְאִיצִים אוֹתָהּ.	הֵאִיץ COND;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM)
+הוּא הֵאִיץ אֶתְכֶם.	הֵאִיץ IND;PST;NOM(3,SG,MASC);ACC(2,PL,MASC)
+הָאִיצוּ אוֹתוֹ!	הֵאִיץ IMP;NOM(2,PL,MASC);ACC(3,SG,MASC)
+לֹא הֵאַצְתָּ אֶתְכֶם.	הֵאִיץ IND;PST;NOM(2,SG,MASC);NEG;ACC(2,PL,MASC)
+אַתֶּן לֹא מְאִיצוֹת אוֹתִי.	הֵאִיץ IND;PRS;NOM(2,PL,FEM);NEG;ACC(1,SG)
+הֲבַנְתֶּם אֶתְכֶן?	הֵבִין IND;PST;NOM(2,PL,MASC);ACC(2,PL,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְבִינִים אוֹתָם.	הֵבִין COND;NOM(1,PL,MASC);NEG;ACC(3,PL,MASC)
+לֹא הֵבַנְתָּ אוֹתָם?	הֵבִין IND;PST;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q
+הֵם לֹא מְבִינִים אֶתְכֶן.	הֵבִין IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הֲבַנְתֶּן אוֹתִי?	הֵבִין IND;PST;NOM(2,PL,FEM);ACC(1,SG);Q
+תָּבִינוּ אֶת עַצְמְכֶם?	הֵבִין IND;FUT;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX);Q
+הִיא תָּבִין אֶתְכֶן.	הֵבִין IND;FUT;NOM(3,SG,FEM);ACC(2,PL,FEM)
+הֵבַנְתְּ אֶתְכֶם.	הֵבִין IND;PST;NOM(2,SG,FEM);ACC(2,PL,MASC)
+אֲנַחְנוּ לֹא הָיִינוּ מְבִינוֹת אוֹתָהּ?	הֵבִין COND;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM);Q
+הִיא תָּבִין אוֹתָם.	הֵבִין IND;FUT;NOM(3,SG,FEM);ACC(3,PL,MASC)
+אַל תָּבֵנָּה אוֹתָנוּ!	הֵבִין IMP;NOM(2,PL,FEM);NEG;ACC(1,PL)
+אֲנַחְנוּ לֹא הָיִינוּ מְבִינִים אֶת עַצְמֵנוּ.	הֵבִין COND;NOM(1,PL,MASC);NEG;ACC(1,PL,RFLX)
+הֵבַנּוּ אֶתְכֶם?	הֵבִין IND;PST;NOM(1,PL);ACC(2,PL,MASC);Q
+הוּא לֹא מֵבִין אוֹתְךָ.	הֵבִין IND;PRS;NOM(3,SG,MASC);NEG;ACC(2,SG,MASC)
+לֹא הֵבַנְתִּי אוֹתָם.	הֵבִין IND;PST;NOM(1,SG);NEG;ACC(3,PL,MASC)
+הֵבַנְתְּ אוֹתָן.	הֵבִין IND;PST;NOM(2,SG,FEM);ACC(3,PL,FEM)
+הֵם לֹא יָבִינוּ אוֹתָהּ?	הֵבִין IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q
+הֵן לֹא הֵבִינוּ אוֹתָן.	הֵבִין IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM)
+הֵבַנּוּ אוֹתְךָ.	הֵבִין IND;PST;NOM(1,PL);ACC(2,SG,MASC)
+הֵן תָּבֵנָּה?	הֵבִין IND;FUT;NOM(3,PL,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְבִינִים אֶתְכֶם?	הֵבִין COND;NOM(1,PL,MASC);NEG;ACC(2,PL,MASC);Q
+הָבִינִי אוֹתָם!	הֵבִין IMP;NOM(2,SG,FEM);ACC(3,PL,MASC)
+לֹא הֵטַבְתָּ עִם עַצְמְךָ.	הֵטִיב IND;PST;NOM(2,SG,MASC);NEG;COM(2,SG,MASC,RFLX)
+הֵן תֵּטֵבְנָה אִתָּן?	הֵטִיב IND;FUT;NOM(3,PL,FEM);COM(3,PL,FEM);Q
+הֵן לֹא הֵטִיבוּ אִתָּךְ.	הֵטִיב IND;PST;NOM(3,PL,FEM);NEG;COM(2,SG,FEM)
+הוּא יֵטִיב אִתָּהּ.	הֵטִיב IND;FUT;NOM(3,SG,MASC);COM(3,SG,FEM)
+הֵן לֹא הָיוּ מְטִיבוֹת אִתִּי.	הֵטִיב COND;NOM(3,PL,FEM);NEG;COM(1,SG)
+אֲנִי לֹא הָיִיתִי מֵטִיב אִתּוֹ.	הֵטִיב COND;NOM(1,SG,MASC);NEG;COM(3,SG,MASC)
+הוּא הֵטִיב אִתָּן.	הֵטִיב IND;PST;NOM(3,SG,MASC);COM(3,PL,FEM)
+אַתָּה לֹא הָיִיתָ מֵטִיב אִתָּהּ.	הֵטִיב COND;NOM(2,SG,MASC);NEG;COM(3,SG,FEM)
+אֲנַחְנוּ לֹא מְטִיבִים אִתְּךָ?	הֵטִיב IND;PRS;NOM(1,PL,MASC);NEG;COM(2,SG,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְטִיבוֹת אִתְּכֶן?	הֵטִיב COND;NOM(1,PL,FEM);NEG;COM(2,PL,FEM);Q
+הֵן לֹא מְטִיבוֹת עִם עַצְמָן.	הֵטִיב IND;PRS;NOM(3,PL,FEM);NEG;COM(3,PL,FEM,RFLX)
+אֲתֶּם לֹא מְטִיבִים אִתִּי?	הֵטִיב IND;PRS;NOM(2,PL,MASC);NEG;COM(1,SG);Q
+אֲנִי לֹא הָיִיתִי מְטִיבָה אִתְּכֶם.	הֵטִיב COND;NOM(1,SG,FEM);NEG;COM(2,PL,MASC)
+אַל תֵּטִיב אִתּוֹ!	הֵטִיב IMP;NOM(2,SG,MASC);NEG;COM(3,SG,MASC)
+הִיא לֹא הָיְתָה מְטִיבָה אִתָּן.	הֵטִיב COND;NOM(3,SG,FEM);NEG;COM(3,PL,FEM)
+לֹא תֵּטִיבוּ עִם עַצְמְכֶם.	הֵטִיב IND;FUT;NOM(2,PL,MASC);NEG;COM(2,PL,MASC,RFLX)
+לֹא תֵּטִיבוּ אִתְּךָ?	הֵטִיב IND;FUT;NOM(2,PL,MASC);NEG;COM(2,SG,MASC);Q
+אֲתֶּם לֹא הֱיִיתֶם מְטִיבִים אִתָּךְ.	הֵטִיב COND;NOM(2,PL,MASC);NEG;COM(2,SG,FEM)
+הֵם לֹא הֵטִיבוּ אִתְּכֶם.	הֵטִיב IND;PST;NOM(3,PL,MASC);NEG;COM(2,PL,MASC)
+הֲטַבְתֶּן עִם עַצְמְכֶן.	הֵטִיב IND;PST;NOM(2,PL,FEM);COM(2,PL,FEM,RFLX)
+לֹא הֲטַבְתֶּם אִתָּם?	הֵטִיב IND;PST;NOM(2,PL,MASC);NEG;COM(3,PL,MASC);Q
+הִיא לֹא תֵּטִיב אִתְּךָ?	הֵטִיב IND;FUT;NOM(3,SG,FEM);NEG;COM(2,SG,MASC);Q
+הִיא לֹא מְכִילָה אֶת עַצְמָהּ.	הֵכִיל IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX)
+אֲנַחְנוּ לֹא הָיִינוּ מְכִילִים אוֹתָן.	הֵכִיל COND;NOM(1,PL,MASC);NEG;ACC(3,PL,FEM)
+לֹא אָכִיל אֶת עַצְמִי.	הֵכִיל IND;FUT;NOM(1,SG);NEG;ACC(1,SG,RFLX)
+הוּא הֵכִיל אוֹתָךְ?	הֵכִיל IND;PST;NOM(3,SG,MASC);ACC(2,SG,FEM);Q
+הֵם לֹא מְכִילִים אֶתְכֶן?	הֵכִיל IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM);Q
+הֵם לֹא יָכִילוּ אֶתְכֶן.	הֵכִיל IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הִיא לֹא הָיְתָה מְכִילָה אוֹתְךָ?	הֵכִיל COND;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC);Q
+הֵן תָּכֵלְנָה אוֹתָךְ.	הֵכִיל IND;FUT;NOM(3,PL,FEM);ACC(2,SG,FEM)
+הֵם לֹא הֵכִילוּ אוֹתָהּ?	הֵכִיל IND;PST;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q
+לֹא הֵכַלְנוּ אוֹתוֹ?	הֵכִיל IND;PST;NOM(1,PL);NEG;ACC(3,SG,MASC);Q
+הוּא לֹא הָיָה מֵכִיל אֶתְכֶם.	הֵכִיל COND;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC)
+הָכֵלְנָה אוֹתוֹ!	הֵכִיל IMP;NOM(2,PL,FEM);ACC(3,SG,MASC)
+הֵם יָכִילוּ אֶת עַצְמָם.	הֵכִיל IND;FUT;NOM(3,PL,MASC);ACC(3,PL,MASC,RFLX)
+הֲכַלְתֶּן אוֹתָם?	הֵכִיל IND;PST;NOM(2,PL,FEM);ACC(3,PL,MASC);Q
+הֲכַלְתֶּם אוֹתָהּ.	הֵכִיל IND;PST;NOM(2,PL,MASC);ACC(3,SG,FEM)
+הוּא לֹא מֵכִיל אוֹתְךָ.	הֵכִיל IND;PRS;NOM(3,SG,MASC);NEG;ACC(2,SG,MASC)
+הוּא יָכִיל אוֹתְךָ?	הֵכִיל IND;FUT;NOM(3,SG,MASC);ACC(2,SG,MASC);Q
+הֵן תָּרַחְנָה אוֹתָם.	הֵרִיחַ IND;FUT;NOM(3,PL,FEM);ACC(3,PL,MASC)
+לֹא הֲרַחְתֶּן אוֹתָנוּ.	הֵרִיחַ IND;PST;NOM(2,PL,FEM);NEG;ACC(1,PL)
+לֹא תָּרִיחוּ אֶת עַצְמְכֶם.	הֵרִיחַ IND;FUT;NOM(2,PL,MASC);NEG;ACC(2,PL,MASC,RFLX)
+הָרַח אֶתְכֶם!	הֵרִיחַ IMP;NOM(2,SG,MASC);ACC(2,PL,MASC)
+הֵם לֹא יָרִיחוּ אוֹתְךָ?	הֵרִיחַ IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);Q
+הָרִיחוּ אֶת עַצְמְכֶם!	הֵרִיחַ IMP;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX)
+הֵרַחְנוּ אוֹתָן.	הֵרִיחַ IND;PST;NOM(1,PL);ACC(3,PL,FEM)
+הִיא לֹא הָיְתָה מְרִיחָה אוֹתָנוּ?	הֵרִיחַ COND;NOM(3,SG,FEM);NEG;ACC(1,PL);Q
+הִיא לֹא הָיְתָה מְרִיחָה אוֹתָן?	הֵרִיחַ COND;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);Q
+הוּא יָרִיחַ אֶתְכֶם?	הֵרִיחַ IND;FUT;NOM(3,SG,MASC);ACC(2,PL,MASC);Q
+לֹא אָרִיחַ אוֹתָם?	הֵרִיחַ IND;FUT;NOM(1,SG);NEG;ACC(3,PL,MASC);Q
+הֵם לֹא יָרִיחוּ אוֹתָךְ?	הֵרִיחַ IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM);Q
+הָרִיחִי אוֹתִי!	הֵרִיחַ IMP;NOM(2,SG,FEM);ACC(1,SG)
+אֲנִי לֹא מֵרִיחַ אוֹתָם?	הֵרִיחַ IND;PRS;NOM(1,SG,MASC);NEG;ACC(3,PL,MASC);Q
+הֵם לֹא יָרִיחוּ אוֹתָם.	הֵרִיחַ IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC)
+הֵם יָרִיחוּ אוֹתָנוּ?	הֵרִיחַ IND;FUT;NOM(3,PL,MASC);ACC(1,PL);Q
+אֲנַחְנוּ לֹא מְרִיחוֹת אֶתְכֶם.	הֵרִיחַ IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,MASC)
+אֲנַחְנוּ לֹא הָיִינוּ מְרִיחִים אוֹתוֹ.	הֵרִיחַ COND;NOM(1,PL,MASC);NEG;ACC(3,SG,MASC)
+לֹא נָרִיחַ אֶתְכֶם?	הֵרִיחַ IND;FUT;NOM(1,PL);NEG;ACC(2,PL,MASC);Q
+הֵרַחְתִּי אוֹתְךָ?	הֵרִיחַ IND;PST;NOM(1,SG);ACC(2,SG,MASC);Q
+הֵרַחְנוּ אוֹתִי?	הֵרִיחַ IND;PST;NOM(1,PL);ACC(1,SG);Q
+אַתְּ לֹא הָיִית מְרִימָה אֶתְכֶן?	הֵרִים COND;NOM(2,SG,FEM);NEG;ACC(2,PL,FEM);Q
+אַתָּה לֹא הָיִיתָ מֵרִים אֶתְכֶן.	הֵרִים COND;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM)
+הֵן לֹא הָיוּ מְרִימוֹת אוֹתִי?	הֵרִים COND;NOM(3,PL,FEM);NEG;ACC(1,SG);Q
+לֹא הֵרַמְתָּ אוֹתָךְ.	הֵרִים IND;PST;NOM(2,SG,MASC);NEG;ACC(2,SG,FEM)
+תָּרִימִי אוֹתָם?	הֵרִים IND;FUT;NOM(2,SG,FEM);ACC(3,PL,MASC);Q
+הֲרַמְתֶּם אוֹתִי?	הֵרִים IND;PST;NOM(2,PL,MASC);ACC(1,SG);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְרִימוֹת אֶתְכֶם?	הֵרִים COND;NOM(1,PL,FEM);NEG;ACC(2,PL,MASC);Q
+אַל תָּרִימִי אוֹתָם!	הֵרִים IMP;NOM(2,SG,FEM);NEG;ACC(3,PL,MASC)
+הִיא לֹא הָיְתָה מְרִימָה אוֹתָךְ.	הֵרִים COND;NOM(3,SG,FEM);NEG;ACC(2,SG,FEM)
+אֲנִי לֹא מְרִימָה אוֹתָם.	הֵרִים IND;PRS;NOM(1,SG,FEM);NEG;ACC(3,PL,MASC)
+אַל תָּרֵמְנָה אוֹתְךָ!	הֵרִים IMP;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC)
+אַתְּ לֹא הָיִית מְרִימָה אוֹתִי.	הֵרִים COND;NOM(2,SG,FEM);NEG;ACC(1,SG)
+אֲנִי לֹא הָיִיתִי מְרִימָה אֶתְכֶם.	הֵרִים COND;NOM(1,SG,FEM);NEG;ACC(2,PL,MASC)
+נָרִים אוֹתָן.	הֵרִים IND;FUT;NOM(1,PL);ACC(3,PL,FEM)
+הִיא לֹא הָיְתָה מְרִימָה אוֹתוֹ?	הֵרִים COND;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);Q
+לֹא הֵרַמְתִּי אוֹתָהּ?	הֵרִים IND;PST;NOM(1,SG);NEG;ACC(3,SG,FEM);Q
+הֵן לֹא הָיוּ מְרִימוֹת אוֹתוֹ.	הֵרִים COND;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC)
+אַל תָּרִים אוֹתָךְ!	הֵרִים IMP;NOM(2,SG,MASC);NEG;ACC(2,SG,FEM)
+הֵם לֹא הָיוּ מְרִימִים אוֹתָךְ.	הֵרִים COND;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM)
+הֲרַמְתֶּם אוֹתָן.	הֵרִים IND;PST;NOM(2,PL,MASC);ACC(3,PL,FEM)
+הוּא לֹא מֵרִים אוֹתִי.	הֵרִים IND;PRS;NOM(3,SG,MASC);NEG;ACC(1,SG)
+הֵשַׁבְנוּ לִי אֶתְכֶן.	הֵשִׁיב IND;PST;NOM(1,PL);DAT(1,SG);ACC(2,PL,FEM)
+תָּשִׁיב לָךְ.	הֵשִׁיב IND;FUT;NOM(2,SG,MASC);DAT(2,SG,FEM)
+אַל תָּשִׁיב לָךְ אֶת עַצְמְךָ!	הֵשִׁיב IMP;NOM(2,SG,MASC);NEG;DAT(2,SG,FEM);ACC(2,SG,MASC,RFLX)
+לֹא הֵשַׁבְתָּ לְעַצְמְךָ אֶתְכֶם.	הֵשִׁיב IND;PST;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX);ACC(2,PL,MASC)
+הֵשַׁבְתִּי לָהּ אֶתְכֶן.	הֵשִׁיב IND;PST;NOM(1,SG);DAT(3,SG,FEM);ACC(2,PL,FEM)
+הֵן לֹא הֵשִׁיבוּ לְעַצְמָן אֶתְכֶן?	הֵשִׁיב IND;PST;NOM(3,PL,FEM);NEG;DAT(3,PL,FEM,RFLX);ACC(2,PL,FEM);Q
+לֹא הֵשַׁבְנוּ לָהֶם?	הֵשִׁיב IND;PST;NOM(1,PL);NEG;DAT(3,PL,MASC);Q
+הֵם לֹא מְשִׁיבִים לָהּ.	הֵשִׁיב IND;PRS;NOM(3,PL,MASC);NEG;DAT(3,SG,FEM)
+לֹא הֲשַׁבְתֶּן לָהֶן אוֹתִי.	הֵשִׁיב IND;PST;NOM(2,PL,FEM);NEG;DAT(3,PL,FEM);ACC(1,SG)
+אֲנִי לֹא מֵשִׁיב לָהֶם אֶתְכֶם.	הֵשִׁיב IND;PRS;NOM(1,SG,MASC);NEG;DAT(3,PL,MASC);ACC(2,PL,MASC)
+הִיא הֵשִׁיבָה לָכֶם אוֹתְךָ.	הֵשִׁיב IND;PST;NOM(3,SG,FEM);DAT(2,PL,MASC);ACC(2,SG,MASC)
+הֵם יָשִׁיבוּ לִי אוֹתָהּ?	הֵשִׁיב IND;FUT;NOM(3,PL,MASC);DAT(1,SG);ACC(3,SG,FEM);Q
+אַתְּ לֹא מְשִׁיבָה לָהֶם אֶת עַצְמֵךְ.	הֵשִׁיב IND;PRS;NOM(2,SG,FEM);NEG;DAT(3,PL,MASC);ACC(2,SG,FEM,RFLX)
+הֵן לֹא הָיוּ מְשִׁיבוֹת לָכֶן אוֹתָנוּ?	הֵשִׁיב COND;NOM(3,PL,FEM);NEG;DAT(2,PL,FEM);ACC(1,PL);Q
+הֵם יָשִׁיבוּ לָהֶם אוֹתָם?	הֵשִׁיב IND;FUT;NOM(3,PL,MASC);DAT(3,PL,MASC);ACC(3,PL,MASC);Q
+אָשִׁיב לָנוּ אֶת עַצְמִי?	הֵשִׁיב IND;FUT;NOM(1,SG);DAT(1,PL);ACC(1,SG,RFLX);Q
+הוּא לֹא מֵשִׁיב אֶת עַצְמוֹ?	הֵשִׁיב IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX);Q
+אֲנִי לֹא הָיִיתִי מֵשִׁיב לָנוּ אֶתְכֶן.	הֵשִׁיב COND;NOM(1,SG,MASC);NEG;DAT(1,PL);ACC(2,PL,FEM)
+אֲתֶּם לֹא מְשִׁיבִים לִי אוֹתָהּ?	הֵשִׁיב IND;PRS;NOM(2,PL,MASC);NEG;DAT(1,SG);ACC(3,SG,FEM);Q
+הֵם יָשִׁיבוּ לָנוּ אוֹתִי?	הֵשִׁיב IND;FUT;NOM(3,PL,MASC);DAT(1,PL);ACC(1,SG);Q
+הִיא לֹא הָיְתָה מַעֲלִימָה אוֹתָהּ.	הֶעֱלִים COND;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)
+תַּעֲלִימִי אוֹתְךָ מִכֶּן.	הֶעֱלִים IND;FUT;NOM(2,SG,FEM);ACC(2,SG,MASC);ABL(2,PL,FEM)
+אַתְּ לֹא מַעֲלִימָה אֶתְכֶם מֵעַצְמֵךְ?	הֶעֱלִים IND;PRS;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC);ABL(2,SG,FEM,RFLX);Q
+לֹא הֶעֱלַמְתִּי אוֹתָן?	הֶעֱלִים IND;PST;NOM(1,SG);NEG;ACC(3,PL,FEM);Q
+לֹא הֶעֱלַמְתִּי אוֹתָם מֵהֶם?	הֶעֱלִים IND;PST;NOM(1,SG);NEG;ACC(3,PL,MASC);ABL(3,PL,MASC);Q
+הִיא לֹא הֶעֱלִימָה אוֹתִי מֵהֶם?	הֶעֱלִים IND;PST;NOM(3,SG,FEM);NEG;ACC(1,SG);ABL(3,PL,MASC);Q
+הֶעֱלַמְתְּ אוֹתִי מֵאִתָּנוּ.	הֶעֱלִים IND;PST;NOM(2,SG,FEM);ACC(1,SG);ABL(1,PL)
+הֵם לֹא יַעֲלִימוּ אֶתְכֶם מִמֶּנִּי.	הֶעֱלִים IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,MASC);ABL(1,SG)
+הֵן לֹא תַּעֲלֵמְנָה אוֹתוֹ מִכֶּם?	הֶעֱלִים IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);ABL(2,PL,MASC);Q
+הוּא הֶעֱלִים אֶת עַצְמוֹ מִמֶּנִּי?	הֶעֱלִים IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);ABL(1,SG);Q
+אֲנַחְנוּ לֹא הָיִינוּ מַעֲלִימוֹת אוֹתוֹ?	הֶעֱלִים COND;NOM(1,PL,FEM);NEG;ACC(3,SG,MASC);Q
+הֵן לֹא הֶעֱלִימוּ אוֹתָהּ מֵהֶם?	הֶעֱלִים IND;PST;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);ABL(3,PL,MASC);Q
+תַּעֲלֵמְנָה אוֹתְךָ מִמֶּנּוֹ.	הֶעֱלִים IND;FUT;NOM(2,PL,FEM);ACC(2,SG,MASC);ABL(3,SG,MASC)
+אַל תַּעֲלִימִי אוֹתָם מֵהֶן!	הֶעֱלִים IMP;NOM(2,SG,FEM);NEG;ACC(3,PL,MASC);ABL(3,PL,FEM)
+לֹא הֶעֱלַמְנוּ אֶתְכֶם מִמֶּנִּי?	הֶעֱלִים IND;PST;NOM(1,PL);NEG;ACC(2,PL,MASC);ABL(1,SG);Q
+הִיא לֹא הֶעֱלִימָה אֶתְכֶם מִמֶּנִּי.	הֶעֱלִים IND;PST;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC);ABL(1,SG)
+הֵם לֹא הֶעֱלִימוּ אֶת עַצְמָם מִמֶּנָּה?	הֶעֱלִים IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX);ABL(3,SG,FEM);Q
+לֹא אַעֲלִים אוֹתָנוּ מִמֵּךְ?	הֶעֱלִים IND;FUT;NOM(1,SG);NEG;ACC(1,PL);ABL(2,SG,FEM);Q
+הֶעֱלַמְתִּי אוֹתָנוּ מֵהֶן.	הֶעֱלִים IND;PST;NOM(1,SG);ACC(1,PL);ABL(3,PL,FEM)
+הִיא לֹא הָיְתָה מַרְאָה לָכֶן אוֹתָהּ?	הֶרְאָה COND;NOM(3,SG,FEM);NEG;DAT(2,PL,FEM);ACC(3,SG,FEM);Q
+אַתֶּן לֹא הֱיִיתֶן מַרְאוֹת לָכֶם אוֹתָהּ.	הֶרְאָה COND;NOM(2,PL,FEM);NEG;DAT(2,PL,MASC);ACC(3,SG,FEM)
+הֵן לֹא תַּרְאֶינָה לָהּ אוֹתָנוּ?	הֶרְאָה IND;FUT;NOM(3,PL,FEM);NEG;DAT(3,SG,FEM);ACC(1,PL);Q
+לֹא הֶרְאֵיתֶם לִי אֶת עַצְמְכֶם.	הֶרְאָה IND;PST;NOM(2,PL,MASC);NEG;DAT(1,SG);ACC(2,PL,MASC,RFLX)
+אַתֶּן לֹא הֱיִיתֶן מַרְאוֹת לָהֶם אוֹתוֹ?	הֶרְאָה COND;NOM(2,PL,FEM);NEG;DAT(3,PL,MASC);ACC(3,SG,MASC);Q
+הֶרְאֵיתֶם לָהֶן אוֹתָן.	הֶרְאָה IND;PST;NOM(2,PL,MASC);DAT(3,PL,FEM);ACC(3,PL,FEM)
+לֹא הֶרְאֵיתֶן לָהּ אוֹתָנוּ?	הֶרְאָה IND;PST;NOM(2,PL,FEM);NEG;DAT(3,SG,FEM);ACC(1,PL);Q
+אֲנַחְנוּ לֹא מַרְאוֹת לָהּ אֶתְכֶם?	הֶרְאָה IND;PRS;NOM(1,PL,FEM);NEG;DAT(3,SG,FEM);ACC(2,PL,MASC);Q
+הֵם לֹא הֶרְאוּ לָהֶן אוֹתְךָ.	הֶרְאָה IND;PST;NOM(3,PL,MASC);NEG;DAT(3,PL,FEM);ACC(2,SG,MASC)
+הִיא לֹא הֶרְאֲתָה לָכֶן אֶתְכֶם.	הֶרְאָה IND;PST;NOM(3,SG,FEM);NEG;DAT(2,PL,FEM);ACC(2,PL,MASC)
+הֵן לֹא הָיוּ מַרְאוֹת לָהֶם אוֹתָן?	הֶרְאָה COND;NOM(3,PL,FEM);NEG;DAT(3,PL,MASC);ACC(3,PL,FEM);Q
+הִיא לֹא מַרְאָה לָהֶן?	הֶרְאָה IND;PRS;NOM(3,SG,FEM);NEG;DAT(3,PL,FEM);Q
+אַתֶּן לֹא מַרְאוֹת לְךָ אוֹתָם?	הֶרְאָה IND;PRS;NOM(2,PL,FEM);NEG;DAT(2,SG,MASC);ACC(3,PL,MASC);Q
+הֶרְאֵיתֶם לָכֶן אוֹתִי?	הֶרְאָה IND;PST;NOM(2,PL,MASC);DAT(2,PL,FEM);ACC(1,SG);Q
+הַרְאִי לְךָ אוֹתָנוּ!	הֶרְאָה IMP;NOM(2,SG,FEM);DAT(2,SG,MASC);ACC(1,PL)
+הִיא לֹא הָיְתָה מַרְאָה לָנוּ אוֹתִי?	הֶרְאָה COND;NOM(3,SG,FEM);NEG;DAT(1,PL);ACC(1,SG);Q
+אַתָּה לֹא מַרְאֶה לָהּ אֶת עַצְמְךָ?	הֶרְאָה IND;PRS;NOM(2,SG,MASC);NEG;DAT(3,SG,FEM);ACC(2,SG,MASC,RFLX);Q
+הוּא לֹא הָיָה מַרְאֶה לְעַצְמוֹ.	הֶרְאָה COND;NOM(3,SG,MASC);NEG;DAT(3,SG,MASC,RFLX)
+הֶרְאֵיתֶן לְעַצְמְכֶן אוֹתָהּ?	הֶרְאָה IND;PST;NOM(2,PL,FEM);DAT(2,PL,FEM,RFLX);ACC(3,SG,FEM);Q
+אַתָּה לֹא מַרְאֶה לִי אוֹתָהּ?	הֶרְאָה IND;PRS;NOM(2,SG,MASC);NEG;DAT(1,SG);ACC(3,SG,FEM);Q
+הֵם לֹא הֶרְאוּ לָהּ אֶתְכֶן?	הֶרְאָה IND;PST;NOM(3,PL,MASC);NEG;DAT(3,SG,FEM);ACC(2,PL,FEM);Q
+הִיא לֹא הָיְתָה מַרְאָה לָנוּ אוֹתָהּ?	הֶרְאָה COND;NOM(3,SG,FEM);NEG;DAT(1,PL);ACC(3,SG,FEM);Q
+הָזִיתִי אֶת עַצְמִי?	הָזָה IND;PST;NOM(1,SG);ACC(1,SG,RFLX);Q
+הֵם לֹא יֶהֱזוּ אֶתְכֶן?	הָזָה IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM);Q
+הוּא הָזָה אוֹתָנוּ?	הָזָה IND;PST;NOM(3,SG,MASC);ACC(1,PL);Q
+הוּא יֶהֱזֶה אוֹתוֹ?	הָזָה IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC);Q
+אַתֶּן לֹא הֱיִיתֶן הוֹזוֹת אוֹתָהּ?	הָזָה COND;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM);Q
+הֵם לֹא הָיוּ הוֹזִים אוֹתְךָ.	הָזָה COND;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC)
+הִיא לֹא הוֹזָה אוֹתָךְ.	הָזָה IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,SG,FEM)
+הָזִית אֶת עַצְמֵךְ.	הָזָה IND;PST;NOM(2,SG,FEM);ACC(2,SG,FEM,RFLX)
+הֵן תֶּהֱזֶינָה אוֹתָנוּ.	הָזָה IND;FUT;NOM(3,PL,FEM);ACC(1,PL)
+לֹא תֶּהֱזֶינָה אוֹתְךָ?	הָזָה IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC);Q
+הוּא הָזָה אוֹתְךָ?	הָזָה IND;PST;NOM(3,SG,MASC);ACC(2,SG,MASC);Q
+הִיא תֶּהֱזֶה אוֹתָהּ.	הָזָה IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM)
+הֵם לֹא הוֹזִים אוֹתִי.	הָזָה IND;PRS;NOM(3,PL,MASC);NEG;ACC(1,SG)
+לֹא תֶּהֱזֶינָה אוֹתָךְ.	הָזָה IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM)
+אַתְּ לֹא הוֹזָה אוֹתָם.	הָזָה IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,PL,MASC)
+לֹא תֶּהֱזִי אוֹתוֹ.	הָזָה IND;FUT;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC)
+הוּא יֶהֱזֶה אוֹתָנוּ.	הָזָה IND;FUT;NOM(3,SG,MASC);ACC(1,PL)
+הוּא לֹא הָזָה אוֹתָךְ?	הָזָה IND;PST;NOM(3,SG,MASC);NEG;ACC(2,SG,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ הוֹזוֹת אוֹתָהּ.	הָזָה COND;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM)
+אַתָּה לֹא הוֹזֶה אוֹתָם.	הָזָה IND;PRS;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC)
+אַתֶּן לֹא הֱיִיתֶן הוֹזוֹת אוֹתִי.	הָזָה COND;NOM(2,PL,FEM);NEG;ACC(1,SG)
+הָזִינוּ אוֹתְךָ.	הָזָה IND;PST;NOM(1,PL);ACC(2,SG,MASC)
+זָרַעְתָּ אוֹתָךְ?	זָרַע IND;PST;NOM(2,SG,MASC);ACC(2,SG,FEM);Q
+לֹא זְרַעְתֶּן אוֹתִי?	זָרַע IND;PST;NOM(2,PL,FEM);NEG;ACC(1,SG);Q
+לֹא זְרַעְתֶּם אוֹתָם.	זָרַע IND;PST;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC)
+לֹא תִּזְרַע אֶתְכֶן?	זָרַע IND;FUT;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM);Q
+זָרַעְתָּ אוֹתוֹ?	זָרַע IND;PST;NOM(2,SG,MASC);ACC(3,SG,MASC);Q
+הֵם לֹא זָרְעוּ אוֹתָן.	זָרַע IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM)
+הִיא זָרְעָה אוֹתָן?	זָרַע IND;PST;NOM(3,SG,FEM);ACC(3,PL,FEM);Q
+זְרַע אֶתְכֶם!	זָרַע IMP;NOM(2,SG,MASC);ACC(2,PL,MASC)
+זְרַעְתֶּם אוֹתִי.	זָרַע IND;PST;NOM(2,PL,MASC);ACC(1,SG)
+לֹא אֶזְרַע אוֹתָם.	זָרַע IND;FUT;NOM(1,SG);NEG;ACC(3,PL,MASC)
+הִיא לֹא תִּזְרַע אוֹתְךָ.	זָרַע IND;FUT;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC)
+אֲנִי לֹא זוֹרֵעַ אוֹתָךְ?	זָרַע IND;PRS;NOM(1,SG,MASC);NEG;ACC(2,SG,FEM);Q
+הוּא לֹא יִזְרַע אוֹתָהּ.	זָרַע IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM)
+לֹא זָרַעְנוּ אוֹתָם?	זָרַע IND;PST;NOM(1,PL);NEG;ACC(3,PL,MASC);Q
+אֲנִי לֹא הָיִיתִי זוֹרַעַת אֶתְכֶם.	זָרַע COND;NOM(1,SG,FEM);NEG;ACC(2,PL,MASC)
+הֵם לֹא זוֹרְעִים אוֹתְךָ?	זָרַע IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);Q
+נִזְרַע אֶתְכֶן.	זָרַע IND;FUT;NOM(1,PL);ACC(2,PL,FEM)
+זָרַעְתְּ אוֹתָהּ?	זָרַע IND;PST;NOM(2,SG,FEM);ACC(3,SG,FEM);Q
+זָרַעְתִּי אֶת עַצְמִי.	זָרַע IND;PST;NOM(1,SG);ACC(1,SG,RFLX)
+תְּחַטֶּאנָה אוֹתָם.	חִטֵּא IND;FUT;NOM(2,PL,FEM);ACC(3,PL,MASC)
+הֵן לֹא תְּחַטֶּאנָה אֶת עַצְמָן.	חִטֵּא IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX)
+הֵן לֹא תְּחַטֶּאנָה אוֹתָן.	חִטֵּא IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM)
+תְּחַטְּאִי אוֹתָם.	חִטֵּא IND;FUT;NOM(2,SG,FEM);ACC(3,PL,MASC)
+נְחַטֵּא אֶתְכֶם.	חִטֵּא IND;FUT;NOM(1,PL);ACC(2,PL,MASC)
+חִטֵּאתֶן אוֹתָהּ.	חִטֵּא IND;PST;NOM(2,PL,FEM);ACC(3,SG,FEM)
+חִטֵּאתֶן אוֹתְךָ?	חִטֵּא IND;PST;NOM(2,PL,FEM);ACC(2,SG,MASC);Q
+הִיא חִטְּאָה אוֹתָךְ.	חִטֵּא IND;PST;NOM(3,SG,FEM);ACC(2,SG,FEM)
+אַל תְּחַטֵּא אוֹתִי!	חִטֵּא IMP;NOM(2,SG,MASC);NEG;ACC(1,SG)
+הֵם לֹא יְחַטְּאוּ אוֹתָן?	חִטֵּא IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM);Q
+הֵם לֹא הָיוּ מְחַטְּאִים אוֹתָהּ?	חִטֵּא COND;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q
+הִיא חִטְּאָה אוֹתָם.	חִטֵּא IND;PST;NOM(3,SG,FEM);ACC(3,PL,MASC)
+חִטֵּאתֶן אוֹתָהּ?	חִטֵּא IND;PST;NOM(2,PL,FEM);ACC(3,SG,FEM);Q
+חִטֵּאת אוֹתְךָ.	חִטֵּא IND;PST;NOM(2,SG,FEM);ACC(2,SG,MASC)
+הֵן לֹא חִטְּאוּ אוֹתָן?	חִטֵּא IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM);Q
+לֹא חִטֵּאתִי אוֹתָהּ.	חִטֵּא IND;PST;NOM(1,SG);NEG;ACC(3,SG,FEM)
+הֵן תְּחַטֶּאנָה אֶת עַצְמָן?	חִטֵּא IND;FUT;NOM(3,PL,FEM);ACC(3,PL,FEM,RFLX);Q
+תְּחַטְּאוּ אֶת עַצְמְכֶם?	חִטֵּא IND;FUT;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX);Q
+הוּא לֹא יְחַטֵּא אוֹתוֹ.	חִטֵּא IND;FUT;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)
+לֹא חִטֵּאת אוֹתִי.	חִטֵּא IND;PST;NOM(2,SG,FEM);NEG;ACC(1,SG)
+הוּא לֹא הָיָה מְחַפֶּה עֲלֵיהֶם?	חִפָּה COND;NOM(3,SG,MASC);NEG;ON(3,PL,MASC);Q
+לֹא תְּחַפּוּ עַל עַצְמְכֶם?	חִפָּה IND;FUT;NOM(2,PL,MASC);NEG;ON(2,PL,MASC,RFLX);Q
+הֵם לֹא חִפּוּ עָלָיו?	חִפָּה IND;PST;NOM(3,PL,MASC);NEG;ON(3,SG,MASC);Q
+הוּא יְחַפֶּה עֲלֵיכֶם.	חִפָּה IND;FUT;NOM(3,SG,MASC);ON(2,PL,MASC)
+אֲנִי לֹא מְחַפֶּה עֲלֵיכֶן?	חִפָּה IND;PRS;NOM(1,SG,MASC);NEG;ON(2,PL,FEM);Q
+אֲתֶּם לֹא הֱיִיתֶם מְחַפִּים עָלֵינוּ.	חִפָּה COND;NOM(2,PL,MASC);NEG;ON(1,PL)
+נְחַפֶּה עָלַיִךְ?	חִפָּה IND;FUT;NOM(1,PL);ON(2,SG,FEM);Q
+אַתָּה לֹא מְחַפֶּה עֲלֵיהֶם?	חִפָּה IND;PRS;NOM(2,SG,MASC);NEG;ON(3,PL,MASC);Q
+אֲנִי לֹא הָיִיתִי מְחַפֶּה עֲלֵיהֶם?	חִפָּה COND;NOM(1,SG,MASC);NEG;ON(3,PL,MASC);Q
+הֵן תְּחַפֶּינָה עֲלֵיהֶם?	חִפָּה IND;FUT;NOM(3,PL,FEM);ON(3,PL,MASC);Q
+הִיא לֹא תְּחַפֶּה עָלֶיהָ.	חִפָּה IND;FUT;NOM(3,SG,FEM);NEG;ON(3,SG,FEM)
+לֹא תְּחַפּוּ עָלַיִךְ?	חִפָּה IND;FUT;NOM(2,PL,MASC);NEG;ON(2,SG,FEM);Q
+אַתָּה לֹא מְחַפֶּה עָלָיו.	חִפָּה IND;PRS;NOM(2,SG,MASC);NEG;ON(3,SG,MASC)
+לֹא תְּחַפִּי עַל עַצְמֵךְ?	חִפָּה IND;FUT;NOM(2,SG,FEM);NEG;ON(2,SG,FEM,RFLX);Q
+אַתָּה לֹא מְחַפֶּה עָלֵינוּ.	חִפָּה IND;PRS;NOM(2,SG,MASC);NEG;ON(1,PL)
+לֹא חִפִּיתֶם עָלֶיהָ?	חִפָּה IND;PST;NOM(2,PL,MASC);NEG;ON(3,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי מְחַפֶּה עָלֶיהָ?	חִפָּה COND;NOM(1,SG,MASC);NEG;ON(3,SG,FEM);Q
+הֵם לֹא הָיוּ מְחַפִּים עֲלֵיכֶן.	חִפָּה COND;NOM(3,PL,MASC);NEG;ON(2,PL,FEM)
+הֵן לֹא תָּחֹסְנָה עָלֶיהָ.	חָס IND;FUT;NOM(3,PL,FEM);NEG;ON(3,SG,FEM)
+הֵם לֹא חָסוּ עֲלֵיהֶן?	חָס IND;PST;NOM(3,PL,MASC);NEG;ON(3,PL,FEM);Q
+הוּא יָחוּס עֲלֵיהֶן.	חָס IND;FUT;NOM(3,SG,MASC);ON(3,PL,FEM)
+לֹא חַסְתָּ עֲלֵיכֶן?	חָס IND;PST;NOM(2,SG,MASC);NEG;ON(2,PL,FEM);Q
+הֵם לֹא יָחוּסוּ עָלַיִךְ.	חָס IND;FUT;NOM(3,PL,MASC);NEG;ON(2,SG,FEM)
+הוּא לֹא הָיָה חָס עָלֶיהָ?	חָס COND;NOM(3,SG,MASC);NEG;ON(3,SG,FEM);Q
+הֵן לֹא תָּחֹסְנָה עָלָיו.	חָס IND;FUT;NOM(3,PL,FEM);NEG;ON(3,SG,MASC)
+אַתְּ לֹא הָיִית חָסָה עָלֶיךָ.	חָס COND;NOM(2,SG,FEM);NEG;ON(2,SG,MASC)
+הֵן לֹא חָסוּ עָלַי.	חָס IND;PST;NOM(3,PL,FEM);NEG;ON(1,SG)
+הִיא חָסָה עָלֶיךָ.	חָס IND;PST;NOM(3,SG,FEM);ON(2,SG,MASC)
+הֵם לֹא חָסִים עָלֵינוּ.	חָס IND;PRS;NOM(3,PL,MASC);NEG;ON(1,PL)
+חַסְתְּ עֲלֵיכֶן.	חָס IND;PST;NOM(2,SG,FEM);ON(2,PL,FEM)
+אֲנַחְנוּ לֹא הָיִינוּ חָסִים עֲלֵיהֶן?	חָס COND;NOM(1,PL,MASC);NEG;ON(3,PL,FEM);Q
+הוּא לֹא יָחוּס עָלַיִךְ?	חָס IND;FUT;NOM(3,SG,MASC);NEG;ON(2,SG,FEM);Q
+לֹא תָּחֹסְנָה עָלֵינוּ?	חָס IND;FUT;NOM(2,PL,FEM);NEG;ON(1,PL);Q
+הֵן לֹא חָסוֹת עָלָיו.	חָס IND;PRS;NOM(3,PL,FEM);NEG;ON(3,SG,MASC)
+לֹא תָּחוּסוּ עֲלֵיהֶם?	חָס IND;FUT;NOM(2,PL,MASC);NEG;ON(3,PL,MASC);Q
+הִיא חָסָה עֲלֵיכֶן?	חָס IND;PST;NOM(3,SG,FEM);ON(2,PL,FEM);Q
+הֵן תָּחֹסְנָה עָלָיו?	חָס IND;FUT;NOM(3,PL,FEM);ON(3,SG,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ חָסִים עָלַי.	חָס COND;NOM(1,PL,MASC);NEG;ON(1,SG)
+הֵם לֹא יָרְדוּ לָכֶם.	יָרַד IND;PST;NOM(3,PL,MASC);NEG;DAT(2,PL,MASC)
+אַתֶּן לֹא יוֹרְדוֹת מֵהֶם?	יָרַד IND;PRS;NOM(2,PL,FEM);NEG;ABL(3,PL,MASC);Q
+אֲנִי לֹא יוֹרֶדֶת עָלֶיךָ.	יָרַד IND;PRS;NOM(1,SG,FEM);NEG;ON(2,SG,MASC)
+אֲנִי לֹא יוֹרֵד עֲלֵיכֶן?	יָרַד IND;PRS;NOM(1,SG,MASC);NEG;ON(2,PL,FEM);Q
+לֹא יְרַדְתֶּן מִמֵּךְ.	יָרַד IND;PST;NOM(2,PL,FEM);NEG;ABL(2,SG,FEM)
+הוּא לֹא הָיָה יוֹרֵד מֵהֶם.	יָרַד COND;NOM(3,SG,MASC);NEG;ABL(3,PL,MASC)
+נֵרֵד מִמֶּנִּי.	יָרַד IND;FUT;NOM(1,PL);ABL(1,SG)
+אֲנִי לֹא הָיִיתִי יוֹרֶדֶת מִכֶּם.	יָרַד COND;NOM(1,SG,FEM);NEG;ABL(2,PL,MASC)
+הוּא לֹא יָרַד מִמֶּנּוֹ?	יָרַד IND;PST;NOM(3,SG,MASC);NEG;ABL(3,SG,MASC);Q
+אֲנִי לֹא הָיִיתִי יוֹרֵד מֵהֶם.	יָרַד COND;NOM(1,SG,MASC);NEG;ABL(3,PL,MASC)
+לֹא נֵרֵד מִמֶּנִּי?	יָרַד IND;FUT;NOM(1,PL);NEG;ABL(1,SG);Q
+לֹא תֵּרֵד עָלֶיהָ?	יָרַד IND;FUT;NOM(2,SG,MASC);NEG;ON(3,SG,FEM);Q
+הֵן לֹא הָיוּ יוֹרְדוֹת מֵהֶם.	יָרַד COND;NOM(3,PL,FEM);NEG;ABL(3,PL,MASC)
+הֵם לֹא הָיוּ יוֹרְדִים מִכֶּם.	יָרַד COND;NOM(3,PL,MASC);NEG;ABL(2,PL,MASC)
+הִיא לֹא הָיְתָה יוֹרֶדֶת לִי.	יָרַד COND;NOM(3,SG,FEM);NEG;DAT(1,SG)
+אֲנִי לֹא יוֹרֵד לוֹ.	יָרַד IND;PRS;NOM(1,SG,MASC);NEG;DAT(3,SG,MASC)
+תֵּרֵדְנָה עָלֵינוּ.	יָרַד IND;FUT;NOM(2,PL,FEM);ON(1,PL)
+אֲתֶּם לֹא יוֹרְדִים עַל עַצְמְכֶם.	יָרַד IND;PRS;NOM(2,PL,MASC);NEG;ON(2,PL,MASC,RFLX)
+אַתֶּן לֹא הֱיִיתֶן יוֹרְדוֹת מִמְּךָ.	יָרַד COND;NOM(2,PL,FEM);NEG;ABL(2,SG,MASC)
+לֹא נֵרֵד עָלֶיךָ.	יָרַד IND;FUT;NOM(1,PL);NEG;ON(2,SG,MASC)
+כִּבִּיתֶם אוֹתָךְ.	כִּבָּה IND;PST;NOM(2,PL,MASC);ACC(2,SG,FEM)
+הֵם יְכַבּוּ אוֹתִי.	כִּבָּה IND;FUT;NOM(3,PL,MASC);ACC(1,SG)
+אֲתֶּם לֹא הֱיִיתֶם מְכַבִּים אוֹתִי.	כִּבָּה COND;NOM(2,PL,MASC);NEG;ACC(1,SG)
+כִּבִּינוּ אֶתְכֶם?	כִּבָּה IND;PST;NOM(1,PL);ACC(2,PL,MASC);Q
+הֵם יְכַבּוּ אוֹתְךָ.	כִּבָּה IND;FUT;NOM(3,PL,MASC);ACC(2,SG,MASC)
+כַּבֵּה אוֹתוֹ!	כִּבָּה IMP;NOM(2,SG,MASC);ACC(3,SG,MASC)
+כִּבִּיתָ אוֹתָנוּ.	כִּבָּה IND;PST;NOM(2,SG,MASC);ACC(1,PL)
+כִּבִּינוּ אוֹתְךָ?	כִּבָּה IND;PST;NOM(1,PL);ACC(2,SG,MASC);Q
+אֲנִי לֹא מְכַבָּה אֶתְכֶם.	כִּבָּה IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,PL,MASC)
+הוּא יְכַבֶּה אוֹתָנוּ?	כִּבָּה IND;FUT;NOM(3,SG,MASC);ACC(1,PL);Q
+הֵן לֹא כִּבּוּ אוֹתָהּ?	כִּבָּה IND;PST;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);Q
+הוּא לֹא יְכַבֶּה אוֹתְךָ?	כִּבָּה IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,SG,MASC);Q
+הוּא לֹא יְכַבֶּה אֶתְכֶם?	כִּבָּה IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC);Q
+אַתְּ לֹא הָיִית מְכַבָּה אוֹתָהּ.	כִּבָּה COND;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM)
+כִּבִּיתֶם אֶת עַצְמְכֶם?	כִּבָּה IND;PST;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX);Q
+אַל תְּכַבֶּינָה אֶת עַצְמְכֶן!	כִּבָּה IMP;NOM(2,PL,FEM);NEG;ACC(2,PL,FEM,RFLX)
+הֵם לֹא הָיוּ מְכַבִּים אֶת עַצְמָם.	כִּבָּה COND;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX)
+לֹא תְּכַבֶּה אוֹתִי.	כִּבָּה IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,SG)
+אֲנַחְנוּ לֹא מְכַבִּים אוֹתִי.	כִּבָּה IND;PRS;NOM(1,PL,MASC);NEG;ACC(1,SG)
+אַתָּה לֹא הָיִיתָ מְכַבֶּה אוֹתָנוּ?	כִּבָּה COND;NOM(2,SG,MASC);NEG;ACC(1,PL);Q
+הֵן לֹא לוֹחֲשׁוֹת לְעַצְמָן.	לָחַשׁ IND;PRS;NOM(3,PL,FEM);NEG;DAT(3,PL,FEM,RFLX)
+הוּא לֹא לוֹחֵשׁ לָהּ.	לָחַשׁ IND;PRS;NOM(3,SG,MASC);NEG;DAT(3,SG,FEM)
+לֹא לְחַשְׁתֶּן לְעַצְמְכֶן?	לָחַשׁ IND;PST;NOM(2,PL,FEM);NEG;DAT(2,PL,FEM,RFLX);Q
+הוּא לֹא לוֹחֵשׁ לָכֶם.	לָחַשׁ IND;PRS;NOM(3,SG,MASC);NEG;DAT(2,PL,MASC)
+לֹא אֶלְחַשׁ?	לָחַשׁ IND;FUT;NOM(1,SG);NEG;Q
+הוּא לֹא יִלְחַשׁ לָהּ.	לָחַשׁ IND;FUT;NOM(3,SG,MASC);NEG;DAT(3,SG,FEM)
+תִּלְחַשׁ לָכֶם.	לָחַשׁ IND;FUT;NOM(2,SG,MASC);DAT(2,PL,MASC)
+הוּא לֹא יִלְחַשׁ לִי?	לָחַשׁ IND;FUT;NOM(3,SG,MASC);NEG;DAT(1,SG);Q
+הִיא לֹא לוֹחֶשֶׁת לָהֶם.	לָחַשׁ IND;PRS;NOM(3,SG,FEM);NEG;DAT(3,PL,MASC)
+הֵן תִּלְחַשְׁנָה לָכֶן.	לָחַשׁ IND;FUT;NOM(3,PL,FEM);DAT(2,PL,FEM)
+הוּא לֹא לוֹחֵשׁ לִי.	לָחַשׁ IND;PRS;NOM(3,SG,MASC);NEG;DAT(1,SG)
+הֵם לֹא הָיוּ לוֹחֲשִׁים לָכֶן?	לָחַשׁ COND;NOM(3,PL,MASC);NEG;DAT(2,PL,FEM);Q
+אֲנִי לֹא לוֹחֵשׁ לָכֶם?	לָחַשׁ IND;PRS;NOM(1,SG,MASC);NEG;DAT(2,PL,MASC);Q
+הוּא לֹא לָחַשׁ לָכֶם?	לָחַשׁ IND;PST;NOM(3,SG,MASC);NEG;DAT(2,PL,MASC);Q
+אֲנַחְנוּ לֹא לוֹחֲשִׁים לָהּ.	לָחַשׁ IND;PRS;NOM(1,PL,MASC);NEG;DAT(3,SG,FEM)
+אֲתֶּם לֹא הֱיִיתֶם לוֹחֲשִׁים לוֹ?	לָחַשׁ COND;NOM(2,PL,MASC);NEG;DAT(3,SG,MASC);Q
+לְחַשְׁתֶּן.	לָחַשׁ IND;PST;NOM(2,PL,FEM)
+הִיא לֹא לָחֲשָׁה לָךְ.	לָחַשׁ IND;PST;NOM(3,SG,FEM);NEG;DAT(2,SG,FEM)
+לָחַשְׁתִּי לְעַצְמִי?	לָחַשׁ IND;PST;NOM(1,SG);DAT(1,SG,RFLX);Q
+לֹא לָחַשְׁנוּ?	לָחַשׁ IND;PST;NOM(1,PL);NEG;Q
+הֵן לֹא תִּלְחַשְׁנָה לָהּ.	לָחַשׁ IND;FUT;NOM(3,PL,FEM);NEG;DAT(3,SG,FEM)
+אֲנִי לֹא הָיִיתִי לוֹחֶשֶׁת לָכֶם?	לָחַשׁ COND;NOM(1,SG,FEM);NEG;DAT(2,PL,MASC);Q
+הִיא לֹא הָיְתָה לוֹחֶשֶׁת לְעַצְמָהּ.	לָחַשׁ COND;NOM(3,SG,FEM);NEG;DAT(3,SG,FEM,RFLX)
+נִלְמַד מִמֶּנָּה עֲלֵיכֶן.	לָמַד IND;FUT;NOM(1,PL);ABL(3,SG,FEM);ON(2,PL,FEM)
+לֹא לָמַדְתְּ מֵאִתָּנוּ אוֹתָן.	לָמַד IND;PST;NOM(2,SG,FEM);NEG;ABL(1,PL);ACC(3,PL,FEM)
+לֹא תִּלְמְדִי מִכֶּן עַל עַצְמְכֶן.	לָמַד IND;FUT;NOM(2,SG,FEM);NEG;ABL(2,PL,FEM);ON(2,PL,FEM,RFLX)
+אֲנַחְנוּ לֹא לוֹמְדוֹת מִמֵּךְ אוֹתָן.	לָמַד IND;PRS;NOM(1,PL,FEM);NEG;ABL(2,SG,FEM);ACC(3,PL,FEM)
+הֵם יִלְמְדוּ מִמְּךָ אֶתְכֶם?	לָמַד IND;FUT;NOM(3,PL,MASC);ABL(2,SG,MASC);ACC(2,PL,MASC);Q
+אַל תִּלְמַדְנָה מֵאִתָּנוּ אֶת עַצְמֵנוּ!	לָמַד IMP;NOM(2,PL,FEM);NEG;ABL(1,PL);ACC(1,PL,RFLX)
+הִיא לֹא הָיְתָה לוֹמֶדֶת מֵהֶם אוֹתְךָ?	לָמַד COND;NOM(3,SG,FEM);NEG;ABL(3,PL,MASC);ACC(2,SG,MASC);Q
+הֵן לֹא הָיוּ לוֹמְדוֹת מֵהֶם עָלֶיהָ.	לָמַד COND;NOM(3,PL,FEM);NEG;ABL(3,PL,MASC);ON(3,SG,FEM)
+לֹא תִּלְמְדוּ מִמֶּנּוֹ עָלָיו.	לָמַד IND;FUT;NOM(2,PL,MASC);NEG;ABL(3,SG,MASC);ON(3,SG,MASC)
+אֲנִי לֹא לוֹמֶדֶת מִמֵּךְ אֶתְכֶם.	לָמַד IND;PRS;NOM(1,SG,FEM);NEG;ABL(2,SG,FEM);ACC(2,PL,MASC)
+לִמְדִי מֵעַצְמֵךְ עָלָיו!	לָמַד IMP;NOM(2,SG,FEM);ABL(2,SG,FEM,RFLX);ON(3,SG,MASC)
+אֲתֶּם לֹא לוֹמְדִים מִמֵּךְ אוֹתָנוּ.	לָמַד IND;PRS;NOM(2,PL,MASC);NEG;ABL(2,SG,FEM);ACC(1,PL)
+הִיא לָמְדָה מֵאִתָּנוּ אוֹתָם?	לָמַד IND;PST;NOM(3,SG,FEM);ABL(1,PL);ACC(3,PL,MASC);Q
+לְמַדְנָה מֵהֶן עָלֶיךָ!	לָמַד IMP;NOM(2,PL,FEM);ABL(3,PL,FEM);ON(2,SG,MASC)
+הִיא לֹא לוֹמֶדֶת מִכֶּם אֶתְכֶן?	לָמַד IND;PRS;NOM(3,SG,FEM);NEG;ABL(2,PL,MASC);ACC(2,PL,FEM);Q
+אַתֶּן לֹא לוֹמְדוֹת מֵהֶם אוֹתָהּ?	לָמַד IND;PRS;NOM(2,PL,FEM);NEG;ABL(3,PL,MASC);ACC(3,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי לוֹמֵד מִמֶּנּוֹ אֶתְכֶם?	לָמַד COND;NOM(1,SG,MASC);NEG;ABL(3,SG,MASC);ACC(2,PL,MASC);Q
+לְמַדְתֶּן מִמְּךָ אוֹתוֹ?	לָמַד IND;PST;NOM(2,PL,FEM);ABL(2,SG,MASC);ACC(3,SG,MASC);Q
+הִיא לֹא לוֹמֶדֶת מִכֶּם עֲלֵיהֶם?	לָמַד IND;PRS;NOM(3,SG,FEM);NEG;ABL(2,PL,MASC);ON(3,PL,MASC);Q
+אַל תִּלְמְדִי מֵאִתָּנוּ עֲלֵיהֶם!	לָמַד IMP;NOM(2,SG,FEM);NEG;ABL(1,PL);ON(3,PL,MASC)
+לֹא תִּלְמַדְנָה מִמֶּנָּה אֶתְכֶם?	לָמַד IND;FUT;NOM(2,PL,FEM);NEG;ABL(3,SG,FEM);ACC(2,PL,MASC);Q
+אֲנַחְנוּ לֹא לוֹמְדִים מֵעַצְמֵנוּ אוֹתָם?	לָמַד IND;PRS;NOM(1,PL,MASC);NEG;ABL(1,PL,RFLX);ACC(3,PL,MASC);Q
+הוּא יֵאָחֵז בָּנוּ?	נֶאֱחַז IND;FUT;NOM(3,SG,MASC);IN(1,PL);Q
+הֵם לֹא נֶאֱחָזִים בִּי?	נֶאֱחַז IND;PRS;NOM(3,PL,MASC);NEG;IN(1,SG);Q
+נֶאֱחַזְתֶּן בָּכֶם.	נֶאֱחַז IND;PST;NOM(2,PL,FEM);IN(2,PL,MASC)
+הֵן לֹא נֶאֱחָזוֹת בָּכֶן.	נֶאֱחַז IND;PRS;NOM(3,PL,FEM);NEG;IN(2,PL,FEM)
+הִיא לֹא נֶאֶחֲזָה בּוֹ?	נֶאֱחַז IND;PST;NOM(3,SG,FEM);NEG;IN(3,SG,MASC);Q
+נֶאֱחַזְתֶּם בְּךָ?	נֶאֱחַז IND;PST;NOM(2,PL,MASC);IN(2,SG,MASC);Q
+אַל תֵּאָחֲזוּ בָּךְ!	נֶאֱחַז IMP;NOM(2,PL,MASC);NEG;IN(2,SG,FEM)
+אַל תֵּאָחֲזִי בָּהּ!	נֶאֱחַז IMP;NOM(2,SG,FEM);NEG;IN(3,SG,FEM)
+לֹא אֵאָחֵז בּוֹ?	נֶאֱחַז IND;FUT;NOM(1,SG);NEG;IN(3,SG,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ נֶאֱחָזוֹת בָּהֶן?	נֶאֱחַז COND;NOM(1,PL,FEM);NEG;IN(3,PL,FEM);Q
+הֵם לֹא נֶאֱחָזִים בָּכֶן.	נֶאֱחַז IND;PRS;NOM(3,PL,MASC);NEG;IN(2,PL,FEM)
+הוּא נֶאֱחַז בּוֹ?	נֶאֱחַז IND;PST;NOM(3,SG,MASC);IN(3,SG,MASC);Q
+הוּא לֹא נֶאֱחַז בְּךָ?	נֶאֱחַז IND;PST;NOM(3,SG,MASC);NEG;IN(2,SG,MASC);Q
+לֹא נֵאָחֵז בָּךְ?	נֶאֱחַז IND;FUT;NOM(1,PL);NEG;IN(2,SG,FEM);Q
+אֲנִי לֹא הָיִיתִי נֶאֱחָז בָּהֶם.	נֶאֱחַז COND;NOM(1,SG,MASC);NEG;IN(3,PL,MASC)
+הִיא לֹא תֵּאָחֵז בָּהֶן?	נֶאֱחַז IND;FUT;NOM(3,SG,FEM);NEG;IN(3,PL,FEM);Q
+אַתָּה לֹא נֶאֱחָז בָּהֶן.	נֶאֱחַז IND;PRS;NOM(2,SG,MASC);NEG;IN(3,PL,FEM)
+הֵאָחֵז בְּעַצְמְךָ!	נֶאֱחַז IMP;NOM(2,SG,MASC);IN(2,SG,MASC,RFLX)
+לֹא נֶאֱחַזְתְּ בָּהֶם?	נֶאֱחַז IND;PST;NOM(2,SG,FEM);NEG;IN(3,PL,MASC);Q
+לֹא נֶאֱחַזְתִּי בָּהּ?	נֶאֱחַז IND;PST;NOM(1,SG);NEG;IN(3,SG,FEM);Q
+לֹא נֶהֱנֵיתָ?	נֶהֱנָה IND;PST;NOM(2,SG,MASC);NEG;Q
+אַתֶּן לֹא הֱיִיתֶן נֶהֱנוֹת?	נֶהֱנָה COND;NOM(2,PL,FEM);NEG;Q
+אֲתֶּם לֹא נֶהֱנִים?	נֶהֱנָה IND;PRS;NOM(2,PL,MASC);NEG;Q
+תֵּהָנוּ?	נֶהֱנָה IND;FUT;NOM(2,PL,MASC);Q
+הוּא נֶהֱנָה?	נֶהֱנָה IND;PST;NOM(3,SG,MASC);Q
+הִיא לֹא נֶהֶנְתָה.	נֶהֱנָה IND;PST;NOM(3,SG,FEM);NEG
+אַתָּה לֹא נֶהֱנֶה.	נֶהֱנָה IND;PRS;NOM(2,SG,MASC);NEG
+הֵן לֹא נֶהֱנוֹת.	נֶהֱנָה IND;PRS;NOM(3,PL,FEM);NEG
+אֲנַחְנוּ לֹא נֶהֱנוֹת.	נֶהֱנָה IND;PRS;NOM(1,PL,FEM);NEG
+הִיא לֹא הָיְתָה נֶהֱנֵית.	נֶהֱנָה COND;NOM(3,SG,FEM);NEG
+הֵם לֹא הָיוּ נֶהֱנִים.	נֶהֱנָה COND;NOM(3,PL,MASC);NEG
+הֵהָנִי!	נֶהֱנָה IMP;NOM(2,SG,FEM)
+אַל תֵּהָנִי!	נֶהֱנָה IMP;NOM(2,SG,FEM);NEG
+הֵם יֵהָנוּ?	נֶהֱנָה IND;FUT;NOM(3,PL,MASC);Q
+לֹא נֶהֱנֵיתֶם.	נֶהֱנָה IND;PST;NOM(2,PL,MASC);NEG
+תֵּהָנֶה.	נֶהֱנָה IND;FUT;NOM(2,SG,MASC)
+אֲנִי לֹא הָיִיתִי נֶהֱנֵית?	נֶהֱנָה COND;NOM(1,SG,FEM);NEG;Q
+לֹא נֶהֱנֵיתָ.	נֶהֱנָה IND;PST;NOM(2,SG,MASC);NEG
+הֵם לֹא נֶהֱנִים.	נֶהֱנָה IND;PRS;NOM(3,PL,MASC);NEG
+נֵהָנֶה.	נֶהֱנָה IND;FUT;NOM(1,PL)
+אֲתֶּם לֹא הֱיִיתֶם נֶהֱנִים.	נֶהֱנָה COND;NOM(2,PL,MASC);NEG
+לֹא נֶהֱנֵיתָ?	נֶהֱנָה IND;PST;NOM(2,SG,MASC);NEG;Q
+הִיא לֹא נֶהֶנְתָה.	נֶהֱנָה IND;PST;NOM(3,SG,FEM);NEG
+אֲנִי לֹא הָיִיתִי נֶעֱלָם.	נֶעֱלַם COND;NOM(1,SG,MASC);NEG
+לֹא תֵּעָלֵמְנָה.	נֶעֱלַם IND;FUT;NOM(2,PL,FEM);NEG
+אֲנַחְנוּ לֹא נֶעֱלָמוֹת?	נֶעֱלַם IND;PRS;NOM(1,PL,FEM);NEG;Q
+אַתֶּן לֹא הֱיִיתֶן נֶעֱלָמוֹת?	נֶעֱלַם COND;NOM(2,PL,FEM);NEG;Q
+נֶעֱלַמְתִּי?	נֶעֱלַם IND;PST;NOM(1,SG);Q
+אֲנִי לֹא הָיִיתִי נֶעֱלָם?	נֶעֱלַם COND;NOM(1,SG,MASC);NEG;Q
+נֵעָלֵם.	נֶעֱלַם IND;FUT;NOM(1,PL)
+לֹא נֶעֱלַמְתָּ?	נֶעֱלַם IND;PST;NOM(2,SG,MASC);NEG;Q
+אַתָּה לֹא נֶעֱלָם.	נֶעֱלַם IND;PRS;NOM(2,SG,MASC);NEG
+הוּא לֹא נֶעֱלַם.	נֶעֱלַם IND;PST;NOM(3,SG,MASC);NEG
+אַתָּה לֹא נֶעֱלָם?	נֶעֱלַם IND;PRS;NOM(2,SG,MASC);NEG;Q
+הֵן תֵּעָלֵמְנָה.	נֶעֱלַם IND;FUT;NOM(3,PL,FEM)
+הוּא לֹא הָיָה נֶעֱלָם?	נֶעֱלַם COND;NOM(3,SG,MASC);NEG;Q
+הִיא לֹא הָיְתָה נֶעֱלֶמֶת?	נֶעֱלַם COND;NOM(3,SG,FEM);NEG;Q
+הֵן תֵּעָלֵמְנָה?	נֶעֱלַם IND;FUT;NOM(3,PL,FEM);Q
+הִיא לֹא נֶעֶלְמָה?	נֶעֱלַם IND;PST;NOM(3,SG,FEM);NEG;Q
+לֹא תֵּעָלֵמְנָה?	נֶעֱלַם IND;FUT;NOM(2,PL,FEM);NEG;Q
+לֹא תֵּעָלֵמְנָה.	נֶעֱלַם IND;FUT;NOM(2,PL,FEM);NEG
+לֹא נֶעֱלַמְתֶּם?	נֶעֱלַם IND;PST;NOM(2,PL,MASC);NEG;Q
+אַתְּ לֹא נֶעֱלֶמֶת?	נֶעֱלַם IND;PRS;NOM(2,SG,FEM);NEG;Q
+הֵם לֹא נֶעֱלָמִים.	נֶעֱלַם IND;PRS;NOM(3,PL,MASC);NEG
+הוּא לֹא נָטַל אוֹתָנוּ.	נָטַל IND;PST;NOM(3,SG,MASC);NEG;ACC(1,PL)
+אַתֶּן לֹא הֱיִיתֶן נוֹטְלוֹת אוֹתָךְ?	נָטַל COND;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM);Q
+הֵם לֹא נָטְלוּ אֶת עַצְמָם?	נָטַל IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX);Q
+נָטַלְתִּי אוֹתוֹ.	נָטַל IND;PST;NOM(1,SG);ACC(3,SG,MASC)
+אֲנִי לֹא נוֹטֶלֶת אוֹתָהּ?	נָטַל IND;PRS;NOM(1,SG,FEM);NEG;ACC(3,SG,FEM);Q
+הוּא לֹא הָיָה נוֹטֵל אוֹתָךְ.	נָטַל COND;NOM(3,SG,MASC);NEG;ACC(2,SG,FEM)
+לֹא נָטַלְתִּי אוֹתָנוּ?	נָטַל IND;PST;NOM(1,SG);NEG;ACC(1,PL);Q
+הִיא לֹא הָיְתָה נוֹטֶלֶת אוֹתָן?	נָטַל COND;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);Q
+הֵן לֹא נָטְלוּ אֶתְכֶן.	נָטַל IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM)
+הֵם לֹא נָטְלוּ אוֹתָךְ.	נָטַל IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM)
+אַתֶּן לֹא נוֹטְלוֹת אוֹתִי?	נָטַל IND;PRS;NOM(2,PL,FEM);NEG;ACC(1,SG);Q
+אֲנִי לֹא הָיִיתִי נוֹטֵל אֶתְכֶן.	נָטַל COND;NOM(1,SG,MASC);NEG;ACC(2,PL,FEM)
+הֵם לֹא יִטְּלוּ אוֹתָן?	נָטַל IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM);Q
+אֲנִי לֹא נוֹטֶלֶת אוֹתְךָ?	נָטַל IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,SG,MASC);Q
+לֹא תִּטֹּלְנָה אוֹתָן?	נָטַל IND;FUT;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM);Q
+נִטֹּל אוֹתוֹ?	נָטַל IND;FUT;NOM(1,PL);ACC(3,SG,MASC);Q
+לֹא תִּטֹּלְנָה אוֹתִי?	נָטַל IND;FUT;NOM(2,PL,FEM);NEG;ACC(1,SG);Q
+הוּא לֹא הָיָה נוֹטֵל אוֹתָן.	נָטַל COND;NOM(3,SG,MASC);NEG;ACC(3,PL,FEM)
+הוּא לֹא יִטֹּל אֶתְכֶם.	נָטַל IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC)
+אַל תְּסַפְּרוּ לְעַצְמְכֶם אוֹתָנוּ!	סִפֵּר IMP;NOM(2,PL,MASC);NEG;DAT(2,PL,MASC,RFLX);ACC(1,PL)
+אֲתֶּם לֹא הֱיִיתֶם מְסַפְּרִים לִי אוֹתְךָ?	סִפֵּר COND;NOM(2,PL,MASC);NEG;DAT(1,SG);ACC(2,SG,MASC);Q
+אֲנַחְנוּ לֹא מְסַפְּרִים לָכֶם אוֹתָם?	סִפֵּר IND;PRS;NOM(1,PL,MASC);NEG;DAT(2,PL,MASC);ACC(3,PL,MASC);Q
+הֵן תְּסַפֵּרְנָה לָהֶן אוֹתָם?	סִפֵּר IND;FUT;NOM(3,PL,FEM);DAT(3,PL,FEM);ACC(3,PL,MASC);Q
+תְּסַפְּרוּ לָנוּ אוֹתִי?	סִפֵּר IND;FUT;NOM(2,PL,MASC);DAT(1,PL);ACC(1,SG);Q
+הִיא תְּסַפֵּר לְךָ אוֹתָם.	סִפֵּר IND;FUT;NOM(3,SG,FEM);DAT(2,SG,MASC);ACC(3,PL,MASC)
+אַל תְּסַפְּרִי לוֹ אוֹתוֹ!	סִפֵּר IMP;NOM(2,SG,FEM);NEG;DAT(3,SG,MASC);ACC(3,SG,MASC)
+הֵן לֹא מְסַפְּרוֹת לָכֶן אוֹתוֹ.	סִפֵּר IND;PRS;NOM(3,PL,FEM);NEG;DAT(2,PL,FEM);ACC(3,SG,MASC)
+לֹא סִפַּרְתֶּן לְעַצְמְכֶן אֶתְכֶם?	סִפֵּר IND;PST;NOM(2,PL,FEM);NEG;DAT(2,PL,FEM,RFLX);ACC(2,PL,MASC);Q
+לֹא סִפַּרְתְּ לוֹ אוֹתָהּ?	סִפֵּר IND;PST;NOM(2,SG,FEM);NEG;DAT(3,SG,MASC);ACC(3,SG,FEM);Q
+סִפַּרְתָּ לִי אוֹתָנוּ?	סִפֵּר IND;PST;NOM(2,SG,MASC);DAT(1,SG);ACC(1,PL);Q
+הֵם לֹא יְסַפְּרוּ לָהֶן אוֹתָךְ?	סִפֵּר IND;FUT;NOM(3,PL,MASC);NEG;DAT(3,PL,FEM);ACC(2,SG,FEM);Q
+אַתְּ לֹא הָיִית מְסַפֶּרֶת לָכֶן אוֹתִי?	סִפֵּר COND;NOM(2,SG,FEM);NEG;DAT(2,PL,FEM);ACC(1,SG);Q
+הִיא לֹא תְּסַפֵּר לְךָ אוֹתָךְ?	סִפֵּר IND;FUT;NOM(3,SG,FEM);NEG;DAT(2,SG,MASC);ACC(2,SG,FEM);Q
+הֵם לֹא מְסַפְּרִים לָכֶן אוֹתָנוּ.	סִפֵּר IND;PRS;NOM(3,PL,MASC);NEG;DAT(2,PL,FEM);ACC(1,PL)
+סִפַּרְתִּי לָכֶן אוֹתָם?	סִפֵּר IND;PST;NOM(1,SG);DAT(2,PL,FEM);ACC(3,PL,MASC);Q
+לֹא סִפַּרְתֶּם לְעַצְמְכֶם אוֹתָךְ.	סִפֵּר IND;PST;NOM(2,PL,MASC);NEG;DAT(2,PL,MASC,RFLX);ACC(2,SG,FEM)
+סָחַרְתְּ אִתָּנוּ?	סָחַר IND;PST;NOM(2,SG,FEM);COM(1,PL);Q
+אַתָּה לֹא סוֹחֵר בָּהֶן?	סָחַר IND;PRS;NOM(2,SG,MASC);NEG;IN(3,PL,FEM);Q
+הִיא לֹא סוֹחֶרֶת בָּכֶם.	סָחַר IND;PRS;NOM(3,SG,FEM);NEG;IN(2,PL,MASC)
+סָחַרְתְּ אִתָּנוּ.	סָחַר IND;PST;NOM(2,SG,FEM);COM(1,PL)
+הוּא לֹא יִסְחַר בָּנוּ.	סָחַר IND;FUT;NOM(3,SG,MASC);NEG;IN(1,PL)
+לֹא נִסְחַר בָּךְ.	סָחַר IND;FUT;NOM(1,PL);NEG;IN(2,SG,FEM)
+הוּא לֹא הָיָה סוֹחֵר אִתָּם.	סָחַר COND;NOM(3,SG,MASC);NEG;COM(3,PL,MASC)
+אֲנַחְנוּ לֹא הָיִינוּ סוֹחֲרִים אִתְּכֶן.	סָחַר COND;NOM(1,PL,MASC);NEG;COM(2,PL,FEM)
+הֵם לֹא סָחֲרוּ אִתְּכֶם.	סָחַר IND;PST;NOM(3,PL,MASC);NEG;COM(2,PL,MASC)
+אֲנִי לֹא הָיִיתִי סוֹחֵר אִתָּהּ.	סָחַר COND;NOM(1,SG,MASC);NEG;COM(3,SG,FEM)
+הִיא סָחֲרָה בְּךָ.	סָחַר IND;PST;NOM(3,SG,FEM);IN(2,SG,MASC)
+סְחַר אִתָּם!	סָחַר IMP;NOM(2,SG,MASC);COM(3,PL,MASC)
+אַתָּה לֹא סוֹחֵר אִתָּהּ?	סָחַר IND;PRS;NOM(2,SG,MASC);NEG;COM(3,SG,FEM);Q
+הֵם יִסְחֲרוּ בִּי.	סָחַר IND;FUT;NOM(3,PL,MASC);IN(1,SG)
+לֹא תִּסְחֲרוּ בִּי.	סָחַר IND;FUT;NOM(2,PL,MASC);NEG;IN(1,SG)
+הֵם לֹא סוֹחֲרִים בְּעַצְמָם.	סָחַר IND;PRS;NOM(3,PL,MASC);NEG;IN(3,PL,MASC,RFLX)
+אַתְּ לֹא סוֹחֶרֶת בָּהֶן?	סָחַר IND;PRS;NOM(2,SG,FEM);NEG;IN(3,PL,FEM);Q
+אֲתֶּם לֹא הֱיִיתֶם סוֹחֲרִים בְּעַצְמְכֶם.	סָחַר COND;NOM(2,PL,MASC);NEG;IN(2,PL,MASC,RFLX)
+הִיא לֹא הָיְתָה סוֹחֶרֶת בָּכֶם?	סָחַר COND;NOM(3,SG,FEM);NEG;IN(2,PL,MASC);Q
+הֵן לֹא תִּסְחַרְנָה אִתָּם.	סָחַר IND;FUT;NOM(3,PL,FEM);NEG;COM(3,PL,MASC)
+לֹא סְחַרְתֶּם.	סָחַר IND;PST;NOM(2,PL,MASC);NEG
+לֹא סָתַרְתִּי אוֹתָךְ?	סָתַר IND;PST;NOM(1,SG);NEG;ACC(2,SG,FEM);Q
+הוּא לֹא סוֹתֵר אוֹתִי?	סָתַר IND;PRS;NOM(3,SG,MASC);NEG;ACC(1,SG);Q
+אַל תִּסְתֹּרְנָה לָךְ!	סָתַר IMP;NOM(2,PL,FEM);NEG;DAT(2,SG,FEM)
+הֵם לֹא הָיוּ סוֹתְרִים אֶתְכֶן.	סָתַר COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הוּא יִסְתֹּר אוֹתְךָ?	סָתַר IND;FUT;NOM(3,SG,MASC);ACC(2,SG,MASC);Q
+הֵם לֹא יִסְתְּרוּ אֶתְכֶן?	סָתַר IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM);Q
+הוּא לֹא יִסְתֹּר לְעַצְמוֹ?	סָתַר IND;FUT;NOM(3,SG,MASC);NEG;DAT(3,SG,MASC,RFLX);Q
+אֶסְתֹּר אוֹתָנוּ?	סָתַר IND;FUT;NOM(1,SG);ACC(1,PL);Q
+אַתֶּן לֹא סוֹתְרוֹת אוֹתָן.	סָתַר IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM)
+אַתֶּן לֹא סוֹתְרוֹת לְעַצְמְכֶן?	סָתַר IND;PRS;NOM(2,PL,FEM);NEG;DAT(2,PL,FEM,RFLX);Q
+הֵן תִּסְתֹּרְנָה לָךְ?	סָתַר IND;FUT;NOM(3,PL,FEM);DAT(2,SG,FEM);Q
+הוּא לֹא סָתַר לְךָ?	סָתַר IND;PST;NOM(3,SG,MASC);NEG;DAT(2,SG,MASC);Q
+הֵם לֹא יִסְתְּרוּ לְעַצְמָם?	סָתַר IND;FUT;NOM(3,PL,MASC);NEG;DAT(3,PL,MASC,RFLX);Q
+הֵם לֹא סָתְרוּ לְךָ.	סָתַר IND;PST;NOM(3,PL,MASC);NEG;DAT(2,SG,MASC)
+הוּא לֹא סוֹתֵר לָכֶם?	סָתַר IND;PRS;NOM(3,SG,MASC);NEG;DAT(2,PL,MASC);Q
+סָתַרְתִּי אוֹתָן?	סָתַר IND;PST;NOM(1,SG);ACC(3,PL,FEM);Q
+הֵן לֹא סָתְרוּ אוֹתִי.	סָתַר IND;PST;NOM(3,PL,FEM);NEG;ACC(1,SG)
+אֲנִי לֹא סוֹתֵר לָהֶן?	סָתַר IND;PRS;NOM(1,SG,MASC);NEG;DAT(3,PL,FEM);Q
+הוּא סָתַר אוֹתָךְ.	סָתַר IND;PST;NOM(3,SG,MASC);ACC(2,SG,FEM)
+הֵם לֹא הָיוּ מְסֻנְכְרָנִים אִתִּי?	סֻנְכְרַן COND;NOM(3,PL,MASC);NEG;COM(1,SG);Q
+הֵם לֹא סֻנְכְרְנוּ אִתָּנוּ?	סֻנְכְרַן IND;PST;NOM(3,PL,MASC);NEG;COM(1,PL);Q
+הֵם לֹא יְסֻנְכְרְנוּ אִתָּהּ?	סֻנְכְרַן IND;FUT;NOM(3,PL,MASC);NEG;COM(3,SG,FEM);Q
+הֵם לֹא מְסֻנְכְרָנִים אִתָּהּ.	סֻנְכְרַן IND;PRS;NOM(3,PL,MASC);NEG;COM(3,SG,FEM)
+לֹא סֻנְכְרַנְתֶּם אִתָּם?	סֻנְכְרַן IND;PST;NOM(2,PL,MASC);NEG;COM(3,PL,MASC);Q
+אַתֶּן לֹא הֱיִיתֶן מְסֻנְכְרָנוֹת אִתָּנוּ.	סֻנְכְרַן COND;NOM(2,PL,FEM);NEG;COM(1,PL)
+סֻנְכְרַנְתְּ אִתָּם.	סֻנְכְרַן IND;PST;NOM(2,SG,FEM);COM(3,PL,MASC)
+הִיא לֹא הָיְתָה מְסֻנְכְרֶנֶת אִתָּךְ?	סֻנְכְרַן COND;NOM(3,SG,FEM);NEG;COM(2,SG,FEM);Q
+הֵן לֹא תְּסֻנְכְרַנָּה אִתָּהּ.	סֻנְכְרַן IND;FUT;NOM(3,PL,FEM);NEG;COM(3,SG,FEM)
+תְּסֻנְכְרְנִי אִתְּכֶן?	סֻנְכְרַן IND;FUT;NOM(2,SG,FEM);COM(2,PL,FEM);Q
+הוּא לֹא יְסֻנְכְרַן אִתְּךָ.	סֻנְכְרַן IND;FUT;NOM(3,SG,MASC);NEG;COM(2,SG,MASC)
+אֲתֶּם לֹא מְסֻנְכְרָנִים אִתִּי.	סֻנְכְרַן IND;PRS;NOM(2,PL,MASC);NEG;COM(1,SG)
+תְּסֻנְכְרְנוּ עִם עַצְמְכֶם?	סֻנְכְרַן IND;FUT;NOM(2,PL,MASC);COM(2,PL,MASC,RFLX);Q
+סֻנְכְרַנְתִּי עִם עַצְמִי?	סֻנְכְרַן IND;PST;NOM(1,SG);COM(1,SG,RFLX);Q
+אֲסֻנְכְרַן אִתָּךְ?	סֻנְכְרַן IND;FUT;NOM(1,SG);COM(2,SG,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְסֻנְכְרָנוֹת.	סֻנְכְרַן COND;NOM(1,PL,FEM);NEG
+לֹא תְּסֻנְכְרְנוּ אִתִּי.	סֻנְכְרַן IND;FUT;NOM(2,PL,MASC);NEG;COM(1,SG)
+הֵם לֹא הָיוּ עוֹשִׂים אֶתְכֶן.	עָשָׂה COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הֵן תַּעֲשֶׂינָה אֶת עַצְמָן.	עָשָׂה IND;FUT;NOM(3,PL,FEM);ACC(3,PL,FEM,RFLX)
+לֹא עָשִׂית אוֹתָהּ.	עָשָׂה IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM)
+נַעֲשֶׂה אֶתְכֶם?	עָשָׂה IND;FUT;NOM(1,PL);ACC(2,PL,MASC);Q
+הִיא לֹא תַּעֲשֶׂה אוֹתוֹ.	עָשָׂה IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)
+עָשִׂיתִי אוֹתָם.	עָשָׂה IND;PST;NOM(1,SG);ACC(3,PL,MASC)
+אֲתֶּם לֹא עוֹשִׂים אוֹתִי.	עָשָׂה IND;PRS;NOM(2,PL,MASC);NEG;ACC(1,SG)
+הִיא לֹא עוֹשָׂה אוֹתָן.	עָשָׂה IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM)
+עָשִׂיתָ אֶתְכֶן?	עָשָׂה IND;PST;NOM(2,SG,MASC);ACC(2,PL,FEM);Q
+נַעֲשֶׂה אֶת עַצְמֵנוּ.	עָשָׂה IND;FUT;NOM(1,PL);ACC(1,PL,RFLX)
+אַתְּ לֹא עוֹשָׂה אוֹתוֹ?	עָשָׂה IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q
+הִיא תַּעֲשֶׂה אֶת עַצְמָהּ?	עָשָׂה IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q
+עֲשֵׂה אוֹתָנוּ!	עָשָׂה IMP;NOM(2,SG,MASC);ACC(1,PL)
+אֲנִי לֹא עוֹשָׂה אוֹתָהּ.	עָשָׂה IND;PRS;NOM(1,SG,FEM);NEG;ACC(3,SG,FEM)
+הֵם לֹא עָשׂוּ אוֹתוֹ?	עָשָׂה IND;PST;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);Q
+הֵם לֹא יַעֲשׂוּ אֶתְכֶן.	עָשָׂה IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הִיא תַּעֲשֶׂה אוֹתָם?	עָשָׂה IND;FUT;NOM(3,SG,FEM);ACC(3,PL,MASC);Q
+הֵן לֹא תַּעֲשֶׂינָה אוֹתָהּ?	עָשָׂה IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);Q
+לֹא תַּעֲשֶׂה אֶתְכֶן.	עָשָׂה IND;FUT;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM)
+אֲנַחְנוּ לֹא עוֹשִׂים אֶתְכֶן.	עָשָׂה IND;PRS;NOM(1,PL,MASC);NEG;ACC(2,PL,FEM)
+הֵם לֹא עוֹשִׂים אֶתְכֶן.	עָשָׂה IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)
+הִיא לֹא הָיְתָה מְפַנָּה אוֹתָן?	פִּנָּה COND;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);Q
+פִּנִּיתֶן אֶתְכֶם?	פִּנָּה IND;PST;NOM(2,PL,FEM);ACC(2,PL,MASC);Q
+אֲתֶּם לֹא מְפַנִּים אוֹתָךְ?	פִּנָּה IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,SG,FEM);Q
+הִיא פִּנְּתָה אֶתְכֶם?	פִּנָּה IND;PST;NOM(3,SG,FEM);ACC(2,PL,MASC);Q
+אֲנַחְנוּ לֹא מְפַנּוֹת אֶת עַצְמֵנוּ.	פִּנָּה IND;PRS;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX)
+אֲנַחְנוּ לֹא מְפַנִּים אוֹתָהּ.	פִּנָּה IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM)
+לֹא תְּפַנֶּה אוֹתִי?	פִּנָּה IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,SG);Q
+לֹא נְפַנֶּה אוֹתָהּ?	פִּנָּה IND;FUT;NOM(1,PL);NEG;ACC(3,SG,FEM);Q
+אַתְּ לֹא מְפַנָּה אֶתְכֶן.	פִּנָּה IND;PRS;NOM(2,SG,FEM);NEG;ACC(2,PL,FEM)
+אֲנַחְנוּ לֹא מְפַנִּים אוֹתָהּ?	פִּנָּה IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM);Q
+הִיא לֹא הָיְתָה מְפַנָּה אוֹתָן.	פִּנָּה COND;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM)
+אַל תְּפַנֶּה אוֹתָהּ!	פִּנָּה IMP;NOM(2,SG,MASC);NEG;ACC(3,SG,FEM)
+לֹא תְּפַנּוּ אוֹתָן.	פִּנָּה IND;FUT;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM)
+תְּפַנִּי אוֹתָהּ?	פִּנָּה IND;FUT;NOM(2,SG,FEM);ACC(3,SG,FEM);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְפַנּוֹת אוֹתָהּ.	פִּנָּה COND;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM)
+אֲנִי לֹא הָיִיתִי מְפַנֶּה אֶת עַצְמִי.	פִּנָּה COND;NOM(1,SG,MASC);NEG;ACC(1,SG,RFLX)
+פִּנִּינוּ אוֹתִי.	פִּנָּה IND;PST;NOM(1,PL);ACC(1,SG)
+אֲנַחְנוּ לֹא הָיִינוּ מְפַשְּׁלִים.	פִּשֵּׁל COND;NOM(1,PL,MASC);NEG
+אֲפַשֵּׁל?	פִּשֵּׁל IND;FUT;NOM(1,SG);Q
+פַּשְּׁלִי!	פִּשֵּׁל IMP;NOM(2,SG,FEM)
+פִּשַּׁלְתְּ.	פִּשֵּׁל IND;PST;NOM(2,SG,FEM)
+הֵן תְּפַשֵּׁלְנָה?	פִּשֵּׁל IND;FUT;NOM(3,PL,FEM);Q
+הוּא פִּשֵּׁל?	פִּשֵּׁל IND;PST;NOM(3,SG,MASC);Q
+לֹא תְּפַשְּׁלִי.	פִּשֵּׁל IND;FUT;NOM(2,SG,FEM);NEG
+לֹא פִּשַּׁלְתָּ.	פִּשֵּׁל IND;PST;NOM(2,SG,MASC);NEG
+אַל תְּפַשְּׁלוּ!	פִּשֵּׁל IMP;NOM(2,PL,MASC);NEG
+נְפַשֵּׁל?	פִּשֵּׁל IND;FUT;NOM(1,PL);Q
+אֲנִי לֹא הָיִיתִי מְפַשֶּׁלֶת.	פִּשֵּׁל COND;NOM(1,SG,FEM);NEG
+הוּא לֹא יְפַשֵּׁל.	פִּשֵּׁל IND;FUT;NOM(3,SG,MASC);NEG
+אֲפַשֵּׁל.	פִּשֵּׁל IND;FUT;NOM(1,SG)
+לֹא פִּשַּׁלְנוּ.	פִּשֵּׁל IND;PST;NOM(1,PL);NEG
+תְּפַשֵּׁלְנָה.	פִּשֵּׁל IND;FUT;NOM(2,PL,FEM)
+תְּפַשֵּׁלְנָה?	פִּשֵּׁל IND;FUT;NOM(2,PL,FEM);Q
+לֹא אֲפַשֵּׁל.	פִּשֵּׁל IND;FUT;NOM(1,SG);NEG
+לֹא אֲפַשֵּׁל?	פִּשֵּׁל IND;FUT;NOM(1,SG);NEG;Q
+פִּשַּׁלְנוּ.	פִּשֵּׁל IND;PST;NOM(1,PL)
+אֲתֶּם לֹא מְפַשְּׁלִים?	פִּשֵּׁל IND;PRS;NOM(2,PL,MASC);NEG;Q
+אֲנִי לֹא מְצֻטָּט?	צֻטַּט IND;PRS;NOM(1,SG,MASC);NEG;Q
+הִיא לֹא צֻטְּטָה.	צֻטַּט IND;PST;NOM(3,SG,FEM);NEG
+תְּצֻטְּטִי?	צֻטַּט IND;FUT;NOM(2,SG,FEM);Q
+אַתָּה לֹא הָיִיתָ מְצֻטָּט.	צֻטַּט COND;NOM(2,SG,MASC);NEG
+תְּצֻטַּט?	צֻטַּט IND;FUT;NOM(2,SG,MASC);Q
+הֵן לֹא תְּצֻטַּטְנָה?	צֻטַּט IND;FUT;NOM(3,PL,FEM);NEG;Q
+לֹא צֻטַּטְתְּ.	צֻטַּט IND;PST;NOM(2,SG,FEM);NEG
+לֹא צֻטַּטְתֶּם?	צֻטַּט IND;PST;NOM(2,PL,MASC);NEG;Q
+לֹא תְּצֻטְּטִי?	צֻטַּט IND;FUT;NOM(2,SG,FEM);NEG;Q
+לֹא צֻטַּטְנוּ.	צֻטַּט IND;PST;NOM(1,PL);NEG
+הֵן לֹא מְצֻטָּטוֹת?	צֻטַּט IND;PRS;NOM(3,PL,FEM);NEG;Q
+הֵם לֹא יְצֻטְּטוּ.	צֻטַּט IND;FUT;NOM(3,PL,MASC);NEG
+הוּא לֹא מְצֻטָּט.	צֻטַּט IND;PRS;NOM(3,SG,MASC);NEG
+אַתֶּן לֹא מְצֻטָּטוֹת.	צֻטַּט IND;PRS;NOM(2,PL,FEM);NEG
+הוּא לֹא צֻטַּט?	צֻטַּט IND;PST;NOM(3,SG,MASC);NEG;Q
+צֻטַּטְנוּ?	צֻטַּט IND;PST;NOM(1,PL);Q
+הוּא יְצֻטַּט.	צֻטַּט IND;FUT;NOM(3,SG,MASC)
+לֹא צֻנְזַרְתְּ.	צֻנְזַר IND;PST;NOM(2,SG,FEM);NEG
+אֲצֻנְזַר?	צֻנְזַר IND;FUT;NOM(1,SG);Q
+הֵם לֹא מְצֻנְזָרִים?	צֻנְזַר IND;PRS;NOM(3,PL,MASC);NEG;Q
+הֵם לֹא יְצֻנְזְרוּ?	צֻנְזַר IND;FUT;NOM(3,PL,MASC);NEG;Q
+אֲנִי לֹא הָיִיתִי מְצֻנְזֶרֶת?	צֻנְזַר COND;NOM(1,SG,FEM);NEG;Q
+צֻנְזַרְתֶּן.	צֻנְזַר IND;PST;NOM(2,PL,FEM)
+אֲנִי לֹא הָיִיתִי מְצֻנְזֶרֶת.	צֻנְזַר COND;NOM(1,SG,FEM);NEG
+צֻנְזַרְתֶּן?	צֻנְזַר IND;PST;NOM(2,PL,FEM);Q
+הֵן לֹא הָיוּ מְצֻנְזָרוֹת?	צֻנְזַר COND;NOM(3,PL,FEM);NEG;Q
+הִיא לֹא הָיְתָה מְצֻנְזֶרֶת?	צֻנְזַר COND;NOM(3,SG,FEM);NEG;Q
+הוּא צֻנְזַר.	צֻנְזַר IND;PST;NOM(3,SG,MASC)
+אֲנַחְנוּ לֹא מְצֻנְזָרִים.	צֻנְזַר IND;PRS;NOM(1,PL,MASC);NEG
+אַתֶּן לֹא הֱיִיתֶן מְצֻנְזָרוֹת?	צֻנְזַר COND;NOM(2,PL,FEM);NEG;Q
+הִיא לֹא הָיְתָה מְצֻנְזֶרֶת.	צֻנְזַר COND;NOM(3,SG,FEM);NEG
+לֹא צֻנְזַרְנוּ?	צֻנְזַר IND;PST;NOM(1,PL);NEG;Q
+צֻנְזַרְתֶּם?	צֻנְזַר IND;PST;NOM(2,PL,MASC);Q
+אֲנִי לֹא מְצֻנְזָר.	צֻנְזַר IND;PRS;NOM(1,SG,MASC);NEG
+לֹא תְּצֻנְזְרוּ.	צֻנְזַר IND;FUT;NOM(2,PL,MASC);NEG
+נְצֻנְזַר?	צֻנְזַר IND;FUT;NOM(1,PL);Q
+לֹא תְּצֻנְזְרִי.	צֻנְזַר IND;FUT;NOM(2,SG,FEM);NEG
+הִיא קִצְּרָה אוֹתָהּ?	קִצֵּר IND;PST;NOM(3,SG,FEM);ACC(3,SG,FEM);Q
+תְּקַצֵּר אֶתְכֶם.	קִצֵּר IND;FUT;NOM(2,SG,MASC);ACC(2,PL,MASC)
+קִצַּרְתֶּן אֶת עַצְמְכֶן?	קִצֵּר IND;PST;NOM(2,PL,FEM);ACC(2,PL,FEM,RFLX);Q
+הִיא לֹא תְּקַצֵּר אוֹתִי.	קִצֵּר IND;FUT;NOM(3,SG,FEM);NEG;ACC(1,SG)
+אַתָּה לֹא הָיִיתָ מְקַצֵּר אֶתְכֶן?	קִצֵּר COND;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM);Q
+אֲקַצֵּר אֶת עַצְמִי?	קִצֵּר IND;FUT;NOM(1,SG);ACC(1,SG,RFLX);Q
+הִיא קִצְּרָה אוֹתָם.	קִצֵּר IND;PST;NOM(3,SG,FEM);ACC(3,PL,MASC)
+הוּא לֹא קִצֵּר אֶתְכֶם.	קִצֵּר IND;PST;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC)
+לֹא תְּקַצֵּרְנָה אוֹתָךְ.	קִצֵּר IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM)
+הוּא לֹא קִצֵּר אֶתְכֶן?	קִצֵּר IND;PST;NOM(3,SG,MASC);NEG;ACC(2,PL,FEM);Q
+תְּקַצְּרִי אוֹתְךָ.	קִצֵּר IND;FUT;NOM(2,SG,FEM);ACC(2,SG,MASC)
+אֲנַחְנוּ לֹא מְקַצְּרִים אוֹתָם?	קִצֵּר IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,PL,MASC);Q
+הִיא לֹא הָיְתָה מְקַצֶּרֶת אוֹתָם?	קִצֵּר COND;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);Q
+אֲנַחְנוּ לֹא מְקַצְּרוֹת אֶתְכֶן?	קִצֵּר IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,FEM);Q
+לֹא תְּקַצְּרוּ אוֹתָם?	קִצֵּר IND;FUT;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC);Q
+אֲנַחְנוּ לֹא הָיִינוּ מְקַצְּרוֹת אוֹתָךְ.	קִצֵּר COND;NOM(1,PL,FEM);NEG;ACC(2,SG,FEM)
+לֹא קִצַּרְנוּ אוֹתָן.	קִצֵּר IND;PST;NOM(1,PL);NEG;ACC(3,PL,FEM)
+אֲתֶּם לֹא הֱיִיתֶם מְקַצְּרִים אֶתְכֶן.	קִצֵּר COND;NOM(2,PL,MASC);NEG;ACC(2,PL,FEM)
+הִיא קָשְׁרָה אוֹתָךְ אֵלַי.	קָשַׁר IND;PST;NOM(3,SG,FEM);ACC(2,SG,FEM);DAT(1,SG)
+הִיא לֹא קָשְׁרָה אוֹתָן אֵלָיו.	קָשַׁר IND;PST;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);DAT(3,SG,MASC)
+קָשַׁרְתָּ אֶתְכֶן אֲלֵיהֶן.	קָשַׁר IND;PST;NOM(2,SG,MASC);ACC(2,PL,FEM);DAT(3,PL,FEM)
+הִיא לֹא תִּקְשֹׁר אוֹתָם אֵלַיִךְ.	קָשַׁר IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);DAT(2,SG,FEM)
+הוּא לֹא קוֹשֵׁר אוֹתָם אֲלֵיהֶן.	קָשַׁר IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC);DAT(3,PL,FEM)
+הוּא קָשַׁר אוֹתָן אֲלֵיהֶם.	קָשַׁר IND;PST;NOM(3,SG,MASC);ACC(3,PL,FEM);DAT(3,PL,MASC)
+הֵם לֹא קוֹשְׁרִים אֶתְכֶם אֵלָיו?	קָשַׁר IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,PL,MASC);DAT(3,SG,MASC);Q
+הֵם לֹא קוֹשְׁרִים אוֹתְךָ אֵלָיו.	קָשַׁר IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);DAT(3,SG,MASC)
+אַתְּ לֹא קוֹשֶׁרֶת אֶתְכֶם?	קָשַׁר IND;PRS;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC);Q
+הִיא לֹא קוֹשֶׁרֶת אוֹתוֹ אֲלֵיהֶן.	קָשַׁר IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);DAT(3,PL,FEM)
+לֹא תִּקְשֹׁר אוֹתוֹ אֲלֵיכֶם?	קָשַׁר IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,SG,MASC);DAT(2,PL,MASC);Q
+לֹא תִּקְשְׁרוּ אוֹתָךְ אֲלֵיהֶן.	קָשַׁר IND;FUT;NOM(2,PL,MASC);NEG;ACC(2,SG,FEM);DAT(3,PL,FEM)
+אֶקְשֹׁר אוֹתָהּ אֶל עַצְמָהּ.	קָשַׁר IND;FUT;NOM(1,SG);ACC(3,SG,FEM);DAT(3,SG,FEM,RFLX)
+אַל תִּקְשְׁרִי אוֹתָן אֵלֶיהָ!	קָשַׁר IMP;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM);DAT(3,SG,FEM)
+אֲנִי לֹא הָיִיתִי קוֹשֵׁר אוֹתָהּ אֵלֶיךָ.	קָשַׁר COND;NOM(1,SG,MASC);NEG;ACC(3,SG,FEM);DAT(2,SG,MASC)
+הוּא לֹא קוֹשֵׁר אוֹתָם אֵלַי?	קָשַׁר IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC);DAT(1,SG);Q
+לֹא קָשַׁרְתְּ אֶתְכֶן אֲלֵיהֶן?	קָשַׁר IND;PST;NOM(2,SG,FEM);NEG;ACC(2,PL,FEM);DAT(3,PL,FEM);Q
+לֹא תִּקְשֹׁר אוֹתָן אֶל עַצְמָן?	קָשַׁר IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,PL,FEM);DAT(3,PL,FEM,RFLX);Q
+קִשְׁרִי אוֹתָם אֵלַי!	קָשַׁר IMP;NOM(2,SG,FEM);ACC(3,PL,MASC);DAT(1,SG)
+לֹא תִּקְשֹׁרְנָה אוֹתְךָ אֶל עַצְמְךָ.	קָשַׁר IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC);DAT(2,SG,MASC,RFLX)
+הִיא לֹא קָשְׁרָה אוֹתְךָ אֵלַי.	קָשַׁר IND;PST;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC);DAT(1,SG)
+אֲתֶּם לֹא מְרַצְּדִים?	רִצֵּד IND;PRS;NOM(2,PL,MASC);NEG;Q
+הוּא לֹא רִצֵּד.	רִצֵּד IND;PST;NOM(3,SG,MASC);NEG
+תְּרַצֵּדְנָה?	רִצֵּד IND;FUT;NOM(2,PL,FEM);Q
+רִצַּדְתְּ.	רִצֵּד IND;PST;NOM(2,SG,FEM)
+הִיא לֹא מְרַצֶּדֶת.	רִצֵּד IND;PRS;NOM(3,SG,FEM);NEG
+הֵן לֹא תְּרַצֵּדְנָה?	רִצֵּד IND;FUT;NOM(3,PL,FEM);NEG;Q
+הֵם יְרַצְּדוּ.	רִצֵּד IND;FUT;NOM(3,PL,MASC)
+הוּא יְרַצֵּד.	רִצֵּד IND;FUT;NOM(3,SG,MASC)
+אֲרַצֵּד.	רִצֵּד IND;FUT;NOM(1,SG)
+לֹא רִצַּדְתִּי.	רִצֵּד IND;PST;NOM(1,SG);NEG
+לֹא תְּרַצֵּד?	רִצֵּד IND;FUT;NOM(2,SG,MASC);NEG;Q
+הֵם לֹא מְרַצְּדִים.	רִצֵּד IND;PRS;NOM(3,PL,MASC);NEG
+אֲנַחְנוּ לֹא מְרַצְּדִים.	רִצֵּד IND;PRS;NOM(1,PL,MASC);NEG
+הֵם לֹא הָיוּ מְרַצְּדִים?	רִצֵּד COND;NOM(3,PL,MASC);NEG;Q
+לֹא רִצַּדְתֶּן?	רִצֵּד IND;PST;NOM(2,PL,FEM);NEG;Q
+הֵם לֹא מְרַצְּדִים?	רִצֵּד IND;PRS;NOM(3,PL,MASC);NEG;Q
+אַתָּה לֹא מְרַצֵּד?	רִצֵּד IND;PRS;NOM(2,SG,MASC);NEG;Q
+הִיא תְּרַצֵּד.	רִצֵּד IND;FUT;NOM(3,SG,FEM)
+אֲנִי לֹא מְרַצֵּד.	רִצֵּד IND;PRS;NOM(1,SG,MASC);NEG
+לֹא נְרַצֵּד.	רִצֵּד IND;FUT;NOM(1,PL);NEG
+רִצַּדְתָּ.	רִצֵּד IND;PST;NOM(2,SG,MASC)
+אֲנִי לֹא הָיִיתִי מְרֻפֶּדֶת?	רֻפַּד COND;NOM(1,SG,FEM);NEG;Q
+רֻפַּדְתָּ.	רֻפַּד IND;PST;NOM(2,SG,MASC)
+הִיא לֹא רֻפְּדָה?	רֻפַּד IND;PST;NOM(3,SG,FEM);NEG;Q
+רֻפַּדְתֶּם.	רֻפַּד IND;PST;NOM(2,PL,MASC)
+הוּא רֻפַּד.	רֻפַּד IND;PST;NOM(3,SG,MASC)
+הֵן לֹא תְּרֻפַּדְנָה.	רֻפַּד IND;FUT;NOM(3,PL,FEM);NEG
+רֻפַּדְתָּ.	רֻפַּד IND;PST;NOM(2,SG,MASC)
+נְרֻפַּד?	רֻפַּד IND;FUT;NOM(1,PL);Q
+הֵן לֹא מְרֻפָּדוֹת?	רֻפַּד IND;PRS;NOM(3,PL,FEM);NEG;Q
+הוּא לֹא יְרֻפַּד?	רֻפַּד IND;FUT;NOM(3,SG,MASC);NEG;Q
+אַתְּ לֹא הָיִית מְרֻפֶּדֶת.	רֻפַּד COND;NOM(2,SG,FEM);NEG
+הֵן לֹא מְרֻפָּדוֹת?	רֻפַּד IND;PRS;NOM(3,PL,FEM);NEG;Q
+אַתֶּן לֹא מְרֻפָּדוֹת?	רֻפַּד IND;PRS;NOM(2,PL,FEM);NEG;Q
+נְרֻפַּד.	רֻפַּד IND;FUT;NOM(1,PL)
+אֲנַחְנוּ לֹא הָיִינוּ מְרֻפָּדוֹת.	רֻפַּד COND;NOM(1,PL,FEM);NEG
+אֲתֶּם לֹא הֱיִיתֶם מְרֻפָּדִים.	רֻפַּד COND;NOM(2,PL,MASC);NEG
+הוּא לֹא מְרֻפָּד?	רֻפַּד IND;PRS;NOM(3,SG,MASC);NEG;Q
+נְרֻפַּד.	רֻפַּד IND;FUT;NOM(1,PL)
