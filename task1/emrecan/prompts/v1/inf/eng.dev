@@ -1,0 +1,1000 @@
+answer	IND;FUT;PROG;PERF;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	won't you have been answering yourself?
+answer	IND;PRS;PROG;NOM(1,PL);Q	are we answering?
+answer	IND;PRS;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,NEUT)	hasn't he answered it?
+answer	COND;NOM(3,SG,NEUT);NEG;Q;ACC(2)	wouldn't it answer you?
+answer	IND;PST;NOM(1,SG)	I answered.
+answer	IND;PST;PROG;PERF;NOM(3,PL);Q;ACC(3,PL)	had they been answering them?
+answer	COND;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(2)	wouldn't it have answered you?
+answer	COND;PROG;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT,RFLX)	wouldn't it have been answering itself?
+answer	IND;FUT;NOM(1,PL);Q	will we answer?
+answer	COND;PERF;NOM(2);Q;DAT(3,SG,MASC)	would you've answered to him?
+answer	IND;FUT;PROG;NOM(1,PL);ACC(3,SG,MASC)	we'll be answering him.
+answer	IND;PST;PROG;NOM(3,SG,FEM);Q;DAT(3,SG,FEM,RFLX)	was she answering to herself?
+answer	IND;PRS;NOM(3,SG,NEUT);NEG;Q;DAT(3,SG,NEUT,RFLX)	doesn't it answer to itself?
+answer	IND;FUT;PERF;NOM(1,SG);ACC(3,SG,FEM)	I'll have answered her.
+answer	IMP;NOM(2);NEG;ACC(3,PL)	don't answer them!
+answer	COND;PROG;PERF;NOM(1,PL);Q;DAT(3,SG,NEUT)	would we've been answering to it?
+answer	IND;PST;NOM(3,SG,NEUT);DAT(1,SG)	it answered to me.
+answer	IND;FUT;PERF;NOM(3,SG,NEUT)	it'll have answered.
+answer	COND;PERF;NOM(1,PL);Q;DAT(3,SG,FEM)	would we've answered to her?
+answer	IND;FUT;NOM(3,SG,FEM);Q	will she answer?
+answer	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	weren't we answering him?
+answer	IND;PST;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	didn't we answer him?
+apply	IND;FUT;PROG;NOM(3,SG,FEM);ACC(1,SG)	she'll be applying me.
+apply	IND;FUT;PROG;NOM(3,SG,NEUT);NEG;Q;BEN(1,PL)	won't it be applying for us?
+apply	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;BEN(3,SG,MASC)	hasn't she been applying for him?
+apply	IND;FUT;NOM(2,PL);DAT(2,PL,RFLX)	you'll apply to yourselves.
+apply	COND;PROG;NOM(3,SG,MASC);Q;DAT(3,SG,MASC)	would he be applying to him?
+apply	IND;FUT;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,FEM)	won't I have applied her?
+apply	IND;FUT;PROG;NOM(3,SG,FEM);Q;BEN(1,SG)	will she be applying for me?
+apply	IND;PRS;NOM(1,SG);NEG;BEN(3,PL)	I don't apply for them.
+apply	COND;PERF;NOM(3,SG,NEUT);NEG;Q;BEN(3,SG,MASC)	wouldn't it have applied for him?
+apply	IND;PRS;PROG;PERF;NOM(3,PL);NEG;Q;ACC(3,SG,FEM)	haven't they been applying her?
+apply	IND;PRS;PERF;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT)	has it applied it?
+apply	COND;PERF;NOM(1,PL);Q;ACC(3,PL)	would we've applied them?
+apply	IND;FUT;PROG;NOM(3,PL);BEN(3,SG,MASC)	they'll be applying for him.
+apply	IND;FUT;PERF;NOM(3,SG,FEM);NEG;Q;BEN(1,PL)	won't she have applied for us?
+apply	IND;PST;NOM(1,PL);NEG;Q;DAT(3,SG,NEUT)	didn't we apply to it?
+apply	COND;NOM(1,SG);BEN(3,SG,MASC)	I'd apply for him.
+apply	IND;PST;NOM(2,SG);ACC(2,SG,RFLX)	you applied yourself.
+apply	IND;PRS;PROG;NOM(3,PL);BEN(2)	they're applying for you.
+average	IND;PRS;PROG;PERF;NOM(2);NEG;Q;ACC(1,PL)	haven't you been averaging us?
+average	IND;FUT;PROG;NOM(3,PL);ACC(2)	they'll be averaging you.
+average	COND;PROG;PERF;NOM(3,SG,NEUT);ACC(3,PL)	it would have been averaging them.
+average	IND;PRS;PROG;PERF;NOM(1,SG);ACC(3,SG,NEUT)	I've been averaging it.
+average	IND;PST;NOM(3,SG,NEUT);NEG;ACC(1,PL)	it didn't average us.
+average	COND;NOM(1,SG);NEG;ACC(3,SG,NEUT)	I wouldn't average it.
+average	IND;FUT;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT)	will it average it?
+average	IND;PST;NOM(1,SG);ACC(3,PL)	I averaged them.
+average	IND;PRS;NOM(3,SG,FEM);Q;ACC(3,SG,FEM)	does she average her?
+average	IND;FUT;NOM(2);Q;ACC(3,SG,FEM)	will you average her?
+average	IND;PST;PERF;NOM(2);NEG;ACC(1,PL)	you hadn't averaged us.
+average	IND;PST;PERF;NOM(3,SG,NEUT);NEG;ACC(2)	it hadn't averaged you.
+average	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(3,SG,FEM)	weren't we averaging her?
+average	IND;PRS;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	are we averaging ourselves?
+average	IND;FUT;NOM(1,SG);Q;ACC(1,SG,RFLX)	will I average myself?
+average	IND;PRS;PROG;PERF;NOM(3,PL);NEG;ACC(3,SG,FEM)	they haven't been averaging her.
+average	COND;PROG;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,PL)	wouldn't it have been averaging them?
+average	COND;PROG;NOM(3,PL);NEG;ACC(3,SG,NEUT)	they wouldn't be averaging it.
+average	IND;FUT;PROG;NOM(1,PL);Q;ACC(2)	will we be averaging you?
+average	COND;PROG;PERF;NOM(3,PL);ACC(3,PL,RFLX)	they'd have been averaging themselves.
+average	IND;FUT;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	will they've averaged her?
+average	IND;PST;PERF;NOM(1,SG);Q;ACC(3,SG,MASC)	had I averaged him?
+avoid	IND;PST;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)	she hadn't avoided him.
+avoid	COND;PERF;NOM(3,SG,NEUT);NEG;ACC(2)	it wouldn't have avoided you.
+avoid	COND;PROG;PERF;NOM(2);Q;ACC(1,PL)	would you've been avoiding us?
+avoid	IND;PST;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(1,SG)	he hadn't been avoiding me.
+avoid	COND;PROG;PERF;NOM(2);Q;ACC(3,PL)	would you've been avoiding them?
+avoid	COND;NOM(1,SG);Q;ACC(3,PL)	would I avoid them?
+avoid	IND;PST;NOM(3,SG,FEM);Q;ACC(2)	did she avoid you?
+avoid	IND;PRS;PROG;NOM(1,PL);Q;ACC(3,SG,FEM)	are we avoiding her?
+avoid	IND;PST;PROG;PERF;NOM(1,PL);Q;ACC(1,SG)	had we been avoiding me?
+avoid	COND;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM)	would she have avoided her?
+avoid	IND;PRS;PROG;NOM(1,PL);ACC(1,PL,RFLX)	we're avoiding ourselves.
+avoid	COND;PROG;PERF;NOM(2,PL);NEG;ACC(2,PL,RFLX)	you wouldn't have been avoiding yourselves.
+avoid	IND;PRS;NOM(1,SG);ACC(3,SG,MASC)	I avoid him.
+avoid	IND;PRS;PERF;NOM(3,PL);Q;ACC(1,PL)	have they avoided us?
+avoid	IND;PST;PERF;NOM(3,SG,NEUT);ACC(1,SG)	it had avoided me.
+avoid	IND;PST;PROG;PERF;NOM(3,PL);ACC(1,PL)	they'd been avoiding us.
+avoid	COND;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC)	wouldn't he have been avoiding him?
+avoid	COND;PROG;PERF;NOM(1,PL);NEG;ACC(3,PL)	we wouldn't have been avoiding them.
+avoid	IND;PRS;NOM(3,SG,NEUT);NEG;Q;ACC(1,SG)	doesn't it avoid me?
+avoid	IND;PST;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(1,PL)	he hadn't been avoiding us.
+avoid	COND;PERF;NOM(1,PL);NEG;Q;ACC(3,PL)	wouldn't we have avoided them?
+bottle	IND;FUT;PROG;NOM(3,SG,FEM);NEG;Q;ACC(3,PL)	won't she be bottling them?
+bottle	COND;PROG;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,NEUT)	wouldn't she be bottling it?
+bottle	IND;PST;PROG;PERF;NOM(3,SG,NEUT);Q;ACC(3,PL)	had it been bottling them?
+bottle	IND;PST;PROG;PERF;NOM(3,SG,FEM);Q;ACC(2)	had she been bottling you?
+bottle	IND;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX)	are you bottling yourself?
+bottle	IND;PRS;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	don't you bottle yourself?
+bottle	IND;PRS;PROG;NOM(3,SG,FEM);Q;ACC(1,SG)	is she bottling me?
+bottle	COND;NOM(3,SG,MASC);ACC(3,SG,MASC)	he'd bottle him.
+bottle	IND;FUT;NOM(2,PL);Q;ACC(2,PL,RFLX)	will you bottle yourselves?
+bottle	IND;FUT;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,PL)	won't she have been bottling us?
+bottle	IND;PRS;NOM(1,PL);NEG;ACC(3,SG,FEM)	we don't bottle her.
+bottle	IND;FUT;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT)	won't it bottle it?
+bottle	IND;FUT;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	won't we have bottled him?
+bottle	IND;PRS;PROG;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,FEM)	haven't we been bottling her?
+bottle	IND;PST;PERF;NOM(2);ACC(3,SG,NEUT)	you'd bottled it.
+bottle	COND;PERF;NOM(3,PL);NEG;ACC(3,PL,RFLX)	they wouldn't have bottled themselves.
+bottle	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	weren't we bottling ourselves?
+bottle	IND;PST;NOM(3,SG,FEM);NEG;Q;ACC(2)	didn't she bottle you?
+bottle	IND;PRS;PROG;PERF;NOM(1,SG);ACC(3,PL)	I've been bottling them.
+bottle	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(2)	he won't have been bottling you.
+bottle	COND;PROG;PERF;NOM(3,SG,MASC);ACC(3,SG,NEUT)	he'd have been bottling it.
+bottle	COND;PERF;NOM(1,PL);ACC(3,SG,NEUT)	we'd have bottled it.
+bottle	IND;PST;PERF;NOM(3,PL);ACC(3,PL,RFLX)	they'd bottled themselves.
+bring	IND;PST;PROG;NOM(1,SG);Q;ACC(2);DAT(3,SG,FEM)	was I bringing you to her?
+bring	IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,PL);DAT(3,SG,MASC)	she won't bring them to him.
+bring	IND;PST;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX);DAT(3,SG,NEUT)	didn't they bring themselves to it?
+bring	IND;PRS;PERF;NOM(3,PL);Q;ACC(1,SG);DAT(1,SG,RFLX)	have they brought me to myself?
+bring	IND;FUT;PROG;PERF;NOM(3,PL);Q;ACC(3,PL);DAT(3,SG,FEM)	will they've been bringing them to her?
+bring	IND;PRS;NOM(3,PL);Q;ACC(1,SG);DAT(3,SG,NEUT)	do they bring me to it?
+bring	IND;PRS;PROG;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT,RFLX);DAT(3,SG,MASC)	it's not bringing itself to him.
+bring	COND;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(1,SG);DAT(3,SG,FEM)	he wouldn't have been bringing me to her.
+bring	IND;FUT;PROG;PERF;NOM(1,SG);NEG;Q;ACC(1,PL);DAT(3,SG,FEM)	won't I have been bringing us to her?
+bring	IND;PST;PROG;NOM(3,SG,NEUT);Q;ACC(2);DAT(3,SG,NEUT)	was it bringing you to it?
+bring	IND;FUT;PERF;NOM(3,SG,MASC);ACC(1,SG);DAT(3,SG,NEUT)	he'll have brought me to it.
+bring	IND;PST;NOM(2);NEG;Q;ACC(3,SG,MASC);DAT(3,PL)	didn't you bring him to them?
+bring	IND;PRS;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,NEUT);DAT(3,SG,MASC)	he's not bringing it to him.
+bring	IND;PST;PROG;NOM(3,PL);Q;ACC(3,SG,FEM);DAT(1,SG)	were they bringing her to me?
+bring	COND;PROG;NOM(3,SG,MASC);Q;ACC(3,SG,FEM);DAT(2)	would he be bringing her to you?
+bring	IND;PRS;NOM(3,PL);ACC(3,SG,MASC);DAT(2)	they bring him to you.
+bring	IND;PRS;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);DAT(3,PL)	has he brought him to them?
+bring	IND;PRS;PERF;NOM(3,PL);Q;ACC(1,SG);DAT(3,PL,RFLX)	have they brought me to themselves?
+bring	IND;PST;PROG;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX);DAT(1,SG)	she wasn't bringing herself to me.
+bring	COND;PROG;NOM(1,PL);ACC(3,SG,NEUT);DAT(3,SG,NEUT,RFLX)	we'd be bringing it to itself.
+bring	IND;FUT;PROG;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX);DAT(3,PL)	won't he be bringing himself to them?
+button	COND;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)	he wouldn't be buttoning himself.
+button	COND;PROG;NOM(3,SG,MASC);Q;ACC(1,PL)	would he be buttoning us?
+button	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,NEUT)	he buttons it.
+button	IND;FUT;PROG;NOM(1,PL);Q;ACC(3,SG,FEM)	will we be buttoning her?
+button	IND;FUT;PROG;NOM(3,PL);NEG;ACC(2)	they won't be buttoning you.
+button	IND;PST;PERF;NOM(2);ACC(1,PL)	you'd buttoned us.
+button	IND;PRS;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,PL)	hasn't she buttoned them?
+button	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(1,PL)	hadn't they buttoned us?
+button	IND;PRS;PROG;PERF;NOM(3,PL);ACC(3,SG,MASC)	they've been buttoning him.
+button	IND;PST;PERF;NOM(3,PL);Q;ACC(3,PL,RFLX)	had they buttoned themselves?
+button	COND;NOM(3,PL);NEG;Q;ACC(1,PL)	wouldn't they button us?
+button	IND;PST;NOM(1,SG);NEG;ACC(1,SG,RFLX)	I didn't button myself.
+button	IND;PRS;PROG;NOM(2);NEG;Q;ACC(1,SG)	aren't you buttoning me?
+button	IND;PST;NOM(3,SG,MASC);Q;ACC(1,SG)	did he button me?
+button	IND;FUT;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	won't you button yourself?
+center	COND;PROG;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	would they've been centering her?
+center	IND;PST;NOM(3,SG,FEM);NEG;ACC(3,PL)	she didn't center them.
+center	COND;PROG;NOM(2,PL);Q;ACC(2,PL,RFLX)	would you be centering yourselves?
+center	COND;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(1,PL)	he wouldn't have been centering us.
+center	IND;FUT;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT)	it won't center it.
+center	IND;PST;NOM(1,SG);ACC(3,PL)	I centered them.
+center	IND;PRS;PROG;NOM(2);NEG;ACC(3,PL)	you're not centering them.
+center	IND;FUT;PROG;NOM(3,SG,FEM);Q;ACC(3,PL)	will she be centering them?
+center	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT)	it hasn't centered it.
+center	IND;PST;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	didn't you center yourself?
+center	IND;FUT;PERF;NOM(3,PL);NEG;Q;ACC(1,SG)	won't they have centered me?
+center	IND;PRS;PROG;NOM(2);NEG;Q;ACC(3,SG,MASC)	aren't you centering him?
+center	COND;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL)	would it have centered us?
+center	COND;NOM(3,SG,MASC);Q;ACC(2)	would he center you?
+center	IND;PRS;PROG;NOM(3,SG,FEM);ACC(3,SG,MASC)	she's centering him.
+center	IND;PRS;PERF;NOM(2,SG);Q;ACC(2,SG,RFLX)	have you centered yourself?
+center	IND;PRS;PROG;NOM(1,SG);ACC(3,SG,MASC)	I'm centering him.
+center	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,PL)	won't they center them?
+center	IND;PRS;PERF;NOM(3,PL);ACC(1,SG)	they've centered me.
+challenge	IND;FUT;PROG;NOM(3,SG,FEM);NEG;ACC(3,PL)	she won't be challenging them.
+challenge	IND;PRS;PROG;NOM(3,PL);NEG;ACC(3,PL)	they're not challenging them.
+challenge	IND;FUT;PROG;NOM(2);NEG;ACC(1,SG)	you won't be challenging me.
+challenge	IND;FUT;PROG;NOM(3,SG,FEM);NEG;ACC(2)	she won't be challenging you.
+challenge	IND;PST;PERF;NOM(1,PL);Q;ACC(3,SG,NEUT)	had we challenged it?
+challenge	IND;PST;PROG;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	he was challenging himself.
+challenge	COND;NOM(2);NEG;Q;ACC(1,PL)	wouldn't you challenge us?
+challenge	IND;PRS;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)	he's not challenging himself.
+challenge	COND;NOM(1,PL);NEG;Q;ACC(3,PL)	wouldn't we challenge them?
+challenge	IND;PRS;PERF;NOM(1,SG);Q;ACC(3,PL)	have I challenged them?
+challenge	IND;FUT;NOM(3,PL);NEG;ACC(2)	they won't challenge you.
+challenge	COND;PROG;PERF;NOM(2);Q;ACC(1,PL)	would you've been challenging us?
+challenge	COND;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC)	wouldn't he have been challenging him?
+challenge	IND;PRS;PROG;PERF;NOM(2);NEG;ACC(3,SG,NEUT)	you haven't been challenging it.
+challenge	IND;PST;PROG;PERF;NOM(2,SG);NEG;ACC(2,SG,RFLX)	you hadn't been challenging yourself.
+challenge	IND;FUT;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,PL)	won't she have been challenging them?
+challenge	IND;FUT;PROG;PERF;NOM(3,PL);ACC(3,PL)	they'll have been challenging them.
+challenge	IND;FUT;PERF;NOM(1,SG);Q;ACC(3,SG,NEUT)	will I've challenged it?
+challenge	IND;PST;PERF;NOM(2,SG);ACC(2,SG,RFLX)	you'd challenged yourself.
+code	IND;PRS;PROG;NOM(3,SG,FEM);NEG	she's not coding.
+code	IND;PRS;PROG;PERF;NOM(2);Q	have you been coding?
+code	IND;PRS;NOM(2);NEG;Q	don't you code?
+code	IND;FUT;NOM(3,SG,FEM)	she'll code.
+code	IND;FUT;PROG;NOM(1,SG)	I'll be coding.
+code	COND;PROG;PERF;NOM(3,SG,MASC);NEG	he wouldn't have been coding.
+code	IND;FUT;PROG;NOM(3,SG,MASC);NEG;Q	won't he be coding?
+code	IND;FUT;PROG;PERF;NOM(3,SG,MASC)	he'll have been coding.
+code	IMP;NOM(2)	code!
+code	COND;NOM(3,SG,MASC)	he'd code.
+code	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);NEG;Q	won't it have been coding?
+code	IND;FUT;PERF;NOM(3,SG,MASC);Q	will he have coded?
+code	COND;PROG;NOM(1,PL)	we'd be coding.
+code	COND;NOM(3,PL)	they'd code.
+code	IND;FUT;PROG;NOM(1,PL)	we'll be coding.
+code	IND;PST;PERF;NOM(1,PL);NEG	we hadn't coded.
+code	IND;PST;PERF;NOM(3,SG,FEM);Q	had she coded?
+code	IND;PRS;PERF;NOM(2);NEG	you haven't coded.
+code	IND;PST;NOM(1,SG);NEG	I didn't code.
+code	IMP;NOM(2)	code!
+complete	IND;FUT;PROG;PERF;NOM(3,SG,FEM);ACC(3,PL)	she'll have been completing them.
+complete	IND;PRS;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,PL)	has he been completing them?
+complete	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it's been completing him.
+complete	IND;PST;PROG;PERF;NOM(2);NEG;ACC(1,SG)	you hadn't been completing me.
+complete	IND;FUT;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,FEM)	will I've been completing her?
+complete	COND;NOM(3,PL);NEG;ACC(3,SG,NEUT)	they wouldn't complete it.
+complete	IND;FUT;PROG;NOM(3,SG,MASC);ACC(3,SG,MASC)	he'll be completing him.
+complete	COND;PROG;PERF;NOM(1,SG);NEG;ACC(3,SG,FEM)	I wouldn't have been completing her.
+complete	IND;PRS;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,PL)	hasn't she completed them?
+complete	IND;FUT;PROG;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT)	won't it be completing it?
+complete	COND;NOM(3,PL);Q;ACC(3,SG,MASC)	would they complete him?
+complete	IND;PRS;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	don't we complete him?
+complete	COND;PROG;PERF;NOM(3,SG,MASC);Q;ACC(1,SG)	would he have been completing me?
+complete	IND;FUT;NOM(1,PL);NEG;Q;ACC(2)	won't we complete you?
+complete	IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,SG,NEUT)	aren't they completing it?
+complete	IND;PST;PROG;PERF;NOM(2);NEG;ACC(3,PL)	you hadn't been completing them.
+complete	IND;FUT;NOM(1,SG);Q;ACC(3,SG,MASC)	will I complete him?
+complete	COND;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it wouldn't complete me.
+complete	IND;PST;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC)	had he been completing him?
+contain	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(2)	hasn't she been containing you?
+contain	IND;FUT;PROG;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,NEUT)	won't we have been containing it?
+contain	IND;PST;PERF;NOM(3,SG,MASC);NEG;Q;ACC(1,PL)	hadn't he contained us?
+contain	IND;FUT;NOM(3,SG,MASC);Q;ACC(3,PL)	will he contain them?
+contain	IND;PST;PROG;NOM(3,SG,MASC);Q;ACC(1,PL)	was he containing us?
+contain	COND;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	wouldn't I contain him?
+contain	IND;PRS;PERF;NOM(2,PL);ACC(2,PL,RFLX)	you've contained yourselves.
+contain	IND;PST;NOM(3,PL);NEG;Q;ACC(2)	didn't they contain you?
+contain	IND;PRS;PROG;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	isn't she containing me?
+contain	IND;FUT;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	won't we contain ourselves?
+contain	IND;PST;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT,RFLX)	didn't it contain itself?
+contain	COND;PERF;NOM(1,PL);ACC(3,SG,MASC)	we'd have contained him.
+contain	IND;FUT;PROG;PERF;NOM(3,PL);NEG;ACC(3,PL)	they won't have been containing them.
+contain	IND;PST;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX)	she hadn't contained herself.
+contain	IND;FUT;PERF;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	won't we have contained ourselves?
+contain	IND;FUT;PERF;NOM(1,PL);NEG;ACC(3,SG,MASC)	we won't have contained him.
+contain	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,MASC)	hasn't she been containing him?
+contain	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,FEM)	hasn't it contained her?
+contain	IND;PST;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,NEUT)	hadn't we contained it?
+cook	COND;PROG;NOM(3,SG,MASC);NEG;ACC(1,PL)	he wouldn't be cooking us.
+cook	IND;FUT;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	won't we cook ourselves?
+cook	IND;PST;NOM(3,PL);ACC(1,SG)	they cooked me.
+cook	IND;FUT;PROG;NOM(1,PL);NEG;ACC(3,SG,FEM)	we won't be cooking her.
+cook	COND;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,NEUT)	would he have cooked it?
+cook	IND;PST;PERF;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)	he hadn't cooked himself.
+cook	IND;FUT;NOM(3,PL);Q;ACC(3,PL,RFLX)	will they cook themselves?
+cook	IND;PST;PROG;PERF;NOM(1,SG);NEG;Q;ACC(3,PL)	hadn't I been cooking them?
+cook	COND;PERF;NOM(3,SG,NEUT);Q;ACC(3,SG,FEM)	would it have cooked her?
+cook	IND;PST;PROG;NOM(3,SG,MASC);ACC(3,SG,FEM)	he was cooking her.
+cook	IND;FUT;PROG;PERF;NOM(3,PL);Q;ACC(3,SG,MASC)	will they've been cooking him?
+cook	IND;PST;PROG;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	she was cooking herself.
+cook	IND;PST;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,PL)	hadn't she been cooking us?
+cook	IND;FUT;PROG;PERF;NOM(2);NEG;Q;ACC(3,SG,FEM)	won't you have been cooking her?
+cook	COND;PROG;NOM(3,SG,NEUT);ACC(3,SG,NEUT)	it would be cooking it.
+cook	IND;FUT;PROG;NOM(3,SG,NEUT);NEG	it won't be cooking.
+cook	IND;PST;PROG;PERF;NOM(3,SG,MASC);ACC(2)	he'd been cooking you.
+cook	COND;PERF;NOM(2);Q;ACC(1,SG)	would you've cooked me?
+cook	IND;PRS;NOM(3,SG,NEUT);NEG;Q;ACC(1,PL)	doesn't it cook us?
+design	COND;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT)	it wouldn't have designed it.
+design	IND;PST;PROG;PERF;NOM(2,PL);Q;ACC(2,PL,RFLX)	had you been designing yourselves?
+design	IND;PRS;NOM(2);ACC(3,SG,MASC)	you design him.
+design	IND;FUT;PROG;NOM(2);ACC(3,SG,NEUT)	you'll be designing it.
+design	COND;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it would have been designing him.
+design	IND;PST;NOM(3,SG,MASC);ACC(3,SG,NEUT)	he designed it.
+design	IND;FUT;NOM(3,SG,NEUT);ACC(1,PL)	it'll design us.
+design	IND;FUT;PROG;PERF;NOM(1,SG);Q;ACC(1,SG,RFLX)	will I've been designing myself?
+design	IND;PST;PROG;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	hadn't I been designing him?
+design	IND;FUT;PROG;NOM(1,PL);Q;ACC(3,SG,MASC)	will we be designing him?
+design	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,FEM)	he'll design her.
+design	IND;PST;NOM(3,SG,NEUT);NEG;ACC(1,PL)	it didn't design us.
+design	IND;PRS;NOM(2,PL);ACC(2,PL,RFLX)	you design yourselves.
+design	IND;PRS;PERF;NOM(3,SG,FEM);Q;ACC(3,PL)	has she designed them?
+design	IND;PST;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	she designed herself.
+design	IND;PRS;NOM(1,SG);Q;ACC(3,PL)	do I design them?
+design	IND;PRS;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX)	hasn't he been designing himself?
+design	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,PL)	won't they design them?
+design	IND;PRS;PROG;NOM(1,SG);Q;ACC(3,SG,FEM)	am I designing her?
+design	COND;NOM(1,SG);Q;ACC(3,SG,MASC)	would I design him?
+design	IND;PST;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,MASC)	didn't she design him?
+display	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT)	it won't have been displaying it.
+display	COND;PROG;PERF;NOM(2);ACC(3,PL)	you'd have been displaying them.
+display	COND;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)	she wouldn't have displayed him.
+display	COND;PROG;NOM(3,SG,MASC);Q;ACC(2)	would he be displaying you?
+display	COND;PROG;PERF;NOM(1,SG);Q;ACC(1,SG,RFLX)	would I've been displaying myself?
+display	COND;PROG;PERF;NOM(1,PL);ACC(2)	we'd have been displaying you.
+display	IND;FUT;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	won't I display him?
+display	COND;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,PL)	wouldn't she have been displaying us?
+display	IND;PRS;PROG;PERF;NOM(2);NEG;Q;ACC(3,SG,MASC)	haven't you been displaying him?
+display	IND;FUT;NOM(3,SG,NEUT);Q;ACC(1,SG)	will it display me?
+display	COND;PROG;PERF;NOM(2,SG);ACC(2,SG,RFLX)	you'd have been displaying yourself.
+display	IND;PST;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM,RFLX)	hadn't she displayed herself?
+display	IND;PST;PROG;NOM(3,SG,FEM);ACC(1,SG)	she was displaying me.
+display	IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	am I not displaying him?
+display	IND;FUT;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,NEUT)	will he have been displaying it?
+display	IND;FUT;PROG;NOM(2);ACC(1,SG)	you'll be displaying me.
+display	COND;PROG;PERF;NOM(2);ACC(3,SG,NEUT)	you'd have been displaying it.
+display	IND;PRS;NOM(2);NEG;ACC(1,PL)	you don't display us.
+display	IND;PST;PROG;PERF;NOM(3,PL);Q;ACC(1,PL)	had they been displaying us?
+display	IMP;NOM(2);NEG;ACC(3,SG,NEUT)	don't display it!
+display	IND;FUT;PERF;NOM(2);ACC(1,SG)	you'll have displayed me.
+display	IND;PRS;PROG;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it's displaying him.
+display	IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,SG,NEUT)	am I not displaying it?
+distance	IND;PST;PROG;NOM(3,PL);NEG;ACC(1,SG);ABL(1,SG,RFLX)	they weren't distancing me from myself.
+distance	IND;PST;PERF;NOM(3,SG,FEM);ACC(1,PL);ABL(3,PL)	she'd distanced us from them.
+distance	IND;FUT;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX);ABL(3,PL)	will we be distancing ourselves from them?
+distance	IND;PST;NOM(1,SG);NEG;ACC(3,SG,FEM);ABL(3,SG,FEM)	I didn't distance her from her.
+distance	COND;PERF;NOM(2);Q;ACC(1,PL);ABL(3,PL)	would you've distanced us from them?
+distance	IND;PST;PROG;PERF;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX);ABL(3,SG,MASC)	hadn't I been distancing myself from him?
+distance	IND;PST;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,MASC);ABL(3,SG,NEUT)	didn't it distance him from it?
+distance	IND;PST;PROG;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM);ABL(3,SG,NEUT)	had she been distancing her from it?
+distance	COND;PROG;PERF;NOM(2);NEG;Q;ACC(3,SG,MASC);ABL(3,SG,NEUT)	wouldn't you have been distancing him from it?
+distance	COND;PERF;NOM(1,PL);Q;ACC(3,SG,MASC);ABL(2)	would we've distanced him from you?
+distance	COND;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,NEUT);ABL(1,PL)	wouldn't he have been distancing it from us?
+distance	IND;FUT;PROG;NOM(3,SG,MASC);Q;ACC(3,SG,FEM);ABL(3,SG,FEM)	will he be distancing her from her?
+distance	IND;PRS;PERF;NOM(1,SG);Q;ACC(1,PL);ABL(2)	have I distanced us from you?
+distance	COND;PERF;NOM(3,SG,FEM);Q;ACC(1,SG);ABL(3,PL)	would she have distanced me from them?
+distance	IND;PRS;PERF;NOM(1,SG);Q;ACC(1,SG,RFLX);ABL(3,SG,NEUT)	have I distanced myself from it?
+dog	COND;PROG;NOM(1,PL);NEG	we wouldn't be dogging.
+dog	IND;PST;PERF;NOM(3,PL);NEG	they hadn't dogged.
+dog	IND;FUT;PERF;NOM(2);NEG;Q	won't you have dogged?
+dog	COND;PERF;NOM(2);NEG	you wouldn't have dogged.
+dog	IND;PRS;PERF;NOM(3,PL);Q	have they dogged?
+dog	COND;NOM(3,SG,NEUT)	it would dog.
+dog	IND;PST;PROG;NOM(2)	you were dogging.
+dog	IND;FUT;PROG;PERF;NOM(1,PL)	we'll have been dogging.
+dog	IND;FUT;PROG;PERF;NOM(1,SG);NEG;Q	won't I have been dogging?
+dog	IND;FUT;PERF;NOM(3,SG,FEM);NEG	she won't have dogged.
+dog	COND;PROG;PERF;NOM(3,SG,NEUT);Q	would it have been dogging?
+dog	COND;PROG;PERF;NOM(3,SG,FEM);NEG;Q	wouldn't she have been dogging?
+dog	IND;PRS;PERF;NOM(2);Q	have you dogged?
+dog	COND;NOM(2);NEG;Q	wouldn't you dog?
+dog	IND;PRS;PROG;NOM(1,PL);Q	are we dogging?
+dog	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG	she hasn't been dogging.
+dog	IND;PST;PROG;PERF;NOM(2);NEG	you hadn't been dogging.
+dog	IND;PST;PROG;PERF;NOM(2);Q	had you been dogging?
+dog	COND;NOM(3,PL);NEG;Q	wouldn't they dog?
+dog	IND;PRS;NOM(3,SG,NEUT);NEG	it doesn't dog.
+dog	IND;PRS;PROG;NOM(1,SG);NEG;Q	am I not dogging?
+drop	IND;FUT;NOM(2);Q;ACC(1,SG)	will you drop me?
+drop	IND;PST;PROG;PERF;NOM(3,SG,MASC);ACC(2)	he'd been dropping you.
+drop	IND;PRS;PROG;NOM(2);NEG;Q;ACC(1,SG)	aren't you dropping me?
+drop	COND;NOM(2,PL);Q;ACC(2,PL,RFLX)	would you drop yourselves?
+drop	IND;FUT;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)	he won't be dropping him.
+drop	IND;FUT;PROG;PERF;NOM(1,SG);ACC(3,SG,NEUT)	I'll have been dropping it.
+drop	IND;FUT;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,MASC)	won't it drop him?
+drop	COND;NOM(1,PL);ACC(3,SG,MASC)	we'd drop him.
+drop	IND;PRS;PERF;NOM(3,SG,MASC);NEG;ACC(3,PL)	he hasn't dropped them.
+drop	IND;PRS;PROG;NOM(3,PL);ACC(2)	they're dropping you.
+drop	IND;PRS;NOM(3,PL);NEG;ACC(3,SG,FEM)	they don't drop her.
+drop	IND;PST;PERF;NOM(2);ACC(3,SG,FEM)	you'd dropped her.
+drop	COND;PROG;PERF;NOM(2);NEG;Q;ACC(3,SG,NEUT)	wouldn't you have been dropping it?
+drop	IND;FUT;PROG;NOM(2);Q;ACC(3,SG,MASC)	will you be dropping him?
+drop	IND;PRS;PROG;NOM(3,SG,FEM);Q;ACC(3,PL)	is she dropping them?
+drop	IND;PRS;PROG;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	aren't you dropping yourself?
+drop	IND;PRS;PROG;NOM(3,SG,MASC);Q;ACC(3,PL)	is he dropping them?
+drop	IND;PST;NOM(3,SG,NEUT);ACC(1,PL)	it dropped us.
+drop	IND;PRS;NOM(3,SG,FEM);Q;ACC(3,SG,FEM)	does she drop her?
+drop	IND;FUT;PERF;NOM(2);NEG;Q;ACC(3,SG,FEM)	won't you have dropped her?
+drop	IND;FUT;PROG;NOM(3,SG,NEUT);NEG;Q;ACC(2)	won't it be dropping you?
+drop	IND;FUT;PROG;PERF;NOM(3,PL);Q;ACC(3,PL)	will they've been dropping them?
+farm	IND;PRS;PERF;NOM(3,PL)	they've farmed.
+farm	COND;PROG;PERF;NOM(1,PL);NEG;Q	wouldn't we have been farming?
+farm	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG	he won't have been farming.
+farm	IND;FUT;PERF;NOM(1,SG);Q	will I've farmed?
+farm	COND;NOM(1,PL);NEG;Q	wouldn't we farm?
+farm	IND;PRS;PROG;NOM(3,SG,NEUT)	it's farming.
+farm	COND;PROG;NOM(3,SG,NEUT);NEG;Q	wouldn't it be farming?
+farm	IND;FUT;NOM(3,SG,NEUT);Q	will it farm?
+farm	IND;PST;PROG;NOM(3,SG,MASC);NEG;Q	wasn't he farming?
+farm	IND;PRS;NOM(3,SG,FEM);NEG	she doesn't farm.
+farm	IND;PST;PERF;NOM(3,SG,MASC);NEG	he hadn't farmed.
+farm	COND;PROG;NOM(1,SG);Q	would I be farming?
+farm	COND;PROG;PERF;NOM(1,PL);NEG;Q	wouldn't we have been farming?
+farm	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);NEG;Q	hasn't it been farming?
+farm	IND;PRS;PERF;NOM(3,PL);NEG;Q	haven't they farmed?
+farm	IND;PRS;PERF;NOM(3,PL)	they've farmed.
+farm	COND;NOM(1,SG)	I'd farm.
+farm	COND;PERF;NOM(3,PL);NEG;Q	wouldn't they have farmed?
+farm	IND;PRS;NOM(3,SG,NEUT);Q	does it farm?
+farm	COND;NOM(2);NEG	you wouldn't farm.
+farm	IND;FUT;PERF;NOM(3,SG,FEM);Q	will she have farmed?
+film	COND;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it would have filmed him.
+film	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,FEM)	it'll have been filming her.
+film	IND;PST;PROG;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	had they been filming her?
+film	IND;PST;PROG;NOM(3,PL);Q;ACC(1,PL)	were they filming us?
+film	IND;PST;PERF;NOM(3,PL);ACC(3,PL)	they'd filmed them.
+film	IND;PST;PROG;NOM(3,SG,FEM);NEG;ACC(1,PL)	she wasn't filming us.
+film	IND;PST;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)	he wasn't filming himself.
+film	IND;FUT;NOM(3,SG,MASC);NEG;ACC(1,SG)	he won't film me.
+film	IND;PRS;PROG;NOM(2);NEG;ACC(3,SG,MASC)	you're not filming him.
+film	IND;PRS;PERF;NOM(1,PL);NEG;ACC(1,PL,RFLX)	we haven't filmed ourselves.
+film	IND;FUT;PROG;NOM(1,PL);ACC(2)	we'll be filming you.
+film	IND;PRS;PERF;NOM(3,SG,FEM);Q	has she filmed?
+film	IND;FUT;PERF;NOM(1,SG);ACC(1,PL)	I'll have filmed us.
+film	IND;PRS;NOM(2);ACC(3,PL)	you film them.
+film	IND;FUT;PROG;PERF;NOM(3,SG,MASC);ACC(1,PL)	he'll have been filming us.
+film	IND;PST;PROG;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM)	he wasn't filming her.
+film	IND;PST;PROG;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,NEUT)	she hadn't been filming it.
+film	IND;PRS;NOM(1,PL);ACC(3,SG,FEM)	we film her.
+film	IND;PRS;PROG;PERF;NOM(1,PL);ACC(3,SG,MASC)	we've been filming him.
+finish	IND;FUT;PROG;NOM(2);NEG;Q;ACC(3,PL)	won't you be finishing them?
+finish	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(1,SG)	hadn't they finished me?
+finish	COND;PROG;NOM(3,SG,FEM);Q;ACC(3,SG,NEUT)	would she be finishing it?
+finish	COND;PROG;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	wouldn't we have been finishing him?
+finish	IND;PRS;PROG;NOM(2);ACC(3,SG,MASC)	you're finishing him.
+finish	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,NEUT)	hasn't she been finishing it?
+finish	IND;FUT;PROG;NOM(3,SG,MASC);ACC(1,SG)	he'll be finishing me.
+finish	IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	aren't they finishing themselves?
+finish	IND;PST;PERF;NOM(1,SG);NEG;ACC(3,SG,NEUT)	I hadn't finished it.
+finish	IND;FUT;PERF;NOM(3,SG,MASC);NEG;ACC(2)	he won't have finished you.
+finish	COND;NOM(3,PL);ACC(3,PL)	they'd finish them.
+finish	IND;PST;PROG;PERF;NOM(1,PL);NEG;ACC(1,SG)	we hadn't been finishing me.
+finish	IND;FUT;PERF;NOM(2,PL);Q;ACC(2,PL,RFLX)	will you've finished yourselves?
+finish	IND;PRS;PERF;NOM(3,SG,FEM);ACC(1,SG)	she's finished me.
+finish	IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,PL)	she doesn't finish them.
+finish	COND;PROG;PERF;NOM(3,PL);NEG;Q;ACC(1,PL)	wouldn't they have been finishing us?
+finish	COND;NOM(1,PL);NEG;ACC(3,SG,FEM)	we wouldn't finish her.
+found	IND;FUT;PROG;NOM(3,SG,MASC);Q;ACC(3,PL)	will he be founding them?
+found	COND;PERF;NOM(3,SG,FEM);ACC(1,SG)	she'd have founded me.
+found	COND;PROG;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it wouldn't be founding me.
+found	IND;FUT;PROG;PERF;NOM(1,PL);NEG;Q;ACC(3,PL)	won't we have been founding them?
+found	IND;PRS;PROG;NOM(3,SG,MASC);ACC(3,SG,FEM)	he's founding her.
+found	IND;PRS;PERF;NOM(3,SG,FEM);Q;ACC(1,PL)	has she founded us?
+found	IND;PRS;PERF;NOM(3,PL);Q;ACC(3,SG,NEUT)	have they founded it?
+found	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,SG)	won't it have been founding me?
+found	IND;PST;NOM(3,SG,MASC);Q;ACC(1,PL)	did he found us?
+found	IND;PRS;PERF;NOM(3,SG,MASC);NEG;Q;ACC(1,SG)	hasn't he founded me?
+found	IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	hadn't I founded myself?
+found	IND;PST;NOM(1,SG);ACC(3,SG,NEUT)	I founded it.
+found	IND;PRS;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC)	is it founding him?
+found	COND;PROG;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,SG)	wouldn't it have been founding me?
+found	IND;FUT;PROG;PERF;NOM(1,PL);Q;ACC(1,SG)	will we've been founding me?
+found	IND;PST;PERF;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	she'd founded herself.
+found	COND;NOM(3,SG,NEUT);ACC(3,SG,FEM)	it would found her.
+found	IND;PRS;PROG;NOM(2);ACC(1,SG)	you're founding me.
+found	COND;PROG;NOM(3,PL);ACC(3,SG,MASC)	they'd be founding him.
+found	IND;PRS;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM)	doesn't she found her?
+grade	IND;PRS;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,FEM)	have I been grading her?
+grade	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(3,PL)	it hasn't graded them.
+grade	COND;NOM(2);ACC(1,SG)	you'd grade me.
+grade	IND;FUT;PERF;NOM(3,PL);NEG;ACC(3,SG,MASC)	they won't have graded him.
+grade	IND;PRS;PERF;NOM(1,PL);Q;ACC(1,PL,RFLX)	have we graded ourselves?
+grade	IND;FUT;PROG;PERF;NOM(1,PL);NEG;ACC(3,PL)	we won't have been grading them.
+grade	IND;PST;PERF;NOM(2);Q;ACC(3,SG,NEUT)	had you graded it?
+grade	COND;NOM(3,PL);NEG;Q;ACC(1,SG)	wouldn't they grade me?
+grade	IND;PST;NOM(3,SG,NEUT);NEG;ACC(3,SG,MASC)	it didn't grade him.
+grade	IND;PRS;PROG;PERF;NOM(2);NEG;ACC(3,SG,MASC)	you haven't been grading him.
+grade	IND;PRS;NOM(3,SG,FEM);ACC(3,SG,MASC)	she grades him.
+grade	IND;PST;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,MASC)	had I been grading him?
+grade	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it hasn't graded me.
+grade	IND;PRS;PROG;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,NEUT)	haven't we been grading it?
+grade	COND;PERF;NOM(1,PL);ACC(3,SG,NEUT)	we'd have graded it.
+grade	COND;PROG;PERF;NOM(3,SG,FEM);NEG;ACC(3,PL)	she wouldn't have been grading them.
+grade	IND;PST;PROG;NOM(1,PL);Q;ACC(2)	were we grading you?
+grade	IND;FUT;PROG;NOM(2);ACC(3,PL)	you'll be grading them.
+grade	IND;FUT;PROG;PERF;NOM(2);NEG;Q;ACC(1,SG)	won't you have been grading me?
+influence	IND;PRS;PROG;NOM(3,PL);NEG;ACC(3,SG,MASC)	they're not influencing him.
+influence	COND;PROG;NOM(2);NEG;ACC(1,PL)	you wouldn't be influencing us.
+influence	COND;PERF;NOM(2,SG);ACC(2,SG,RFLX)	you'd have influenced yourself.
+influence	IND;FUT;NOM(3,SG,NEUT);NEG;Q;ACC(3,PL)	won't it influence them?
+influence	IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(2)	hadn't I influenced you?
+influence	COND;PROG;NOM(2);Q;ACC(1,SG)	would you be influencing me?
+influence	COND;PROG;PERF;NOM(2);NEG;ACC(1,SG)	you wouldn't have been influencing me.
+influence	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(2)	hasn't she been influencing you?
+influence	COND;PROG;PERF;NOM(2);NEG;Q;ACC(1,PL)	wouldn't you have been influencing us?
+influence	IND;PST;PROG;PERF;NOM(2);Q;ACC(1,PL)	had you been influencing us?
+influence	IND;PST;NOM(2);NEG;Q;ACC(3,SG,NEUT)	didn't you influence it?
+influence	COND;NOM(3,PL);NEG;Q;ACC(3,PL)	wouldn't they influence them?
+influence	IND;FUT;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	won't I influence myself?
+influence	COND;PROG;PERF;NOM(1,PL);NEG;Q;ACC(1,SG)	wouldn't we have been influencing me?
+influence	COND;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it wouldn't influence me.
+influence	COND;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,FEM)	it wouldn't have influenced her.
+influence	IND;PRS;PERF;NOM(3,SG,NEUT);ACC(1,SG)	it's influenced me.
+influence	IND;FUT;NOM(1,SG);ACC(2)	I'll influence you.
+influence	COND;PROG;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	wouldn't I be influencing him?
+influence	IND;FUT;PROG;NOM(2);NEG;Q;ACC(1,PL)	won't you be influencing us?
+influence	IND;PST;PROG;NOM(3,PL);NEG;ACC(1,SG)	they weren't influencing me.
+join	IND;PST;PROG;PERF;NOM(1,SG);Q;ACC(1,SG,RFLX)	had I been joining myself?
+join	IND;PST;NOM(3,SG,FEM);NEG;ACC(3,PL)	she didn't join them.
+join	IND;FUT;NOM(2);Q;ACC(3,SG,MASC)	will you join him?
+join	COND;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,NEUT)	wouldn't she have been joining it?
+join	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	won't they join themselves?
+join	IND;PST;PROG;NOM(3,SG,NEUT);ACC(2)	it was joining you.
+join	COND;PROG;NOM(1,PL);Q;ACC(1,SG)	would we be joining me?
+join	COND;PERF;NOM(3,SG,FEM);Q;ACC(3,PL)	would she have joined them?
+join	IND;FUT;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	won't you join yourselves?
+join	COND;NOM(3,SG,MASC)	he'd join.
+join	IND;PST;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX)	didn't he join himself?
+join	IND;PST;PROG;NOM(3,SG,FEM);ACC(3,PL)	she was joining them.
+join	IND;PRS;PROG;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	aren't you joining yourself?
+join	IMP;NOM(2);ACC(3,SG,FEM)	join her!
+join	IND;FUT;PROG;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)	she won't be joining her.
+last	COND;PROG;PERF;NOM(2);Q	would you've been lasting?
+last	IND;FUT;PROG;NOM(2);NEG;Q	won't you be lasting?
+last	IND;PST;PROG;PERF;NOM(2);NEG	you hadn't been lasting.
+last	IND;PRS;NOM(3,SG,FEM)	she lasts.
+last	IND;PST;NOM(1,PL);Q	did we last?
+last	IND;PST;NOM(3,SG,MASC)	he lasted.
+last	IND;PST;PERF;NOM(1,SG);Q	had I lasted?
+last	IND;PST;NOM(1,SG);NEG	I didn't last.
+last	COND;PROG;NOM(1,SG);Q	would I be lasting?
+last	COND;PROG;NOM(3,SG,MASC)	he'd be lasting.
+last	IND;PST;PROG;PERF;NOM(3,SG,MASC);NEG	he hadn't been lasting.
+last	IND;FUT;PROG;NOM(3,SG,FEM);Q	will she be lasting?
+last	IND;PRS;NOM(3,SG,FEM);NEG	she doesn't last.
+last	IND;PST;PROG;NOM(2)	you were lasting.
+last	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q	hasn't she been lasting?
+last	IND;PST;PERF;NOM(3,SG,MASC);Q	had he lasted?
+last	IND;PRS;PERF;NOM(3,SG,MASC);Q	has he lasted?
+last	IND;FUT;PROG;PERF;NOM(1,SG);NEG;Q	won't I have been lasting?
+last	IND;PRS;PERF;NOM(3,SG,FEM)	she's lasted.
+last	IND;PRS;PERF;NOM(3,SG,MASC);Q	has he lasted?
+last	IND;PST;PROG;NOM(2);NEG;Q	weren't you lasting?
+last	IND;PST;PROG;PERF;NOM(1,PL);NEG	we hadn't been lasting.
+long	IND;PRS;PERF;NOM(2);NEG;Q;BEN(3,SG,FEM)	haven't you longed for her?
+long	IND;PRS;PERF;NOM(2);BEN(1,SG)	you've longed for me.
+long	COND;PROG;NOM(1,PL);NEG;BEN(1,SG)	we wouldn't be longing for me.
+long	IND;FUT;PERF;NOM(1,SG);NEG;BEN(3,PL)	I won't have longed for them.
+long	IND;FUT;PROG;NOM(3,SG,MASC);BEN(3,SG,MASC)	he'll be longing for him.
+long	IND;PRS;PERF;NOM(3,PL);Q;BEN(3,SG,MASC)	have they longed for him?
+long	IND;PST;PERF;NOM(3,PL);NEG;BEN(1,SG)	they hadn't longed for me.
+long	IND;FUT;PROG;PERF;NOM(3,SG,FEM);Q;BEN(3,SG,FEM)	will she have been longing for her?
+long	IND;PRS;PROG;NOM(3,PL);NEG;Q;BEN(3,SG,MASC)	aren't they longing for him?
+long	IND;FUT;PROG;NOM(2);NEG;Q;BEN(3,SG,FEM)	won't you be longing for her?
+long	COND;NOM(2);NEG;Q;BEN(1,SG)	wouldn't you long for me?
+long	IND;FUT;PROG;NOM(3,SG,MASC);NEG;Q;BEN(1,SG)	won't he be longing for me?
+long	COND;NOM(3,SG,MASC);NEG;Q;BEN(3,SG,MASC)	wouldn't he long for him?
+long	IND;PRS;PROG;PERF;NOM(3,PL);Q;BEN(3,SG,FEM)	have they been longing for her?
+long	IND;PRS;PROG;NOM(3,SG,FEM);BEN(2)	she's longing for you.
+long	COND;PERF;NOM(2);NEG;BEN(3,SG,NEUT)	you wouldn't have longed for it.
+manage	IND;FUT;PROG;PERF;NOM(3,SG,FEM);ACC(1,SG)	she'll have been managing me.
+manage	IND;FUT;PROG;PERF;NOM(2,SG);ACC(2,SG,RFLX)	you'll have been managing yourself.
+manage	IND;PST;NOM(1,SG);ACC(3,PL)	I managed them.
+manage	IND;FUT;PROG;NOM(3,PL);NEG;Q;ACC(2)	won't they be managing you?
+manage	COND;PROG;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)	she wouldn't have been managing him.
+manage	IND;FUT;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT)	will it be managing it?
+manage	COND;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC)	would it manage him?
+manage	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT,RFLX)	it hasn't been managing itself.
+manage	IND;PST;NOM(3,SG,MASC);NEG;Q;ACC(3,PL)	didn't he manage them?
+manage	IND;PST;PROG;NOM(1,SG);Q;ACC(3,SG,MASC)	was I managing him?
+manage	COND;PROG;PERF;NOM(2,SG);NEG;ACC(2,SG,RFLX)	you wouldn't have been managing yourself.
+manage	IND;FUT;PROG;PERF;NOM(1,SG);Q;ACC(3,PL)	will I've been managing them?
+manage	IND;FUT;PROG;NOM(3,PL);NEG;ACC(3,SG,MASC)	they won't be managing him.
+manage	COND;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	wouldn't she have been managing me?
+manage	IND;FUT;PERF;NOM(2);Q;ACC(3,PL)	will you've managed them?
+manage	COND;PROG;NOM(2,SG);ACC(2,SG,RFLX)	you'd be managing yourself.
+manage	COND;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	would they've managed her?
+manage	COND;PERF;NOM(3,SG,FEM);NEG;Q;ACC(2)	wouldn't she have managed you?
+manage	IND;FUT;PROG;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	won't she be managing me?
+present	COND;NOM(3,SG,NEUT);NEG;ACC(1,SG);DAT(1,SG,RFLX)	it wouldn't present me to myself.
+present	IND;PRS;PERF;NOM(3,SG,MASC);Q;ACC(3,PL);DAT(3,PL,RFLX)	has he presented them to themselves?
+present	IND;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX);DAT(3,SG,FEM)	are you presenting yourself to her?
+present	IND;PST;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC);DAT(3,SG,FEM)	he hadn't been presenting him to her.
+present	COND;PERF;NOM(2);NEG;ACC(1,SG);DAT(3,SG,MASC)	you wouldn't have presented me to him.
+present	IND;PRS;NOM(3,SG,NEUT);NEG;Q;ACC(1,SG);DAT(3,SG,NEUT,RFLX)	doesn't it present me to itself?
+present	COND;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(1,SG);DAT(1,PL)	he wouldn't have been presenting me to us.
+present	IND;PRS;PERF;NOM(1,PL);Q;ACC(3,SG,MASC);DAT(3,PL)	have we presented him to them?
+present	IND;FUT;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,MASC);DAT(1,SG)	it won't have presented him to me.
+present	COND;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it wouldn't present me.
+present	IND;PST;PERF;NOM(3,SG,MASC);Q;ACC(2);DAT(1,PL)	had he presented you to us?
+present	IND;PRS;PROG;PERF;NOM(2);NEG;ACC(1,PL);DAT(3,PL)	you haven't been presenting us to them.
+present	IND;PST;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC);DAT(1,PL)	hadn't he presented him to us?
+present	COND;NOM(2);ACC(3,SG,NEUT);DAT(1,SG)	you'd present it to me.
+present	IND;FUT;PERF;NOM(3,SG,NEUT);ACC(3,SG,FEM)	it'll have presented her.
+present	IND;PST;PERF;NOM(3,SG,FEM);NEG;ACC(1,PL);DAT(3,SG,FEM,RFLX)	she hadn't presented us to herself.
+present	IND;PST;PERF;NOM(2);ACC(1,SG);DAT(1,PL)	you'd presented me to us.
+present	IND;PRS;NOM(1,PL);NEG;Q;ACC(3,SG,MASC);DAT(1,SG)	don't we present him to me?
+present	IND;PRS;NOM(3,SG,FEM);ACC(1,SG);DAT(1,SG,RFLX)	she presents me to myself.
+price	IND;PST;PERF;NOM(3,SG,FEM);Q;ACC(2)	had she priced you?
+price	IND;PST;PROG;PERF;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	hadn't you been pricing yourself?
+price	IND;PRS;PROG;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM)	isn't she pricing her?
+price	COND;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC)	wouldn't he price him?
+price	IND;FUT;PERF;NOM(1,SG);Q;ACC(1,PL)	will I've priced us?
+price	IND;PRS;PROG;NOM(1,PL);NEG;Q;ACC(1,SG)	aren't we pricing me?
+price	IND;PRS;NOM(3,SG,NEUT);NEG;ACC(3,SG,MASC)	it doesn't price him.
+price	COND;PERF;NOM(2);NEG;ACC(3,SG,NEUT)	you wouldn't have priced it.
+price	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,FEM)	hasn't it priced her?
+price	IND;PST;PROG;NOM(2,PL);ACC(2,PL,RFLX)	you were pricing yourselves.
+price	IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	he priced himself.
+price	IND;PST;PROG;PERF;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	hadn't you been pricing yourselves?
+price	COND;PROG;PERF;NOM(3,PL);NEG;Q;ACC(2)	wouldn't they have been pricing you?
+price	IND;PRS;PROG;PERF;NOM(1,SG);NEG;ACC(1,SG,RFLX)	I haven't been pricing myself.
+price	COND;NOM(3,SG,MASC);Q;ACC(3,PL)	would he price them?
+price	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	she'll price herself.
+price	IND;PST;PROG;NOM(1,PL);Q;ACC(3,PL)	were we pricing them?
+price	IND;FUT;NOM(1,PL);ACC(3,PL)	we'll price them.
+price	IND;PST;PROG;PERF;NOM(3,SG,NEUT);ACC(1,SG)	it had been pricing me.
+price	IND;FUT;PROG;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM,RFLX)	will she have been pricing herself?
+price	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	he'll price himself.
+release	IND;PST;PROG;NOM(2);Q;ACC(1,SG)	were you releasing me?
+release	IND;PST;NOM(3,SG,MASC);NEG;ACC(1,PL)	he didn't release us.
+release	IND;PRS;NOM(1,SG);ACC(3,SG,NEUT)	I release it.
+release	IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,FEM)	hadn't I released her?
+release	IND;FUT;NOM(1,PL);NEG;Q;ACC(1,SG)	won't we release me?
+release	IND;PST;PERF;NOM(1,PL);ACC(3,SG,FEM)	we'd released her.
+release	IND;PST;PROG;PERF;NOM(3,PL);NEG;ACC(3,SG,FEM)	they hadn't been releasing her.
+release	IND;PST;PROG;NOM(1,SG);NEG;ACC(1,SG,RFLX)	I wasn't releasing myself.
+release	COND;PERF;NOM(3,SG,NEUT);NEG;ACC(1,PL)	it wouldn't have released us.
+release	IND;PRS;PROG;NOM(3,SG,FEM);NEG;ACC(1,SG)	she's not releasing me.
+release	IND;FUT;PERF;NOM(1,PL);NEG;ACC(3,SG,NEUT)	we won't have released it.
+release	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,PL)	hasn't it released us?
+release	IND;FUT;PERF;NOM(3,PL);ACC(3,PL,RFLX)	they'll have released themselves.
+release	IND;PRS;PERF;NOM(3,SG,MASC);NEG;Q;ACC(2)	hasn't he released you?
+release	IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(2)	am I not releasing you?
+release	IND;PST;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	didn't I release myself?
+release	IND;PRS;PROG;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,FEM)	isn't it releasing her?
+release	IND;FUT;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	will they've released her?
+release	IND;PST;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL)	had it released us?
+release	IND;PST;PROG;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	wasn't I releasing him?
+remember	IND;PRS;PROG;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM,RFLX)	has she been remembering herself?
+remember	IND;PRS;PERF;NOM(3,SG,FEM);Q;ACC(1,SG)	has she remembered me?
+remember	IND;FUT;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC)	will it be remembering him?
+remember	COND;PERF;NOM(3,PL);ACC(1,PL)	they'd have remembered us.
+remember	COND;NOM(3,SG,MASC);NEG;ACC(2)	he wouldn't remember you.
+remember	COND;PROG;NOM(2,SG);NEG;ACC(2,SG,RFLX)	you wouldn't be remembering yourself.
+remember	IND;FUT;PROG;NOM(3,PL);NEG;ACC(3,SG,FEM)	they won't be remembering her.
+remember	IND;PRS;PERF;NOM(3,PL);Q;ACC(3,SG,NEUT)	have they remembered it?
+remember	IND;PRS;NOM(3,SG,FEM);ACC(3,PL)	she remembers them.
+remember	IND;FUT;PROG;NOM(3,SG,NEUT);NEG;ACC(2)	it won't be remembering you.
+remember	IND;FUT;PROG;PERF;NOM(1,PL);ACC(2)	we'll have been remembering you.
+remember	IND;PST;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,PL)	hadn't it remembered us?
+remember	COND;PERF;NOM(3,PL);NEG;ACC(3,SG,NEUT)	they wouldn't have remembered it.
+remember	IND;FUT;PROG;NOM(1,SG);Q;ACC(1,PL)	will I be remembering us?
+remember	IND;PST;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,MASC)	hadn't she been remembering him?
+remember	COND;NOM(1,SG);NEG;ACC(3,SG,NEUT)	I wouldn't remember it.
+remember	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);NEG;ACC(2)	it hasn't been remembering you.
+remember	IND;PST;PROG;NOM(2);ACC(3,SG,NEUT)	you were remembering it.
+remember	IND;PST;PROG;PERF;NOM(3,PL);ACC(1,SG)	they'd been remembering me.
+remember	IND;FUT;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM)	won't she have remembered her?
+remember	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,SG,FEM)	hadn't they remembered her?
+represent	IND;PRS;PROG;PERF;NOM(3,PL);ACC(3,SG,FEM)	they've been representing her.
+represent	IND;PST;PERF;NOM(1,SG);Q;ACC(3,SG,MASC)	had I represented him?
+represent	IND;FUT;PROG;NOM(3,SG,FEM);ACC(2)	she'll be representing you.
+represent	IND;PST;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it represented him.
+represent	IND;FUT;PROG;PERF;NOM(3,SG,MASC);ACC(3,SG,NEUT)	he'll have been representing it.
+represent	IND;FUT;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	won't we have represented him?
+represent	IND;FUT;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,NEUT)	will he have been representing it?
+represent	IND;PST;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)	he didn't represent him.
+represent	IND;PRS;NOM(3,SG,FEM);Q;ACC(3,SG,MASC)	does she represent him?
+represent	COND;PROG;PERF;NOM(2,SG);NEG;ACC(2,SG,RFLX)	you wouldn't have been representing yourself.
+represent	IND;PRS;PROG;NOM(3,PL);Q;ACC(1,PL)	are they representing us?
+represent	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it'll have been representing him.
+represent	IND;PRS;NOM(3,PL);NEG;Q;ACC(1,SG)	don't they represent me?
+represent	COND;PROG;NOM(3,PL);NEG;Q;ACC(3,SG,MASC)	wouldn't they be representing him?
+represent	COND;PROG;PERF;NOM(2);NEG;Q;ACC(1,SG)	wouldn't you have been representing me?
+represent	IND;PRS;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,NEUT)	have I been representing it?
+represent	COND;PERF;NOM(3,SG,NEUT);ACC(1,SG)	it would have represented me.
+represent	IND;PST;NOM(3,SG,MASC);Q;ACC(3,SG,MASC,RFLX)	did he represent himself?
+represent	IND;FUT;NOM(1,SG);NEG;Q;ACC(3,SG,NEUT)	won't I represent it?
+represent	IND;FUT;PROG;PERF;NOM(2);Q;ACC(3,SG,MASC)	will you've been representing him?
+represent	IND;PRS;PROG;NOM(3,SG,FEM);Q;ACC(3,SG,NEUT)	is she representing it?
+represent	IND;PRS;PROG;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX)	isn't he representing himself?
+request	IND;PRS;PROG;PERF;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	haven't they been requesting themselves?
+request	COND;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,NEUT)	wouldn't I have requested it?
+request	IND;PRS;NOM(3,SG,FEM);Q;ACC(3,SG,MASC)	does she request him?
+request	IND;PST;PERF;NOM(1,SG);NEG;ACC(3,SG,MASC)	I hadn't requested him.
+request	IND;PST;PROG;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL)	had it been requesting us?
+request	COND;NOM(3,SG,NEUT);NEG;ACC(3,PL)	it wouldn't request them.
+request	IND;PRS;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC,RFLX)	has he been requesting himself?
+request	IND;PST;PROG;PERF;NOM(3,PL);Q;ACC(3,SG,NEUT)	had they been requesting it?
+request	IND;FUT;PERF;NOM(3,PL);ACC(1,SG)	they'll have requested me.
+request	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it hasn't requested me.
+request	COND;PROG;NOM(1,PL);ACC(3,SG,MASC)	we'd be requesting him.
+request	IND;PRS;PERF;NOM(3,PL);NEG;Q;ACC(3,SG,NEUT)	haven't they requested it?
+request	COND;NOM(1,PL);Q;ACC(3,PL)	would we request them?
+request	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(2)	weren't we requesting you?
+request	IND;PRS;PROG;NOM(3,SG,FEM);Q;ACC(2)	is she requesting you?
+request	IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(1,SG)	aren't they requesting me?
+request	IND;PRS;PROG;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC)	isn't he requesting him?
+request	IND;PST;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,FEM)	had he been requesting her?
+request	COND;PERF;NOM(1,PL);ACC(1,PL,RFLX)	we'd have requested ourselves.
+request	IND;PRS;PROG;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it's requesting him.
+request	IND;FUT;PROG;PERF;NOM(1,PL);ACC(1,SG)	we'll have been requesting me.
+research	IND;PST;NOM(3,SG,NEUT);ACC(3,PL)	it researched them.
+research	IND;FUT;PERF;NOM(1,PL);Q;ACC(3,SG,MASC)	will we've researched him?
+research	COND;PERF;NOM(1,SG);NEG;ACC(3,SG,FEM)	I wouldn't have researched her.
+research	IND;PST;PERF;NOM(1,PL);Q;ACC(3,SG,FEM)	had we researched her?
+research	IND;PRS;PROG;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	aren't we researching him?
+research	COND;NOM(3,PL);NEG;ACC(1,SG)	they wouldn't research me.
+research	IND;PST;NOM(1,SG);NEG;Q;ACC(3,PL)	didn't I research them?
+research	IND;PRS;PROG;PERF;NOM(2);NEG;ACC(3,SG,MASC)	you haven't been researching him.
+research	IND;FUT;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	will they've researched her?
+research	IND;FUT;NOM(3,PL);ACC(1,SG)	they'll research me.
+research	COND;PROG;PERF;NOM(3,PL);NEG;Q;ACC(3,SG,NEUT)	wouldn't they have been researching it?
+research	COND;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX)	she wouldn't have researched herself.
+research	COND;PERF;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	wouldn't you have researched yourself?
+research	COND;PROG;NOM(3,SG,MASC);ACC(3,PL)	he'd be researching them.
+research	COND;PROG;NOM(3,PL);NEG;Q;ACC(3,SG,MASC)	wouldn't they be researching him?
+research	IND;PRS;PROG;PERF;NOM(3,SG,MASC);ACC(1,PL)	he's been researching us.
+research	IND;PST;PROG;PERF;NOM(3,SG,FEM);ACC(3,PL)	she'd been researching them.
+research	IND;FUT;PROG;PERF;NOM(3,PL);NEG;Q;ACC(2)	won't they have been researching you?
+research	IND;PRS;NOM(3,SG,FEM);ACC(2)	she researches you.
+ride	COND;PERF;NOM(3,SG,MASC);ACC(3,SG,MASC)	he'd have ridden him.
+ride	IND;FUT;NOM(2);NEG;ACC(3,PL)	you won't ride them.
+ride	IND;PRS;PERF;NOM(1,PL);NEG;Q;ACC(2)	haven't we ridden you?
+ride	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);ACC(1,PL)	it'll have been riding us.
+ride	IND;FUT;PROG;NOM(1,SG);Q;ACC(2)	will I be riding you?
+ride	IND;FUT;NOM(2);ACC(1,SG)	you'll ride me.
+ride	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(3,SG,NEUT)	weren't we riding it?
+ride	IND;PRS;PROG;PERF;NOM(2);NEG;Q;ACC(3,PL)	haven't you been riding them?
+ride	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);ACC(1,PL)	it's been riding us.
+ride	IND;FUT;PROG;PERF;NOM(1,PL);ACC(1,PL,RFLX)	we'll have been riding ourselves.
+ride	IND;PST;PROG;PERF;NOM(1,PL);NEG;ACC(2)	we hadn't been riding you.
+ride	IND;FUT;PERF;NOM(2);NEG;Q;ACC(3,SG,FEM)	won't you have ridden her?
+ride	COND;PERF;NOM(2,PL);ACC(2,PL,RFLX)	you'd have ridden yourselves.
+ride	COND;PROG;NOM(3,SG,NEUT);ACC(2)	it would be riding you.
+ride	IND;PRS;PROG;NOM(3,SG,MASC);ACC(1,SG)	he's riding me.
+ride	IND;PST;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,PL)	hadn't it ridden us?
+ride	COND;NOM(2);Q;ACC(3,SG,FEM)	would you ride her?
+ride	IND;FUT;NOM(3,SG,FEM);ACC(1,PL)	she'll ride us.
+ride	IND;PST;PROG;NOM(3,PL);NEG;ACC(3,SG,NEUT)	they weren't riding it.
+salt	IND;FUT;PROG;NOM(3,PL);Q;ACC(3,SG,FEM)	will they be salting her?
+salt	IND;PST;PROG;PERF;NOM(3,PL);ACC(3,SG,FEM)	they'd been salting her.
+salt	IND;FUT;PROG;PERF;NOM(3,PL);NEG;ACC(2)	they won't have been salting you.
+salt	COND;PROG;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL)	would it have been salting us?
+salt	IND;PRS;PERF;NOM(2);NEG;Q;ACC(1,SG)	haven't you salted me?
+salt	COND;PROG;PERF;NOM(2);ACC(3,PL)	you'd have been salting them.
+salt	COND;PERF;NOM(3,PL);NEG;Q;ACC(2)	wouldn't they have salted you?
+salt	IND;PRS;PROG;PERF;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	haven't they been salting themselves?
+salt	IND;PST;PROG;NOM(3,SG,MASC);NEG;ACC(3,PL)	he wasn't salting them.
+salt	IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX)	he doesn't salt himself.
+salt	IND;PRS;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	don't we salt ourselves?
+salt	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,FEM)	it hasn't salted her.
+salt	IND;FUT;PROG;NOM(2);ACC(3,SG,NEUT)	you'll be salting it.
+salt	IND;PRS;PROG;NOM(3,SG,NEUT);ACC(3,SG,NEUT)	it's salting it.
+salt	COND;PROG;NOM(1,SG);Q;ACC(1,SG,RFLX)	would I be salting myself?
+salt	IND;PRS;PROG;NOM(3,SG,NEUT);NEG;ACC(3,SG,NEUT,RFLX)	it's not salting itself.
+seat	IND;FUT;NOM(3,SG,MASC);NEG;Q;ACC(1,PL)	won't he seat us?
+seat	COND;PROG;PERF;NOM(3,PL);NEG;ACC(1,SG)	they wouldn't have been seating me.
+seat	IND;FUT;PROG;PERF;NOM(3,PL);Q;ACC(1,PL)	will they've been seating us?
+seat	IND;FUT;PERF;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	won't we have seated ourselves?
+seat	IND;FUT;PROG;PERF;NOM(2,SG);NEG;ACC(2,SG,RFLX)	you won't have been seating yourself.
+seat	IND;FUT;PROG;NOM(2,PL);Q;ACC(2,PL,RFLX)	will you be seating yourselves?
+seat	COND;PERF;NOM(2);ACC(1,SG)	you'd have seated me.
+seat	IND;PST;PROG;NOM(3,SG,FEM);ACC(3,SG,FEM)	she was seating her.
+seat	COND;PROG;NOM(3,SG,FEM);ACC(2)	she'd be seating you.
+seat	COND;PROG;NOM(2);Q;ACC(1,SG)	would you be seating me?
+seat	IND;FUT;NOM(3,PL);NEG;Q;ACC(1,PL)	won't they seat us?
+seat	COND;NOM(3,SG,MASC);Q;ACC(2)	would he seat you?
+seat	COND;PROG;PERF;NOM(1,PL);NEG;ACC(3,SG,MASC)	we wouldn't have been seating him.
+seat	IND;PST;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	hadn't she been seating me?
+seat	IND;PST;PROG;PERF;NOM(1,PL);ACC(3,SG,NEUT)	we'd been seating it.
+seat	IND;FUT;PERF;NOM(3,PL);Q;ACC(3,PL)	will they've seated them?
+seat	IND;PRS;PERF;NOM(3,SG,NEUT);ACC(1,PL)	it's seated us.
+seat	IND;FUT;NOM(3,PL);NEG;ACC(3,PL,RFLX)	they won't seat themselves.
+seat	IND;PST;PERF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX)	she hadn't seated herself.
+seat	IND;PRS;PERF;NOM(3,SG,NEUT);ACC(3,SG,NEUT,RFLX)	it's seated itself.
+seat	IND;PRS;PERF;NOM(1,PL);ACC(3,PL)	we've seated them.
+seat	COND;PROG;PERF;NOM(3,SG,NEUT);Q;ACC(3,SG,FEM)	would it have been seating her?
+seat	IND;PRS;PERF;NOM(3,SG,MASC);ACC(3,SG,FEM)	he's seated her.
+separate	COND;PROG;NOM(3,SG,FEM);Q;ACC(1,PL);ABL(3,SG,FEM,RFLX)	would she be separating us from herself?
+separate	IND;FUT;PROG;PERF;NOM(3,PL);NEG;ACC(3,SG,MASC);ABL(1,SG)	they won't have been separating him from me.
+separate	IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX);ABL(3,SG,MASC)	she won't separate herself from him.
+separate	IND;PST;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL);ABL(2)	had it separated us from you?
+separate	IND;PST;PROG;NOM(2,SG);Q;ACC(3,SG,MASC);ABL(2,SG,RFLX)	were you separating him from yourself?
+separate	IND;PRS;PROG;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);ABL(3,SG,NEUT)	is he separating him from it?
+separate	IND;FUT;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM);ABL(3,SG,FEM)	will she have separated her from her?
+separate	COND;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,FEM);ABL(3,SG,NEUT)	wouldn't it have separated her from it?
+separate	COND;PROG;NOM(3,SG,FEM);Q;ACC(2);ABL(3,PL)	would she be separating you from them?
+separate	IND;PRS;PROG;PERF;NOM(1,SG);NEG;ACC(2)	I haven't been separating you.
+separate	IND;PST;PERF;NOM(2);NEG;ACC(3,SG,NEUT);ABL(1,PL)	you hadn't separated it from us.
+separate	IND;PST;PROG;NOM(2);NEG;ACC(1,PL);ABL(3,SG,FEM)	you weren't separating us from her.
+separate	IND;PRS;PERF;NOM(1,SG);NEG;ACC(1,SG,RFLX);ABL(2)	I haven't separated myself from you.
+separate	IND;PRS;PROG;PERF;NOM(1,SG);Q;ACC(2)	have I been separating you?
+separate	IND;PRS;PERF;NOM(3,SG,MASC)	he's separated.
+separate	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,NEUT);ABL(3,SG,MASC,RFLX)	he'll separate it from himself.
+separate	IND;PST;PROG;NOM(3,PL);Q;ACC(1,SG);ABL(3,SG,NEUT)	were they separating me from it?
+separate	IND;PST;PERF;NOM(1,PL);ACC(3,SG,NEUT);ABL(3,SG,NEUT,RFLX)	we'd separated it from itself.
+separate	IND;PST;PROG;PERF;NOM(3,PL);ACC(3,PL);ABL(2)	they'd been separating them from you.
+separate	COND;PERF;NOM(1,SG);ACC(1,PL)	I'd have separated us.
+separate	IND;PRS;PROG;PERF;NOM(3,SG,MASC);Q;ACC(2);ABL(3,SG,NEUT)	has he been separating you from it?
+separate	IND;PST;PROG;NOM(3,SG,FEM);NEG;ACC(2);ABL(3,SG,FEM)	she wasn't separating you from her.
+separate	IND;FUT;PROG;NOM(1,SG);ACC(1,PL);ABL(2)	I'll be separating us from you.
+serve	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);ACC(1,PL)	it'll have been serving us.
+serve	COND;PERF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,NEUT)	wouldn't she have served it?
+serve	IND;FUT;PROG;NOM(1,PL);ACC(3,SG,FEM)	we'll be serving her.
+serve	IND;FUT;NOM(3,SG,FEM);NEG;ACC(1,PL)	she won't serve us.
+serve	IND;PST;PROG;PERF;NOM(1,SG);ACC(1,SG,RFLX)	I'd been serving myself.
+serve	IND;FUT;PROG;NOM(2);NEG;ACC(1,SG)	you won't be serving me.
+serve	IND;FUT;PERF;NOM(3,SG,NEUT);ACC(3,SG,NEUT)	it'll have served it.
+serve	IND;PST;NOM(2);Q;ACC(1,PL)	did you serve us?
+serve	COND;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(1,SG)	wouldn't he have been serving me?
+serve	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	he serves himself.
+serve	IND;PST;PROG;NOM(3,SG,NEUT);NEG;ACC(1,PL)	it wasn't serving us.
+serve	COND;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,PL)	wouldn't she have served us?
+serve	IND;FUT;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	won't you serve yourselves?
+serve	IND;PRS;PROG;PERF;NOM(1,SG);Q;ACC(3,SG,FEM)	have I been serving her?
+serve	IND;PRS;NOM(3,PL);ACC(1,PL)	they serve us.
+serve	IND;PRS;PROG;NOM(3,SG,FEM);NEG;Q;ACC(2)	isn't she serving you?
+serve	COND;PERF;NOM(3,SG,MASC);ACC(3,PL)	he'd have served them.
+serve	IND;PRS;PERF;NOM(2);Q;ACC(3,SG,MASC)	have you served him?
+serve	IND;PRS;NOM(1,PL);Q;ACC(1,SG)	do we serve me?
+serve	IND;PRS;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT,RFLX)	does it serve itself?
+serve	IND;FUT;PERF;NOM(1,PL);ACC(1,PL,RFLX)	we'll have served ourselves.
+serve	COND;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT)	wouldn't it have served it?
+serve	COND;PERF;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM)	he wouldn't have served her.
+serve	COND;PROG;NOM(3,SG,MASC);Q;ACC(1,SG)	would he be serving me?
+soil	IND;PRS;PERF;NOM(2);Q;ACC(3,SG,NEUT)	have you soiled it?
+soil	IND;FUT;PROG;NOM(3,PL);NEG;Q;ACC(3,PL)	won't they be soiling them?
+soil	COND;PROG;NOM(3,SG,NEUT);NEG;ACC(1,SG)	it wouldn't be soiling me.
+soil	IND;FUT;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,NEUT)	won't I have soiled it?
+soil	COND;PROG;PERF;NOM(3,SG,NEUT);Q	would it have been soiling?
+soil	IND;FUT;PROG;NOM(1,SG);NEG;Q;ACC(3,PL)	won't I be soiling them?
+soil	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,NEUT)	it's been soiling it.
+soil	IND;PRS;PROG;NOM(1,SG);NEG;ACC(3,SG,FEM)	I'm not soiling her.
+soil	COND;PROG;PERF;NOM(3,SG,MASC);ACC(1,PL)	he'd have been soiling us.
+soil	IND;FUT;NOM(3,SG,MASC);Q;ACC(3,PL)	will he soil them?
+soil	IND;FUT;PERF;NOM(3,PL);NEG;ACC(1,SG)	they won't have soiled me.
+soil	COND;PERF;NOM(1,SG);NEG;ACC(1,PL)	I wouldn't have soiled us.
+soil	IND;PRS;PERF;NOM(1,SG);NEG;ACC(2)	I haven't soiled you.
+soil	IND;PRS;PROG;NOM(2,PL);Q;ACC(2,PL,RFLX)	are you soiling yourselves?
+soil	COND;PROG;PERF;NOM(2);NEG;ACC(1,PL)	you wouldn't have been soiling us.
+soil	COND;PROG;PERF;NOM(1,SG);NEG;Q;ACC(1,PL)	wouldn't I have been soiling us?
+soil	COND;PERF;NOM(1,PL);Q;ACC(1,SG)	would we've soiled me?
+soil	COND;PROG;PERF;NOM(1,PL);Q;ACC(3,SG,MASC)	would we've been soiling him?
+soil	IND;FUT;PERF;NOM(3,SG,MASC);Q;ACC(1,PL)	will he have soiled us?
+stand	IND;PST;NOM(2)	you stood.
+stand	IND;FUT;PROG;PERF;NOM(3,SG,MASC)	he'll have been standing.
+stand	COND;PROG;PERF;NOM(3,SG,FEM);Q	would she have been standing?
+stand	IND;FUT;PROG;NOM(3,SG,MASC);Q	will he be standing?
+stand	IND;PST;PROG;NOM(3,PL);Q	were they standing?
+stand	IND;PST;PROG;NOM(3,PL)	they were standing.
+stand	COND;PERF;NOM(3,SG,FEM)	she'd have stood.
+stand	IND;FUT;PROG;PERF;NOM(3,PL);NEG	they won't have been standing.
+stand	IND;PRS;PERF;NOM(3,SG,MASC)	he's stood.
+stand	IND;FUT;PROG;PERF;NOM(2);NEG	you won't have been standing.
+stand	IND;PRS;PROG;NOM(3,PL);Q	are they standing?
+stand	IND;FUT;NOM(3,SG,NEUT);NEG	it won't stand.
+stand	COND;PROG;PERF;NOM(1,SG)	I'd have been standing.
+stand	IND;PST;NOM(1,SG)	I stood.
+stand	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);Q	will it have been standing?
+stand	IND;PST;PROG;NOM(3,SG,NEUT);Q	was it standing?
+stand	IND;PRS;PROG;PERF;NOM(3,SG,NEUT)	it's been standing.
+stand	IND;PRS;PROG;NOM(1,SG);Q	am I standing?
+stand	COND;PROG;PERF;NOM(2);NEG;Q	wouldn't you have been standing?
+stand	COND;NOM(2);NEG;Q	wouldn't you stand?
+store	IND;FUT;NOM(2);ACC(3,SG,MASC)	you'll store him.
+store	COND;NOM(2,PL);Q;ACC(2,PL,RFLX)	would you store yourselves?
+store	IND;PRS;PERF;NOM(3,SG,MASC);Q;ACC(2)	has he stored you?
+store	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC)	he'll store him.
+store	IND;FUT;PROG;PERF;NOM(3,SG,MASC);ACC(3,SG,MASC)	he'll have been storing him.
+store	IND;PST;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	hadn't we stored him?
+store	IND;FUT;PERF;NOM(3,SG,MASC);Q;ACC(3,SG,NEUT)	will he have stored it?
+store	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	hasn't she been storing me?
+store	IND;FUT;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	won't we store him?
+store	IND;PRS;PERF;NOM(2);NEG;Q;ACC(1,PL)	haven't you stored us?
+store	IND;PRS;PROG;PERF;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC)	has it been storing him?
+store	COND;NOM(3,SG,MASC);NEG;ACC(3,PL)	he wouldn't store them.
+store	COND;NOM(3,SG,MASC);NEG;ACC(3,PL)	he wouldn't store them.
+store	IND;PRS;PROG;NOM(2);ACC(3,SG,NEUT)	you're storing it.
+store	COND;NOM(3,SG,NEUT);NEG;ACC(2)	it wouldn't store you.
+store	COND;PROG;NOM(3,SG,NEUT);NEG;ACC(3,SG,MASC)	it wouldn't be storing him.
+store	IND;FUT;PROG;NOM(2);ACC(1,PL)	you'll be storing us.
+store	IND;PRS;PERF;NOM(3,PL);ACC(3,SG,NEUT)	they've stored it.
+store	IND;PST;NOM(2);ACC(1,PL)	you stored us.
+store	IND;PRS;PROG;PERF;NOM(3,SG,FEM);NEG;ACC(3,PL)	she hasn't been storing them.
+store	IND;FUT;NOM(1,PL);NEG;Q;ACC(3,SG,MASC)	won't we store him?
+stream	COND;PERF;NOM(1,PL)	we'd have streamed.
+stream	IND;FUT;NOM(2);NEG;Q;ACC(3,PL)	won't you stream them?
+stream	IND;PRS;PERF;NOM(1,PL);NEG	we haven't streamed.
+stream	COND;NOM(1,PL);NEG;ACC(1,SG)	we wouldn't stream me.
+stream	IND;PRS;PROG;PERF;NOM(3,PL);NEG;Q;ACC(1,SG)	haven't they been streaming me?
+stream	IND;PRS;PROG;NOM(1,PL);NEG;ACC(3,PL)	we're not streaming them.
+stream	IND;PRS;PROG;NOM(3,SG,MASC);NEG;Q	isn't he streaming?
+stream	IND;PST;PROG;PERF;NOM(3,SG,MASC);ACC(2)	he'd been streaming you.
+stream	IND;PST;PROG;NOM(2);Q;ACC(1,SG)	were you streaming me?
+stream	IND;PRS;PERF;NOM(2);NEG;Q;ACC(3,SG,MASC)	haven't you streamed him?
+stream	IND;FUT;PERF;NOM(3,SG,NEUT);Q;ACC(1,PL)	will it have streamed us?
+stream	IND;PST;PERF;NOM(2);ACC(1,SG)	you'd streamed me.
+stream	COND;NOM(2);ACC(3,SG,MASC)	you'd stream him.
+stream	IND;FUT;NOM(1,PL);ACC(3,SG,NEUT)	we'll stream it.
+stream	IND;PRS;PERF;NOM(3,SG,NEUT);NEG;ACC(3,SG,FEM)	it hasn't streamed her.
+stream	IND;FUT;PROG;PERF;NOM(1,SG);NEG;Q;ACC(1,PL)	won't I have been streaming us?
+stream	IND;PRS;PROG;NOM(1,SG);Q;ACC(1,SG,RFLX)	am I streaming myself?
+stream	IND;PRS;PROG;NOM(3,PL);Q;ACC(3,SG,MASC)	are they streaming him?
+stream	COND;PROG;PERF;NOM(3,PL);NEG;ACC(2)	they wouldn't have been streaming you.
+stream	IND;PRS;PERF;NOM(1,SG);NEG;ACC(3,PL)	I haven't streamed them.
+support	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC)	he supports him.
+support	IND;FUT;NOM(2);NEG;ACC(3,SG,FEM)	you won't support her.
+support	IND;FUT;PROG;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it'll be supporting him.
+support	IND;PST;PROG;NOM(3,PL);NEG;Q;ACC(3,SG,MASC)	weren't they supporting him?
+support	IND;FUT;NOM(3,PL);NEG;ACC(1,SG)	they won't support me.
+support	COND;NOM(2);ACC(3,SG,NEUT)	you'd support it.
+support	IND;PST;PERF;NOM(2);ACC(3,PL)	you'd supported them.
+support	COND;PERF;NOM(3,SG,MASC);NEG;ACC(1,PL)	he wouldn't have supported us.
+support	COND;NOM(3,SG,NEUT);NEG;ACC(3,PL)	it wouldn't support them.
+support	COND;PROG;NOM(3,PL);Q;ACC(1,SG)	would they be supporting me?
+support	IND;PRS;PROG;PERF;NOM(2);ACC(3,PL)	you've been supporting them.
+support	IND;PST;PROG;NOM(3,SG,NEUT);NEG;Q;ACC(2)	wasn't it supporting you?
+support	COND;PERF;NOM(1,PL);ACC(1,PL,RFLX)	we'd have supported ourselves.
+support	IND;PST;NOM(3,SG,FEM);NEG;Q;ACC(1,SG)	didn't she support me?
+support	IND;PST;PROG;NOM(1,SG);NEG;ACC(3,SG,NEUT)	I wasn't supporting it.
+support	COND;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,FEM)	wouldn't he have been supporting her?
+support	IND;PST;PERF;NOM(1,SG);ACC(3,PL)	I'd supported them.
+support	IND;PST;NOM(2);NEG;ACC(3,PL)	you didn't support them.
+support	IND;PST;PROG;NOM(3,PL);NEG;ACC(1,PL)	they weren't supporting us.
+support	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG;ACC(2)	he won't have been supporting you.
+support	IND;PRS;NOM(3,SG,NEUT);Q;ACC(1,SG)	does it support me?
+support	IND;FUT;PROG;PERF;NOM(3,PL);NEG;Q;ACC(1,PL)	won't they have been supporting us?
+tag	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);NEG;Q;ACC(1,SG)	won't it have been tagging me?
+tag	COND;PERF;NOM(3,SG,MASC);NEG;ACC(2)	he wouldn't have tagged you.
+tag	IND;FUT;NOM(1,SG);ACC(2)	I'll tag you.
+tag	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it'll have been tagging him.
+tag	IMP;NOM(2);ACC(1,PL)	tag us!
+tag	COND;PROG;NOM(3,SG,FEM);Q;ACC(3,SG,FEM)	would she be tagging her?
+tag	IND;FUT;NOM(3,SG,NEUT);NEG;ACC(1,PL)	it won't tag us.
+tag	IND;PST;PERF;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	he'd tagged himself.
+tag	COND;NOM(1,SG);ACC(3,PL)	I'd tag them.
+tag	IND;PRS;PERF;NOM(1,PL);NEG;ACC(3,SG,MASC)	we haven't tagged him.
+tag	IND;PRS;PERF;NOM(3,PL);Q;ACC(3,SG,FEM)	have they tagged her?
+tag	IND;PRS;PROG;PERF;NOM(3,PL);Q;ACC(3,PL,RFLX)	have they been tagging themselves?
+tag	COND;PROG;NOM(3,SG,MASC);ACC(3,SG,FEM)	he'd be tagging her.
+tag	COND;NOM(1,SG);NEG;Q;ACC(3,PL)	wouldn't I tag them?
+tag	IND;PRS;PROG;PERF;NOM(3,SG,MASC);Q;ACC(3,PL)	has he been tagging them?
+tag	IND;PRS;NOM(2);Q;ACC(3,SG,FEM)	do you tag her?
+tag	IND;FUT;PROG;PERF;NOM(3,PL);NEG;Q;ACC(2)	won't they have been tagging you?
+tag	COND;PERF;NOM(1,PL);NEG;Q;ACC(3,SG,FEM)	wouldn't we have tagged her?
+tag	IND;PST;PROG;NOM(3,SG,NEUT);ACC(3,SG,MASC)	it was tagging him.
+tag	IND;PRS;PROG;NOM(3,SG,MASC);Q;ACC(3,SG,MASC,RFLX)	is he tagging himself?
+tag	COND;PROG;NOM(3,SG,FEM);Q;ACC(2)	would she be tagging you?
+tag	IND;FUT;PROG;PERF;NOM(3,SG,FEM);Q;ACC(1,PL)	will she have been tagging us?
+talk	COND;PERF;NOM(3,SG,MASC);NEG;DAT(1,PL)	he wouldn't have talked to us.
+talk	IMP;NOM(2,SG);COM(2,SG,RFLX)	talk with yourself!
+talk	IND;PRS;PERF;NOM(3,PL);NEG;Q;COM(1,PL)	haven't they talked with us?
+talk	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG;Q;COM(3,SG,MASC)	won't he have been talking with him?
+talk	IND;PRS;PERF;NOM(3,SG,FEM);Q;DAT(3,SG,NEUT)	has she talked to it?
+talk	IND;PST;PROG;PERF;NOM(2,SG);Q;DAT(2,SG,RFLX)	had you been talking to yourself?
+talk	IND;FUT;PROG;PERF;NOM(3,SG,NEUT);Q;COM(1,SG)	will it have been talking with me?
+talk	COND;PROG;PERF;NOM(3,SG,FEM);NEG;Q;COM(1,SG)	wouldn't she have been talking with me?
+talk	COND;PROG;NOM(1,PL);NEG;COM(2)	we wouldn't be talking with you.
+talk	COND;NOM(2,PL);Q;DAT(2,PL,RFLX)	would you talk to yourselves?
+talk	COND;PROG;PERF;NOM(3,SG,NEUT);COM(3,SG,FEM)	it would have been talking with her.
+talk	IND;PRS;PERF;NOM(3,PL);Q;COM(1,SG)	have they talked with me?
+talk	IND;FUT;NOM(3,PL);NEG;DAT(2)	they won't talk to you.
+talk	COND;NOM(1,SG);NEG;Q	wouldn't I talk?
+talk	IND;PST;PROG;NOM(3,SG,FEM);NEG;DAT(3,SG,FEM)	she wasn't talking to her.
+talk	IND;PRS;PERF;NOM(3,SG,MASC);DAT(3,SG,FEM)	he's talked to her.
+talk	IND;PST;NOM(3,PL);NEG;Q;DAT(3,SG,FEM)	didn't they talk to her?
+talk	IND;FUT;NOM(3,PL);NEG;COM(3,SG,FEM)	they won't talk with her.
+talk	IND;FUT;NOM(1,PL);NEG;DAT(3,SG,NEUT)	we won't talk to it.
+test	IND;PST;PROG;NOM(1,PL);Q;ACC(3,PL)	were we testing them?
+test	IND;FUT;PERF;NOM(3,PL);ACC(3,PL)	they'll have tested them.
+test	COND;PERF;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)	he wouldn't have tested him.
+test	IND;FUT;NOM(3,SG,MASC);ACC(2)	he'll test you.
+test	IND;FUT;PROG;PERF;NOM(3,PL);ACC(1,SG)	they'll have been testing me.
+test	IND;PST;NOM(3,SG,NEUT);NEG;ACC(3,PL)	it didn't test them.
+test	IND;FUT;NOM(1,PL);ACC(1,SG)	we'll test me.
+test	COND;NOM(3,SG,FEM);ACC(3,SG,FEM)	she'd test her.
+test	IND;PST;PROG;PERF;NOM(2);NEG;Q;ACC(3,SG,FEM)	hadn't you been testing her?
+test	IND;PRS;PERF;NOM(1,PL);Q;ACC(3,SG,MASC)	have we tested him?
+test	IND;PRS;PERF;NOM(3,SG,MASC);NEG;ACC(3,PL)	he hasn't tested them.
+test	IND;FUT;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT,RFLX)	will it test itself?
+test	IND;FUT;PROG;PERF;NOM(1,PL);NEG;ACC(3,PL)	we won't have been testing them.
+test	IND;PRS;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC)	is it testing him?
+test	IND;PRS;PERF;NOM(3,SG,MASC);NEG;ACC(2)	he hasn't tested you.
+test	COND;PERF;NOM(3,PL);NEG;ACC(3,SG,MASC)	they wouldn't have tested him.
+test	IND;PRS;NOM(2);ACC(1,SG)	you test me.
+test	IND;PST;NOM(1,SG);NEG;Q;ACC(3,SG,FEM)	didn't I test her?
+test	IND;PRS;PROG;NOM(1,SG);ACC(3,SG,MASC)	I'm testing him.
+test	COND;NOM(3,PL);ACC(2)	they'd test you.
+test	IND;FUT;PROG;NOM(3,PL);NEG;Q;ACC(3,SG,NEUT)	won't they be testing it?
+test	COND;PERF;NOM(3,PL);Q;ACC(2)	would they've tested you?
+trend	IND;FUT;NOM(1,PL);Q	will we trend?
+trend	COND;PROG;NOM(3,PL);NEG	they wouldn't be trending.
+trend	IND;PST;PERF;NOM(3,SG,FEM);Q	had she trended?
+trend	IND;PRS;NOM(3,SG,MASC)	he trends.
+trend	COND;PROG;NOM(3,SG,NEUT);NEG	it wouldn't be trending.
+trend	COND;NOM(3,PL);Q	would they trend?
+trend	IND;PRS;PROG;NOM(1,SG);NEG;Q	am I not trending?
+trend	IND;PRS;NOM(3,SG,NEUT);NEG	it doesn't trend.
+trend	IND;FUT;NOM(2);NEG;Q	won't you trend?
+trend	COND;PROG;PERF;NOM(1,PL)	we'd have been trending.
+trend	COND;PROG;PERF;NOM(2);Q	would you've been trending?
+trend	IND;FUT;PROG;PERF;NOM(3,SG,FEM)	she'll have been trending.
+trend	IND;FUT;NOM(3,SG,MASC);NEG;Q	won't he trend?
+trend	IND;FUT;PROG;NOM(3,PL);NEG;Q	won't they be trending?
+trend	IND;FUT;NOM(1,PL)	we'll trend.
+want	IND;PRS;NOM(3,PL);NEG;ACC(1,SG);ABL(3,SG,FEM)	they don't want me from her.
+want	IND;PST;PERF;NOM(3,SG,FEM);NEG;ACC(2);ABL(3,SG,NEUT)	she hadn't wanted you from it.
+want	IND;FUT;PERF;NOM(3,SG,NEUT);Q;ACC(3,SG,NEUT);ABL(3,SG,NEUT)	will it have wanted it from it?
+want	COND;PROG;PERF;NOM(1,SG);NEG;Q;ACC(3,SG,MASC);ABL(1,SG,RFLX)	wouldn't I have been wanting him from myself?
+want	IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,PL);ABL(1,PL)	am I not wanting them from us?
+want	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,PL);ABL(3,PL,RFLX)	hadn't you wanted them from themselves?
+want	IND;PST;NOM(3,SG,FEM);Q;ACC(3,PL);ABL(3,PL,RFLX)	did she want them from themselves?
+want	IND;PST;PERF;NOM(1,PL);ACC(2);ABL(3,SG,FEM)	we'd wanted you from her.
+want	IND;PRS;NOM(3,SG,NEUT);NEG;Q;ACC(3,SG,NEUT);ABL(3,SG,FEM)	doesn't it want it from her?
+want	COND;NOM(1,PL);ACC(3,SG,MASC);ABL(2)	we'd want him from you.
+want	COND;NOM(3,SG,NEUT);ACC(1,PL)	it would want us.
+want	IND;FUT;NOM(3,SG,MASC);NEG;Q;ACC(1,PL);ABL(2)	won't he want us from you?
+want	COND;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM,RFLX)	would she have wanted herself?
+want	IND;PRS;PROG;NOM(1,PL);Q;ACC(1,SG);ABL(1,SG,RFLX)	are we wanting me from myself?
+want	IND;PRS;PERF;NOM(3,SG,NEUT);ACC(3,SG,MASC);ABL(3,SG,MASC)	it's wanted him from him.
+want	IND;FUT;PROG;PERF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,FEM);ABL(1,SG)	won't he have been wanting her from me?
+want	COND;PERF;NOM(3,PL);NEG;ACC(1,SG);ABL(1,PL)	they wouldn't have wanted me from us.
+want	IND;FUT;PERF;NOM(3,SG,NEUT);ACC(3,PL);ABL(3,SG,NEUT,RFLX)	it'll have wanted them from itself.
+want	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,PL);ABL(3,SG,FEM)	won't they want them from her?
+want	IND;FUT;PROG;NOM(1,PL);Q;ACC(3,SG,MASC);ABL(2)	will we be wanting him from you?
+want	IND;FUT;PROG;NOM(3,SG,NEUT);Q;ACC(3,SG,MASC);ABL(1,PL)	will it be wanting him from us?
+want	COND;NOM(3,SG,NEUT);Q;ACC(2,SG);ABL(2,SG,RFLX)	would it want you from yourself?
+want	IND;PRS;PROG;PERF;NOM(3,SG,FEM);Q;ACC(3,SG,MASC);ABL(1,SG)	has she been wanting him from me?
+want	COND;PROG;PERF;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	wouldn't we have been wanting ourselves?

@@ -1,0 +1,1000 @@
+אובזר	COND;NOM(2,PL,FEM);NEG;Q	אתן לא הייתן מאובזרות?
+אובזר	IND;PRS;NOM(3,PL,MASC);NEG;Q	הם לא מאובזרים?
+אובזר	IND;PST;NOM(3,SG,MASC);NEG	הוא לא אובזר.
+אובזר	IND;FUT;NOM(2,PL,MASC)	תאובזרו.
+אובזר	COND;NOM(2,PL,MASC);NEG	אתם לא הייתם מאובזרים.
+אובזר	COND;NOM(2,SG,FEM);NEG;Q	את לא היית מאובזרת?
+אובזר	IND;PST;NOM(3,PL,MASC);NEG	הם לא אובזרו.
+אובזר	IND;PRS;NOM(2,SG,MASC);NEG	אתה לא מאובזר.
+אובזר	IND;PRS;NOM(2,SG,MASC);NEG	אתה לא מאובזר.
+אובזר	IND;FUT;NOM(3,SG,MASC);NEG;Q	הוא לא יאובזר?
+אובזר	IND;PST;NOM(3,PL,FEM);NEG;Q	הן לא אובזרו?
+אובזר	IND;FUT;NOM(2,SG,MASC)	תאובזר.
+אובזר	IND;FUT;NOM(3,SG,MASC)	הוא יאובזר.
+אובזר	IND;PST;NOM(2,PL,MASC)	אובזרתם.
+אובזר	IND;FUT;NOM(3,PL,FEM);NEG	הן לא תאובזרנה.
+אובזר	COND;NOM(1,PL,MASC);NEG;Q	אנחנו לא היינו מאובזרים?
+אובזר	IND;FUT;NOM(1,PL);Q	נאובזר?
+אובזר	IND;PRS;NOM(1,SG,FEM);NEG	אני לא מאובזרת.
+אוזכר	IND;PRS;NOM(3,SG,FEM);NEG	היא לא מאוזכרת.
+אוזכר	IND;FUT;NOM(2,SG,FEM);Q	תאוזכרי?
+אוזכר	IND;PST;NOM(1,PL)	אוזכרנו.
+אוזכר	COND;NOM(2,SG,MASC);NEG;Q	אתה לא היית מאוזכר?
+אוזכר	IND;FUT;NOM(2,PL,MASC)	תאוזכרו.
+אוזכר	COND;NOM(2,SG,FEM);NEG;Q	את לא היית מאוזכרת?
+אוזכר	IND;FUT;NOM(2,PL,MASC);NEG;Q	לא תאוזכרו?
+אוזכר	IND;PST;NOM(3,SG,MASC)	הוא אוזכר.
+אוזכר	IMP;NOM(2,SG,MASC);NEG	אל תאוזכר!
+אוזכר	IND;FUT;NOM(1,SG);Q	אאוזכר?
+אוזכר	IND;PRS;NOM(3,PL,FEM);NEG	הן לא מאוזכרות.
+אוזכר	IND;FUT;NOM(2,SG,MASC)	תאוזכר.
+אוזכר	IND;PST;NOM(1,SG);NEG	לא אוזכרתי.
+אוזכר	IND;FUT;NOM(2,SG,FEM);NEG	לא תאוזכרי.
+אוזכר	COND;NOM(3,PL,FEM);NEG;Q	הן לא היו מאוזכרות?
+אוזכר	IND;FUT;NOM(2,SG,FEM);NEG	לא תאוזכרי.
+אוזכר	IND;PST;NOM(3,SG,FEM);NEG;Q	היא לא אוזכרה?
+אוזכר	IND;FUT;NOM(3,PL,FEM);NEG;Q	הן לא תאוזכרנה?
+אוחד	COND;NOM(3,PL,FEM);NEG;COM(2,SG,MASC)	הן לא היו מאוחדות איתך.
+אוחד	COND;NOM(3,PL,MASC);NEG;COM(3,PL,FEM)	הם לא היו מאוחדים איתן.
+אוחד	IND;PST;NOM(1,PL);COM(2,PL,FEM);Q	אוחדנו אתכן?
+אוחד	IND;PRS;NOM(1,SG,FEM);NEG;COM(3,PL,FEM)	אני לא מאוחדת איתן.
+אוחד	IND;PST;NOM(1,PL);NEG;COM(2,SG,MASC)	לא אוחדנו איתך.
+אוחד	COND;NOM(1,PL,MASC);NEG;COM(2,PL,FEM);Q	אנחנו לא היינו מאוחדים אתכן?
+אוחד	IND;FUT;NOM(2,SG,FEM);NEG;COM(2,PL,MASC);Q	לא תאוחדי אתכם?
+אוחד	IND;FUT;NOM(3,SG,MASC);Q	הוא יאוחד?
+אוחד	IND;FUT;NOM(3,PL,MASC);COM(3,PL,FEM)	הם יאוחדו איתן.
+אוחד	IND;PST;NOM(2,SG,FEM);COM(3,PL,FEM);Q	אוחדת איתן?
+אוחד	IND;PRS;NOM(1,PL,MASC);NEG;COM(1,SG);Q	אנחנו לא מאוחדים איתי?
+אוחד	IND;FUT;NOM(2,SG,FEM);NEG;COM(2,PL,MASC);Q	לא תאוחדי אתכם?
+אוחד	IND;PRS;NOM(2,PL,MASC);NEG;COM(1,SG);Q	אתם לא מאוחדים איתי?
+אוחד	IND;PRS;NOM(3,SG,MASC);NEG;COM(3,SG,MASC)	הוא לא מאוחד איתו.
+אוחד	IND;FUT;NOM(2,SG,FEM);NEG;COM(3,PL,MASC);Q	לא תאוחדי איתם?
+אוחד	IND;FUT;NOM(2,PL,MASC);NEG;COM(1,SG);Q	לא תאוחדו איתי?
+אוחד	IND;FUT;NOM(2,PL,FEM);NEG;COM(3,PL,FEM)	לא תאוחדנה איתן.
+אוחד	IND;PST;NOM(2,SG,MASC);NEG;COM(2,SG,MASC,RFLX)	לא אוחדת עם עצמך.
+אומלל	IND;PST;NOM(1,SG)	אומללתי.
+אומלל	IND;PST;NOM(3,SG,FEM);Q	היא אומללה?
+אומלל	IND;FUT;NOM(2,SG,FEM);Q	תאומללי?
+אומלל	IND;FUT;NOM(2,PL,MASC)	תאומללו.
+אומלל	IND;PRS;NOM(2,PL,MASC);NEG	אתם לא מאומללים.
+אומלל	IND;PST;NOM(3,SG,MASC);Q	הוא אומלל?
+אומלל	IND;PST;NOM(1,PL);NEG	לא אומללנו.
+אומלל	IND;PST;NOM(2,PL,MASC);NEG;Q	לא אומללתם?
+אומלל	COND;NOM(3,SG,FEM);NEG	היא לא היתה מאומללת.
+אומלל	IND;PST;NOM(1,PL);NEG;Q	לא אומללנו?
+אומלל	IND;PST;NOM(3,SG,MASC);NEG;Q	הוא לא אומלל?
+אומלל	IND;FUT;NOM(3,PL,MASC)	הם יאומללו.
+אומלל	COND;NOM(1,SG,FEM);NEG;Q	אני לא הייתי מאומללת?
+אומלל	IND;PST;NOM(1,SG);Q	אומללתי?
+אומלל	IND;PST;NOM(3,PL,FEM);NEG;Q	הן לא אומללו?
+אומלל	IND;PST;NOM(3,SG,FEM);NEG	היא לא אומללה.
+אומלל	IND;PST;NOM(2,PL,FEM)	אומללתן.
+אומלל	IND;PST;NOM(2,SG,FEM)	אומללת.
+אומלל	IND;PST;NOM(2,PL,FEM);Q	אומללתן?
+אומלל	IND;PST;NOM(3,PL,MASC);NEG	הם לא אומללו.
+אומלל	IND;PRS;NOM(2,PL,MASC);NEG;Q	אתם לא מאומללים?
+אומלל	COND;NOM(2,PL,MASC);NEG;Q	אתם לא הייתם מאומללים?
+בז	IND;FUT;NOM(2,SG,MASC);NEG;DAT(3,PL,FEM);Q	לא תבוז להן?
+בז	IND;FUT;NOM(2,SG,FEM);NEG;DAT(3,SG,MASC)	לא תבוזי לו.
+בז	IND;PST;NOM(2,SG,FEM);DAT(3,SG,MASC);Q	בזת לו?
+בז	IMP;NOM(2,SG,FEM);NEG;DAT(1,SG)	אל תבוזי לי!
+בז	IND;PST;NOM(2,SG,MASC);NEG;DAT(1,PL);Q	לא בזת לנו?
+בז	IND;PST;NOM(1,PL);NEG;DAT(1,PL,RFLX)	לא בזנו לעצמנו.
+בז	IND;PST;NOM(2,PL,MASC);DAT(2,PL,MASC,RFLX);Q	בזתם לעצמכם?
+בז	IND;PST;NOM(1,PL);DAT(1,PL,RFLX)	בזנו לעצמנו.
+בז	IND;PRS;NOM(1,PL,FEM);NEG;DAT(2,PL,MASC)	אנחנו לא בזות לכם.
+בז	IND;PST;NOM(1,PL);DAT(3,SG,FEM);Q	בזנו לה?
+בז	IND;FUT;NOM(2,PL,FEM);DAT(3,SG,FEM);Q	תבוזנה לה?
+בז	IND;PRS;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX);Q	אתה לא בז לעצמך?
+בז	IND;PST;NOM(3,SG,FEM);DAT(3,SG,MASC);Q	היא בזה לו?
+בז	IND;FUT;NOM(2,PL,FEM);DAT(3,SG,FEM)	תבוזנה לה.
+בז	IMP;NOM(2,PL,MASC);DAT(2,SG,FEM)	בוזו לך!
+בז	IND;FUT;NOM(2,SG,FEM);NEG;DAT(1,SG);Q	לא תבוזי לי?
+בז	IND;PST;NOM(1,SG);DAT(3,PL,FEM);Q	בזתי להן?
+בז	IND;PRS;NOM(1,SG,FEM);NEG;DAT(2,SG,MASC)	אני לא בזה לך.
+בז	IND;PRS;NOM(3,PL,MASC);NEG;DAT(2,SG,FEM)	הם לא בזים לך.
+בז	COND;NOM(2,SG,MASC);NEG;DAT(3,SG,FEM)	אתה לא היית בז לה.
+בחר	IND;FUT;NOM(2,SG,MASC);ACC(3,SG,MASC);Q	תבחר אותו?
+בחר	IND;FUT;NOM(1,SG);ACC(1,PL)	אבחר אותנו.
+בחר	COND;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM)	הן לא היו בוחרות אותה.
+בחר	IND;FUT;NOM(1,SG);ACC(3,PL,MASC);Q	אבחר אותם?
+בחר	COND;NOM(2,PL,MASC);NEG;ACC(2,SG,FEM)	אתם לא הייתם בוחרים אותך.
+בחר	IND;PRS;NOM(1,PL,MASC);NEG;ACC(1,PL,RFLX)	אנחנו לא בוחרים את עצמנו.
+בחר	COND;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM);Q	אתם לא הייתם בוחרים אותן?
+בחר	COND;NOM(2,PL,FEM);NEG;ACC(2,PL,MASC);Q	אתן לא הייתן בוחרות אתכם?
+בחר	COND;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)	הוא לא היה בוחר אותו.
+בחר	COND;NOM(1,PL,MASC);NEG;ACC(2,PL,FEM)	אנחנו לא היינו בוחרים אתכן.
+בחר	IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,SG,FEM);Q	הוא לא יבחר אותך?
+בחר	COND;NOM(3,PL,FEM);NEG;ACC(1,PL);Q	הן לא היו בוחרות אותנו?
+בחר	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,FEM);Q	היא לא בוחרת אתכן?
+בחר	COND;NOM(3,PL,MASC);NEG;ACC(1,SG);Q	הם לא היו בוחרים אותי?
+בחר	COND;NOM(1,SG,FEM);NEG;ACC(3,PL,FEM)	אני לא הייתי בוחרת אותן.
+בחר	IND;PRS;NOM(1,PL,MASC);NEG;ACC(1,SG);Q	אנחנו לא בוחרים אותי?
+בחר	IND;PST;NOM(3,SG,MASC);ACC(2,SG,MASC)	הוא בחר אותך.
+בחר	IND;FUT;NOM(1,SG);ACC(1,SG,RFLX)	אבחר את עצמי.
+בישל	IND;PRS;NOM(3,SG,MASC);NEG;ACC(1,PL)	הוא לא מבשל אותנו.
+בישל	IND;FUT;NOM(2,PL,FEM);ACC(3,SG,MASC)	תבשלנה אותו.
+בישל	IND;FUT;NOM(3,SG,MASC);ACC(3,PL,FEM);Q	הוא יבשל אותן?
+בישל	IND;PRS;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX)	אנחנו לא מבשלות את עצמנו.
+בישל	IND;PST;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q	לא בישלת אותם?
+בישל	COND;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);Q	היא לא היתה מבשלת אותו?
+בישל	IND;FUT;NOM(2,SG,FEM);ACC(3,PL,FEM);Q	תבשלי אותן?
+בישל	IND;FUT;NOM(1,SG);NEG;ACC(3,PL,MASC);Q	לא אבשל אותם?
+בישל	IND;PRS;NOM(2,SG,MASC);NEG;ACC(2,SG,MASC,RFLX)	אתה לא מבשל את עצמך.
+בישל	COND;NOM(2,SG,MASC);NEG;ACC(3,SG,MASC)	אתה לא היית מבשל אותו.
+בישל	COND;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX)	היא לא היתה מבשלת את עצמה.
+בישל	IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM);Q	לא בישלת אותה?
+בישל	IND;PST;NOM(1,SG);ACC(1,SG,RFLX)	בישלתי את עצמי.
+בישל	COND;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM);Q	הן לא היו מבשלות אתכן?
+בישל	IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);Q	הם לא יבשלו אותו?
+בישל	IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,PL,FEM);Q	לא תבשל אותן?
+בישל	IND;FUT;NOM(3,PL,FEM);ACC(2,SG,MASC)	הן תבשלנה אותך.
+בישל	IND;FUT;NOM(3,PL,MASC);ACC(2,PL,FEM);Q	הם יבשלו אתכן?
+בישל	IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,PL,FEM)	אנחנו לא מבשלים אותן.
+גינה	IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,PL,FEM)	לא תגנה אותן.
+גינה	IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,PL,MASC)	את לא מגנה אותם.
+גינה	IND;FUT;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM)	לא תגנה אתכן.
+גינה	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	היא תגנה את עצמה.
+גינה	IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,SG,FEM);Q	אנחנו לא מגנות אותך?
+גינה	IND;FUT;NOM(1,PL);ACC(1,SG)	נגנה אותי.
+גינה	IND;FUT;NOM(3,SG,FEM);ACC(2,PL,FEM)	היא תגנה אתכן.
+גינה	COND;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q	אתה לא היית מגנה אותם?
+גינה	IND;PST;NOM(2,PL,FEM);ACC(3,SG,MASC)	גיניתן אותו.
+גינה	IND;PST;NOM(3,SG,FEM);ACC(2,SG,MASC)	היא גינתה אותך.
+גינה	IND;FUT;NOM(3,PL,FEM);ACC(1,PL);Q	הן תגנינה אותנו?
+גינה	IMP;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX)	גנו את עצמכם!
+גינה	IMP;NOM(2,PL,MASC);ACC(3,SG,MASC)	גנו אותו!
+גינה	IND;FUT;NOM(3,PL,FEM);ACC(3,SG,MASC)	הן תגנינה אותו.
+גינה	IMP;NOM(2,SG,FEM);ACC(2,SG,FEM,RFLX)	גני את עצמך!
+גינה	IND;PST;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC);Q	לא גיניתם אותם?
+גינה	IND;FUT;NOM(1,PL);ACC(3,SG,MASC)	נגנה אותו.
+גינה	IND;PRS;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC);Q	הם לא מגנים אותם?
+גינה	IND;PRS;NOM(1,SG,MASC);NEG;ACC(2,PL,FEM);Q	אני לא מגנה אתכן?
+גינה	IND;FUT;NOM(3,PL,MASC);NEG;ACC(1,SG);Q	הם לא יגנו אותי?
+גינה	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q	היא תגנה את עצמה?
+האיר	COND;NOM(3,PL,MASC);NEG;DAT(2,SG,FEM);Q	הם לא היו מאירים לך?
+האיר	IMP;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX)	אל תאיר לעצמך!
+האיר	IND;PRS;NOM(3,PL,MASC);NEG;ON(1,SG);Q	הם לא מאירים עליי?
+האיר	IND;PST;NOM(3,PL,MASC);NEG;DAT(3,PL,MASC)	הם לא האירו להם.
+האיר	IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX);Q	הם לא יאירו את עצמם?
+האיר	IND;PST;NOM(2,PL,FEM);DAT(3,PL,FEM);Q	הארתן להן?
+האיר	COND;NOM(1,SG,FEM);NEG;ACC(1,PL)	אני לא הייתי מאירה אותנו.
+האיר	COND;NOM(3,SG,FEM);NEG;ACC(1,PL)	היא לא היתה מאירה אותנו.
+האיר	IND;PST;NOM(3,SG,FEM);ON(3,SG,MASC);Q	היא האירה עליו?
+האיר	IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX)	הן לא האירו את עצמן.
+האיר	IMP;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM)	אל תאיר אתכן!
+האיר	COND;NOM(3,PL,MASC);NEG;ON(1,PL);Q	הם לא היו מאירים עלינו?
+האיר	IND;FUT;NOM(1,SG);ON(3,SG,MASC);Q	אאיר עליו?
+האיר	IND;PST;NOM(1,SG);NEG;DAT(2,PL,MASC);Q	לא הארתי לכם?
+האיר	IND;PRS;NOM(2,PL,MASC);NEG;ON(2,SG,FEM);Q	אתם לא מאירים עלייך?
+האיר	IND;FUT;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX);Q	לא תאיר לעצמך?
+האיר	IND;PST;NOM(2,SG,FEM);NEG;DAT(3,SG,MASC)	לא הארת לו.
+האיר	IMP;NOM(2,SG,FEM);ACC(2,PL,FEM)	האירי אתכן!
+האיר	IND;FUT;NOM(3,PL,MASC);ACC(2,PL,MASC)	הם יאירו אתכם.
+האיר	IND;PST;NOM(2,SG,FEM);ACC(2,SG,MASC)	הארת אותך.
+הגן	IND;FUT;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM);ON(1,SG)	לא תגן ממך עליי.
+הגן	IND;FUT;NOM(2,SG,MASC);ABL(1,SG);ON(1,PL)	תגן ממני עלינו.
+הגן	COND;NOM(1,PL,FEM);NEG;ABL(1,PL,RFLX);ON(2,PL,MASC);Q	אנחנו לא היינו מגינות מעצמנו עליכם?
+הגן	IND;FUT;NOM(3,PL,FEM);ON(3,SG,FEM);Q	הן תגנה עליה?
+הגן	IND;PST;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM);ON(3,SG,MASC);Q	לא הגנת ממך עליו?
+הגן	IND;FUT;NOM(2,SG,FEM);ABL(2,PL,MASC);ON(2,SG,FEM,RFLX)	תגני מכם על עצמך.
+הגן	IND;PRS;NOM(1,PL,MASC);NEG;ABL(2,SG,MASC);ON(2,SG,FEM);Q	אנחנו לא מגינים ממך עלייך?
+הגן	IND;PRS;NOM(3,PL,MASC);NEG;ABL(3,SG,FEM);ON(2,SG,FEM)	הם לא מגינים ממנה עלייך.
+הגן	IMP;NOM(2,SG,MASC);NEG;ABL(2,PL,FEM);ON(2,PL,MASC)	אל תגן מכן עליכם!
+הגן	IND;PRS;NOM(3,PL,FEM);NEG;ABL(2,PL,MASC);ON(2,SG,MASC);Q	הן לא מגינות מכם עליך?
+הגן	IND;PST;NOM(1,SG);NEG;ABL(2,SG,FEM);ON(3,PL,MASC);Q	לא הגנתי ממך עליהם?
+הגן	IMP;NOM(2,SG,FEM);NEG;ABL(3,PL,MASC);ON(1,PL)	אל תגני מהם עלינו!
+הגן	IND;FUT;NOM(1,SG);ABL(2,SG,FEM);ON(1,SG,RFLX);Q	אגן ממך על עצמי?
+הגן	IND;FUT;NOM(2,PL,FEM);NEG;ABL(2,SG,FEM);ON(1,PL);Q	לא תגנה ממך עלינו?
+הגן	IND;FUT;NOM(3,SG,MASC);ABL(2,PL,MASC);ON(1,SG)	הוא יגן מכם עליי.
+הגן	IND;PST;NOM(3,SG,FEM);NEG;ABL(1,PL);ON(3,SG,MASC)	היא לא הגנה מאיתנו עליו.
+הגן	IND;FUT;NOM(2,PL,FEM);ABL(2,PL,MASC);ON(2,PL,MASC,RFLX)	תגנה מכם על עצמכם.
+הגן	IND;FUT;NOM(2,SG,MASC);NEG;ABL(3,SG,MASC);ON(2,SG,FEM);Q	לא תגן ממנו עלייך?
+הגן	IND;FUT;NOM(1,PL);ABL(1,PL,RFLX);ON(2,SG,FEM)	נגן מעצמנו עלייך.
+הוכה	IND;FUT;NOM(2,SG,FEM)	תוכי.
+הוכה	IND;PST;NOM(2,PL,MASC)	הוכיתם.
+הוכה	IND;FUT;NOM(1,PL);Q	נוכה?
+הוכה	IND;PST;NOM(1,PL);NEG	לא הוכינו.
+הוכה	IND;PST;NOM(1,SG);NEG;Q	לא הוכיתי?
+הוכה	COND;NOM(2,SG,FEM);NEG	את לא היית מוכית.
+הוכה	IND;PRS;NOM(2,SG,FEM);NEG;Q	את לא מוכית?
+הוכה	IND;PST;NOM(1,SG);NEG;Q	לא הוכיתי?
+הוכה	IND;PRS;NOM(3,PL,FEM);NEG	הן לא מוכות.
+הוכה	IND;FUT;NOM(3,PL,FEM);NEG	הן לא תוכינה.
+הוכה	IND;FUT;NOM(1,SG);Q	אוכה?
+הוכה	IND;FUT;NOM(1,SG)	אוכה.
+הוכה	IND;PRS;NOM(2,SG,FEM);NEG	את לא מוכית.
+הוכה	IND;PRS;NOM(3,SG,MASC);NEG	הוא לא מוכה.
+הוכה	IND;FUT;NOM(2,PL,MASC);Q	תוכו?
+הוכה	IND;FUT;NOM(1,SG);NEG;Q	לא אוכה?
+הוכה	IND;FUT;NOM(2,PL,MASC);NEG	לא תוכו.
+הוכה	IND;PST;NOM(1,SG);NEG	לא הוכיתי.
+הוכה	IND;PST;NOM(2,PL,MASC);NEG	לא הוכיתם.
+הוכה	IND;PRS;NOM(2,SG,FEM);NEG	את לא מוכית.
+הוכה	IND;FUT;NOM(3,PL,MASC);NEG	הם לא יוכו.
+הסב	IND;FUT;NOM(2,PL,MASC);ALL(2,SG,FEM);ACC(2,SG,FEM,RFLX)	תסבו אלייך את עצמך.
+הסב	IND;PRS;NOM(1,SG,FEM);NEG;DAT(1,SG,RFLX);ACC(3,PL,MASC)	אני לא מסיבה אל עצמי אותם.
+הסב	IND;PRS;NOM(2,PL,MASC);NEG;ALL(3,PL,MASC);ACC(3,PL,MASC,RFLX);Q	אתם לא מסיבים אליהם את עצמם?
+הסב	IND;FUT;NOM(2,PL,MASC);ALL(3,SG,MASC);ACC(2,SG,MASC)	תסבו אליו אותך.
+הסב	COND;NOM(3,SG,MASC);NEG;ALL(3,SG,FEM);ACC(1,PL)	הוא לא היה מסב אליה אותנו.
+הסב	IND;PST;NOM(2,PL,MASC);NEG;ALL(1,PL);ACC(3,SG,MASC);Q	לא הסבתם אלינו אותו?
+הסב	IND;FUT;NOM(2,PL,FEM);ALL(2,PL,MASC);ACC(2,SG,MASC)	תסבנה אליכם אותך.
+הסב	IND;PST;NOM(3,SG,FEM);DAT(2,SG,MASC);Q	היא הסבה אליך?
+הסב	IND;FUT;NOM(2,PL,MASC);ALL(2,SG,MASC);ACC(2,PL,MASC,RFLX)	תסבו אליך את עצמכם.
+הסב	IND;FUT;NOM(3,PL,MASC);NEG;ALL(1,SG);ACC(2,SG,FEM)	הם לא יסבו אליי אותך.
+הסב	IND;FUT;NOM(1,SG);NEG;ALL(2,SG,MASC);ACC(2,PL,FEM)	לא אסב אליך אתכן.
+הסב	IND;PST;NOM(1,PL);NEG;ALL(3,PL,FEM);ACC(3,SG,FEM);Q	לא הסבנו אליהן אותה?
+הסב	IND;PRS;NOM(1,PL,FEM);NEG;DAT(1,PL,RFLX);ACC(2,PL,MASC);Q	אנחנו לא מסיבות אל עצמנו אתכם?
+הסב	COND;NOM(3,SG,FEM);NEG;ALL(1,SG);ACC(2,SG,FEM);Q	היא לא היתה מסיבה אליי אותך?
+הסב	IND;PST;NOM(2,PL,MASC);ALL(3,PL,FEM);ACC(3,SG,MASC);Q	הסבתם אליהן אותו?
+הסב	IND;PRS;NOM(1,SG,FEM);NEG;ALL(3,PL,MASC);ACC(2,SG,FEM);Q	אני לא מסיבה אליהם אותך?
+הסב	COND;NOM(3,PL,FEM);NEG;DAT(3,PL,FEM,RFLX);ACC(3,PL,MASC);Q	הן לא היו מסיבות אל עצמן אותם?
+הסב	COND;NOM(3,SG,MASC);NEG;DAT(3,SG,FEM);Q	הוא לא היה מסב אליה?
+הסב	IND;PRS;NOM(2,SG,FEM);NEG;ALL(3,PL,FEM);ACC(3,PL,MASC);Q	את לא מסיבה אליהן אותם?
+הסב	IND;PST;NOM(1,PL);NEG;ALL(3,SG,FEM);ACC(3,SG,FEM,RFLX)	לא הסבנו אליה את עצמה.
+הסב	IND;FUT;NOM(3,PL,MASC);NEG;ALL(3,SG,MASC);ACC(2,PL,MASC);Q	הם לא יסבו אליו אתכם?
+הפחית	COND;NOM(1,SG,FEM);NEG;ABL(2,SG,MASC);ACC(2,PL,MASC)	אני לא הייתי מפחיתה ממך אתכם.
+הפחית	COND;NOM(2,SG,MASC);NEG;ABL(3,PL,FEM);ACC(1,PL)	אתה לא היית מפחית מהן אותנו.
+הפחית	IND;PST;NOM(3,SG,FEM);ABL(1,PL);ACC(2,SG,MASC)	היא הפחיתה מאיתנו אותך.
+הפחית	IND;PRS;NOM(1,SG,FEM);NEG;ABL(3,PL,FEM);ACC(3,PL,FEM,RFLX)	אני לא מפחיתה מהן את עצמן.
+הפחית	IND;PRS;NOM(2,PL,MASC);NEG;ABL(3,PL,FEM);ACC(3,PL,MASC);Q	אתם לא מפחיתים מהן אותם?
+הפחית	IND;FUT;NOM(3,PL,MASC);NEG;ABL(3,PL,MASC,RFLX);ACC(1,SG)	הם לא יפחיתו מעצמם אותי.
+הפחית	IND;PST;NOM(3,SG,FEM);ABL(1,PL);ACC(2,SG,MASC);Q	היא הפחיתה מאיתנו אותך?
+הפחית	IND;PRS;NOM(1,PL,FEM);NEG;ABL(3,SG,FEM);ACC(2,SG,MASC)	אנחנו לא מפחיתות ממנה אותך.
+הפחית	IND;PST;NOM(3,SG,FEM);ABL(3,SG,FEM);ACC(3,SG,FEM,RFLX);Q	היא הפחיתה ממנה את עצמה?
+הפחית	COND;NOM(1,PL,FEM);NEG;ABL(2,SG,MASC);ACC(3,PL,MASC);Q	אנחנו לא היינו מפחיתות ממך אותם?
+הפחית	IMP;NOM(2,SG,FEM);NEG;ABL(1,SG);ACC(2,SG,FEM,RFLX)	אל תפחיתי ממני את עצמך!
+הפחית	IND;PRS;NOM(2,SG,FEM);NEG;ABL(3,PL,FEM);ACC(3,PL,FEM,RFLX)	את לא מפחיתה מהן את עצמן.
+הפחית	IND;FUT;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM);ACC(3,PL,MASC);Q	לא תפחית ממך אותם?
+הפחית	IND;PST;NOM(2,SG,FEM);ABL(2,SG,MASC);ACC(3,SG,FEM);Q	הפחתת ממך אותה?
+הפחית	IND;FUT;NOM(2,PL,MASC);NEG;ABL(3,PL,MASC);ACC(3,PL,MASC);Q	לא תפחיתו מהם אותם?
+הפחית	IND;FUT;NOM(3,PL,MASC);NEG;ABL(2,PL,MASC);ACC(2,SG,FEM);Q	הם לא יפחיתו מכם אותך?
+הפחית	IMP;NOM(2,SG,MASC);ABL(2,SG,FEM);ACC(3,SG,MASC)	הפחת ממך אותו!
+הפחית	IND;PST;NOM(1,SG);NEG;ABL(2,PL,FEM);ACC(3,PL,MASC);Q	לא הפחתתי מכן אותם?
+הפחית	IND;PST;NOM(3,SG,FEM);NEG;ABL(1,SG);ACC(3,SG,MASC)	היא לא הפחיתה ממני אותו.
+הפחית	IND;FUT;NOM(1,SG);ABL(2,SG,FEM);ACC(3,SG,MASC)	אפחית ממך אותו.
+הפחית	COND;NOM(2,SG,FEM);NEG;ABL(3,PL,FEM);ACC(3,SG,FEM);Q	את לא היית מפחיתה מהן אותה?
+הפסיד	IND;FUT;NOM(3,SG,MASC);ACC(2,PL,MASC);Q	הוא יפסיד אתכם?
+הפסיד	IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,PL);DAT(3,SG,MASC)	לא תפסיד אותנו לו.
+הפסיד	IND;FUT;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)	היא לא תפסיד אותה.
+הפסיד	IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,SG,MASC);DAT(2,PL,FEM);Q	אתם לא מפסידים אותך לכן?
+הפסיד	IND;PRS;NOM(1,SG,MASC);NEG;ACC(1,PL);DAT(2,SG,MASC)	אני לא מפסיד אותנו לך.
+הפסיד	IND;FUT;NOM(2,SG,MASC);ACC(1,SG);DAT(2,SG,MASC,RFLX);Q	תפסיד אותי לעצמך?
+הפסיד	IND;FUT;NOM(1,PL);ACC(3,SG,MASC);DAT(3,PL,FEM);Q	נפסיד אותו להן?
+הפסיד	IND;PST;NOM(2,SG,MASC);NEG;ACC(3,SG,MASC);DAT(2,PL,FEM);Q	לא הפסדת אותו לכן?
+הפסיד	COND;NOM(1,PL,MASC);NEG;ACC(3,PL,MASC);DAT(3,SG,FEM)	אנחנו לא היינו מפסידים אותם לה.
+הפסיד	COND;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC);DAT(1,SG)	אתן לא הייתן מפסידות אותך לי.
+הפסיד	IND;FUT;NOM(3,PL,FEM);ACC(3,SG,MASC);DAT(2,PL,FEM)	הן תפסדנה אותו לכן.
+הפסיד	IND;PST;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX);DAT(2,PL,MASC);Q	הן לא הפסידו את עצמן לכם?
+הפסיד	IND;PST;NOM(2,SG,FEM);NEG;ACC(2,SG,FEM,RFLX);DAT(2,PL,MASC)	לא הפסדת את עצמך לכם.
+הפסיד	IND;PST;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC);DAT(2,SG,MASC);Q	לא הפסדתם אותם לך?
+הפסיד	IND;FUT;NOM(3,SG,MASC);DAT(2,SG,MASC);Q	הוא יפסיד לך?
+הפסיד	IND;PST;NOM(2,SG,MASC);ACC(1,SG);DAT(3,SG,MASC);Q	הפסדת אותי לו?
+הפסיד	IND;FUT;NOM(3,PL,FEM);ACC(2,PL,FEM);DAT(1,PL);Q	הן תפסדנה אתכן לנו?
+הפסיד	IND;PST;NOM(2,SG,MASC);ACC(2,PL,FEM);DAT(2,PL,FEM,RFLX);Q	הפסדת אתכן לעצמכן?
+הפסיד	IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);DAT(3,SG,FEM);Q	היא לא מפסידה אותם לה?
+הפסיד	IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM);DAT(3,SG,FEM);Q	לא תפסדנה אותך לה?
+הפסיד	IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);DAT(3,SG,MASC,RFLX)	הן לא מפסידות אותו לעצמו.
+הצחיק	IMP;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC)	אל תצחיקי אתכם!
+הצחיק	IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM)	הם לא יצחיקו אותה.
+הצחיק	COND;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);Q	היא לא היתה מצחיקה אותו?
+הצחיק	IND;PRS;NOM(3,PL,FEM);NEG;ACC(2,SG,FEM)	הן לא מצחיקות אותך.
+הצחיק	IMP;NOM(2,PL,FEM);ACC(2,PL,FEM,RFLX)	הצחקנה את עצמכן!
+הצחיק	IND;PST;NOM(3,PL,MASC);NEG;ACC(1,SG)	הם לא הצחיקו אותי.
+הצחיק	IND;PRS;NOM(1,PL,FEM);NEG;ACC(3,PL,FEM)	אנחנו לא מצחיקות אותן.
+הצחיק	IND;PST;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);Q	היא לא הצחיקה אותם?
+הצחיק	IND;FUT;NOM(2,PL,FEM);NEG;ACC(1,SG);Q	לא תצחקנה אותי?
+הצחיק	COND;NOM(1,PL,FEM);NEG;ACC(2,SG,FEM)	אנחנו לא היינו מצחיקות אותך.
+הצחיק	IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,PL)	לא תצחיק אותנו.
+הצחיק	COND;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC)	היא לא היתה מצחיקה אותך.
+הצחיק	IMP;NOM(2,PL,FEM);ACC(3,SG,MASC)	הצחקנה אותו!
+הצחיק	IND;FUT;NOM(1,PL);NEG;ACC(1,PL,RFLX);Q	לא נצחיק את עצמנו?
+הצחיק	IND;FUT;NOM(2,SG,FEM);NEG;ACC(2,SG,MASC);Q	לא תצחיקי אותך?
+הצחיק	COND;NOM(1,PL,MASC);NEG;ACC(2,PL,MASC)	אנחנו לא היינו מצחיקים אתכם.
+הצחיק	COND;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC);Q	אתן לא הייתן מצחיקות אותו?
+הצחיק	IND;PST;NOM(1,SG);ACC(1,PL)	הצחקתי אותנו.
+הצחיק	COND;NOM(1,PL,FEM);NEG;ACC(1,SG);Q	אנחנו לא היינו מצחיקות אותי?
+הצחיק	COND;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM);Q	אתם לא הייתם מצחיקים אותן?
+הקריס	COND;NOM(2,PL,FEM);NEG;ACC(1,SG)	אתן לא הייתן מקריסות אותי.
+הקריס	IMP;NOM(2,SG,MASC);ACC(2,PL,MASC)	הקרס אתכם!
+הקריס	IND;PST;NOM(3,SG,MASC);NEG;ACC(1,PL);Q	הוא לא הקריס אותנו?
+הקריס	IND;PST;NOM(3,SG,FEM);ACC(3,PL,MASC);Q	היא הקריסה אותם?
+הקריס	IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,PL,MASC)	אני לא מקריסה אתכם.
+הקריס	IND;PST;NOM(3,PL,FEM);NEG;ACC(1,PL)	הן לא הקריסו אותנו.
+הקריס	IND;PST;NOM(2,SG,MASC);ACC(3,SG,FEM);Q	הקרסת אותה?
+הקריס	COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM);Q	הם לא היו מקריסים אתכן?
+הקריס	IND;PST;NOM(3,SG,FEM);ACC(3,PL,FEM);Q	היא הקריסה אותן?
+הקריס	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX)	היא תקריס את עצמה.
+הקריס	IND;PST;NOM(1,PL);ACC(2,SG,FEM)	הקרסנו אותך.
+הקריס	IND;FUT;NOM(1,SG);ACC(1,SG,RFLX)	אקריס את עצמי.
+הקריס	IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM);Q	את לא מקריסה אותה?
+הקריס	IND;PST;NOM(2,SG,MASC);ACC(2,SG,FEM);Q	הקרסת אותך?
+הקריס	IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q	לא תקריס אותם?
+הקריס	IND;FUT;NOM(1,SG);ACC(2,PL,FEM);Q	אקריס אתכן?
+הקריס	IND;FUT;NOM(3,SG,MASC);ACC(2,PL,MASC)	הוא יקריס אתכם.
+הקריס	IND;FUT;NOM(2,SG,MASC);NEG;ACC(2,PL,MASC);Q	לא תקריס אתכם?
+הקריס	IND;FUT;NOM(1,SG);ACC(3,SG,FEM);Q	אקריס אותה?
+הקריס	IND;PST;NOM(3,SG,MASC);ACC(2,PL,MASC);Q	הוא הקריס אתכם?
+הקריס	IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,MASC);Q	הן לא הקריסו אתכם?
+הקריס	COND;NOM(1,SG,MASC);NEG;ACC(3,PL,MASC);Q	אני לא הייתי מקריס אותם?
+התאזרח	IND;PRS;NOM(2,PL,FEM);NEG	אתן לא מתאזרחות.
+התאזרח	IND;PST;NOM(2,SG,MASC);NEG;Q	לא התאזרחת?
+התאזרח	IND;FUT;NOM(3,PL,MASC);NEG	הם לא יתאזרחו.
+התאזרח	COND;NOM(1,SG,MASC);NEG	אני לא הייתי מתאזרח.
+התאזרח	IND;FUT;NOM(2,PL,FEM);NEG;Q	לא תתאזרחנה?
+התאזרח	IND;FUT;NOM(3,PL,FEM)	הן תתאזרחנה.
+התאזרח	IND;PRS;NOM(1,PL,FEM);NEG	אנחנו לא מתאזרחות.
+התאזרח	IND;FUT;NOM(1,PL);NEG;Q	לא נתאזרח?
+התאזרח	IND;FUT;NOM(1,PL);NEG;Q	לא נתאזרח?
+התאזרח	IND;FUT;NOM(2,SG,MASC);NEG;Q	לא תתאזרח?
+התאזרח	COND;NOM(2,PL,FEM);NEG	אתן לא הייתן מתאזרחות.
+התאזרח	IND;PRS;NOM(1,PL,MASC);NEG	אנחנו לא מתאזרחים.
+התאזרח	IND;FUT;NOM(1,SG);NEG;Q	לא אתאזרח?
+התאזרח	IND;PST;NOM(2,PL,FEM);NEG	לא התאזרחתן.
+התאזרח	IND;PRS;NOM(3,PL,FEM);NEG	הן לא מתאזרחות.
+התאזרח	COND;NOM(3,SG,MASC);NEG;Q	הוא לא היה מתאזרח?
+התאזרח	COND;NOM(2,PL,FEM);NEG;Q	אתן לא הייתן מתאזרחות?
+התאזרח	IMP;NOM(2,PL,MASC);NEG	אל תתאזרחו!
+התאזרח	IND;PST;NOM(3,SG,MASC);NEG	הוא לא התאזרח.
+התאזרח	IND;FUT;NOM(3,SG,FEM)	היא תתאזרח.
+התגלה	IND;FUT;NOM(3,PL,FEM);NEG	הן לא תתגלינה.
+התגלה	IND;FUT;NOM(3,SG,MASC);NEG;Q	הוא לא יתגלה?
+התגלה	IND;PST;NOM(2,PL,MASC);Q	התגליתם?
+התגלה	IND;PRS;NOM(3,PL,FEM);NEG;Q	הן לא מתגלות?
+התגלה	IND;FUT;NOM(2,SG,MASC)	תתגלה.
+התגלה	IND;FUT;NOM(2,PL,MASC);NEG;Q	לא תתגלו?
+התגלה	IND;PRS;NOM(1,PL,MASC);NEG	אנחנו לא מתגלים.
+התגלה	IND;PST;NOM(3,PL,MASC);NEG;Q	הם לא התגלו?
+התגלה	IND;FUT;NOM(2,PL,MASC);NEG	לא תתגלו.
+התגלה	IND;PST;NOM(3,SG,MASC);Q	הוא התגלה?
+התגלה	COND;NOM(2,PL,FEM);NEG	אתן לא הייתן מתגלות.
+התגלה	COND;NOM(2,PL,MASC);NEG;Q	אתם לא הייתם מתגלים?
+התגלה	IMP;NOM(2,SG,MASC)	התגלה!
+התגלה	COND;NOM(2,SG,MASC);NEG;Q	אתה לא היית מתגלה?
+התגלה	IND;PST;NOM(3,PL,FEM);NEG;Q	הן לא התגלו?
+התגלה	IND;PST;NOM(2,PL,FEM);NEG;Q	לא התגליתן?
+התגלה	IND;PST;NOM(1,PL);NEG;Q	לא התגלינו?
+התגלה	IND;PST;NOM(2,PL,MASC);NEG;Q	לא התגליתם?
+התגלה	IND;FUT;NOM(3,PL,MASC)	הם יתגלו.
+התגלה	IND;PRS;NOM(3,SG,MASC);NEG	הוא לא מתגלה.
+התגלה	IND;FUT;NOM(2,SG,FEM);NEG;Q	לא תתגלי?
+התגלה	IND;FUT;NOM(2,PL,FEM)	תתגלינה.
+התעטף	IND;PST;NOM(3,SG,MASC);IN(1,PL)	הוא התעטף בנו.
+התעטף	COND;NOM(3,SG,MASC);NEG;IN(3,PL,MASC)	הוא לא היה מתעטף בהם.
+התעטף	COND;NOM(1,SG,FEM);NEG;IN(1,PL)	אני לא הייתי מתעטפת בנו.
+התעטף	IND;FUT;NOM(2,SG,FEM);IN(1,SG);Q	תתעטפי בי?
+התעטף	IND;FUT;NOM(3,SG,FEM);NEG;IN(2,SG,FEM);Q	היא לא תתעטף בך?
+התעטף	COND;NOM(1,PL,FEM);NEG;IN(2,PL,MASC);Q	אנחנו לא היינו מתעטפות בכם?
+התעטף	IND;FUT;NOM(1,PL);IN(3,SG,FEM);Q	נתעטף בה?
+התעטף	COND;NOM(1,SG,MASC);NEG;IN(1,SG,RFLX);Q	אני לא הייתי מתעטף בעצמי?
+התעטף	IND;PRS;NOM(2,PL,MASC);NEG;IN(1,PL);Q	אתם לא מתעטפים בנו?
+התעטף	IND;PRS;NOM(2,PL,FEM);NEG;IN(3,SG,MASC)	אתן לא מתעטפות בו.
+התעטף	IND;PRS;NOM(1,PL,MASC);NEG;IN(3,SG,FEM);Q	אנחנו לא מתעטפים בה?
+התעטף	IND;FUT;NOM(3,PL,MASC);NEG;IN(1,SG);Q	הם לא יתעטפו בי?
+התעטף	IND;FUT;NOM(2,SG,MASC);IN(3,SG,MASC);Q	תתעטף בו?
+התעטף	IND;FUT;NOM(1,SG);IN(2,SG,FEM)	אתעטף בך.
+התעטף	IND;FUT;NOM(1,PL);IN(1,SG);Q	נתעטף בי?
+התעטף	IND;FUT;NOM(3,PL,MASC);IN(2,SG,MASC);Q	הם יתעטפו בך?
+התעטף	IND;FUT;NOM(2,SG,MASC);IN(2,PL,MASC)	תתעטף בכם.
+התעטף	COND;NOM(2,PL,FEM);NEG;IN(3,SG,FEM)	אתן לא הייתן מתעטפות בה.
+התעטף	IND;PST;NOM(2,SG,MASC);IN(2,SG,MASC,RFLX);Q	התעטפת בעצמך?
+התעטף	IND;PRS;NOM(2,PL,FEM);NEG;IN(1,PL)	אתן לא מתעטפות בנו.
+התערב	IND;FUT;NOM(3,SG,MASC);NEG;ON(2,PL,FEM);COM(3,SG,MASC)	הוא לא יתערב עליכן איתו.
+התערב	COND;NOM(2,PL,FEM);NEG;ON(1,PL);COM(1,PL,RFLX);Q	אתן לא הייתן מתערבות עלינו עם עצמנו?
+התערב	COND;NOM(1,SG,MASC);NEG;COM(3,PL,FEM);Q	אני לא הייתי מתערב איתן?
+התערב	IND;FUT;NOM(2,PL,MASC);NEG;ON(1,SG);COM(1,PL);Q	לא תתערבו עליי איתנו?
+התערב	IND;PRS;NOM(1,SG,MASC);NEG;ON(3,PL,MASC);COM(3,SG,FEM);Q	אני לא מתערב עליהם איתה?
+התערב	IND;PST;NOM(3,SG,MASC);NEG;ON(2,SG,MASC);COM(3,SG,MASC);Q	הוא לא התערב עליך איתו?
+התערב	COND;NOM(3,PL,FEM);NEG;ON(3,PL,FEM);COM(3,PL,FEM)	הן לא היו מתערבות עליהן איתן.
+התערב	COND;NOM(2,PL,MASC);NEG;ON(2,PL,MASC,RFLX);COM(1,PL)	אתם לא הייתם מתערבים על עצמכם איתנו.
+התערב	IMP;NOM(2,SG,FEM);ON(2,SG,MASC);COM(3,SG,FEM)	התערבי עליך איתה!
+התערב	COND;NOM(3,SG,FEM);NEG;ON(3,SG,FEM,RFLX);COM(1,PL)	היא לא היתה מתערבת על עצמה איתנו.
+התערב	IND;PRS;NOM(3,SG,FEM);NEG;ON(3,SG,FEM,RFLX);COM(3,PL,FEM);Q	היא לא מתערבת על עצמה איתן?
+התערב	IND;PST;NOM(3,SG,MASC);ON(3,SG,MASC,RFLX);COM(2,PL,FEM);Q	הוא התערב על עצמו אתכן?
+התערב	IND;PRS;NOM(1,PL,MASC);NEG;ON(1,PL,RFLX);COM(3,SG,MASC);Q	אנחנו לא מתערבים על עצמנו איתו?
+התערב	IND;PST;NOM(2,SG,FEM);NEG;IN(3,SG,FEM);Q	לא התערבת בה?
+התערב	IND;PRS;NOM(2,SG,FEM);NEG;ON(2,SG,FEM,RFLX);COM(2,SG,MASC)	את לא מתערבת על עצמך איתך.
+התערב	COND;NOM(1,PL,MASC);NEG;ON(3,SG,MASC);COM(3,PL,FEM);Q	אנחנו לא היינו מתערבים עליו איתן?
+התערב	IND;FUT;NOM(2,PL,MASC);NEG;IN(1,PL)	לא תתערבו בנו.
+התערב	IND;PST;NOM(2,SG,FEM);ON(2,SG,FEM,RFLX);COM(1,PL)	התערבת על עצמך איתנו.
+התערב	COND;NOM(3,SG,MASC);NEG;COM(1,PL)	הוא לא היה מתערב איתנו.
+התערב	IND;PRS;NOM(3,PL,MASC);NEG;ON(2,SG,FEM);COM(3,PL,FEM)	הם לא מתערבים עלייך איתן.
+התערב	COND;NOM(1,PL,FEM);NEG;ON(3,PL,FEM);COM(1,PL,RFLX);Q	אנחנו לא היינו מתערבות עליהן עם עצמנו?
+התקמט	IND;PST;NOM(1,SG);NEG	לא התקמטתי.
+התקמט	IND;PST;NOM(3,SG,MASC)	הוא התקמט.
+התקמט	COND;NOM(3,PL,MASC);NEG;Q	הם לא היו מתקמטים?
+התקמט	IND;FUT;NOM(3,SG,MASC)	הוא יתקמט.
+התקמט	IND;PST;NOM(2,PL,FEM);NEG;Q	לא התקמטתן?
+התקמט	IND;FUT;NOM(1,SG);NEG	לא אתקמט.
+התקמט	COND;NOM(3,PL,MASC);NEG	הם לא היו מתקמטים.
+התקמט	IND;PRS;NOM(1,SG,FEM);NEG;Q	אני לא מתקמטת?
+התקמט	IND;PST;NOM(1,SG);Q	התקמטתי?
+התקמט	IND;FUT;NOM(3,PL,MASC);NEG;Q	הם לא יתקמטו?
+התקמט	IMP;NOM(2,SG,MASC);NEG	אל תתקמט!
+התקמט	IND;PRS;NOM(3,SG,FEM);NEG	היא לא מתקמטת.
+התקמט	IND;FUT;NOM(2,PL,FEM);Q	תתקמטנה?
+התקמט	IMP;NOM(2,SG,MASC)	התקמט!
+התקמט	IND;PRS;NOM(1,SG,FEM);NEG	אני לא מתקמטת.
+התקמט	COND;NOM(3,PL,MASC);NEG;Q	הם לא היו מתקמטים?
+התקמט	IND;FUT;NOM(2,PL,FEM);Q	תתקמטנה?
+התקמט	IND;PRS;NOM(2,PL,MASC);NEG;Q	אתם לא מתקמטים?
+התקמט	IND;PRS;NOM(3,PL,MASC);NEG	הם לא מתקמטים.
+התקמט	IMP;NOM(2,PL,FEM);NEG	אל תתקמטנה!
+התרוקן	COND;NOM(1,PL,MASC);NEG;ABL(1,PL,RFLX)	אנחנו לא היינו מתרוקנים מעצמנו.
+התרוקן	COND;NOM(3,SG,MASC);NEG;Q	הוא לא היה מתרוקן?
+התרוקן	IND;PST;NOM(3,SG,MASC);NEG;ABL(2,PL,MASC);Q	הוא לא התרוקן מכם?
+התרוקן	COND;NOM(2,PL,FEM);NEG;ABL(3,SG,MASC);Q	אתן לא הייתן מתרוקנות ממנו?
+התרוקן	IND;FUT;NOM(2,SG,FEM);ABL(3,PL,FEM)	תתרוקני מהן.
+התרוקן	IND;PST;NOM(3,SG,MASC);ABL(2,PL,FEM);Q	הוא התרוקן מכן?
+התרוקן	COND;NOM(1,PL,MASC);NEG;ABL(3,SG,FEM)	אנחנו לא היינו מתרוקנים ממנה.
+התרוקן	IND;PRS;NOM(3,SG,FEM);NEG;ABL(2,PL,FEM)	היא לא מתרוקנת מכן.
+התרוקן	IND;FUT;NOM(3,PL,MASC);NEG;ABL(3,SG,MASC);Q	הם לא יתרוקנו ממנו?
+התרוקן	IND;PST;NOM(2,SG,MASC);NEG;ABL(3,PL,MASC)	לא התרוקנת מהם.
+התרוקן	IND;PRS;NOM(2,SG,MASC);NEG	אתה לא מתרוקן.
+התרוקן	IND;FUT;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM);Q	לא תתרוקן ממך?
+התרוקן	IND;PRS;NOM(3,SG,FEM);NEG;ABL(3,SG,FEM,RFLX)	היא לא מתרוקנת מעצמה.
+התרוקן	IND;FUT;NOM(2,PL,FEM);ABL(2,PL,FEM,RFLX)	תתרוקנה מעצמכן.
+התרוקן	IND;PST;NOM(2,SG,FEM);ABL(3,SG,MASC);Q	התרוקנת ממנו?
+התרוקן	IND;PST;NOM(3,SG,FEM);ABL(3,SG,FEM,RFLX)	היא התרוקנה מעצמה.
+התרוקן	IND;PST;NOM(3,PL,FEM);NEG;ABL(3,PL,FEM);Q	הן לא התרוקנו מהן?
+התרוקן	IND;PRS;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM);Q	אתה לא מתרוקן ממך?
+התרוקן	IND;PRS;NOM(3,SG,MASC);NEG;ABL(3,SG,FEM)	הוא לא מתרוקן ממנה.
+התרוקן	IND;PST;NOM(3,SG,FEM);ABL(2,SG,MASC);Q	היא התרוקנה ממך?
+זועזע	IND;PST;NOM(3,PL,MASC);NEG;Q	הם לא זועזעו?
+זועזע	IND;FUT;NOM(3,SG,MASC);NEG;Q	הוא לא יזועזע?
+זועזע	IND;PST;NOM(3,SG,MASC)	הוא זועזע.
+זועזע	IND;PRS;NOM(3,SG,MASC);NEG	הוא לא מזועזע.
+זועזע	IND;PRS;NOM(1,SG,MASC);NEG	אני לא מזועזע.
+זועזע	IND;PST;NOM(1,SG);NEG;Q	לא זועזעתי?
+זועזע	IND;PRS;NOM(3,PL,MASC);NEG	הם לא מזועזעים.
+זועזע	IMP;NOM(2,PL,FEM);NEG	אל תזועזענה!
+זועזע	IND;PST;NOM(3,SG,MASC)	הוא זועזע.
+זועזע	IND;PST;NOM(3,SG,FEM);Q	היא זועזעה?
+זועזע	COND;NOM(1,PL,FEM);NEG	אנחנו לא היינו מזועזעות.
+זועזע	IND;FUT;NOM(3,PL,FEM);Q	הן תזועזענה?
+זועזע	IND;PRS;NOM(3,PL,MASC);NEG	הם לא מזועזעים.
+זועזע	IMP;NOM(2,PL,MASC);NEG	אל תזועזעו!
+זועזע	COND;NOM(2,SG,MASC);NEG;Q	אתה לא היית מזועזע?
+זועזע	IND;FUT;NOM(2,PL,MASC);NEG	לא תזועזעו.
+זועזע	IND;FUT;NOM(2,SG,FEM)	תזועזעי.
+זכר	IND;PST;NOM(3,SG,FEM);NEG;ACC(1,PL);Q	היא לא זכרה אותנו?
+זכר	COND;NOM(2,SG,FEM);NEG;ACC(1,PL)	את לא היית זוכרת אותנו.
+זכר	IND;PST;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC);Q	לא זכרתן אותך?
+זכר	IND;FUT;NOM(2,PL,MASC);NEG;ACC(3,SG,FEM);Q	לא תזכרו אותה?
+זכר	IND;FUT;NOM(2,PL,MASC);ACC(2,SG,FEM);Q	תזכרו אותך?
+זכר	IND;FUT;NOM(2,PL,FEM);NEG;ACC(1,PL)	לא תזכורנה אותנו.
+זכר	IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,PL,MASC,RFLX)	אתם לא זוכרים את עצמכם.
+זכר	IND;FUT;NOM(1,PL);NEG;ACC(3,SG,FEM);Q	לא נזכור אותה?
+זכר	IND;PRS;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC);Q	הוא לא זוכר אתכם?
+זכר	IND;FUT;NOM(2,PL,FEM);ACC(3,PL,MASC)	תזכורנה אותם.
+זכר	IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC);Q	הוא לא זוכר אותו?
+זכר	IND;PST;NOM(2,SG,MASC);NEG;ACC(3,PL,FEM)	לא זכרת אותן.
+זכר	COND;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM)	את לא היית זוכרת אותן.
+זכר	IND;FUT;NOM(3,PL,MASC);ACC(2,PL,FEM);Q	הם יזכרו אתכן?
+זכר	COND;NOM(3,SG,FEM);NEG;ACC(1,SG);Q	היא לא היתה זוכרת אותי?
+זכר	IND;FUT;NOM(1,SG);ACC(2,PL,FEM);Q	אזכור אתכן?
+זכר	COND;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM)	אתן לא הייתן זוכרות אותך.
+זכר	IND;PST;NOM(2,PL,FEM);NEG;ACC(1,PL);Q	לא זכרתן אותנו?
+חיבל	IND;PST;NOM(3,SG,FEM);NEG;IN(3,SG,FEM,RFLX)	היא לא חיבלה בעצמה.
+חיבל	COND;NOM(1,SG,FEM);NEG;IN(3,PL,FEM);Q	אני לא הייתי מחבלת בהן?
+חיבל	IND;FUT;NOM(2,SG,FEM);NEG;IN(2,SG,FEM,RFLX)	לא תחבלי בעצמך.
+חיבל	IMP;NOM(2,PL,MASC);IN(3,PL,FEM)	חבלו בהן!
+חיבל	IND;FUT;NOM(3,PL,FEM);IN(3,SG,FEM);Q	הן תחבלנה בה?
+חיבל	IND;FUT;NOM(3,PL,MASC);NEG;IN(2,PL,FEM)	הם לא יחבלו בכן.
+חיבל	IND;FUT;NOM(1,PL);IN(1,PL,RFLX)	נחבל בעצמנו.
+חיבל	COND;NOM(3,SG,MASC);NEG;IN(2,SG,FEM)	הוא לא היה מחבל בך.
+חיבל	IND;FUT;NOM(3,PL,MASC);NEG;IN(3,PL,MASC,RFLX);Q	הם לא יחבלו בעצמם?
+חיבל	IMP;NOM(2,SG,FEM);NEG;IN(2,PL,MASC)	אל תחבלי בכם!
+חיבל	IND;PST;NOM(3,PL,FEM);NEG;IN(3,SG,FEM);Q	הן לא חיבלו בה?
+חיבל	IND;PST;NOM(2,PL,FEM);NEG;IN(1,SG)	לא חיבלתן בי.
+חיבל	IND;PRS;NOM(1,SG,FEM);NEG;IN(2,PL,FEM);Q	אני לא מחבלת בכן?
+חיבל	IND;PRS;NOM(2,PL,MASC);NEG;IN(1,PL)	אתם לא מחבלים בנו.
+חיבל	COND;NOM(3,SG,FEM);NEG;IN(3,SG,FEM)	היא לא היתה מחבלת בה.
+חיבל	IND;FUT;NOM(2,SG,FEM);NEG;IN(1,PL);Q	לא תחבלי בנו?
+חיבל	IND;PST;NOM(3,PL,FEM);NEG;IN(3,PL,MASC)	הן לא חיבלו בהם.
+חיבל	IND;PST;NOM(1,SG);NEG;IN(2,SG,FEM)	לא חיבלתי בך.
+חנה	IND;FUT;NOM(2,PL,MASC);NEG	לא תחנו.
+חנה	IND;PST;NOM(2,PL,FEM)	חניתן.
+חנה	IND;PRS;NOM(3,PL,MASC);NEG;Q	הם לא חונים?
+חנה	IND;PST;NOM(3,SG,FEM)	היא חנתה.
+חנה	IND;FUT;NOM(1,PL);Q	נחנה?
+חנה	IND;FUT;NOM(2,SG,FEM);Q	תחני?
+חנה	COND;NOM(3,PL,FEM);NEG;Q	הן לא היו חונות?
+חנה	IND;PRS;NOM(1,SG,FEM);NEG;Q	אני לא חונה?
+חנה	IND;PRS;NOM(3,PL,FEM);NEG;Q	הן לא חונות?
+חנה	IND;PST;NOM(3,PL,MASC);NEG;Q	הם לא חנו?
+חנה	IND;PST;NOM(3,PL,MASC);NEG;Q	הם לא חנו?
+חנה	IND;PST;NOM(1,PL);NEG;Q	לא חנינו?
+חנה	IND;PST;NOM(2,SG,FEM)	חנית.
+חנה	IND;FUT;NOM(2,PL,MASC);NEG;Q	לא תחנו?
+חנה	COND;NOM(2,PL,FEM);NEG;Q	אתן לא הייתן חונות?
+חנה	IND;PST;NOM(2,PL,FEM)	חניתן.
+חנה	IND;PST;NOM(3,SG,MASC);Q	הוא חנה?
+חנה	IND;PRS;NOM(1,PL,MASC);NEG	אנחנו לא חונים.
+חנה	IMP;NOM(2,SG,MASC)	חנה!
+חנה	IND;PST;NOM(1,SG)	חניתי.
+טס	COND;NOM(2,SG,FEM);NEG;DAT(2,PL,MASC);Q	את לא היית טסה אליכם?
+טס	IND;FUT;NOM(1,PL);DAT(1,PL,RFLX);Q	נטוס אל עצמנו?
+טס	IND;FUT;NOM(1,PL);DAT(2,SG,MASC);Q	נטוס אליך?
+טס	IND;PST;NOM(3,PL,FEM);NEG;DAT(3,PL,FEM)	הן לא טסו אליהן.
+טס	COND;NOM(2,PL,FEM);NEG;DAT(3,PL,MASC);Q	אתן לא הייתן טסות אליהם?
+טס	IND;PRS;NOM(3,SG,FEM);NEG;DAT(3,PL,FEM)	היא לא טסה אליהן.
+טס	IND;PST;NOM(3,SG,FEM);NEG;Q	היא לא טסה?
+טס	IND;FUT;NOM(1,SG);NEG;Q	לא אטוס?
+טס	COND;NOM(3,SG,FEM);NEG;DAT(1,SG);Q	היא לא היתה טסה אליי?
+טס	IND;FUT;NOM(2,PL,FEM);NEG;DAT(2,PL,MASC)	לא תטוסנה אליכם.
+טס	IND;FUT;NOM(2,SG,FEM);DAT(1,SG);Q	תטוסי אליי?
+טס	IND;FUT;NOM(3,PL,FEM)	הן תטוסנה.
+טס	IND;PRS;NOM(1,PL,FEM);NEG;DAT(3,PL,MASC)	אנחנו לא טסות אליהם.
+טס	IND;PST;NOM(3,PL,MASC);NEG;DAT(2,SG,FEM)	הם לא טסו אלייך.
+טס	IND;PST;NOM(1,PL);DAT(1,PL,RFLX)	טסנו אל עצמנו.
+טס	IND;PST;NOM(3,PL,MASC);NEG;DAT(2,PL,MASC)	הם לא טסו אליכם.
+טס	IND;FUT;NOM(1,PL);DAT(2,SG,MASC)	נטוס אליך.
+טס	IMP;NOM(2,SG,FEM);NEG;DAT(3,PL,FEM)	אל תטוסי אליהן!
+טס	IND;PRS;NOM(3,SG,FEM);NEG;DAT(1,PL)	היא לא טסה אלינו.
+טס	IND;PST;NOM(3,SG,FEM);NEG;DAT(3,PL,FEM)	היא לא טסה אליהן.
+טס	IND;FUT;NOM(3,PL,FEM);DAT(1,PL)	הן תטוסנה אלינו.
+טס	IND;PST;NOM(2,SG,FEM);DAT(2,PL,FEM);Q	טסת אליכן?
+טס	IND;PRS;NOM(2,PL,MASC);NEG;DAT(3,SG,MASC);Q	אתם לא טסים אליו?
+ילד	IND;FUT;NOM(1,SG);ACC(2,PL,FEM);Q	אלד אתכן?
+ילד	IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM);Q	הם לא ילדו אותן?
+ילד	IND;PRS;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC)	הם לא יולדים אותך.
+ילד	IND;FUT;NOM(1,PL);NEG	לא נלד.
+ילד	IND;PST;NOM(3,SG,FEM);NEG;ACC(2,SG,FEM);Q	היא לא ילדה אותך?
+ילד	COND;NOM(1,SG,MASC);NEG;ACC(3,PL,MASC)	אני לא הייתי יולד אותם.
+ילד	COND;NOM(1,PL,MASC);NEG;ACC(2,PL,MASC)	אנחנו לא היינו יולדים אתכם.
+ילד	IND;FUT;NOM(1,PL);ACC(1,SG);Q	נלד אותי?
+ילד	IND;PST;NOM(2,PL,FEM);ACC(2,SG,MASC)	ילדתן אותך.
+ילד	IND;PST;NOM(1,PL);NEG;ACC(3,PL,FEM);Q	לא ילדנו אותן?
+ילד	COND;NOM(1,SG,FEM);NEG;ACC(1,PL)	אני לא הייתי יולדת אותנו.
+ילד	COND;NOM(1,SG,MASC);NEG;ACC(2,SG,FEM)	אני לא הייתי יולד אותך.
+ילד	COND;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM);Q	אתה לא היית יולד אתכן?
+ילד	IND;PST;NOM(2,SG,MASC);NEG;ACC(2,SG,MASC,RFLX)	לא ילדת את עצמך.
+ילד	IMP;NOM(2,SG,FEM);ACC(2,SG,FEM,RFLX)	לדי את עצמך!
+ילד	IND;PST;NOM(2,SG,MASC);ACC(2,SG,FEM);Q	ילדת אותך?
+ילד	IND;PST;NOM(2,PL,FEM);NEG	לא ילדתן.
+ילד	IND;FUT;NOM(1,SG);ACC(2,SG,MASC);Q	אלד אותך?
+ילד	IND;PST;NOM(3,SG,FEM);NEG;Q	היא לא ילדה?
+נחל	IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q	את לא נוחלת אותו?
+נחל	IND;PRS;NOM(2,SG,FEM);NEG;ACC(2,SG,MASC);Q	את לא נוחלת אותך?
+נחל	IND;PST;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)	הם לא נחלו אתכן.
+נחל	IMP;NOM(2,PL,FEM);ACC(2,PL,FEM,RFLX)	נחלנה את עצמכן!
+נחל	IND;FUT;NOM(2,PL,FEM);ACC(3,PL,FEM);Q	תנחלנה אותן?
+נחל	IND;PRS;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX);Q	אנחנו לא נוחלות את עצמנו?
+נחל	IND;FUT;NOM(2,SG,MASC);NEG;ACC(3,SG,MASC)	לא תנחל אותו.
+נחל	IND;PST;NOM(2,SG,FEM);NEG;ACC(1,SG);Q	לא נחלת אותי?
+נחל	COND;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM);Q	הן לא היו נוחלות אתכן?
+נחל	IMP;NOM(2,SG,FEM);NEG;ACC(1,SG)	אל תנחלי אותי!
+נחל	IND;PRS;NOM(1,SG,FEM);NEG;ACC(3,PL,FEM)	אני לא נוחלת אותן.
+נחל	IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM)	אתן לא נוחלות אותה.
+נחל	IND;PST;NOM(1,PL);NEG;ACC(3,PL,MASC)	לא נחלנו אותם.
+נחל	IND;PST;NOM(2,PL,MASC);ACC(3,SG,MASC);Q	נחלתם אותו?
+נחל	IND;PST;NOM(2,SG,FEM);ACC(3,SG,MASC);Q	נחלת אותו?
+נחל	IND;PST;NOM(2,SG,FEM);ACC(2,PL,MASC)	נחלת אתכם.
+נחל	IND;PST;NOM(2,SG,MASC);ACC(3,SG,MASC)	נחלת אותו.
+נחל	COND;NOM(2,SG,FEM);NEG;ACC(3,PL,FEM)	את לא היית נוחלת אותן.
+נחל	COND;NOM(1,SG,MASC);NEG;ACC(2,PL,MASC)	אני לא הייתי נוחל אתכם.
+ניבא	IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,PL,FEM);Q	אני לא מנבאת אתכן?
+ניבא	IND;PST;NOM(2,PL,MASC);ACC(2,SG,MASC);Q	ניבאתם אותך?
+ניבא	COND;NOM(2,PL,MASC);NEG;ACC(3,SG,FEM)	אתם לא הייתם מנבאים אותה.
+ניבא	IND;FUT;NOM(2,PL,MASC);NEG;ACC(3,SG,MASC);Q	לא תנבאו אותו?
+ניבא	IND;PST;NOM(2,SG,FEM);NEG;ACC(2,SG,MASC)	לא ניבאת אותך.
+ניבא	IND;PRS;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX);Q	אנחנו לא מנבאות את עצמנו?
+ניבא	IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC);Q	הן לא תנבאנה אותם?
+ניבא	COND;NOM(1,PL,MASC);NEG;ACC(2,SG,FEM);Q	אנחנו לא היינו מנבאים אותך?
+ניבא	IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,SG,MASC);Q	הוא לא ינבא אותך?
+ניבא	IND;FUT;NOM(1,PL);ACC(2,PL,FEM)	ננבא אתכן.
+ניבא	IND;FUT;NOM(2,PL,MASC);NEG;ACC(3,SG,MASC);Q	לא תנבאו אותו?
+ניבא	IND;FUT;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q	לא תנבאי אותו?
+ניבא	IND;FUT;NOM(3,PL,MASC);NEG;ACC(1,SG)	הם לא ינבאו אותי.
+ניבא	IND;FUT;NOM(1,PL);ACC(2,PL,FEM);Q	ננבא אתכן?
+ניבא	IND;PRS;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q	את לא מנבאת אותו?
+ניבא	IND;FUT;NOM(3,PL,FEM);ACC(1,SG)	הן תנבאנה אותי.
+ניבא	IND;FUT;NOM(3,PL,MASC);ACC(3,PL,MASC)	הם ינבאו אותם.
+ניבא	IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,PL,MASC)	אתן לא מנבאות אותם.
+ניבא	IND;FUT;NOM(1,PL);ACC(1,PL,RFLX)	ננבא את עצמנו.
+ניבא	IND;PST;NOM(3,SG,FEM);NEG;ACC(2,PL,FEM)	היא לא ניבאה אתכן.
+נמלט	IND;PST;NOM(3,SG,FEM);NEG	היא לא נמלטה.
+נמלט	IND;PST;NOM(2,SG,FEM);NEG;Q	לא נמלטת?
+נמלט	IND;PST;NOM(3,SG,FEM)	היא נמלטה.
+נמלט	IMP;NOM(2,PL,MASC);NEG	אל תימלטו!
+נמלט	IND;PST;NOM(2,SG,MASC);NEG	לא נמלטת.
+נמלט	IND;FUT;NOM(2,SG,FEM)	תימלטי.
+נמלט	IND;PST;NOM(3,PL,MASC);NEG;Q	הם לא נמלטו?
+נמלט	IND;PST;NOM(2,SG,FEM)	נמלטת.
+נמלט	IND;FUT;NOM(2,PL,MASC);NEG	לא תימלטו.
+נמלט	IND;PST;NOM(1,SG);NEG	לא נמלטתי.
+נמלט	IND;FUT;NOM(3,PL,MASC);NEG	הם לא יימלטו.
+נמלט	COND;NOM(1,PL,MASC);NEG;Q	אנחנו לא היינו נמלטים?
+נמלט	IND;FUT;NOM(3,SG,MASC);NEG;Q	הוא לא יימלט?
+נמלט	IND;PRS;NOM(3,PL,FEM);NEG	הן לא נמלטות.
+נמלט	COND;NOM(3,SG,MASC);NEG;Q	הוא לא היה נמלט?
+נמלט	IMP;NOM(2,SG,FEM);NEG	אל תימלטי!
+נמלט	IND;PRS;NOM(1,SG,MASC);NEG;Q	אני לא נמלט?
+נמלט	IMP;NOM(2,SG,FEM)	הימלטי!
+נמלט	IND;PST;NOM(3,SG,FEM);Q	היא נמלטה?
+נמלט	IND;PRS;NOM(3,SG,MASC);NEG	הוא לא נמלט.
+נמלט	IND;FUT;NOM(3,PL,MASC)	הם יימלטו.
+נמלט	COND;NOM(3,SG,MASC);NEG;Q	הוא לא היה נמלט?
+נמלט	IND;PST;NOM(3,SG,MASC);NEG;Q	הוא לא נמלט?
+נמצא	IMP;NOM(2,PL,MASC)	הימצאו!
+נמצא	IND;FUT;NOM(2,PL,FEM);NEG	לא תימצאנה.
+נמצא	IND;FUT;NOM(3,PL,MASC);NEG	הם לא יימצאו.
+נמצא	IND;PST;NOM(3,SG,MASC)	הוא נמצא.
+נמצא	IND;PRS;NOM(2,SG,FEM);NEG	את לא נמצאת.
+נמצא	COND;NOM(2,SG,FEM);NEG;Q	את לא היית נמצאת?
+נמצא	IND;PST;NOM(2,SG,FEM);NEG	לא נמצאת.
+נמצא	IND;FUT;NOM(3,PL,FEM);Q	הן תימצאנה?
+נמצא	IND;PST;NOM(3,SG,FEM);Q	היא נמצאה?
+נמצא	IND;FUT;NOM(2,PL,MASC)	תימצאו.
+נמצא	IND;PST;NOM(3,SG,MASC);NEG;Q	הוא לא נמצא?
+נמצא	IND;PST;NOM(3,SG,MASC)	הוא נמצא.
+נמצא	IMP;NOM(2,SG,MASC);NEG	אל תימצא!
+נמצא	COND;NOM(1,SG,MASC);NEG	אני לא הייתי נמצא.
+נמצא	COND;NOM(2,SG,MASC);NEG;Q	אתה לא היית נמצא?
+נמצא	IND;FUT;NOM(2,PL,MASC);NEG	לא תימצאו.
+נמצא	COND;NOM(3,PL,FEM);NEG;Q	הן לא היו נמצאות?
+נמצא	COND;NOM(2,PL,FEM);NEG;Q	אתן לא הייתן נמצאות?
+נמצא	IND;FUT;NOM(2,SG,MASC)	תימצא.
+נמצא	COND;NOM(1,SG,MASC);NEG;Q	אני לא הייתי נמצא?
+נסגר	IND;PST;NOM(2,SG,MASC);NEG;Q	לא נסגרת?
+נסגר	IND;FUT;NOM(3,SG,MASC);NEG;Q	הוא לא ייסגר?
+נסגר	IND;FUT;NOM(2,PL,MASC);NEG;Q	לא תיסגרו?
+נסגר	COND;NOM(3,SG,FEM);NEG;Q	היא לא היתה נסגרת?
+נסגר	IND;PRS;NOM(2,SG,FEM);NEG	את לא נסגרת.
+נסגר	IMP;NOM(2,SG,MASC);NEG	אל תיסגר!
+נסגר	IMP;NOM(2,PL,FEM)	היסגרנה!
+נסגר	IND;PST;NOM(2,PL,FEM);NEG	לא נסגרתן.
+נסגר	IND;PRS;NOM(1,SG,MASC);NEG;Q	אני לא נסגר?
+נסגר	IND;PST;NOM(3,SG,MASC)	הוא נסגר.
+נסגר	IND;PRS;NOM(2,SG,MASC);NEG	אתה לא נסגר.
+נסגר	IND;PST;NOM(1,PL);Q	נסגרנו?
+נסגר	IND;FUT;NOM(1,SG);NEG	לא אסגר.
+נסגר	IND;PRS;NOM(3,SG,MASC);NEG	הוא לא נסגר.
+נסגר	IND;PRS;NOM(1,SG,MASC);NEG	אני לא נסגר.
+נסגר	IND;PST;NOM(2,SG,MASC)	נסגרת.
+נסגר	COND;NOM(1,PL,FEM);NEG	אנחנו לא היינו נסגרות.
+נסגר	IND;PRS;NOM(3,SG,MASC);NEG;Q	הוא לא נסגר?
+נסגר	IND;PRS;NOM(2,PL,MASC);NEG	אתם לא נסגרים.
+סיים	IND;FUT;NOM(3,PL,MASC);ACC(1,SG)	הם יסיימו אותי.
+סיים	IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,MASC)	אנחנו לא מסיימות אתכם.
+סיים	IMP;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM)	אל תסיימו אותן!
+סיים	IND;FUT;NOM(3,PL,FEM);NEG;ACC(1,SG);Q	הן לא תסיימנה אותי?
+סיים	IND;FUT;NOM(3,SG,FEM);ACC(2,PL,FEM);Q	היא תסיים אתכן?
+סיים	IND;FUT;NOM(3,SG,FEM);NEG;ACC(2,PL,FEM);Q	היא לא תסיים אתכן?
+סיים	IND;FUT;NOM(3,PL,FEM);ACC(2,SG,MASC);Q	הן תסיימנה אותך?
+סיים	IND;FUT;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM)	לא תסיימנה אותך.
+סיים	IND;FUT;NOM(1,PL);NEG;ACC(2,PL,FEM)	לא נסיים אתכן.
+סיים	IND;PRS;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)	היא לא מסיימת אותה.
+סיים	IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC)	הוא סיים אותו.
+סיים	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	הוא יסיים את עצמו.
+סיים	IND;PRS;NOM(3,SG,MASC);NEG;ACC(2,PL,FEM);Q	הוא לא מסיים אתכן?
+סיים	IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);Q	הן לא מסיימות אותו?
+סיים	IND;FUT;NOM(1,PL);ACC(2,SG,FEM);Q	נסיים אותך?
+סיים	IND;PRS;NOM(2,PL,FEM);NEG;ACC(1,PL);Q	אתן לא מסיימות אותנו?
+סיים	IND;FUT;NOM(3,PL,MASC);ACC(2,SG,MASC)	הם יסיימו אותך.
+סיים	IND;PST;NOM(2,SG,FEM);NEG;ACC(3,SG,FEM);Q	לא סיימת אותה?
+סיים	IND;PST;NOM(1,PL);NEG;ACC(1,PL,RFLX);Q	לא סיימנו את עצמנו?
+סיים	IND;PST;NOM(3,SG,MASC);ACC(1,PL)	הוא סיים אותנו.
+סיים	IND;PST;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC)	הוא לא סיים אותו.
+סיים	COND;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q	הם לא היו מסיימים אותה?
+סיכך	IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,SG,MASC)	אנחנו לא מסככים אותו.
+סיכך	COND;NOM(1,PL,MASC);NEG;ACC(1,PL,RFLX)	אנחנו לא היינו מסככים את עצמנו.
+סיכך	IND;PST;NOM(1,PL);ACC(2,PL,MASC);Q	סיככנו אתכם?
+סיכך	COND;NOM(3,SG,MASC);NEG;ACC(1,SG)	הוא לא היה מסכך אותי.
+סיכך	IND;PST;NOM(3,SG,FEM);NEG;ACC(1,SG)	היא לא סיככה אותי.
+סיכך	IMP;NOM(2,SG,FEM);NEG;ACC(2,SG,MASC)	אל תסככי אותך!
+סיכך	IND;FUT;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC);Q	לא תסככנה אותו?
+סיכך	IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM)	הן לא סיככו אתכן.
+סיכך	COND;NOM(3,PL,MASC);NEG;ACC(1,PL);Q	הם לא היו מסככים אותנו?
+סיכך	IND;PST;NOM(2,SG,FEM);ACC(2,PL,FEM)	סיככת אתכן.
+סיכך	IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);Q	הם לא סיככו אותך?
+סיכך	IND;PST;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)	היא לא סיככה אותה.
+סיכך	IND;PRS;NOM(1,PL,MASC);NEG;ACC(2,PL,MASC)	אנחנו לא מסככים אתכם.
+סיכך	IND;FUT;NOM(2,SG,MASC);ACC(2,PL,FEM);Q	תסכך אתכן?
+סיכך	IND;FUT;NOM(3,PL,MASC);ACC(2,PL,FEM)	הם יסככו אתכן.
+סיכך	IND;FUT;NOM(1,PL);NEG;ACC(3,SG,FEM)	לא נסכך אותה.
+סיכך	IND;PRS;NOM(2,SG,MASC);NEG;ACC(2,SG,MASC,RFLX)	אתה לא מסכך את עצמך.
+סיכך	COND;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);Q	הם לא היו מסככים אותו?
+סיכך	IND;PST;NOM(3,PL,FEM);NEG;ACC(1,PL)	הן לא סיככו אותנו.
+סיכך	IND;PST;NOM(2,SG,FEM);ACC(1,PL);Q	סיככת אותנו?
+סינכרן	COND;NOM(1,SG,MASC);NEG;COM(2,SG,MASC);ACC(3,SG,MASC);Q	אני לא הייתי מסנכרן איתך אותו?
+סינכרן	COND;NOM(2,PL,MASC);NEG;ACC(1,SG);Q	אתם לא הייתם מסנכרנים אותי?
+סינכרן	IND;FUT;NOM(3,PL,MASC);COM(2,PL,MASC);ACC(1,PL);Q	הם יסנכרנו אתכם אותנו?
+סינכרן	IND;PST;NOM(2,PL,MASC);COM(1,SG);ACC(3,SG,FEM)	סינכרנתם איתי אותה.
+סינכרן	IMP;NOM(2,PL,MASC);NEG;COM(2,SG,FEM);ACC(2,PL,FEM)	אל תסנכרנו איתך אתכן!
+סינכרן	IND;PST;NOM(2,SG,MASC);NEG;ACC(1,SG);Q	לא סינכרנת אותי?
+סינכרן	IND;FUT;NOM(2,PL,MASC);COM(2,SG,MASC);ACC(1,PL)	תסנכרנו איתך אותנו.
+סינכרן	COND;NOM(3,SG,MASC);NEG;COM(2,PL,FEM);ACC(3,SG,MASC)	הוא לא היה מסנכרן אתכן אותו.
+סינכרן	IND;PST;NOM(2,SG,FEM);NEG;COM(3,SG,MASC);ACC(2,SG,FEM,RFLX)	לא סינכרנת איתו את עצמך.
+סינכרן	IND;PST;NOM(2,SG,MASC);NEG;COM(3,SG,FEM);ACC(2,SG,FEM)	לא סינכרנת איתה אותך.
+סינכרן	IMP;NOM(2,SG,FEM);NEG;COM(3,PL,FEM);ACC(2,PL,MASC)	אל תסנכרני איתן אתכם!
+סינכרן	IND;FUT;NOM(3,PL,FEM);COM(2,SG,MASC);ACC(3,SG,FEM);Q	הן תסנכרנה איתך אותה?
+סינכרן	IND;PST;NOM(3,PL,MASC);NEG;COM(2,PL,MASC);ACC(2,PL,FEM)	הם לא סינכרנו אתכם אתכן.
+סינכרן	COND;NOM(2,PL,MASC);NEG;COM(2,PL,MASC,RFLX);ACC(3,SG,FEM)	אתם לא הייתם מסנכרנים עם עצמכם אותה.
+סינכרן	IND;PST;NOM(2,SG,MASC);NEG;COM(2,PL,FEM);ACC(1,PL)	לא סינכרנת אתכן אותנו.
+סינכרן	IND;PST;NOM(2,SG,FEM);COM(1,SG);ACC(2,SG,FEM,RFLX)	סינכרנת איתי את עצמך.
+סינכרן	IND;PST;NOM(1,SG);NEG;COM(1,SG,RFLX);ACC(2,PL,FEM);Q	לא סינכרנתי עם עצמי אתכן?
+סינכרן	IND;PRS;NOM(3,SG,MASC);NEG;COM(2,PL,MASC);ACC(2,PL,FEM);Q	הוא לא מסנכרן אתכם אתכן?
+סינכרן	IND;FUT;NOM(3,PL,FEM);COM(2,SG,FEM);ACC(3,PL,MASC)	הן תסנכרנה איתך אותם.
+סינכרן	IND;PRS;NOM(2,PL,MASC);NEG;COM(2,PL,FEM);ACC(2,PL,FEM,RFLX);Q	אתם לא מסנכרנים אתכן את עצמכן?
+עטף	IND;FUT;NOM(2,SG,FEM);NEG;ACC(1,PL);Q	לא תעטפי אותנו?
+עטף	IND;PST;NOM(3,PL,MASC);NEG;ACC(1,SG)	הם לא עטפו אותי.
+עטף	IND;FUT;NOM(2,PL,MASC);ACC(3,PL,FEM)	תעטפו אותן.
+עטף	IND;FUT;NOM(3,SG,FEM);ACC(1,SG)	היא תעטוף אותי.
+עטף	IND;PST;NOM(2,PL,FEM);NEG;ACC(3,PL,MASC);Q	לא עטפתן אותם?
+עטף	IND;PST;NOM(2,PL,FEM);NEG;ACC(3,SG,FEM)	לא עטפתן אותה.
+עטף	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC)	היא לא עוטפת אתכם.
+עטף	IMP;NOM(2,PL,MASC);ACC(3,SG,FEM)	עטפו אותה!
+עטף	IND;FUT;NOM(1,PL);ACC(3,PL,MASC);Q	נעטוף אותם?
+עטף	IND;PST;NOM(2,SG,MASC);NEG;ACC(2,PL,FEM);Q	לא עטפת אתכן?
+עטף	IND;FUT;NOM(1,PL);ACC(2,PL,MASC);Q	נעטוף אתכם?
+עטף	IND;PST;NOM(3,SG,MASC);ACC(2,PL,MASC)	הוא עטף אתכם.
+עטף	IND;FUT;NOM(1,PL);ACC(1,PL,RFLX);Q	נעטוף את עצמנו?
+עטף	IND;PRS;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC);Q	אתם לא עוטפים אותם?
+עטף	IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,SG,FEM);Q	הן לא תעטופנה אותך?
+עטף	IND;PST;NOM(3,PL,MASC);NEG;ACC(3,PL,FEM)	הם לא עטפו אותן.
+עטף	IND;PST;NOM(3,SG,FEM);NEG;ACC(1,SG);Q	היא לא עטפה אותי?
+עטף	IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,SG,FEM);Q	אנחנו לא עוטפות אותך?
+עטף	IND;PST;NOM(3,PL,FEM);NEG;ACC(2,SG,MASC)	הן לא עטפו אותך.
+עקד	IMP;NOM(2,PL,FEM);ALL(3,PL,MASC);ACC(2,SG,MASC)	עקודנה אליהם אותך!
+עקד	IND;FUT;NOM(1,PL);NEG;ALL(2,SG,FEM);ACC(3,SG,FEM);Q	לא נעקוד אלייך אותה?
+עקד	IND;FUT;NOM(2,PL,MASC);DAT(2,PL,MASC,RFLX);ACC(3,PL,MASC);Q	תעקדו אל עצמכם אותם?
+עקד	IND;PST;NOM(2,SG,FEM);ALL(3,PL,MASC);ACC(2,PL,MASC);Q	עקדת אליהם אתכם?
+עקד	IND;FUT;NOM(2,SG,MASC);NEG;ALL(3,PL,MASC);ACC(3,PL,MASC,RFLX)	לא תעקוד אליהם את עצמם.
+עקד	IND;FUT;NOM(2,SG,MASC);ALL(2,PL,FEM);ACC(2,PL,FEM,RFLX)	תעקוד אליכן את עצמכן.
+עקד	IND;PRS;NOM(3,SG,FEM);NEG;ALL(3,SG,FEM);ACC(2,SG,MASC)	היא לא עוקדת אליה אותך.
+עקד	IND;PST;NOM(2,PL,MASC);NEG;ALL(3,SG,FEM);ACC(2,SG,FEM)	לא עקדתם אליה אותך.
+עקד	IMP;NOM(2,PL,FEM);NEG;ALL(2,SG,FEM);ACC(3,PL,FEM)	אל תעקודנה אלייך אותן!
+עקד	IND;PRS;NOM(2,SG,FEM);NEG;ALL(2,PL,MASC);ACC(2,PL,MASC,RFLX)	את לא עוקדת אליכם את עצמכם.
+עקד	COND;NOM(1,SG,FEM);NEG;ALL(3,PL,FEM);ACC(3,PL,MASC)	אני לא הייתי עוקדת אליהן אותם.
+עקד	COND;NOM(2,SG,FEM);NEG;ALL(2,SG,MASC);ACC(3,SG,MASC);Q	את לא היית עוקדת אליך אותו?
+עקד	IND;PST;NOM(2,PL,FEM);NEG;ALL(2,SG,MASC);ACC(1,PL);Q	לא עקדתן אליך אותנו?
+עקד	IND;FUT;NOM(1,PL);NEG;ALL(2,PL,FEM);ACC(3,PL,MASC);Q	לא נעקוד אליכן אותם?
+עקד	IND;PRS;NOM(3,PL,FEM);NEG;ALL(2,SG,MASC);ACC(2,SG,FEM)	הן לא עוקדות אליך אותך.
+עקד	IND;FUT;NOM(1,SG);ALL(2,PL,MASC);ACC(3,PL,MASC);Q	אעקוד אליכם אותם?
+עקד	IND;PRS;NOM(2,SG,MASC);NEG;DAT(2,SG,MASC,RFLX);ACC(2,PL,FEM)	אתה לא עוקד אל עצמך אתכן.
+עקד	IMP;NOM(2,PL,FEM);NEG;ALL(2,SG,MASC);ACC(1,PL)	אל תעקודנה אליך אותנו!
+עקד	IND;FUT;NOM(3,PL,FEM);ALL(2,PL,MASC);ACC(2,SG,MASC)	הן תעקודנה אליכם אותך.
+עקד	IND;FUT;NOM(2,SG,FEM);ALL(3,PL,FEM);ACC(3,SG,MASC);Q	תעקדי אליהן אותו?
+עקד	IND;FUT;NOM(3,SG,MASC);NEG;ALL(3,SG,MASC);ACC(1,SG)	הוא לא יעקוד אליו אותי.
+פחד	IND;PRS;NOM(2,SG,MASC);NEG;ABL(2,PL,FEM)	אתה לא פוחד מכן.
+פחד	IND;PST;NOM(1,PL);NEG;ABL(2,PL,FEM);Q	לא פחדנו מכן?
+פחד	IND;PST;NOM(2,SG,FEM);ON(3,SG,MASC)	פחדת עליו.
+פחד	IND;FUT;NOM(2,SG,FEM);NEG;ABL(2,PL,FEM);Q	לא תפחדי מכן?
+פחד	COND;NOM(3,SG,MASC);NEG;ABL(2,SG,MASC);Q	הוא לא היה פוחד ממך?
+פחד	IMP;NOM(2,PL,MASC);ON(2,PL,FEM)	פחדו עליכן!
+פחד	IND;FUT;NOM(2,PL,MASC);ABL(3,SG,MASC)	תפחדו ממנו.
+פחד	COND;NOM(2,PL,MASC);NEG;ON(1,PL)	אתם לא הייתם פוחדים עלינו.
+פחד	IND;PST;NOM(2,SG,FEM);NEG;ON(1,PL);Q	לא פחדת עלינו?
+פחד	IND;FUT;NOM(3,PL,FEM);ON(2,SG,MASC);Q	הן תפחדנה עליך?
+פחד	IMP;NOM(2,PL,FEM);NEG;ABL(2,PL,FEM,RFLX)	אל תפחדנה מעצמכן!
+פחד	IND;PRS;NOM(2,SG,MASC);NEG;ABL(2,SG,FEM)	אתה לא פוחד ממך.
+פחד	IND;PST;NOM(2,PL,MASC);NEG;ABL(1,SG);Q	לא פחדתם ממני?
+פחד	IND;PRS;NOM(2,PL,FEM);NEG;ABL(3,PL,MASC)	אתן לא פוחדות מהם.
+פחד	IND;PRS;NOM(3,SG,FEM);NEG;ABL(2,SG,FEM);Q	היא לא פוחדת ממך?
+פחד	IND;PRS;NOM(3,PL,FEM);NEG;ABL(3,PL,MASC)	הן לא פוחדות מהם.
+פחד	COND;NOM(3,SG,MASC);NEG;ABL(2,PL,MASC);Q	הוא לא היה פוחד מכם?
+פחד	IND;FUT;NOM(1,PL);NEG;ABL(3,SG,FEM)	לא נפחד ממנה.
+פחד	IND;FUT;NOM(2,PL,MASC);NEG;ABL(3,PL,FEM)	לא תפחדו מהן.
+פטר	IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,PL,FEM)	אתם לא פוטרים אתכן.
+פטר	IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM)	הוא לא פוטר אותה.
+פטר	IND;PRS;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM);Q	אנחנו לא פוטרים אותה?
+פטר	COND;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM);Q	אתן לא הייתן פוטרות אותך?
+פטר	IND;PST;NOM(2,PL,MASC);NEG;ACC(1,SG)	לא פטרתם אותי.
+פטר	IND;PRS;NOM(2,SG,FEM);NEG;ACC(1,PL);Q	את לא פוטרת אותנו?
+פטר	COND;NOM(3,PL,FEM);NEG;ACC(1,SG)	הן לא היו פוטרות אותי.
+פטר	IND;PST;NOM(2,SG,FEM);ACC(3,SG,MASC)	פטרת אותו.
+פטר	COND;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX)	הן לא היו פוטרות את עצמן.
+פטר	IND;FUT;NOM(3,PL,MASC);NEG;ACC(1,PL);Q	הם לא יפטרו אותנו?
+פטר	IND;FUT;NOM(2,PL,FEM);ACC(3,SG,FEM);Q	תפטורנה אותה?
+פטר	IND;PST;NOM(1,PL);ACC(3,SG,MASC)	פטרנו אותו.
+פטר	COND;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC)	היא לא היתה פוטרת אתכם.
+פטר	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,FEM);Q	היא לא פוטרת אתכן?
+פטר	COND;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX);Q	אנחנו לא היינו פוטרות את עצמנו?
+פטר	IND;PST;NOM(2,PL,MASC);ACC(3,PL,MASC);Q	פטרתם אותם?
+פטר	IND;PRS;NOM(2,PL,MASC);NEG;ACC(2,PL,MASC,RFLX);Q	אתם לא פוטרים את עצמכם?
+פטר	IND;PST;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC);Q	הוא לא פטר אותו?
+פטר	IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM)	הן לא פוטרות אותה.
+פטר	IND;FUT;NOM(1,PL);NEG;ACC(3,SG,MASC);Q	לא נפטור אותו?
+פטר	IND;FUT;NOM(2,SG,MASC);ACC(3,PL,FEM)	תפטור אותן.
+פיאר	IND;FUT;NOM(3,SG,FEM);ACC(2,SG,FEM)	היא תפאר אותך.
+פיאר	COND;NOM(2,SG,FEM);NEG;ACC(2,PL,FEM);Q	את לא היית מפארת אתכן?
+פיאר	IND;PST;NOM(1,SG);NEG;ACC(1,SG,RFLX)	לא פיארתי את עצמי.
+פיאר	IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,SG,FEM)	הן לא תפארנה אותך.
+פיאר	IND;FUT;NOM(1,PL);ACC(2,SG,FEM);Q	נפאר אותך?
+פיאר	IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX)	הוא פיאר את עצמו.
+פיאר	IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC)	הן לא מפארות אותם.
+פיאר	IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q	הם לא יפארו אותה?
+פיאר	COND;NOM(1,SG,MASC);NEG;ACC(2,SG,MASC);Q	אני לא הייתי מפאר אותך?
+פיאר	IND;PST;NOM(2,SG,MASC);NEG;ACC(2,PL,MASC)	לא פיארת אתכם.
+פיאר	IND;FUT;NOM(3,SG,MASC);ACC(3,PL,MASC);Q	הוא יפאר אותם?
+פיאר	IND;FUT;NOM(2,PL,FEM);NEG;ACC(3,PL,MASC)	לא תפארנה אותם.
+פיאר	IND;PST;NOM(1,SG);NEG;ACC(3,PL,MASC);Q	לא פיארתי אותם?
+פיאר	IND;FUT;NOM(2,PL,MASC);ACC(2,PL,MASC,RFLX)	תפארו את עצמכם.
+צונזר	IND;PRS;NOM(1,PL,FEM);NEG	אנחנו לא מצונזרות.
+צונזר	COND;NOM(2,PL,FEM);NEG	אתן לא הייתן מצונזרות.
+צונזר	IND;PST;NOM(2,PL,FEM);Q	צונזרתן?
+צונזר	IND;PST;NOM(1,PL)	צונזרנו.
+צונזר	IND;FUT;NOM(2,SG,FEM);NEG	לא תצונזרי.
+צונזר	IND;FUT;NOM(2,SG,FEM);NEG	לא תצונזרי.
+צונזר	COND;NOM(3,PL,FEM);NEG	הן לא היו מצונזרות.
+צונזר	COND;NOM(3,SG,FEM);NEG;Q	היא לא היתה מצונזרת?
+צונזר	IND;PST;NOM(3,SG,FEM);Q	היא צונזרה?
+צונזר	IND;PRS;NOM(1,PL,FEM);NEG;Q	אנחנו לא מצונזרות?
+צונזר	IND;FUT;NOM(3,SG,MASC);Q	הוא יצונזר?
+צונזר	IND;FUT;NOM(2,SG,MASC)	תצונזר.
+צונזר	IND;PST;NOM(1,PL);Q	צונזרנו?
+צונזר	IND;FUT;NOM(2,SG,MASC);Q	תצונזר?
+צונזר	IND;PST;NOM(3,SG,MASC);Q	הוא צונזר?
+צונזר	IND;PRS;NOM(1,PL,FEM);NEG;Q	אנחנו לא מצונזרות?
+צונזר	IND;PST;NOM(3,SG,FEM);NEG;Q	היא לא צונזרה?
+צונזר	IND;FUT;NOM(3,SG,MASC);NEG	הוא לא יצונזר.
+צונזר	IND;PST;NOM(1,PL)	צונזרנו.
+צונזר	IND;FUT;NOM(2,SG,MASC);NEG;Q	לא תצונזר?
+צונזר	IND;FUT;NOM(1,SG);NEG;Q	לא אצונזר?
+צונזר	IND;FUT;NOM(3,SG,FEM);Q	היא תצונזר?
+צונזר	IND;PST;NOM(2,SG,MASC);Q	צונזרת?
+קלה	COND;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC);Q	אתן לא הייתן קולות אותך?
+קלה	COND;NOM(3,PL,MASC);NEG;ACC(2,SG,FEM)	הם לא היו קולים אותך.
+קלה	IND;FUT;NOM(2,SG,FEM);ACC(1,PL);Q	תקלי אותנו?
+קלה	COND;NOM(1,PL,MASC);NEG;ACC(3,SG,FEM);Q	אנחנו לא היינו קולים אותה?
+קלה	COND;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX)	הם לא היו קולים את עצמם.
+קלה	IND;FUT;NOM(1,PL);ACC(2,SG,FEM)	נקלה אותך.
+קלה	IND;PST;NOM(2,PL,MASC);NEG;ACC(2,SG,FEM);Q	לא קליתם אותך?
+קלה	COND;NOM(3,PL,MASC);NEG;ACC(2,PL,FEM)	הם לא היו קולים אתכן.
+קלה	IND;PRS;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC);Q	את לא קולה אתכם?
+קלה	IND;FUT;NOM(1,SG);ACC(2,SG,MASC)	אקלה אותך.
+קלה	COND;NOM(2,PL,MASC);NEG;ACC(1,SG);Q	אתם לא הייתם קולים אותי?
+קלה	IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,SG,FEM)	אני לא קולה אותך.
+קלה	IND;PST;NOM(2,PL,FEM);NEG;ACC(3,PL,MASC)	לא קליתן אותם.
+קלה	IND;PST;NOM(2,SG,MASC);NEG;ACC(3,SG,FEM);Q	לא קלית אותה?
+קלה	COND;NOM(1,SG,FEM);NEG;ACC(2,SG,FEM);Q	אני לא הייתי קולה אותך?
+קלה	IND;PRS;NOM(1,PL,MASC);NEG;ACC(1,SG);Q	אנחנו לא קולים אותי?
+קלה	IND;FUT;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC)	לא תקלינה אותו.
+קלה	IND;PST;NOM(1,PL);ACC(3,PL,MASC);Q	קלינו אותם?
+קלה	IND;PST;NOM(2,PL,MASC);ACC(1,SG);Q	קליתם אותי?
+ריהט	IND;PRS;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);Q	הם לא מרהטים אותה?
+ריהט	COND;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX);Q	הן לא היו מרהטות את עצמן?
+ריהט	IND;PST;NOM(1,PL);ACC(3,SG,FEM)	ריהטנו אותה.
+ריהט	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,SG,FEM);Q	היא לא מרהטת אותך?
+ריהט	IND;PST;NOM(3,PL,MASC);NEG;ACC(1,PL);Q	הם לא ריהטו אותנו?
+ריהט	COND;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC);Q	אתם לא הייתם מרהטים אותם?
+ריהט	COND;NOM(1,SG,FEM);NEG;ACC(2,SG,MASC)	אני לא הייתי מרהטת אותך.
+ריהט	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,SG,MASC)	היא לא מרהטת אותך.
+ריהט	IND;PST;NOM(2,PL,FEM);ACC(1,SG)	ריהטתן אותי.
+ריהט	IND;PRS;NOM(3,PL,FEM);NEG;ACC(3,PL,MASC)	הן לא מרהטות אותם.
+ריהט	IND;PRS;NOM(2,PL,MASC);NEG;ACC(3,SG,FEM);Q	אתם לא מרהטים אותה?
+ריהט	IND;PRS;NOM(2,PL,FEM);NEG;ACC(2,PL,MASC);Q	אתן לא מרהטות אתכם?
+ריהט	IND;PRS;NOM(1,SG,FEM);NEG;ACC(3,PL,MASC);Q	אני לא מרהטת אותם?
+ריהט	IND;PRS;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM)	הם לא מרהטים אותה.
+ריהט	IND;PRS;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM)	אתם לא מרהטים אותן.
+ריהט	COND;NOM(2,SG,MASC);NEG;ACC(1,PL);Q	אתה לא היית מרהט אותנו?
+ריהט	IND;FUT;NOM(2,PL,MASC);ACC(2,SG,MASC);Q	תרהטו אותך?
+ריהט	COND;NOM(1,PL,MASC);NEG;ACC(2,PL,FEM)	אנחנו לא היינו מרהטים אתכן.
+שחה	COND;NOM(1,PL,MASC);NEG;DAT(3,PL,FEM);Q	אנחנו לא היינו שוחים אליהן?
+שחה	IMP;NOM(2,SG,MASC)	שחה!
+שחה	IMP;NOM(2,PL,MASC)	שחו!
+שחה	IND;PST;NOM(2,SG,FEM);DAT(1,SG)	שחית אליי.
+שחה	COND;NOM(3,PL,MASC);NEG;DAT(2,PL,FEM);Q	הם לא היו שוחים אליכן?
+שחה	IND;FUT;NOM(1,SG);NEG;DAT(2,SG,FEM);Q	לא אשחה אלייך?
+שחה	COND;NOM(3,SG,MASC);NEG;DAT(2,PL,MASC);Q	הוא לא היה שוחה אליכם?
+שחה	COND;NOM(2,PL,FEM);NEG;DAT(3,SG,MASC)	אתן לא הייתן שוחות אליו.
+שחה	IND;FUT;NOM(1,SG);DAT(3,PL,FEM);Q	אשחה אליהן?
+שחה	IND;FUT;NOM(1,PL);DAT(2,SG,MASC)	נשחה אליך.
+שחה	COND;NOM(1,SG,FEM);NEG;DAT(3,SG,MASC)	אני לא הייתי שוחה אליו.
+שחה	IND;PST;NOM(2,SG,MASC);DAT(1,PL)	שחית אלינו.
+שחה	IMP;NOM(2,PL,MASC);DAT(2,PL,FEM)	שחו אליכן!
+שחה	IND;PRS;NOM(1,PL,FEM);NEG;Q	אנחנו לא שוחות?
+שחה	IND;PRS;NOM(1,SG,FEM);NEG;DAT(2,PL,MASC)	אני לא שוחה אליכם.
+שחה	IMP;NOM(2,PL,FEM);DAT(1,PL)	שחינה אלינו!
+שחה	IND;FUT;NOM(1,PL);NEG;DAT(3,SG,MASC);Q	לא נשחה אליו?
+שחה	IND;PST;NOM(3,SG,FEM);NEG;DAT(3,SG,FEM);Q	היא לא שחתה אליה?
+שחה	IND;PST;NOM(3,SG,MASC);NEG;DAT(3,SG,FEM);Q	הוא לא שחה אליה?
+שחה	COND;NOM(3,PL,MASC);NEG;DAT(1,PL);Q	הם לא היו שוחים אלינו?
+שחה	IND;PRS;NOM(3,SG,FEM);NEG;DAT(3,SG,FEM)	היא לא שוחה אליה.
+שחה	IND;PST;NOM(3,SG,FEM);DAT(3,SG,FEM)	היא שחתה אליה.
+שירת	IND;PRS;NOM(1,SG,FEM);NEG;ACC(2,PL,FEM)	אני לא משרתת אתכן.
+שירת	COND;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);Q	הן לא היו משרתות אותו?
+שירת	COND;NOM(1,PL,FEM);NEG;ACC(3,PL,MASC);Q	אנחנו לא היינו משרתות אותם?
+שירת	IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);Q	הם לא שירתו אותך?
+שירת	IND;PST;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);Q	הוא שירת את עצמו?
+שירת	IND;PRS;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC)	אתן לא משרתות אותך.
+שירת	IND;FUT;NOM(2,PL,MASC);NEG;ACC(2,PL,MASC,RFLX)	לא תשרתו את עצמכם.
+שירת	COND;NOM(3,PL,MASC);NEG;ACC(1,PL);Q	הם לא היו משרתים אותנו?
+שירת	COND;NOM(2,PL,MASC);NEG;ACC(3,PL,FEM);Q	אתם לא הייתם משרתים אותן?
+שירת	IND;PRS;NOM(2,PL,FEM);NEG;ACC(3,PL,FEM)	אתן לא משרתות אותן.
+שירת	IND;PST;NOM(2,PL,FEM);ACC(3,SG,FEM)	שירתתן אותה.
+שירת	IND;PST;NOM(3,SG,FEM);NEG;ACC(1,PL);Q	היא לא שירתה אותנו?
+שירת	IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,FEM)	הן לא שירתו אתכן.
+שירת	IND;FUT;NOM(2,SG,MASC);NEG;ACC(1,PL);Q	לא תשרת אותנו?
+שירת	COND;NOM(1,PL,MASC);NEG;ACC(1,SG);Q	אנחנו לא היינו משרתים אותי?
+שירת	IND;PRS;NOM(3,SG,FEM);NEG;ACC(2,PL,MASC)	היא לא משרתת אתכם.
+שירת	IND;PST;NOM(1,PL);ACC(1,SG);Q	שירתנו אותי?
+שירת	IND;FUT;NOM(3,PL,MASC);NEG;ACC(2,PL,MASC);Q	הם לא ישרתו אתכם?
+שירת	IND;PRS;NOM(2,SG,MASC);NEG;ACC(1,PL)	אתה לא משרת אותנו.
+שירת	IND;PST;NOM(2,PL,FEM);ACC(1,PL);Q	שירתתן אותנו?
+שירת	IND;PRS;NOM(2,SG,FEM);NEG;ACC(1,SG);Q	את לא משרתת אותי?
+שירת	IND;FUT;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX);Q	הם לא ישרתו את עצמם?
+שכן	IND;PST;NOM(2,PL,MASC);IN(3,PL,FEM)	שכנתם בהן.
+שכן	IND;PST;NOM(2,SG,MASC);IN(3,PL,FEM);Q	שכנת בהן?
+שכן	COND;NOM(3,SG,MASC);NEG;IN(3,PL,FEM)	הוא לא היה שוכן בהן.
+שכן	IND;FUT;NOM(1,PL);IN(2,SG,MASC)	נשכון בך.
+שכן	IND;PST;NOM(1,PL);IN(2,PL,MASC)	שכנו בכם.
+שכן	COND;NOM(3,PL,MASC);NEG;IN(3,SG,FEM)	הם לא היו שוכנים בה.
+שכן	IND;PST;NOM(2,SG,FEM);NEG;IN(3,PL,FEM)	לא שכנת בהן.
+שכן	IND;FUT;NOM(1,PL);NEG;IN(3,SG,MASC);Q	לא נשכון בו?
+שכן	IND;FUT;NOM(1,PL);NEG;IN(1,PL,RFLX);Q	לא נשכון בעצמנו?
+שכן	IND;PST;NOM(2,PL,FEM);NEG;IN(2,SG,MASC);Q	לא שכנתן בך?
+שכן	IMP;NOM(2,PL,FEM);NEG;IN(1,SG)	אל תשכונה בי!
+שכן	IND;PST;NOM(1,SG);IN(2,SG,FEM)	שכנתי בך.
+שכן	IND;PST;NOM(3,SG,MASC);IN(3,PL,FEM);Q	הוא שכן בהן?
+שכן	IND;PRS;NOM(1,SG,MASC);NEG;IN(3,SG,MASC)	אני לא שוכן בו.
+שכן	COND;NOM(3,SG,MASC);NEG;IN(1,PL)	הוא לא היה שוכן בנו.
+שכן	IND;PRS;NOM(1,PL,FEM);NEG;IN(1,SG);Q	אנחנו לא שוכנות בי?
+שכן	COND;NOM(1,SG,FEM);NEG;IN(3,PL,MASC)	אני לא הייתי שוכנת בהם.
+שכן	IND;FUT;NOM(3,PL,FEM);NEG;IN(1,PL)	הן לא תשכונה בנו.
+שכן	IND;FUT;NOM(2,SG,FEM);IN(1,PL)	תשכני בנו.
+שכן	IND;PST;NOM(1,PL);NEG;IN(3,SG,MASC);Q	לא שכנו בו?
+שתל	IMP;NOM(2,SG,MASC);ACC(1,PL)	שתול אותנו!
+שתל	IND;PST;NOM(3,SG,MASC);NEG;ACC(2,PL,MASC)	הוא לא שתל אתכם.
+שתל	IND;PST;NOM(2,SG,MASC);ACC(1,PL);Q	שתלת אותנו?
+שתל	IND;PST;NOM(2,PL,FEM);NEG;ACC(2,SG,FEM)	לא שתלתן אותך.
+שתל	IND;FUT;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q	לא תשתלי אותו?
+שתל	IND;FUT;NOM(3,PL,MASC);ACC(1,PL);Q	הם ישתלו אותנו?
+שתל	IND;FUT;NOM(3,PL,MASC);ACC(3,PL,MASC);Q	הם ישתלו אותם?
+שתל	IND;FUT;NOM(2,PL,FEM);ACC(3,PL,MASC)	תשתולנה אותם.
+שתל	COND;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC)	אתן לא הייתן שותלות אותו.
+שתל	IND;PST;NOM(2,SG,MASC);ACC(3,SG,MASC)	שתלת אותו.
+שתל	IND;PST;NOM(3,SG,FEM);ACC(2,SG,MASC);Q	היא שתלה אותך?
+שתל	COND;NOM(2,PL,FEM);NEG;ACC(3,SG,MASC);Q	אתן לא הייתן שותלות אותו?
+שתל	IND;PST;NOM(3,SG,MASC);NEG;ACC(1,SG)	הוא לא שתל אותי.
+שתל	IND;FUT;NOM(3,PL,MASC);NEG;ACC(1,SG)	הם לא ישתלו אותי.
+שתל	IND;PRS;NOM(2,PL,FEM);NEG;ACC(2,SG,MASC)	אתן לא שותלות אותך.
+שתל	COND;NOM(2,PL,FEM);NEG;ACC(1,SG)	אתן לא הייתן שותלות אותי.
+שתל	IND;PST;NOM(3,SG,MASC);NEG;ACC(2,SG,FEM)	הוא לא שתל אותך.
+שתל	COND;NOM(2,SG,MASC);NEG;ACC(3,PL,MASC);Q	אתה לא היית שותל אותם?
+שתל	COND;NOM(1,PL,MASC);NEG;ACC(1,SG);Q	אנחנו לא היינו שותלים אותי?
+שתל	IND;FUT;NOM(3,PL,FEM);NEG;ACC(2,PL,MASC)	הן לא תשתולנה אתכם.
+תובל	IND;PST;NOM(2,SG,MASC);NEG;Q	לא תובלת?
+תובל	COND;NOM(2,SG,FEM);NEG	את לא היית מתובלת.
+תובל	IMP;NOM(2,SG,MASC);NEG	אל תתובל!
+תובל	IND;FUT;NOM(3,SG,MASC)	הוא יתובל.
+תובל	IND;FUT;NOM(1,PL)	נתובל.
+תובל	IND;FUT;NOM(3,SG,FEM)	היא תתובל.
+תובל	COND;NOM(2,SG,FEM);NEG	את לא היית מתובלת.
+תובל	IND;PST;NOM(2,SG,MASC);Q	תובלת?
+תובל	IND;FUT;NOM(2,PL,MASC);NEG;Q	לא תתובלו?
+תובל	IND;PRS;NOM(3,PL,FEM);NEG;Q	הן לא מתובלות?
+תובל	IND;PRS;NOM(2,PL,FEM);NEG	אתן לא מתובלות.
+תובל	IND;PST;NOM(3,SG,MASC)	הוא תובל.
+תובל	IND;FUT;NOM(3,SG,MASC)	הוא יתובל.
+תובל	IND;FUT;NOM(2,PL,FEM);NEG	לא תתובלנה.
+תובל	IND;PST;NOM(3,PL,FEM);NEG	הן לא תובלו.
+תובל	IND;PRS;NOM(1,SG,FEM);NEG;Q	אני לא מתובלת?
+תובל	IND;FUT;NOM(2,PL,FEM)	תתובלנה.
+תובל	COND;NOM(2,PL,MASC);NEG	אתם לא הייתם מתובלים.
+תובל	IND;PST;NOM(1,SG);Q	תובלתי?
+תובל	IND;FUT;NOM(3,PL,MASC);Q	הם יתובלו?
+תובל	IND;PRS;NOM(3,PL,MASC);NEG	הם לא מתובלים.
+תובל	IND;PRS;NOM(3,SG,MASC);NEG;Q	הוא לא מתובל?
+תובל	COND;NOM(3,SG,MASC);NEG	הוא לא היה מתובל.
+תיאר	IND;PST;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC)	הם לא תיארו אותך.
+תיאר	IMP;NOM(2,SG,FEM);NEG;ACC(2,PL,MASC)	אל תתארי אתכם!
+תיאר	IND;PST;NOM(2,PL,MASC);NEG;ACC(1,PL)	לא תיארתם אותנו.
+תיאר	IND;PRS;NOM(2,SG,MASC);NEG;ACC(2,SG,FEM)	אתה לא מתאר אותך.
+תיאר	IND;PST;NOM(3,PL,FEM);NEG;ACC(2,PL,MASC)	הן לא תיארו אתכם.
+תיאר	IND;FUT;NOM(2,SG,FEM);ACC(1,PL)	תתארי אותנו.
+תיאר	IND;FUT;NOM(1,PL);NEG;ACC(3,SG,MASC)	לא נתאר אותו.
+תיאר	IND;FUT;NOM(3,PL,FEM);ACC(1,SG);Q	הן תתארנה אותי?
+תיאר	COND;NOM(1,PL,FEM);NEG;ACC(2,PL,FEM)	אנחנו לא היינו מתארות אתכן.
+תיאר	IND;FUT;NOM(2,PL,FEM);ACC(2,SG,MASC);Q	תתארנה אותך?
+תיאר	COND;NOM(3,PL,MASC);NEG;ACC(2,SG,MASC);Q	הם לא היו מתארים אותך?
+תיאר	COND;NOM(2,SG,FEM);NEG;ACC(3,SG,MASC);Q	את לא היית מתארת אותו?
+תיאר	IND;FUT;NOM(2,SG,FEM);NEG;ACC(1,PL)	לא תתארי אותנו.
+תיאר	COND;NOM(1,PL,FEM);NEG;ACC(1,PL,RFLX);Q	אנחנו לא היינו מתארות את עצמנו?
+תיאר	IND;PST;NOM(2,PL,FEM);NEG;ACC(2,PL,FEM,RFLX);Q	לא תיארתן את עצמכן?
+תיאר	IND;PST;NOM(3,SG,MASC);NEG;ACC(3,PL,FEM);Q	הוא לא תיאר אותן?
+תיאר	COND;NOM(1,SG,MASC);NEG;ACC(1,SG,RFLX);Q	אני לא הייתי מתאר את עצמי?
+תיאר	COND;NOM(2,PL,MASC);NEG;ACC(3,PL,MASC)	אתם לא הייתם מתארים אותם.
+תיאר	IND;PST;NOM(2,PL,FEM);ACC(2,SG,FEM)	תיארתן אותך.
