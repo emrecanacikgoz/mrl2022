@@ -1,0 +1,1000 @@
+sahau	V;PROG;NOM(PROXM);PRIM(3,SG,M_MI);COND;PST;NEG	pasingalikuwa pakiusahau.
+sahau	V;COND;PST;PRF;NOM(3,SG,U);PRIM(3,PL,JI_MA);Q	ungalikuwa umeyasahau?
+sahau	V;IND;PRS;NOM(REM);PRIM(3,PL,M_MI)	kunaisahau.
+sahau	V;PROG;NOM(IN);PRIM(2,PL);IND;PRS;PRF;NEG;Q	hamujakuwa mukiwasahau?
+sahau	V;PROG;NOM(3,PL,KI_VI);PRIM(3,PL,M_WA);IND;FUT;Q	vitakuwa vikiwasahau?
+sahau	V;IND;PST;PRF;NOM(3,SG,JI_MA);PRIM(REM);NEG;Q	halikuwa limekusahau?
+sahau	V;PROG;NOM(3,SG,KI_VI);PRIM(3,SG,JI_MA);COND;PRS;NEG;LGSPEC1	hakingekuwa kikilisahau.
+sahau	V;PROG;NOM(3,SG,M_MI);PRIM(3,SG,U);IND;PST;NEG	haukuwa ukiusahau.
+sahau	V;IND;FUT;NEG;NOM(3,PL,M_MI);PRIM(3,PL,M_WA);Q	hitawasahau?
+sahau	V;PROG;NOM(IN);PRIM(3,PL,JI_MA);COND;PST;NEG;LGSPEC1	hamungalikuwa mukiyasahau.
+sahau	V;IND;FUT;PRF;NOM(IN);PRIM(3,SG,JI_MA)	mutakuwa mumelisahau.
+sahau	V;PROG;NOM(1,PL);PRIM(3,SG,KI_VI);COND;PRS	tungekuwa tukikisahau.
+sahau	V;PROG;NOM(2,SG);PRIM(REM);COND;PST	ungalikuwa ukikusahau.
+sahau	V;IND;PST;NOM(3,SG,KU);PRIM(IN);Q	kulimusahau?
+sahau	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(1,SG)	ungalikuwa umenisahau.
+sahau	V;PROG;NOM(REM);PRIM(3,SG,KI_VI);IND;PST;NEG	hakukuwa kukikisahau.
+sahau	V;COND;PST;PRF;NOM(1,PL);PRIM(3,PL,JI_MA);Q	tungalikuwa tumeyasahau?
+sahau	V;PROG;NOM(3,SG,N);PRIM(1,SG);IND;PRS;PRF	imekuwa ikinisahau.
+karabati	V;COND;PST;NOM(3,SG,KI_VI);PRIM(3,PL,JI_MA);Q	kingaliyakarabati?
+karabati	V;PROG;NOM(3,PL,N);PRIM(3,SG,N);IND;PRS;PRF;NEG	hazijakuwa zikiikarabati.
+karabati	V;PROG;NOM(2,SG);PRIM(3,PL,M_WA);IND;FUT	utakuwa ukiwakarabati.
+karabati	V;IND;PST;NOM(2,PL);PRIM(1,SG);Q	mlinikarabati?
+karabati	V;PROG;NOM(3,SG,JI_MA);PRIM(1,SG);IND;PST;NEG	halikuwa likinikarabati.
+karabati	V;IND;PST;PRF;NOM(3,SG,M_WA);PRIM(3,SG,KU);NEG	hakuwa amekukarabati.
+karabati	V;IND;PRS;HAB;NOM(2,PL);PRIM(IN);Q	nyinyi humukarabati?
+karabati	V;PROG;NOM(1,SG);PRIM(3,SG,KU);COND;PRS;NEG;LGSPEC1	singekuwa nikikukarabati.
+karabati	V;COND;PST;NOM(1,PL);PRIM(1,SG);Q	tungalinikarabati?
+karabati	V;COND;PST;NEG;LGSPEC1;NOM(PROXM);PRIM(3,PL,JI_MA)	hapangaliyakarabati.
+karabati	V;IND;PRS;NOM(REM);PRIM(3,PL,KI_VI);Q	kunavikarabati?
+karabati	V;PROG;NOM(2,PL);PRIM(3,SG,M_WA);IND;PRS;PRF;NEG;Q	hamjakuwa mkimkarabati?
+karabati	V;COND;PST;NEG;NOM(1,PL);PRIM(3,SG,KU);Q	tusingalikukarabati?
+karabati	V;IND;PST;PRF;NOM(3,PL,N);PRIM(2,PL);NEG;Q	hazikuwa zimewakarabati?
+karabati	V;IND;FUT;PRF;NOM(2,PL);PRIM(3,PL,JI_MA);NEG;Q	hamtakuwa mmeyakarabati?
+karabati	V;PROG;NOM(3,SG,U);PRIM(3,PL,M_MI);COND;PST;NEG;Q	usingalikuwa ukiikarabati?
+karabati	V;IND;PST;PRF;NOM(3,SG,KU);PRIM(3,SG,N);NEG;Q	hakukuwa kumeikarabati?
+karabati	V;IND;PRS;NEG;NOM(3,SG,M_WA);PRIM(REM);HAB;Q	yeye huwa hakukarabati?
+karabati	V;IND;PST;NOM(1,SG);PRIM(3,PL,KI_VI)	nilivikarabati.
+karabati	V;COND;PRS;PRF;NOM(3,PL,KI_VI);PRIM(3,SG,JI_MA);NEG;LGSPEC1;Q	havingekuwa vimelikarabati?
+kabiliana	V;COND;PRS;PRF;NOM(3,PL,KI_VI);COM(PROXM);Q	vingekuwa vimekabiliana napo?
+kabiliana	V;PROG;NOM(3,SG,U);COND;PRS;NEG;COM(REM)	usingekuwa ukikabiliana nako.
+kabiliana	V;PROG;NOM(3,PL,M_MI);IND;PRS;PRF;NEG;COM(IN,RFLX)	hijakuwa ikikabiliana mwenyewe.
+kabiliana	V;SUBJ;PRS;NOM(3,SG,JI_MA);COM(1,SG);Q	likabiliane nami?
+kabiliana	V;IND;PRS;NOM(PROXM);COM(3,PL,M_WA)	panakabiliana nao.
+kabiliana	V;PROG;NOM(3,PL,JI_MA);IND;PST	yalikuwa yakikabiliana.
+kabiliana	V;PROG;NOM(2,PL);COND;PRS;NEG;LGSPEC1;COM(3,PL,M_MI)	hamngekuwa mkikabiliana nayo.
+kabiliana	V;PROG;NOM(3,PL,M_MI);COND;PRS;NEG;COM(1,PL)	isingekuwa ikikabiliana nasi.
+kabiliana	V;PROG;NOM(3,SG,KU);IND;PST;NEG;COM(2,PL)	hakukuwa kukikabiliana nanyi.
+kabiliana	V;IND;FUT;PRF;NOM(3,PL,N);NEG;COM(3,SG,JI_MA);Q	hazitakuwa zimekabiliana nalo?
+kabiliana	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_WA);COM(3,SG,N);Q	hangekabiliana nayo?
+kabiliana	V;PROG;NOM(3,PL,M_WA);COND;PRS;NEG;LGSPEC1;COM(3,PL,JI_MA)	hawangekuwa wakikabiliana nayo.
+kabiliana	V;IND;PRS;PRF;NEG;NOM(IN);COM(2,PL)	hamujakabiliana nanyi.
+kabiliana	V;PROG;NOM(3,SG,M_WA);IND;FUT;COM(3,SG,JI_MA)	atakuwa akikabiliana nalo.
+kabiliana	V;IND;PST;NOM(2,SG);COM(3,SG,M_WA)	ulikabiliana naye.
+kabiliana	V;IND;PRS;NOM(3,PL,N);COM(3,SG,N)	zinakabiliana nayo.
+kabiliana	V;COND;PST;NEG;LGSPEC1;NOM(1,SG);COM(3,PL,JI_MA);Q	singalikabiliana nayo?
+kabiliana	V;PROG;NOM(3,SG,KI_VI);COND;PST;NEG;COM(3,SG,KI_VI)	kisingalikuwa kikikabiliana nacho.
+kabiliana	V;COND;PST;PRF;NOM(3,PL,M_MI);COM(3,SG,M_MI)	ingalikuwa imekabiliana nao.
+kabiliana	V;PROG;NOM(3,SG,M_WA);IND;PRS;PRF;NEG;COM(3,PL,KI_VI);Q	hajakuwa akikabiliana navyo?
+kabiliana	V;PROG;NOM(3,SG,KI_VI);COND;PST;COM(3,SG,U);Q	kingalikuwa kikikabiliana nao?
+kabiliana	V;IND;FUT;NOM(PROXM);COM(IN,RFLX);Q	patakabiliana mwenyewe?
+kabiliana	V;IND;FUT;NOM(2,PL);COM(2,PL,RFLX)	mtakabiliana wenyewe.
+zindua	V;PROG;NOM(3,PL,M_MI);PRIM(2,SG);COND;PST;NEG;LGSPEC1	hingalikuwa ikikuzindua.
+zindua	V;PROG;NOM(3,SG,U);PRIM(3,SG,KI_VI);COND;PST	ungalikuwa ukikizindua.
+zindua	V;PROG;NOM(2,PL);PRIM(3,SG,KU);COND;PRS;NEG	msingekuwa mkikuzindua.
+zindua	V;IND;FUT;PRF;NOM(3,PL,N);PRIM(1,SG);NEG	hazitakuwa zimenizindua.
+zindua	V;SUBJ;PRS;NEG;NOM(3,SG,KU);PRIM(3,SG,N)	kusiizindue.
+zindua	V;PROG;NOM(3,PL,KI_VI);PRIM(3,SG,JI_MA);IND;PRS;PRF;NEG	havijakuwa vikilizindua.
+zindua	V;PROG;NOM(3,PL,M_MI);PRIM(2,SG);COND;PRS;NEG;Q	isingekuwa ikikuzindua?
+zindua	V;IND;PST;NEG;NOM(PROXM);PRIM(2,SG)	hapakukuzindua.
+zindua	V;PROG;NOM(2,PL);PRIM(1,PL);IND;PRS;PRF;NEG	hamjakuwa mkituzindua.
+zindua	V;COND;PST;NOM(3,SG,KI_VI);PRIM(3,SG,N);Q	kingaliizindua?
+zindua	V;IND;PRS;PRF;NOM(3,SG,JI_MA);PRIM(3,SG,M_MI);Q	limeuzindua?
+zindua	V;COND;PST;PRF;NOM(PROXM);PRIM(3,SG,M_MI)	pangalikuwa pameuzindua.
+zindua	V;IND;FUT;PRF;NOM(REM);PRIM(RFLX)	kutakuwa kumejizindua.
+zindua	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,N);PRIM(1,SG)	haingenizindua.
+zindua	V;COND;PST;NEG;NOM(3,SG,M_WA);PRIM(3,SG,JI_MA)	asingalilizindua.
+zindua	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,N);PRIM(3,SG,U);Q	hazingaliuzindua?
+zindua	V;COND;PST;PRF;NOM(1,PL);PRIM(3,PL,JI_MA)	tungalikuwa tumeyazindua.
+zindua	V;COND;PRS;NOM(3,SG,M_WA);PRIM(3,PL,M_WA);Q	angewazindua?
+zindua	V;COND;PRS;PRF;NOM(3,SG,M_WA);PRIM(3,SG,N);NEG	asingekuwa ameizindua.
+zindua	V;COND;PRS;NEG;NOM(1,PL);PRIM(3,SG,N);Q	tusingeizindua?
+zindua	V;PROG;NOM(2,SG);PRIM(3,SG,JI_MA);IND;PST;NEG	hukuwa ukilizindua.
+zindua	V;PROG;NOM(3,SG,JI_MA);PRIM(3,SG,KU);IND;PST;NEG	halikuwa likikuzindua.
+zindua	V;PROG;NOM(3,SG,M_WA);PRIM(3,SG,N);IND;PST;Q	alikuwa akiizindua?
+zindua	V;COND;PRS;NEG;NOM(3,SG,M_WA);PRIM(3,SG,M_MI);Q	asingeuzindua?
+miliki	V;PROG;NOM(2,SG);PRIM(REM);COND;PRS	ungekuwa ukikumiliki.
+miliki	V;PROG;NOM(1,PL);PRIM(3,PL,JI_MA);COND;PST;NEG;LGSPEC1;Q	hatungalikuwa tukiyamiliki?
+miliki	V;IND;PRS;PRF;NEG;NOM(REM);PRIM(3,SG,U);Q	hakujaumiliki?
+miliki	V;COND;PST;NOM(IN);PRIM(REM)	mungalikumiliki.
+miliki	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KI_VI);PRIM(3,SG,U)	hakingeumiliki.
+miliki	V;PROG;NOM(2,PL);PRIM(3,SG,M_MI);COND;PST;NEG;Q	msingalikuwa mkiumiliki?
+miliki	V;PROG;NOM(3,PL,KI_VI);PRIM(3,SG,KU);COND;PST;NEG	visingalikuwa vikikumiliki.
+miliki	V;IND;PRS;PRF;NEG;NOM(3,SG,N);PRIM(3,SG,M_MI);Q	haijaumiliki?
+miliki	V;IND;PRS;HAB;NOM(1,PL);PRIM(3,SG,M_MI);Q	sisi huumiliki?
+miliki	V;PROG;NOM(1,SG);PRIM(REM);IND;PST	nilikuwa nikikumiliki.
+miliki	V;IND;PST;NOM(3,PL,KI_VI);PRIM(3,SG,KU);Q	vilikumiliki?
+miliki	V;IND;PST;PRF;NOM(IN);PRIM(3,SG,N);NEG	hamukuwa mumeimiliki.
+miliki	V;IND;PRS;NOM(3,SG,U);PRIM(2,PL);Q	unawamiliki?
+miliki	V;PROG;NOM(3,SG,N);PRIM(IN);IND;PST;NEG	haikuwa ikimumiliki.
+miliki	V;PROG;NOM(3,SG,N);PRIM(3,SG,U);IND;PST;Q	ilikuwa ikiumiliki?
+miliki	V;PROG;NOM(3,SG,U);PRIM(IN);IND;FUT	utakuwa ukimumiliki.
+miliki	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(3,SG,KI_VI);NEG;Q	usingalikuwa umekimiliki?
+miliki	V;PROG;NOM(3,PL,M_WA);PRIM(3,PL,M_MI);IND;PRS;PRF;Q	wamekuwa wakiimiliki?
+miliki	V;COND;PRS;PRF;NOM(1,SG);PRIM(3,SG,M_WA);NEG;LGSPEC1;Q	singekuwa nimemmiliki?
+miliki	V;PROG;NOM(3,SG,KI_VI);PRIM(3,SG,KI_VI);COND;PST;NEG;Q	kisingalikuwa kikikimiliki?
+miliki	V;SUBJ;PRS;NOM(3,PL,N);PRIM(3,PL,M_MI);Q	ziimiliki?
+miliki	V;IND;PRS;NEG;NOM(1,SG);PRIM(3,PL,N)	sizimiliki.
+miliki	V;PROG;NOM(1,PL);PRIM(2,SG);COND;PST;NEG;LGSPEC1;Q	hatungalikuwa tukikumiliki?
+kimbilia	V;PROG;NOM(REM);PRIM(3,PL,JI_MA);COND;PRS;NEG	kusingekuwa kukiyakimbilia.
+kimbilia	V;PROG;NOM(3,SG,KU);PRIM(3,SG,N);COND;PRS;NEG;Q	kusingekuwa kukiikimbilia?
+kimbilia	V;PROG;NOM(IN);PRIM(3,PL,KI_VI);IND;FUT;NEG;Q	hamutakuwa mukivikimbilia?
+kimbilia	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,M_WA);PRIM(3,PL,N);Q	hawangalizikimbilia?
+kimbilia	V;COND;PRS;NOM(3,SG,KI_VI);PRIM(3,SG,KU)	kingekukimbilia.
+kimbilia	V;PROG;NOM(3,PL,N);PRIM(1,PL);COND;PST;Q	zingalikuwa zikitukimbilia?
+kimbilia	V;COND;PRS;PRF;NOM(3,PL,N);PRIM(3,SG,U);Q	zingekuwa zimeukimbilia?
+kimbilia	V;COND;PST;PRF;NOM(3,SG,U);PRIM(3,SG,KU);NEG	usingalikuwa umekukimbilia.
+kimbilia	V;COND;PRS;NOM(3,PL,N);PRIM(REM);Q	zingekukimbilia?
+kimbilia	V;IND;PRS;NOM(IN);PRIM(3,SG,M_MI);Q	munaukimbilia?
+kimbilia	V;IND;PST;PRF;NOM(3,SG,N);PRIM(3,PL,KI_VI);NEG	haikuwa imevikimbilia.
+kimbilia	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,JI_MA);PRIM(1,PL);Q	halingalitukimbilia?
+kimbilia	V;PROG;NOM(PROXM);PRIM(1,PL);IND;PRS;PRF;NEG	hapajakuwa pakitukimbilia.
+kimbilia	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,KI_VI);PRIM(3,SG,KI_VI)	havingekikimbilia.
+kimbilia	V;COND;PRS;NEG;NOM(3,SG,JI_MA);PRIM(3,SG,KI_VI);Q	lisingekikimbilia?
+kimbilia	V;IND;PST;NEG;NOM(3,SG,U);PRIM(3,SG,M_WA);Q	haukumkimbilia?
+kimbilia	V;IND;PRS;PRF;NOM(3,SG,U);PRIM(REM);Q	umekukimbilia?
+kimbilia	V;COND;PRS;PRF;NOM(1,PL);PRIM(3,SG,U);Q	tungekuwa tumeukimbilia?
+kimbilia	V;IND;PRS;PRF;NEG;NOM(3,SG,KU);PRIM(1,SG)	hakujanikimbilia.
+kimbilia	V;SUBJ;PRS;NOM(2,PL);PRIM(3,SG,KI_VI);Q	mkikimbilie?
+kimbilia	V;PROG;NOM(REM);PRIM(3,PL,KI_VI);COND;PRS;NEG;LGSPEC1	hakungekuwa kukivikimbilia.
+posa	V;IND;PST;NOM(IN);PRIM(2,PL)	muliwaposa.
+posa	V;IND;FUT;PRF;NOM(3,SG,JI_MA);PRIM(3,PL,KI_VI)	litakuwa limeviposa.
+posa	V;PROG;NOM(3,SG,KU);PRIM(3,PL,M_MI);COND;PST;NEG;Q	kusingalikuwa kukiiposa?
+posa	V;COND;PRS;PRF;NOM(2,PL);PRIM(3,PL,M_WA);NEG;LGSPEC1	hamngekuwa mmewaposa.
+posa	V;PROG;NOM(3,SG,M_MI);PRIM(1,PL);IND;FUT;NEG	hautakuwa ukituposa.
+posa	V;PROG;NOM(3,SG,KU);PRIM(2,SG);IND;PST;Q	kulikuwa kukikuposa?
+posa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,M_MI);PRIM(3,PL,JI_MA);Q	haungaliyaposa?
+posa	V;SUBJ;PRS;NEG;NOM(3,PL,N);PRIM(1,PL);Q	zisitupose?
+posa	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(3,PL,N);NEG;Q	usingalikuwa umeziposa?
+posa	V;PROG;NOM(3,PL,N);PRIM(RFLX);IND;FUT	zitakuwa zikijiposa.
+posa	V;IND;PRS;NEG;NOM(3,SG,M_WA);PRIM(PROXM);Q	hapaposi?
+posa	V;COND;PRS;NEG;NOM(REM);PRIM(2,SG);Q	kusingekuposa?
+posa	V;PROG;NOM(3,SG,M_WA);PRIM(REM);IND;FUT;NEG	hatakuwa akikuposa.
+posa	V;COND;PST;NEG;NOM(1,SG);PRIM(3,SG,M_WA)	nisingalimposa.
+posa	V;SUBJ;PRS;NEG;NOM(1,SG);PRIM(3,PL,N);Q	nisizipose?
+posa	V;PROG;NOM(PROXM);PRIM(REM);COND;PST;NEG;LGSPEC1;Q	hapangalikuwa pakikuposa?
+posa	V;IND;PRS;PRF;NOM(REM);PRIM(REM);Q	kumekuposa?
+posa	V;IND;FUT;NOM(3,SG,U);PRIM(IN)	utamuposa.
+posa	V;IND;PRS;PRF;NOM(3,SG,U);PRIM(3,SG,U);Q	umeuposa?
+posa	V;COND;PRS;PRF;NOM(3,PL,KI_VI);PRIM(3,PL,N);NEG	visingekuwa vimeziposa.
+posa	V;COND;PRS;PRF;NOM(REM);PRIM(3,SG,U)	kungekuwa kumeuposa.
+posa	V;COND;PST;NEG;NOM(3,SG,JI_MA);PRIM(3,SG,M_WA)	lisingalimposa.
+posa	V;PROG;NOM(REM);PRIM(3,PL,KI_VI);COND;PRS;NEG;LGSPEC1;Q	hakungekuwa kukiviposa?
+posa	V;IND;PST;PRF;NOM(3,PL,N);PRIM(3,PL,N);NEG	hazikuwa zimeziposa.
+posa	V;PROG;NOM(2,PL);PRIM(3,PL,JI_MA);IND;PST;NEG	hamkuwa mkiyaposa.
+agiza	V;IND;FUT;PRF;NOM(3,PL,N);PRIM(1,SG);NEG;Q	hazitakuwa zimeniagiza?
+agiza	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(REM);NEG;LGSPEC1	haungalikuwa umekuagiza.
+agiza	V;PROG;NOM(3,SG,M_WA);PRIM(3,PL,M_MI);COND;PRS;NEG	asingekuwa akiiagiza.
+agiza	V;PROG;NOM(3,SG,U);PRIM(3,PL,JI_MA);IND;PST	ulikuwa ukiyaagiza.
+agiza	V;IND;PST;NEG;NOM(3,PL,N);PRIM(3,PL,M_MI)	hazikuiagiza.
+agiza	V;COND;PST;NEG;LGSPEC1;NOM(2,PL);PRIM(PROXM);Q	hamngalipaagiza?
+agiza	V;PROG;NOM(3,SG,JI_MA);PRIM(3,SG,U);COND;PST	lingalikuwa likiuagiza.
+agiza	V;IND;PST;PRF;NOM(3,SG,JI_MA);PRIM(REM);NEG	halikuwa limekuagiza.
+agiza	V;IND;PST;PRF;NOM(2,SG);PRIM(3,SG,M_WA)	ulikuwa umemagiza.
+agiza	V;PROG;NOM(3,SG,KU);PRIM(3,PL,M_WA);COND;PST	kungalikuwa kukiwaagiza.
+agiza	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(3,SG,KI_VI);NEG	usingalikuwa umekiagiza.
+agiza	V;COND;PRS;NOM(3,PL,N);PRIM(3,SG,KI_VI);Q	zingekiagiza?
+agiza	V;IND;FUT;PRF;NOM(IN);PRIM(3,SG,KU);NEG	hamutakuwa mumekuagiza.
+agiza	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(3,SG,M_WA);NEG;LGSPEC1	haungalikuwa umemagiza.
+agiza	V;PROG;NOM(2,PL);PRIM(1,PL);IND;PST	mlikuwa mkituagiza.
+agiza	V;PROG;NOM(REM);PRIM(IN);COND;PST	kungalikuwa kukimuagiza.
+agiza	V;COND;PRS;NOM(3,SG,N);PRIM(REM);Q	ingekuagiza?
+agiza	V;COND;PST;NEG;LGSPEC1;NOM(1,SG);PRIM(3,PL,M_WA);Q	singaliwaagiza?
+agiza	V;COND;PRS;PRF;NOM(3,PL,M_WA);PRIM(3,SG,KI_VI);Q	wangekuwa wamekiagiza?
+agiza	V;IND;PRS;PRF;NEG;NOM(1,PL);PRIM(3,SG,M_MI)	hatujauagiza.
+agiza	V;IND;PRS;NOM(3,SG,M_MI);PRIM(3,SG,U)	unauagiza.
+agiza	V;PROG;NOM(3,PL,M_WA);PRIM(PROXM);IND;PRS;PRF;NEG;Q	hawajakuwa wakipaagiza?
+agiza	V;IND;PST;PRF;NOM(3,SG,N);PRIM(3,PL,N)	ilikuwa imeziagiza.
+agiza	V;IND;FUT;PRF;NOM(2,PL);PRIM(PROXM)	mtakuwa mmepaagiza.
+ajiriwa	V;IND;FUT;NEG;NOM(3,SG,KI_VI);Q	hakitaajiriwa?
+ajiriwa	V;COND;PST;PRF;NOM(3,PL,JI_MA);NEG;LGSPEC1;Q	hayangalikuwa yameajiriwa?
+ajiriwa	V;PROG;NOM(3,SG,M_WA);COND;PRS	angekuwa akiajiriwa.
+ajiriwa	V;IND;FUT;PRF;NOM(1,PL)	tutakuwa tumeajiriwa.
+ajiriwa	V;COND;PRS;NEG;NOM(IN)	musingeajiriwa.
+ajiriwa	V;COND;PST;PRF;NOM(3,SG,N)	ingalikuwa imeajiriwa.
+ajiriwa	V;PROG;NOM(3,PL,JI_MA);IND;PRS;PRF;NEG;Q	hayajakuwa yakiajiriwa?
+ajiriwa	V;IND;PRS;NEG;NOM(2,PL);HAB	nyinyi huwa hamajiriwi.
+ajiriwa	V;IND;PRS;NEG;NOM(3,SG,JI_MA)	haliajiriwi.
+ajiriwa	V;PROG;NOM(REM);IND;PST;NEG	hakukuwa kukiajiriwa.
+ajiriwa	V;IND;PRS;NEG;NOM(3,SG,KU);Q	hakuajiriwi?
+ajiriwa	V;SUBJ;PRS;NOM(3,SG,JI_MA);Q	liajiriwe?
+ajiriwa	V;COND;PRS;PRF;NOM(REM);NEG;Q	kusingekuwa kumeajiriwa?
+ajiriwa	V;COND;PRS;PRF;NOM(PROXM);Q	pangekuwa pameajiriwa?
+ajiriwa	V;COND;PRS;NOM(2,SG);Q	ungeajiriwa?
+ajiriwa	V;IND;PST;PRF;NOM(IN);NEG;Q	hamukuwa mumeajiriwa?
+ajiriwa	V;COND;PST;PRF;NOM(3,PL,JI_MA);NEG	yasingalikuwa yameajiriwa.
+ajiriwa	V;IND;FUT;NEG;NOM(3,SG,N);Q	haitaajiriwa?
+ajiriwa	V;IND;FUT;NOM(2,PL)	mtaajiriwa.
+ajiriwa	V;COND;PRS;PRF;NOM(REM);NEG;LGSPEC1;Q	hakungekuwa kumeajiriwa?
+ajiriwa	V;PROG;NOM(3,SG,KU);IND;PST	kulikuwa kukiajiriwa.
+ajiriwa	V;PROG;NOM(3,SG,M_MI);IND;PRS;PRF	umekuwa ukiajiriwa.
+ajiriwa	V;IND;PST;PRF;NOM(3,SG,M_WA);NEG;Q	hakuwa ameajiriwa?
+ajiriwa	V;COND;PRS;PRF;NOM(1,SG)	ningekuwa nimeajiriwa.
+chonga	V;PROG;NOM(2,PL);PRIM(3,SG,M_WA);COND;PST;Q	mngalikuwa mkimchonga?
+chonga	V;SUBJ;PRS;NOM(3,SG,M_MI);PRIM(3,SG,KI_VI);Q	ukichonge?
+chonga	V;COND;PRS;PRF;NOM(1,PL);PRIM(IN);NEG;Q	tusingekuwa tumemuchonga?
+chonga	V;IND;PRS;NOM(3,PL,M_MI);PRIM(3,SG,U);Q	inauchonga?
+chonga	V;PROG;NOM(3,SG,M_MI);PRIM(3,SG,M_WA);IND;PST;NEG	haukuwa ukimchonga.
+chonga	V;COND;PST;PRF;NOM(IN);PRIM(3,SG,M_WA);NEG	musingalikuwa mumemchonga.
+chonga	V;COND;PST;NOM(IN);PRIM(3,PL,M_WA);Q	mungaliwachonga?
+chonga	V;SUBJ;PRS;NEG;NOM(1,SG);PRIM(3,SG,KU);Q	nisikuchonge?
+chonga	V;IND;PRS;PRF;NOM(3,PL,JI_MA);PRIM(3,SG,M_MI);Q	yameuchonga?
+chonga	V;PROG;NOM(3,PL,JI_MA);PRIM(IN);COND;PST	yangalikuwa yakimuchonga.
+chonga	V;COND;PST;NEG;NOM(REM);PRIM(3,SG,M_WA);Q	kusingalimchonga?
+chonga	V;COND;PST;PRF;NOM(3,SG,KU);PRIM(3,PL,M_WA)	kungalikuwa kumewachonga.
+chonga	V;SUBJ;PRS;NOM(3,PL,M_WA);PRIM(1,PL)	watuchonge.
+chonga	V;PROG;NOM(PROXM);PRIM(3,SG,U);COND;PST;NEG;Q	pasingalikuwa pakiuchonga?
+chonga	V;PROG;NOM(3,SG,U);PRIM(1,PL);IND;PST;NEG	haukuwa ukituchonga.
+chonga	V;PROG;NOM(3,PL,M_WA);PRIM(3,SG,KI_VI);COND;PRS;Q	wangekuwa wakikichonga?
+chonga	V;PROG;NOM(3,PL,KI_VI);PRIM(3,SG,KI_VI);COND;PRS;NEG;LGSPEC1;Q	havingekuwa vikikichonga?
+chonga	V;IND;FUT;NEG;NOM(3,SG,U);PRIM(2,PL);Q	hautawachonga?
+fuatwa	V;COND;PRS;PRF;NOM(3,SG,KU);NEG;Q	kusingekuwa kumefuatwa?
+fuatwa	V;PROG;NOM(3,PL,M_MI);COND;PST;NEG;Q	isingalikuwa ikifuatwa?
+fuatwa	V;COND;PRS;NEG;NOM(3,PL,M_MI)	isingefuatwa.
+fuatwa	V;PROG;NOM(3,PL,KI_VI);COND;PST;NEG;Q	visingalikuwa vikifuatwa?
+fuatwa	V;PROG;NOM(3,SG,M_WA);COND;PRS;NEG;LGSPEC1	hangekuwa akifuatwa.
+fuatwa	V;IND;FUT;NOM(3,SG,N);Q	itafuatwa?
+fuatwa	V;PROG;NOM(3,SG,M_MI);IND;PST	ulikuwa ukifuatwa.
+fuatwa	V;IND;PST;NEG;NOM(3,PL,M_WA)	hawakufuatwa.
+fuatwa	V;COND;PRS;PRF;NOM(IN);NEG;LGSPEC1	hamungekuwa mumefuatwa.
+fuatwa	V;IND;FUT;NEG;NOM(2,PL);Q	hamtafuatwa?
+fuatwa	V;IND;PST;PRF;NOM(PROXM);NEG	hapakuwa pamefuatwa.
+fuatwa	V;PROG;NOM(2,PL);COND;PST	mngalikuwa mkifuatwa.
+fuatwa	V;PROG;NOM(3,PL,JI_MA);COND;PRS;Q	yangekuwa yakifuatwa?
+fuatwa	V;IND;FUT;PRF;NOM(3,PL,N);NEG	hazitakuwa zimefuatwa.
+fuatwa	V;COND;PRS;PRF;NOM(3,PL,JI_MA);NEG;Q	yasingekuwa yamefuatwa?
+fuatwa	V;COND;PRS;PRF;NOM(3,SG,N);Q	ingekuwa imefuatwa?
+fuatwa	V;COND;PRS;PRF;NOM(3,PL,KI_VI);NEG;Q	visingekuwa vimefuatwa?
+fuatwa	V;PROG;NOM(1,SG);IND;PST;Q	nilikuwa nikifuatwa?
+fuatwa	V;PROG;NOM(REM);COND;PST	kungalikuwa kukifuatwa.
+teseka	V;COND;PST;PRF;NOM(3,PL,M_WA);NEG;LGSPEC1;Q	hawangalikuwa wameteseka?
+teseka	V;COND;PRS;NEG;LGSPEC1;NOM(REM);Q	hakungeteseka?
+teseka	V;IND;FUT;NOM(3,PL,M_MI)	itateseka.
+teseka	V;IND;PRS;NEG;NOM(2,PL);HAB;Q	nyinyi huwa hamteseki?
+teseka	V;COND;PRS;PRF;NOM(3,SG,N);NEG;LGSPEC1	haingekuwa imeteseka.
+teseka	V;PROG;NOM(IN);IND;PRS;PRF;NEG	hamujakuwa mukiteseka.
+teseka	V;PROG;NOM(2,SG);IND;PST;NEG	hukuwa ukiteseka.
+teseka	V;PROG;NOM(REM);COND;PRS;NEG;LGSPEC1;Q	hakungekuwa kukiteseka?
+teseka	V;SUBJ;PRS;NOM(3,PL,N)	ziteseke.
+teseka	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KU);Q	hakungeteseka?
+teseka	V;COND;PST;PRF;NOM(3,SG,M_MI);NEG;LGSPEC1;Q	haungalikuwa umeteseka?
+teseka	V;PROG;NOM(3,SG,JI_MA);COND;PRS;Q	lingekuwa likiteseka?
+teseka	V;COND;PST;NOM(PROXM)	pangaliteseka.
+teseka	V;IND;PRS;PRF;NOM(REM);Q	kumeteseka?
+teseka	V;PROG;NOM(1,SG);IND;PRS;PRF;NEG	sijakuwa nikiteseka.
+teseka	V;COND;PST;PRF;NOM(2,PL);NEG;Q	msingalikuwa mmeteseka?
+teseka	V;PROG;NOM(3,PL,M_MI);IND;PST;NEG;Q	hikuwa ikiteseka?
+teseka	V;PROG;NOM(2,SG);COND;PRS;NEG;Q	usingekuwa ukiteseka?
+teseka	V;SUBJ;PRS;NOM(PROXM)	pateseke.
+teseka	V;IND;FUT;PRF;NOM(3,SG,M_MI);NEG	hautakuwa umeteseka.
+teseka	V;PROG;NOM(2,SG);COND;PRS;Q	ungekuwa ukiteseka?
+teseka	V;SUBJ;PRS;NEG;NOM(3,SG,M_WA)	asiteseke.
+teseka	V;COND;PRS;NEG;LGSPEC1;NOM(REM)	hakungeteseka.
+ngoja	V;IND;PST;NOM(3,PL,M_WA);Q	walingoja?
+ngoja	V;IND;PST;NOM(1,PL);Q	tulingoja?
+ngoja	V;PROG;NOM(3,SG,U);COND;PST;NEG;Q	usingalikuwa ukingoja?
+ngoja	V;COND;PST;NEG;LGSPEC1;NOM(1,SG)	singalingoja.
+ngoja	V;COND;PRS;PRF;NOM(3,SG,M_MI)	ungekuwa umengoja.
+ngoja	V;IND;PRS;PRF;NEG;NOM(2,SG)	hujangoja.
+ngoja	V;COND;PRS;NOM(3,PL,M_MI);Q	ingengoja?
+ngoja	V;COND;PRS;NOM(3,PL,JI_MA);Q	yangengoja?
+ngoja	V;COND;PRS;PRF;NOM(REM)	kungekuwa kumengoja.
+ngoja	V;PROG;NOM(3,PL,KI_VI);IND;FUT;Q	vitakuwa vikingoja?
+ngoja	V;COND;PST;NEG;LGSPEC1;NOM(REM);Q	hakungalingoja?
+ngoja	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,JI_MA);Q	halingengoja?
+ngoja	V;IND;PRS;NOM(3,SG,N);Q	inangoja?
+ngoja	V;COND;PRS;NEG;NOM(3,SG,U)	usingengoja.
+ngoja	V;IND;FUT;NEG;NOM(3,SG,JI_MA)	halitangoja.
+ngoja	V;IND;PRS;NOM(PROXM)	panangoja.
+ngoja	V;PROG;NOM(3,PL,N);COND;PRS	zingekuwa zikingoja.
+ngoja	V;COND;PRS;NEG;LGSPEC1;NOM(1,SG)	singengoja.
+ngoja	V;COND;PST;PRF;NOM(PROXM);NEG	pasingalikuwa pamengoja.
+ngoja	V;PROG;NOM(3,SG,U);COND;PST;NEG	usingalikuwa ukingoja.
+ngoja	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,M_MI)	hingengoja.
+ngoja	V;IND;PRS;PRF;NEG;NOM(1,PL);Q	hatujangoja?
+ngoja	V;COND;PST;PRF;NOM(3,SG,KU)	kungalikuwa kumengoja.
+ngoja	V;IND;PST;NOM(REM)	kulingoja.
+ngoja	V;SUBJ;PRS;NOM(3,SG,KU);Q	kungoje?
+ngoja	V;COND;PRS;PRF;NOM(2,SG);NEG;Q	usingekuwa umengoja?
+sumbua	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,KI_VI);PRIM(3,SG,M_WA)	havingemsumbua.
+sumbua	V;PROG;NOM(3,SG,M_WA);PRIM(3,PL,JI_MA);COND;PST;NEG;LGSPEC1;Q	hangalikuwa akiyasumbua?
+sumbua	V;IND;PST;PRF;NOM(REM);PRIM(PROXM);NEG;Q	hakukuwa kumepasumbua?
+sumbua	V;PROG;NOM(REM);PRIM(2,PL);COND;PST;NEG;Q	kusingalikuwa kukiwasumbua?
+sumbua	V;IND;PRS;PRF;NOM(1,SG);PRIM(IN)	nimemusumbua.
+sumbua	V;IND;FUT;PRF;NOM(1,SG);PRIM(3,SG,N);Q	nitakuwa nimeisumbua?
+sumbua	V;IND;FUT;PRF;NOM(3,SG,N);PRIM(REM)	itakuwa imekusumbua.
+sumbua	V;COND;PRS;PRF;NOM(3,PL,M_WA);PRIM(1,PL);Q	wangekuwa wametusumbua?
+sumbua	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU);PRIM(RFLX)	hakungalijisumbua.
+sumbua	V;IND;PST;NEG;NOM(PROXM);PRIM(3,PL,JI_MA);Q	hapakuyasumbua?
+sumbua	V;COND;PST;PRF;NOM(1,SG);PRIM(3,PL,M_WA);Q	ningalikuwa nimewasumbua?
+sumbua	V;PROG;NOM(2,SG);PRIM(3,PL,KI_VI);IND;FUT;Q	utakuwa ukivisumbua?
+sumbua	V;PROG;NOM(3,PL,KI_VI);PRIM(3,SG,M_MI);COND;PRS;NEG;LGSPEC1	havingekuwa vikiusumbua.
+sumbua	V;PROG;NOM(IN);PRIM(2,SG);COND;PST;NEG;LGSPEC1;Q	hamungalikuwa mukikusumbua?
+sumbua	V;COND;PST;NEG;LGSPEC1;NOM(1,SG);PRIM(REM)	singalikusumbua.
+sumbua	V;IND;FUT;NOM(PROXM);PRIM(2,SG)	patakusumbua.
+sumbua	V;PROG;NOM(3,SG,U);PRIM(2,PL);COND;PST;NEG;LGSPEC1;Q	haungalikuwa ukiwasumbua?
+sumbua	V;PROG;NOM(3,SG,JI_MA);PRIM(3,PL,JI_MA);IND;PRS;PRF;NEG;Q	halijakuwa likiyasumbua?
+sumbua	V;PROG;NOM(3,SG,U);PRIM(2,PL);COND;PRS;NEG;Q	usingekuwa ukiwasumbua?
+zua	V;COND;PST;PRF;NOM(1,SG);PRIM(PROXM);NEG;LGSPEC1;Q	singalikuwa nimepazua?
+zua	V;COND;PST;NOM(PROXM);PRIM(3,SG,U)	pangaliuzua.
+zua	V;IND;PRS;NEG;NOM(PROXM);PRIM(3,SG,JI_MA);Q	hapalizui?
+zua	V;IND;PRS;PRF;NOM(3,SG,M_MI);PRIM(2,SG)	umekuzua.
+zua	V;COND;PRS;NEG;NOM(3,SG,M_MI);PRIM(3,PL,M_MI)	usingeizua.
+zua	V;PROG;NOM(2,PL);PRIM(3,SG,N);COND;PRS;NEG;LGSPEC1;Q	hamngekuwa mkiizua?
+zua	V;COND;PRS;PRF;NOM(3,SG,KU);PRIM(PROXM);NEG;LGSPEC1	hakungekuwa kumepazua.
+zua	V;IMP;NOM(2,PL);PRIM(REM);Q	kuzueni?!
+zua	V;SUBJ;PRS;NEG;NOM(2,PL);PRIM(3,SG,JI_MA)	msilizue.
+zua	V;COND;PRS;NOM(3,PL,JI_MA);PRIM(REM);Q	yangekuzua?
+zua	V;COND;PRS;PRF;NOM(3,SG,N);PRIM(3,PL,JI_MA);NEG	isingekuwa imeyazua.
+zua	V;COND;PST;NEG;LGSPEC1;NOM(1,PL);PRIM(3,PL,KI_VI);Q	hatungalivizua?
+zua	V;PROG;NOM(3,SG,KU);PRIM(REM);IND;PRS;PRF;Q	kumekuwa kukikuzua?
+zua	V;IND;PST;PRF;NOM(3,SG,U);PRIM(IN);NEG;Q	haukuwa umemuzua?
+zua	V;SUBJ;PRS;NOM(2,PL);PRIM(1,PL)	mtuzue.
+zua	V;PROG;NOM(3,PL,M_WA);PRIM(3,PL,JI_MA);COND;PRS;NEG	wasingekuwa wakiyazua.
+zua	V;COND;PRS;NEG;NOM(3,SG,M_WA);PRIM(IN)	asingemuzua.
+zua	V;COND;PRS;PRF;NOM(3,SG,KI_VI);PRIM(RFLX);NEG;Q	kisingekuwa kimejizua?
+zua	V;IND;FUT;PRF;NOM(3,PL,M_WA);PRIM(PROXM);NEG;Q	hawatakuwa wamepazua?
+zua	V;PROG;NOM(3,PL,M_MI);PRIM(2,SG);COND;PST;NEG;Q	isingalikuwa ikikuzua?
+zua	V;PROG;NOM(3,SG,KU);PRIM(2,PL);COND;PST;NEG;LGSPEC1;Q	hakungalikuwa kukiwazua?
+fahamika	V;COND;PST;NEG;NOM(3,PL,M_WA);COM(1,PL)	wasingalifahamika nasi.
+fahamika	V;IND;FUT;PRF;NOM(3,SG,M_WA);COM(3,PL,N);Q	atakuwa amefahamika nazo?
+fahamika	V;PROG;NOM(2,PL);COND;PST;NEG;LGSPEC1;COM(3,PL,N);Q	hamngalikuwa mkifahamika nazo?
+fahamika	V;IND;PST;NEG;NOM(3,SG,N);COM(IN,RFLX)	haikufahamika mwenyewe.
+fahamika	V;IND;PST;PRF;NOM(3,SG,U);COM(3,SG,JI_MA);Q	ulikuwa umefahamika nalo?
+fahamika	V;SUBJ;PRS;NOM(REM)	kufahamike.
+fahamika	V;PROG;NOM(3,PL,JI_MA);COND;PRS;NEG;LGSPEC1	hayangekuwa yakifahamika.
+fahamika	V;COND;PST;NOM(3,SG,U);COM(3,SG,JI_MA);Q	ungalifahamika nalo?
+fahamika	V;IND;PST;PRF;NOM(2,SG);NEG;COM(3,PL,KI_VI);Q	hukuwa umefahamika navyo?
+fahamika	V;PROG;NOM(PROXM);COND;PST;NEG;LGSPEC1;COM(3,SG,JI_MA);Q	hapangalikuwa pakifahamika nalo?
+fahamika	V;IND;FUT;PRF;NOM(3,SG,U);NEG;COM(3,SG,U,RFLX);Q	hautakuwa umefahamika wenyewe?
+fahamika	V;PROG;NOM(3,SG,KI_VI);IND;PRS;PRF;NEG;COM(3,SG,JI_MA)	hakijakuwa kikifahamika nalo.
+fahamika	V;COND;PST;PRF;NOM(3,SG,N);NEG;COM(3,SG,N,RFLX);Q	isingalikuwa imefahamika yenyewe?
+fahamika	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,JI_MA);COM(REM)	halingefahamika nako.
+fahamika	V;IND;PST;NEG;NOM(REM);COM(3,SG,N);Q	hakukufahamika nayo?
+fahamika	V;IND;PST;PRF;NOM(3,PL,M_MI);COM(3,SG,JI_MA)	ilikuwa imefahamika nalo.
+fahamika	V;PROG;NOM(2,PL);IND;FUT;NEG;COM(1,SG);Q	hamtakuwa mkifahamika nami?
+fahamika	V;IND;PST;NOM(3,SG,M_MI)	ulifahamika.
+fahamika	V;PROG;NOM(3,SG,U);COND;PRS;NEG;LGSPEC1;COM(REM);Q	haungekuwa ukifahamika nako?
+fahamika	V;COND;PRS;NEG;NOM(2,SG);COM(3,PL,M_WA)	usingefahamika nao.
+wekewa	V;IND;FUT;NEG;NOM(1,PL)	hatutawekewa.
+wekewa	V;IND;PRS;PRF;NOM(2,PL)	mmewekewa.
+wekewa	V;IND;PRS;NEG;NOM(1,SG);HAB;Q	mimi huwa siwekewi?
+wekewa	V;PROG;NOM(2,SG);IND;FUT;NEG;Q	hutakuwa ukiwekewa?
+wekewa	V;COND;PST;PRF;NOM(3,SG,JI_MA);NEG;LGSPEC1;Q	halingalikuwa limewekewa?
+wekewa	V;PROG;NOM(1,SG);COND;PST;NEG;Q	nisingalikuwa nikiwekewa?
+wekewa	V;IND;FUT;NOM(3,SG,M_MI)	utawekewa.
+wekewa	V;PROG;NOM(3,PL,KI_VI);COND;PST;NEG	visingalikuwa vikiwekewa.
+wekewa	V;PROG;NOM(3,PL,N);IND;PST;NEG	hazikuwa zikiwekewa.
+wekewa	V;COND;PST;PRF;NOM(3,SG,M_MI);NEG;LGSPEC1	haungalikuwa umewekewa.
+wekewa	V;IND;PST;NOM(2,PL);Q	mliwekewa?
+wekewa	V;IND;PRS;NEG;NOM(2,SG);HAB	wewe huwa huwekewi.
+wekewa	V;COND;PST;NEG;NOM(1,SG);Q	nisingaliwekewa?
+wekewa	V;IND;FUT;NOM(1,PL)	tutawekewa.
+wekewa	V;PROG;NOM(3,SG,U);IND;FUT	utakuwa ukiwekewa.
+wekewa	V;PROG;NOM(3,PL,N);COND;PST;NEG;Q	zisingalikuwa zikiwekewa?
+wekewa	V;IND;PRS;NEG;NOM(3,PL,KI_VI);Q	haviwekewi?
+wekewa	V;PROG;NOM(3,SG,U);COND;PRS;NEG;LGSPEC1	haungekuwa ukiwekewa.
+wekewa	V;IND;PRS;PRF;NOM(REM);Q	kumewekewa?
+wekewa	V;PROG;NOM(3,PL,M_MI);COND;PST	ingalikuwa ikiwekewa.
+wekewa	V;COND;PRS;NEG;NOM(1,PL)	tusingewekewa.
+wekewa	V;PROG;NOM(3,SG,N);IND;FUT;NEG;Q	haitakuwa ikiwekewa?
+wekewa	V;PROG;NOM(3,PL,M_MI);IND;PRS;PRF	imekuwa ikiwekewa.
+timiza	V;PROG;NOM(3,PL,KI_VI);COND;PST;NEG;LGSPEC1;Q	havingalikuwa vikitimiza?
+timiza	V;COND;PRS;NEG;NOM(3,SG,JI_MA)	lisingetimiza.
+timiza	V;IND;PRS;NOM(3,SG,KI_VI)	kinatimiza.
+timiza	V;PROG;NOM(3,SG,N);IND;FUT;NEG;Q	haitakuwa ikitimiza?
+timiza	V;COND;PRS;PRF;NOM(PROXM)	pangekuwa pametimiza.
+timiza	V;PROG;NOM(REM);IND;PRS;PRF;NEG	hakujakuwa kukitimiza.
+timiza	V;IND;PRS;PRF;NOM(REM);Q	kumetimiza?
+timiza	V;PROG;NOM(3,SG,KI_VI);COND;PST;NEG;LGSPEC1;Q	hakingalikuwa kikitimiza?
+timiza	V;SUBJ;PRS;NEG;NOM(IN)	musitimize.
+timiza	V;COND;PST;PRF;NOM(3,PL,M_MI);NEG;LGSPEC1;Q	hingalikuwa imetimiza?
+timiza	V;PROG;NOM(IN);COND;PST;NEG	musingalikuwa mukitimiza.
+timiza	V;IND;PST;NOM(3,PL,JI_MA);Q	yalitimiza?
+timiza	V;PROG;NOM(3,PL,JI_MA);COND;PRS;NEG;LGSPEC1	hayangekuwa yakitimiza.
+timiza	V;IND;PST;PRF;NOM(3,SG,M_MI);Q	ulikuwa umetimiza?
+timiza	V;PROG;NOM(PROXM);IND;FUT;NEG	hapatakuwa pakitimiza.
+timiza	V;COND;PRS;NOM(REM)	kungetimiza.
+timiza	V;PROG;NOM(2,PL);IND;PST;Q	mlikuwa mkitimiza?
+timiza	V;COND;PRS;PRF;NOM(3,SG,U);Q	ungekuwa umetimiza?
+timiza	V;COND;PRS;PRF;NOM(1,SG);NEG	nisingekuwa nimetimiza.
+timiza	V;PROG;NOM(REM);COND;PRS;NEG	kusingekuwa kukitimiza.
+timiza	V;PROG;NOM(3,PL,KI_VI);IND;PST;Q	vilikuwa vikitimiza?
+timiza	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KU)	hakungetimiza.
+ganga	V;IND;FUT;PRF;NOM(3,SG,KU);PRIM(IN)	kutakuwa kumemuganga.
+ganga	V;COND;PST;PRF;NOM(3,SG,M_MI);PRIM(2,PL);NEG	usingalikuwa umewaganga.
+ganga	V;SUBJ;PRS;NOM(3,SG,JI_MA);PRIM(IN)	limugange.
+ganga	V;COND;PRS;PRF;NOM(1,SG);PRIM(3,PL,JI_MA);NEG;Q	nisingekuwa nimeyaganga?
+ganga	V;PROG;NOM(3,SG,M_MI);PRIM(3,SG,M_MI);COND;PRS;NEG;LGSPEC1	haungekuwa ukiuganga.
+ganga	V;PROG;NOM(3,SG,M_WA);PRIM(PROXM);IND;PRS;PRF;Q	amekuwa akipaganga?
+ganga	V;COND;PRS;PRF;NOM(3,PL,N);PRIM(3,SG,JI_MA);NEG	zisingekuwa zimeliganga.
+ganga	V;IND;PST;PRF;NOM(PROXM);PRIM(1,SG);NEG	hapakuwa pameniganga.
+ganga	V;PROG;NOM(3,SG,JI_MA);PRIM(3,SG,M_MI);COND;PST;Q	lingalikuwa likiuganga?
+ganga	V;PROG;NOM(1,PL);PRIM(3,SG,U);IND;PRS;PRF;NEG;Q	hatujakuwa tukiuganga?
+ganga	V;IND;FUT;PRF;NOM(2,PL);PRIM(3,SG,KU)	mtakuwa mmekuganga.
+ganga	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_MI);PRIM(2,SG)	haungekuganga.
+ganga	V;PROG;NOM(3,PL,JI_MA);PRIM(3,PL,JI_MA);COND;PST;Q	yangalikuwa yakiyaganga?
+ganga	V;IND;FUT;NOM(REM);PRIM(REM);Q	kutakuganga?
+ganga	V;IND;FUT;PRF;NOM(3,SG,M_MI);PRIM(3,SG,M_WA);NEG;Q	hautakuwa umemganga?
+ganga	V;PROG;NOM(3,SG,M_MI);PRIM(1,PL);COND;PRS;Q	ungekuwa ukituganga?
+ganga	V;COND;PRS;NEG;LGSPEC1;NOM(PROXM);PRIM(3,SG,N);Q	hapangeiganga?
+ganga	V;PROG;NOM(3,PL,N);PRIM(3,SG,M_MI);IND;PRS;PRF;Q	zimekuwa zikiuganga?
+ganga	V;PROG;NOM(3,PL,M_WA);PRIM(2,PL);COND;PST;NEG	wasingalikuwa wakiwaganga.
+ganga	V;PROG;NOM(3,PL,N);PRIM(1,SG);COND;PRS	zingekuwa zikiniganga.
+ganga	V;IND;PST;PRF;NOM(3,PL,M_WA);PRIM(3,SG,U);NEG	hawakuwa wameuganga.
+ganga	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,N);PRIM(IN);Q	hazingemuganga?
+ganga	V;IND;PST;PRF;NOM(3,PL,N);PRIM(3,PL,M_MI);Q	zilikuwa zimeiganga?
+jasiri	V;PROG;NOM(1,PL);IND;PST;NEG	hatukuwa tukijasiri.
+jasiri	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,N);Q	hazingalijasiri?
+jasiri	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,M_WA);Q	hawangalijasiri?
+jasiri	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,KI_VI)	havingejasiri.
+jasiri	V;PROG;NOM(3,PL,KI_VI);COND;PRS;Q	vingekuwa vikijasiri?
+jasiri	V;COND;PST;NEG;LGSPEC1;NOM(PROXM)	hapangalijasiri.
+jasiri	V;COND;PST;PRF;NOM(3,SG,M_MI);NEG;Q	usingalikuwa umejasiri?
+jasiri	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,KU)	hakungejasiri.
+jasiri	V;PROG;NOM(3,PL,M_MI);COND;PRS;NEG;LGSPEC1	hingekuwa ikijasiri.
+jasiri	V;IND;PST;PRF;NOM(3,SG,KU);NEG	hakukuwa kumejasiri.
+jasiri	V;IND;PST;PRF;NOM(3,PL,M_WA)	walikuwa wamejasiri.
+jasiri	V;PROG;NOM(IN);COND;PRS;NEG;Q	musingekuwa mukijasiri?
+jasiri	V;IND;PST;PRF;NOM(2,SG);NEG;Q	hukuwa umejasiri?
+jasiri	V;IND;PST;NEG;NOM(REM);Q	hakukujasiri?
+jasiri	V;PROG;NOM(3,PL,KI_VI);COND;PRS;NEG;LGSPEC1	havingekuwa vikijasiri.
+jasiri	V;IND;FUT;NOM(3,PL,JI_MA);Q	yatajasiri?
+jasiri	V;PROG;NOM(2,PL);COND;PST	mngalikuwa mkijasiri.
+jasiri	V;IND;FUT;NEG;NOM(3,SG,N);Q	haitajasiri?
+jasiri	V;PROG;NOM(PROXM);COND;PST;NEG;LGSPEC1	hapangalikuwa pakijasiri.
+jasiri	V;IND;FUT;NOM(2,PL)	mtajasiri.
+jasiri	V;IND;PST;PRF;NOM(3,PL,N);NEG;Q	hazikuwa zimejasiri?
+jasiri	V;IND;FUT;NOM(3,SG,JI_MA)	litajasiri.
+jasiri	V;IND;PST;PRF;NOM(IN)	mulikuwa mumejasiri.
+jasiri	V;IND;PRS;PRF;NEG;NOM(2,PL);Q	hamjajasiri?
+imarisha	V;PROG;NOM(REM);PRIM(3,PL,M_WA);IND;FUT;Q	kutakuwa kukiwaimarisha?
+imarisha	V;COND;PST;PRF;NOM(2,SG);PRIM(3,SG,M_MI);NEG	usingalikuwa umeuimarisha.
+imarisha	V;SUBJ;PRS;NOM(3,SG,N);PRIM(3,PL,M_WA)	iwaimarishe.
+imarisha	V;PROG;NOM(3,PL,JI_MA);PRIM(3,PL,KI_VI);COND;PST;NEG	yasingalikuwa yakiviimarisha.
+imarisha	V;COND;PRS;PRF;NOM(1,SG);PRIM(3,PL,M_MI);NEG;LGSPEC1;Q	singekuwa nimeiimarisha?
+imarisha	V;IND;FUT;NEG;NOM(REM);PRIM(1,PL);Q	hakutatuimarisha?
+imarisha	V;PROG;NOM(1,PL);PRIM(3,SG,KU);COND;PRS;NEG;LGSPEC1;Q	hatungekuwa tukikuimarisha?
+imarisha	V;IND;PST;NOM(3,SG,U);PRIM(3,SG,KI_VI)	ulikiimarisha.
+imarisha	V;IND;PST;PRF;NOM(2,SG);PRIM(3,SG,KU);NEG;Q	hukuwa umekuimarisha?
+imarisha	V;COND;PRS;NOM(3,PL,M_MI);PRIM(3,PL,M_MI)	ingeiimarisha.
+imarisha	V;COND;PRS;PRF;NOM(PROXM);PRIM(RFLX);Q	pangekuwa pamejiimarisha?
+imarisha	V;IND;PRS;PRF;NOM(1,SG);PRIM(1,PL);Q	nimetuimarisha?
+imarisha	V;PROG;NOM(3,PL,KI_VI);PRIM(3,PL,N);IND;FUT	vitakuwa vikiziimarisha.
+imarisha	V;COND;PRS;PRF;NOM(3,PL,JI_MA);PRIM(3,SG,M_MI);Q	yangekuwa yameuimarisha?
+imarisha	V;COND;PST;PRF;NOM(3,SG,JI_MA);PRIM(3,SG,JI_MA)	lingalikuwa limeliimarisha.
+imarisha	V;COND;PRS;NEG;NOM(3,SG,JI_MA);PRIM(3,SG,N);Q	lisingeiimarisha?
+imarisha	V;PROG;NOM(3,PL,N);PRIM(3,PL,M_MI);IND;PST;Q	zilikuwa zikiiimarisha?
+imarisha	V;PROG;NOM(3,PL,M_WA);PRIM(2,PL);IND;FUT;NEG	hawatakuwa wakiwaimarisha.
+imarisha	V;IND;PST;PRF;NOM(REM);PRIM(3,SG,JI_MA)	kulikuwa kumeliimarisha.
+imarisha	V;COND;PST;PRF;NOM(2,SG);PRIM(3,SG,M_MI);Q	ungalikuwa umeuimarisha?
+imarisha	V;COND;PRS;PRF;NOM(3,SG,KU);PRIM(3,PL,N);Q	kungekuwa kumeziimarisha?
+angukia	V;PROG;NOM(3,PL,KI_VI);PRIM(3,PL,N);COND;PRS;NEG	visingekuwa vikiziangukia.
+angukia	V;PROG;NOM(3,PL,KI_VI);PRIM(IN);COND;PRS;Q	vingekuwa vikimuangukia?
+angukia	V;PROG;NOM(REM);PRIM(3,PL,KI_VI);COND;PRS;NEG;LGSPEC1	hakungekuwa kukiviangukia.
+angukia	V;PROG;NOM(3,SG,M_WA);PRIM(3,SG,N);COND;PRS;NEG;Q	asingekuwa akiiangukia?
+angukia	V;PROG;NOM(3,SG,U);PRIM(3,SG,U);IND;PST;NEG;Q	haukuwa ukiuangukia?
+angukia	V;COND;PST;PRF;NOM(3,PL,M_WA);PRIM(RFLX);NEG;LGSPEC1	hawangalikuwa wamejiangukia.
+angukia	V;SUBJ;PRS;NEG;NOM(REM);PRIM(1,PL)	kusituangukie.
+angukia	V;COND;PRS;NEG;NOM(3,PL,JI_MA);PRIM(3,SG,KI_VI);Q	yasingekiangukia?
+angukia	V;COND;PRS;PRF;NOM(3,SG,JI_MA);PRIM(PROXM)	lingekuwa limepaangukia.
+angukia	V;IND;PRS;PRF;NOM(IN);PRIM(2,PL);Q	mumewaangukia?
+angukia	V;IND;FUT;PRF;NOM(3,PL,JI_MA);PRIM(3,SG,M_MI);NEG;Q	hayatakuwa yameuangukia?
+angukia	V;COND;PST;NEG;NOM(3,SG,JI_MA);PRIM(REM);Q	lisingalikuangukia?
+angukia	V;IND;PST;PRF;NOM(3,SG,N);PRIM(3,SG,U);NEG	haikuwa imeuangukia.
+angukia	V;COND;PRS;NOM(1,SG);PRIM(3,SG,M_MI);Q	ningeuangukia?
+angukia	V;COND;PRS;NEG;NOM(3,SG,M_MI);PRIM(3,SG,M_WA)	usingemangukia.
+angukia	V;IND;PRS;PRF;NOM(2,SG);PRIM(3,SG,KI_VI)	umekiangukia.
+angukia	V;COND;PRS;PRF;NOM(3,PL,KI_VI);PRIM(1,PL);Q	vingekuwa vimetuangukia?
+angukia	V;COND;PRS;NEG;NOM(IN);PRIM(3,PL,JI_MA)	musingeyaangukia.
+angukia	V;IND;FUT;NEG;NOM(3,SG,KU);PRIM(1,SG);Q	hakutaniangukia?
+angukia	V;COND;PRS;NEG;NOM(3,SG,JI_MA);PRIM(1,SG)	lisingeniangukia.
+angukia	V;PROG;NOM(3,SG,M_WA);PRIM(3,SG,M_MI);COND;PRS;NEG;LGSPEC1;Q	hangekuwa akiuangukia?
+angukia	V;IND;PST;PRF;NOM(3,PL,KI_VI);PRIM(3,SG,M_WA)	vilikuwa vimemangukia.
+tolewa	V;SUBJ;PRS;NOM(3,PL,KI_VI)	vitolewe.
+tolewa	V;COND;PRS;NOM(3,SG,N);Q	ingetolewa?
+tolewa	V;COND;PST;PRF;NOM(3,PL,JI_MA);NEG;LGSPEC1	hayangalikuwa yametolewa.
+tolewa	V;PROG;NOM(3,PL,JI_MA);IND;PRS;PRF;NEG	hayajakuwa yakitolewa.
+tolewa	V;IND;PRS;NEG;NOM(3,SG,KI_VI);Q	hakitolewi?
+tolewa	V;COND;PST;PRF;NOM(3,SG,JI_MA);NEG;LGSPEC1;Q	halingalikuwa limetolewa?
+tolewa	V;PROG;NOM(3,SG,U);COND;PST;NEG;LGSPEC1;Q	haungalikuwa ukitolewa?
+tolewa	V;COND;PRS;NEG;NOM(3,SG,KI_VI);Q	kisingetolewa?
+tolewa	V;COND;PRS;PRF;NOM(3,SG,KI_VI)	kingekuwa kimetolewa.
+tolewa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU);Q	hakungalitolewa?
+tolewa	V;COND;PST;PRF;NOM(1,SG);NEG;Q	nisingalikuwa nimetolewa?
+tolewa	V;PROG;NOM(2,PL);IND;FUT;Q	mtakuwa mkitolewa?
+tolewa	V;IND;FUT;NOM(1,SG);Q	nitatolewa?
+tolewa	V;IND;PRS;PRF;NEG;NOM(3,SG,M_WA)	hajatolewa.
+tolewa	V;PROG;NOM(3,PL,M_WA);IND;FUT;NEG	hawatakuwa wakitolewa.
+tolewa	V;COND;PRS;PRF;NOM(3,SG,N);NEG	isingekuwa imetolewa.
+tolewa	V;IND;PRS;HAB;NOM(3,PL,M_WA);Q	wao hutolewa?
+tolewa	V;IND;FUT;NOM(3,PL,N)	zitatolewa.
+tolewa	V;IND;PST;PRF;NOM(3,SG,N)	ilikuwa imetolewa.
+tolewa	V;COND;PRS;PRF;NOM(REM);NEG	kusingekuwa kumetolewa.
+tolewa	V;IND;FUT;PRF;NOM(3,PL,KI_VI);Q	vitakuwa vimetolewa?
+tolewa	V;SUBJ;PRS;NOM(3,SG,KU);Q	kutolewe?
+fichwa	V;IND;FUT;PRF;NOM(3,SG,KU);Q	kutakuwa kumefichwa?
+fichwa	V;IND;PST;NOM(2,PL);Q	mlifichwa?
+fichwa	V;COND;PST;PRF;NOM(2,SG);NEG;Q	usingalikuwa umefichwa?
+fichwa	V;COND;PRS;NEG;NOM(3,PL,N);Q	zisingefichwa?
+fichwa	V;IND;PRS;HAB;NOM(1,SG)	mimi hufichwa.
+fichwa	V;PROG;NOM(1,SG);COND;PRS	ningekuwa nikifichwa.
+fichwa	V;IND;PST;PRF;NOM(3,SG,M_MI);NEG;Q	haukuwa umefichwa?
+fichwa	V;SUBJ;PRS;NOM(3,PL,M_MI)	ifichwe.
+fichwa	V;COND;PST;NOM(REM)	kungalifichwa.
+fichwa	V;PROG;NOM(3,PL,N);COND;PST	zingalikuwa zikifichwa.
+fichwa	V;COND;PST;NEG;LGSPEC1;NOM(IN);Q	hamungalifichwa?
+fichwa	V;COND;PST;PRF;NOM(3,PL,JI_MA);NEG	yasingalikuwa yamefichwa.
+fichwa	V;IND;PRS;PRF;NOM(2,SG);Q	umefichwa?
+fichwa	V;PROG;NOM(3,SG,JI_MA);COND;PRS;Q	lingekuwa likifichwa?
+fichwa	V;PROG;NOM(3,SG,N);COND;PRS;NEG	isingekuwa ikifichwa.
+fichwa	V;PROG;NOM(3,SG,M_MI);COND;PST	ungalikuwa ukifichwa.
+fichwa	V;PROG;NOM(3,SG,JI_MA);COND;PST;NEG	lisingalikuwa likifichwa.
+fichwa	V;COND;PRS;NOM(3,PL,M_MI);Q	ingefichwa?
+fichwa	V;IND;PST;NEG;NOM(3,PL,N);Q	hazikufichwa?
+fichwa	V;IND;PST;NEG;NOM(3,PL,N);Q	hazikufichwa?
+fichwa	V;COND;PRS;PRF;NOM(3,PL,M_MI)	ingekuwa imefichwa.
+fichwa	V;IND;PRS;NOM(REM)	kunafichwa.
+fichwa	V;SUBJ;PRS;NOM(3,PL,M_WA);Q	wafichwe?
+patwa	V;SUBJ;PRS;NEG;NOM(REM)	kusipatwe.
+patwa	V;IND;PST;NEG;NOM(3,PL,M_MI);Q	hikupatwa?
+patwa	V;SUBJ;PRS;NEG;NOM(3,PL,M_MI)	isipatwe.
+patwa	V;COND;PRS;PRF;NOM(PROXM);NEG	pasingekuwa pamepatwa.
+patwa	V;COND;PRS;PRF;NOM(3,SG,N);NEG;LGSPEC1;Q	haingekuwa imepatwa?
+patwa	V;IND;PRS;HAB;NOM(2,SG);Q	wewe hupatwa?
+patwa	V;IND;FUT;PRF;NOM(3,SG,JI_MA);NEG;Q	halitakuwa limepatwa?
+patwa	V;COND;PRS;NOM(1,PL)	tungepatwa.
+patwa	V;PROG;NOM(3,PL,KI_VI);IND;FUT;Q	vitakuwa vikipatwa?
+patwa	V;PROG;NOM(1,PL);COND;PRS;NEG;LGSPEC1	hatungekuwa tukipatwa.
+patwa	V;IND;PRS;NEG;NOM(3,SG,N)	haipatwi.
+patwa	V;PROG;NOM(IN);COND;PST;NEG;LGSPEC1;Q	hamungalikuwa mukipatwa?
+patwa	V;IND;PRS;PRF;NOM(2,SG)	umepatwa.
+patwa	V;PROG;NOM(3,PL,N);COND;PST;NEG;LGSPEC1	hazingalikuwa zikipatwa.
+patwa	V;IND;PRS;NEG;NOM(3,PL,KI_VI)	havipatwi.
+patwa	V;PROG;NOM(IN);COND;PRS;NEG	musingekuwa mukipatwa.
+patwa	V;COND;PST;PRF;NOM(IN);NEG;Q	musingalikuwa mumepatwa?
+patwa	V;COND;PST;PRF;NOM(REM);NEG;LGSPEC1	hakungalikuwa kumepatwa.
+patwa	V;PROG;NOM(2,SG);COND;PRS;NEG;Q	usingekuwa ukipatwa?
+patwa	V;PROG;NOM(3,PL,JI_MA);IND;PRS;PRF;Q	yamekuwa yakipatwa?
+patwa	V;COND;PRS;PRF;NOM(3,SG,M_MI);NEG;LGSPEC1;Q	haungekuwa umepatwa?
+patwa	V;IND;FUT;NOM(3,SG,M_WA);Q	atapatwa?
+patwa	V;IND;PST;NEG;NOM(3,SG,M_WA);Q	hakupatwa?
+shushwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_WA);Q	hangeshushwa?
+shushwa	V;PROG;NOM(3,SG,M_MI);IND;FUT;NEG;Q	hautakuwa ukishushwa?
+shushwa	V;IND;PST;PRF;NOM(3,PL,KI_VI);NEG;Q	havikuwa vimeshushwa?
+shushwa	V;IND;FUT;NEG;NOM(REM);Q	hakutashushwa?
+shushwa	V;PROG;NOM(3,PL,M_WA);IND;PST;NEG	hawakuwa wakishushwa.
+shushwa	V;PROG;NOM(3,SG,KU);IND;FUT;NEG	hakutakuwa kukishushwa.
+shushwa	V;PROG;NOM(3,SG,N);IND;PST;NEG	haikuwa ikishushwa.
+shushwa	V;IND;PST;NEG;NOM(3,PL,M_WA)	hawakushushwa.
+shushwa	V;PROG;NOM(1,PL);IND;FUT;NEG;Q	hatutakuwa tukishushwa?
+shushwa	V;PROG;NOM(3,SG,JI_MA);COND;PST;Q	lingalikuwa likishushwa?
+shushwa	V;COND;PST;PRF;NOM(3,PL,KI_VI);Q	vingalikuwa vimeshushwa?
+shushwa	V;IND;PST;PRF;NOM(3,PL,M_MI);Q	ilikuwa imeshushwa?
+shushwa	V;IND;PRS;NEG;NOM(3,SG,U)	haushushwi.
+shushwa	V;COND;PRS;PRF;NOM(3,SG,KI_VI);NEG;LGSPEC1;Q	hakingekuwa kimeshushwa?
+shushwa	V;PROG;NOM(3,SG,JI_MA);IND;FUT;NEG	halitakuwa likishushwa.
+shushwa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,JI_MA)	halingalishushwa.
+shushwa	V;PROG;NOM(3,SG,U);COND;PST;Q	ungalikuwa ukishushwa?
+shushwa	V;PROG;NOM(3,PL,M_WA);IND;PRS;PRF;Q	wamekuwa wakishushwa?
+shushwa	V;IND;PRS;PRF;NOM(3,SG,M_MI)	umeshushwa.
+shushwa	V;COND;PST;NEG;NOM(3,PL,M_WA);Q	wasingalishushwa?
+shushwa	V;IND;PRS;NOM(1,SG)	ninashushwa.
+kilio	V;PROG;NOM(1,PL);COND;PST	tungalikuwa tukikilia.
+kilio	V;IND;PRS;NOM(1,PL)	tunakilia.
+kilio	V;COND;PST;PRF;NOM(3,SG,M_MI);NEG	usingalikuwa umekilia.
+kilio	V;PROG;NOM(3,PL,M_WA);IND;FUT;Q	watakuwa wakikilia?
+kilio	V;IND;PST;NEG;NOM(3,PL,KI_VI)	havikukilia.
+kilio	V;IND;FUT;PRF;NOM(2,SG);NEG	hutakuwa umekilia.
+kilio	V;PROG;NOM(2,SG);COND;PST;NEG;LGSPEC1;Q	hungalikuwa ukikilia?
+kilio	V;IND;PST;NOM(3,PL,KI_VI)	vilikilia.
+kilio	V;IND;FUT;PRF;NOM(1,PL);NEG	hatutakuwa tumekilia.
+kilio	V;COND;PRS;PRF;NOM(PROXM);NEG;LGSPEC1	hapangekuwa pamekilia.
+kilio	V;COND;PST;PRF;NOM(3,PL,KI_VI);NEG;LGSPEC1;Q	havingalikuwa vimekilia?
+kilio	V;COND;PRS;PRF;NOM(3,SG,KI_VI);NEG;LGSPEC1;Q	hakingekuwa kimekilia?
+kilio	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_WA);Q	hangekilia?
+kilio	V;COND;PRS;PRF;NOM(PROXM);Q	pangekuwa pamekilia?
+kilio	V;PROG;NOM(3,PL,M_WA);COND;PST;NEG;LGSPEC1	hawangalikuwa wakikilia.
+kilio	V;IND;PST;PRF;NOM(3,PL,M_WA);NEG;Q	hawakuwa wamekilia?
+kilio	V;IND;FUT;PRF;NOM(1,PL)	tutakuwa tumekilia.
+kilio	V;IND;PST;NEG;NOM(3,SG,U);Q	haukukilia?
+kilio	V;IND;PST;NOM(3,SG,N);Q	ilikilia?
+kilio	V;PROG;NOM(3,PL,KI_VI);IND;PST;NEG	havikuwa vikikilia.
+kilio	V;PROG;NOM(3,PL,N);IND;PRS;PRF;NEG;Q	hazijakuwa zikikilia?
+shindwa	V;PROG;NOM(2,PL);IND;PRS;PRF;Q	mmekuwa mkishindwa?
+shindwa	V;PROG;NOM(1,PL);COND;PRS	tungekuwa tukishindwa.
+shindwa	V;PROG;NOM(IN);COND;PRS;NEG;LGSPEC1	hamungekuwa mukishindwa.
+shindwa	V;PROG;NOM(3,SG,U);IND;FUT;NEG	hautakuwa ukishindwa.
+shindwa	V;PROG;NOM(3,PL,JI_MA);IND;FUT;NEG	hayatakuwa yakishindwa.
+shindwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,M_WA);Q	hawangeshindwa?
+shindwa	V;IND;FUT;PRF;NOM(3,SG,KI_VI);NEG	hakitakuwa kimeshindwa.
+shindwa	V;PROG;NOM(IN);IND;PRS;PRF;NEG;Q	hamujakuwa mukishindwa?
+shindwa	V;COND;PST;NEG;NOM(3,SG,M_MI)	usingalishindwa.
+shindwa	V;IND;FUT;NOM(3,SG,KU)	kutashindwa.
+shindwa	V;COND;PRS;NOM(PROXM);Q	pangeshindwa?
+shindwa	V;COND;PRS;PRF;NOM(3,PL,KI_VI)	vingekuwa vimeshindwa.
+shindwa	V;IND;FUT;NEG;NOM(3,PL,KI_VI);Q	havitashindwa?
+shindwa	V;PROG;NOM(3,SG,N);COND;PRS;NEG;Q	isingekuwa ikishindwa?
+shindwa	V;PROG;NOM(3,SG,M_MI);COND;PST;NEG;Q	usingalikuwa ukishindwa?
+shindwa	V;PROG;NOM(1,SG);IND;PRS;PRF;Q	nimekuwa nikishindwa?
+shindwa	V;COND;PRS;NEG;NOM(3,SG,KU);Q	kusingeshindwa?
+shindwa	V;IND;PST;NOM(IN);Q	mulishindwa?
+shindwa	V;COND;PST;PRF;NOM(3,PL,M_MI);NEG;LGSPEC1	hingalikuwa imeshindwa.
+angalia	V;PROG;NOM(REM);PRIM(1,SG);IND;FUT;NEG	hakutakuwa kukiniangalia.
+angalia	V;PROG;NOM(3,SG,M_MI);PRIM(2,SG);IND;PRS;PRF;NEG	haujakuwa ukikuangalia.
+angalia	V;COND;PST;PRF;NOM(2,SG);PRIM(PROXM);NEG;LGSPEC1;Q	hungalikuwa umepaangalia?
+angalia	V;PROG;NOM(3,SG,N);PRIM(1,SG);COND;PRS	ingekuwa ikiniangalia.
+angalia	V;COND;PRS;NOM(3,PL,N);PRIM(3,PL,KI_VI);Q	zingeviangalia?
+angalia	V;PROG;NOM(IN);PRIM(3,SG,M_MI);COND;PRS;NEG;Q	musingekuwa mukiuangalia?
+angalia	V;IND;PST;NEG;NOM(3,PL,JI_MA);PRIM(PROXM);Q	hayakupaangalia?
+angalia	V;PROG;NOM(2,PL);PRIM(3,SG,KI_VI);IND;FUT;NEG;Q	hamtakuwa mkikiangalia?
+angalia	V;COND;PRS;NOM(REM);PRIM(3,SG,KU);Q	kungekuangalia?
+angalia	V;IND;FUT;NOM(1,PL);PRIM(3,PL,KI_VI)	tutaviangalia.
+angalia	V;IND;PST;NOM(2,PL);PRIM(3,PL,M_WA);Q	mliwaangalia?
+angalia	V;IND;FUT;NOM(3,PL,KI_VI);PRIM(3,PL,M_WA);Q	vitawaangalia?
+angalia	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,JI_MA);PRIM(3,SG,KU);Q	hayangalikuangalia?
+angalia	V;PROG;NOM(3,PL,M_MI);PRIM(1,PL);IND;PRS;PRF;NEG	hijakuwa ikituangalia.
+angalia	V;COND;PRS;NEG;NOM(3,SG,M_WA);PRIM(2,SG)	asingekuangalia.
+angalia	V;COND;PST;PRF;NOM(3,SG,JI_MA);PRIM(3,PL,M_MI);NEG;LGSPEC1;Q	halingalikuwa limeiangalia?
+angalia	V;PROG;NOM(REM);PRIM(3,SG,JI_MA);IND;PST;Q	kulikuwa kukiliangalia?
+angalia	V;PROG;NOM(REM);PRIM(3,SG,M_WA);IND;PST	kulikuwa kukimangalia.
+angalia	V;SUBJ;PRS;NEG;NOM(3,PL,JI_MA);PRIM(3,SG,KI_VI);Q	yasikiangalie?
+angalia	V;PROG;NOM(REM);PRIM(3,PL,JI_MA);IND;FUT	kutakuwa kukiyaangalia.
+bandika	V;PROG;NOM(3,PL,JI_MA);PRIM(3,PL,N);IND;PRS;PRF;NEG	hayajakuwa yakizibandika.
+bandika	V;PROG;NOM(3,SG,JI_MA);PRIM(RFLX);IND;PRS;PRF;NEG	halijakuwa likijibandika.
+bandika	V;PROG;NOM(3,SG,M_WA);PRIM(3,SG,M_MI);IND;FUT;NEG	hatakuwa akiubandika.
+bandika	V;SUBJ;PRS;NEG;NOM(2,SG);PRIM(3,PL,M_MI);Q	usiibandike?
+bandika	V;COND;PRS;NEG;NOM(3,SG,KI_VI);PRIM(IN)	kisingemubandika.
+bandika	V;IND;PST;NEG;NOM(2,PL);PRIM(3,SG,M_WA)	hamkumbandika.
+bandika	V;IND;PRS;NOM(3,PL,KI_VI);PRIM(1,PL)	vinatubandika.
+bandika	V;PROG;NOM(1,SG);PRIM(2,PL);IND;PRS;PRF;NEG;Q	sijakuwa nikiwabandika?
+bandika	V;COND;PST;NEG;NOM(3,PL,N);PRIM(3,SG,KI_VI);Q	zisingalikibandika?
+bandika	V;COND;PRS;NOM(3,SG,JI_MA);PRIM(1,SG)	lingenibandika.
+bandika	V;PROG;NOM(3,SG,KU);PRIM(3,SG,JI_MA);COND;PRS;Q	kungekuwa kukilibandika?
+bandika	V;PROG;NOM(3,SG,M_MI);PRIM(3,PL,M_WA);IND;FUT;NEG	hautakuwa ukiwabandika.
+bandika	V;COND;PRS;NOM(3,SG,JI_MA);PRIM(3,PL,M_WA);Q	lingewabandika?
+bandika	V;IND;PST;PRF;NOM(3,SG,M_MI);PRIM(3,SG,U)	ulikuwa umeubandika.
+bandika	V;IND;FUT;PRF;NOM(3,SG,N);PRIM(2,PL);NEG;Q	haitakuwa imewabandika?
+bandika	V;COND;PRS;NEG;NOM(3,PL,KI_VI);PRIM(REM)	visingekubandika.
+bandika	V;PROG;NOM(3,SG,KI_VI);PRIM(PROXM);COND;PRS;NEG;LGSPEC1	hakingekuwa kikipabandika.
+bandika	V;SUBJ;PRS;NEG;NOM(3,SG,JI_MA);PRIM(3,PL,N);Q	lisizibandike?
+bandika	V;IND;PST;NOM(3,PL,M_WA);PRIM(3,SG,M_MI)	waliubandika.
+bandika	V;COND;PRS;NEG;NOM(3,SG,N);PRIM(3,SG,KU);Q	isingekubandika?
+pitika	V;PROG;NOM(1,PL);COND;PST;NEG;Q	tusingalikuwa tukipitika?
+pitika	V;PROG;NOM(2,SG);COND;PRS;NEG;Q	usingekuwa ukipitika?
+pitika	V;COND;PRS;PRF;NOM(2,PL);NEG;Q	msingekuwa mmepitika?
+pitika	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,M_MI);Q	hingalipitika?
+pitika	V;IND;FUT;NOM(3,SG,N)	itapitika.
+pitika	V;IND;FUT;PRF;NOM(3,SG,M_WA)	atakuwa amepitika.
+pitika	V;IND;FUT;PRF;NOM(PROXM);Q	patakuwa pamepitika?
+pitika	V;COND;PST;NEG;NOM(3,PL,M_WA);Q	wasingalipitika?
+pitika	V;COND;PST;PRF;NOM(3,PL,JI_MA);Q	yangalikuwa yamepitika?
+pitika	V;COND;PRS;PRF;NOM(3,SG,JI_MA);NEG	lisingekuwa limepitika.
+pitika	V;COND;PRS;NOM(3,PL,KI_VI)	vingepitika.
+pitika	V;PROG;NOM(3,PL,M_WA);IND;PST;NEG;Q	hawakuwa wakipitika?
+pitika	V;PROG;NOM(3,SG,M_WA);IND;PRS;PRF;Q	amekuwa akipitika?
+pitika	V;PROG;NOM(3,SG,M_MI);COND;PST	ungalikuwa ukipitika.
+pitika	V;IND;PRS;NOM(3,PL,KI_VI)	vinapitika.
+pitika	V;IND;PRS;HAB;NOM(3,PL,M_WA);Q	wao hupitika?
+pitika	V;PROG;NOM(3,SG,U);IND;PRS;PRF	umekuwa ukipitika.
+pitika	V;IND;PRS;NEG;NOM(1,PL)	hatupitiki.
+pitika	V;IND;PRS;NEG;NOM(2,PL);HAB;Q	nyinyi huwa hampitiki?
+pitika	V;PROG;NOM(IN);IND;PST;Q	mulikuwa mukipitika?
+pitika	V;IND;PRS;PRF;NOM(3,SG,KI_VI);Q	kimepitika?
+pitika	V;PROG;NOM(3,PL,M_WA);COND;PRS;NEG;Q	wasingekuwa wakipitika?
+pitika	V;IND;FUT;NOM(1,PL);Q	tutapitika?
+pitika	V;PROG;NOM(3,PL,M_WA);COND;PST;NEG;Q	wasingalikuwa wakipitika?
+pitika	V;COND;PST;PRF;NOM(2,PL)	mngalikuwa mmepitika.
+uzia	V;IND;PST;NOM(3,SG,N);PRIM(IN);SEC(3,PL,JI_MA)	ilimuuzia hayo.
+uzia	V;COND;PRS;PRF;NOM(3,PL,N);PRIM(3,SG,M_MI);SEC(3,SG,N)	zingekuwa zimeuuzia hiyo.
+uzia	V;PROG;NOM(3,PL,N);PRIM(3,PL,N);COND;PRS;SEC(3,PL,M_MI)	zingekuwa zikiziuzia hiyo.
+uzia	V;PROG;NOM(3,SG,M_MI);PRIM(3,PL,KI_VI);IND;PRS;PRF;SEC(3,SG,KI_VI)	umekuwa ukiviuzia hicho.
+uzia	V;PROG;NOM(3,SG,KU);PRIM(3,PL,N);COND;PST;NEG;LGSPEC1;SEC(3,PL,M_WA);Q	hakungalikuwa kukiziuzia wao?
+uzia	V;COND;PST;PRF;NOM(3,SG,KI_VI);PRIM(3,SG,JI_MA);NEG;LGSPEC1;SEC(3,PL,N);Q	hakingalikuwa kimeliuzia hizo?
+uzia	V;PROG;NOM(3,SG,U);PRIM(1,PL);IND;PST;SEC(3,PL,JI_MA);Q	ulikuwa ukituuzia hayo?
+uzia	V;PROG;NOM(PROXM);PRIM(3,SG,KU);IND;PRS;PRF;NEG;SEC(3,SG,N);Q	hapajakuwa pakikuuzia hiyo?
+uzia	V;COND;PST;PRF;NOM(3,PL,M_WA);PRIM(1,PL);SEC(3,SG,M_WA);Q	wangalikuwa wametuuzia yeye?
+uzia	V;IND;PST;NOM(2,SG);PRIM(PROXM);SEC(2,SG);Q	ulipauzia wewe?
+uzia	V;COND;PST;NOM(3,SG,N);PRIM(3,SG,JI_MA);SEC(3,PL,M_WA);Q	ingaliliuzia wao?
+uzia	V;PROG;NOM(3,PL,KI_VI);PRIM(3,PL,N);IND;PST;SEC(3,PL,KI_VI)	vilikuwa vikiziuzia hivyo.
+uzia	V;COND;PRS;PRF;NOM(3,PL,M_WA);PRIM(2,PL);SEC(2,PL);Q	wangekuwa wamewauzia ninyi?
+uzia	V;SUBJ;PRS;NOM(3,SG,U);PRIM(REM);SEC(2,SG);Q	ukuuzie wewe?
+uzia	V;PROG;NOM(3,PL,N);PRIM(3,SG,U);COND;PRS;NEG;LGSPEC1;SEC(2,SG)	hazingekuwa zikiuuzia wewe.
+uzia	V;PROG;NOM(3,PL,M_MI);PRIM(1,PL);COND;PST;NEG;SEC(3,SG,M_MI);Q	isingalikuwa ikituuzia huo?
+uzia	V;SUBJ;PRS;NEG;NOM(3,SG,M_MI);PRIM(RFLX);SEC(2,PL)	usijiuzie ninyi.
+uzia	V;PROG;NOM(1,PL);PRIM(2,PL);COND;PRS;NEG;SEC(2,PL)	tusingekuwa tukiwauzia ninyi.
+uzia	V;PROG;NOM(IN);PRIM(3,PL,KI_VI);IND;FUT;NEG;SEC(3,PL,JI_MA)	hamutakuwa mukiviuzia hayo.
+uzia	V;PROG;NOM(3,SG,KU);PRIM(3,PL,M_MI);COND;PRS;SEC(3,PL,KI_VI)	kungekuwa kukiiuzia hivyo.
+uzia	V;COND;PRS;PRF;NOM(2,SG);PRIM(3,SG,U);NEG;LGSPEC1;SEC(3,SG,KI_VI)	hungekuwa umeuuzia hicho.
+uzia	V;PROG;NOM(3,PL,M_MI);PRIM(3,PL,M_WA);COND;PRS;SEC(REM)	ingekuwa ikiwauzia huko.
+ambukizwa	V;IND;FUT;PRF;NOM(REM);NEG	hakutakuwa kumeambukizwa.
+ambukizwa	V;IND;PST;NEG;NOM(PROXM);Q	hapakuambukizwa?
+ambukizwa	V;IND;FUT;NEG;NOM(PROXM)	hapataambukizwa.
+ambukizwa	V;COND;PRS;NEG;LGSPEC1;NOM(IN)	hamungeambukizwa.
+ambukizwa	V;PROG;NOM(3,SG,KI_VI);IND;PRS;PRF;Q	kimekuwa kikiambukizwa?
+ambukizwa	V;PROG;NOM(3,SG,M_MI);COND;PST;NEG;Q	usingalikuwa ukiambukizwa?
+ambukizwa	V;PROG;NOM(3,SG,KI_VI);IND;PST;NEG;Q	hakikuwa kikiambukizwa?
+ambukizwa	V;SUBJ;PRS;NEG;NOM(3,SG,M_MI)	usiambukizwe.
+ambukizwa	V;COND;PST;PRF;NOM(3,SG,M_MI);Q	ungalikuwa umeambukizwa?
+ambukizwa	V;COND;PST;NEG;NOM(3,SG,U);Q	usingaliambukizwa?
+ambukizwa	V;IND;PST;PRF;NOM(PROXM)	palikuwa pameambukizwa.
+ambukizwa	V;COND;PRS;PRF;NOM(3,PL,M_WA);NEG	wasingekuwa wameambukizwa.
+ambukizwa	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,M_WA)	hangaliambukizwa.
+ambukizwa	V;PROG;NOM(3,SG,KU);COND;PRS;NEG;LGSPEC1	hakungekuwa kukiambukizwa.
+ambukizwa	V;IND;PRS;NOM(2,PL);Q	mnaambukizwa?
+ambukizwa	V;COND;PST;NOM(3,SG,KU);Q	kungaliambukizwa?
+ambukizwa	V;COND;PRS;PRF;NOM(IN);NEG	musingekuwa mumeambukizwa.
+ambukizwa	V;PROG;NOM(2,SG);IND;FUT	utakuwa ukiambukizwa.
+puliza	V;IND;PST;NEG;NOM(3,SG,M_WA);PRIM(3,PL,JI_MA)	hakuyapuliza.
+puliza	V;COND;PRS;PRF;NOM(3,PL,JI_MA);PRIM(3,SG,KI_VI);NEG;LGSPEC1;Q	hayangekuwa yamekipuliza?
+puliza	V;COND;PRS;NOM(IN);PRIM(3,SG,M_MI)	mungeupuliza.
+puliza	V;COND;PST;PRF;NOM(3,PL,N);PRIM(3,SG,M_MI);Q	zingalikuwa zimeupuliza?
+puliza	V;COND;PRS;PRF;NOM(3,SG,U);PRIM(RFLX);NEG	usingekuwa umejipuliza.
+puliza	V;SUBJ;PRS;NOM(3,SG,N);PRIM(3,PL,N)	izipulize.
+puliza	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_WA);PRIM(3,SG,KI_VI);Q	hangekipuliza?
+puliza	V;IND;PST;NOM(2,PL);PRIM(RFLX)	mlijipuliza.
+puliza	V;IND;PRS;NEG;NOM(3,PL,M_WA);PRIM(3,SG,KI_VI)	hawakipulizi.
+puliza	V;IND;PST;NEG;NOM(3,SG,M_WA);PRIM(3,SG,JI_MA);Q	hakulipuliza?
+puliza	V;IND;PRS;PRF;NOM(REM);PRIM(1,PL)	kumetupuliza.
+puliza	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,M_MI);PRIM(RFLX)	hingejipuliza.
+puliza	V;COND;PST;NOM(PROXM);PRIM(2,PL);Q	pangaliwapuliza?
+puliza	V;PROG;NOM(3,PL,N);PRIM(3,PL,M_WA);COND;PRS;NEG	zisingekuwa zikiwapuliza.
+puliza	V;PROG;NOM(2,SG);PRIM(3,SG,U);IND;FUT;NEG;Q	hutakuwa ukiupuliza?
+puliza	V;COND;PRS;PRF;NOM(REM);PRIM(2,PL);NEG;Q	kusingekuwa kumewapuliza?
+puliza	V;PROG;NOM(1,SG);PRIM(3,PL,JI_MA);COND;PST;NEG;LGSPEC1	singalikuwa nikiyapuliza.
+puliza	V;SUBJ;PRS;NOM(IN);PRIM(3,PL,JI_MA)	muyapulize.
+puliza	V;PROG;NOM(2,PL);PRIM(1,PL);IND;FUT;NEG;Q	hamtakuwa mkitupuliza?
+puliza	V;COND;PST;PRF;NOM(1,PL);PRIM(2,SG);NEG	tusingalikuwa tumekupuliza.
+puliza	V;PROG;NOM(3,SG,N);PRIM(3,PL,M_MI);COND;PRS	ingekuwa ikiipuliza.
+puliza	V;COND;PST;PRF;NOM(PROXM);PRIM(3,PL,M_MI)	pangalikuwa pameipuliza.
+husiana	V;IND;PRS;PRF;NEG;NOM(3,PL,N);COM(3,SG,KI_VI);Q	hazijahusiana nacho?
+husiana	V;IND;PRS;PRF;NEG;NOM(3,SG,JI_MA);COM(3,SG,U);Q	halijahusiana nao?
+husiana	V;IND;PST;PRF;NOM(1,SG);NEG;COM(1,SG)	sikuwa nimehusiana nami.
+husiana	V;COND;PRS;NOM(PROXM);COM(PROXM)	pangehusiana napo.
+husiana	V;COND;PRS;NEG;NOM(3,PL,M_WA);COM(REM);Q	wasingehusiana nako?
+husiana	V;IND;FUT;PRF;NOM(3,PL,M_WA);COM(3,PL,JI_MA)	watakuwa wamehusiana nayo.
+husiana	V;SUBJ;PRS;NOM(IN);COM(2,PL)	muhusiane nanyi.
+husiana	V;COND;PST;PRF;NOM(PROXM);NEG;COM(3,SG,KI_VI);Q	pasingalikuwa pamehusiana nacho?
+husiana	V;PROG;NOM(2,PL);COND;PST;NEG;LGSPEC1;COM(3,SG,N);Q	hamngalikuwa mkihusiana nayo?
+husiana	V;IND;PRS;NOM(3,SG,U);COM(3,PL,JI_MA)	unahusiana nayo.
+husiana	V;IND;FUT;NEG;NOM(3,SG,KU);COM(3,PL,M_WA)	hakutahusiana nao.
+husiana	V;COND;PRS;PRF;NOM(3,PL,M_MI);NEG;COM(3,PL,M_MI,RFLX)	isingekuwa imehusiana yenyewe.
+husiana	V;SUBJ;PRS;NOM(1,PL);COM(3,SG,M_WA)	tuhusiane naye.
+husiana	V;COND;PST;PRF;NOM(3,PL,M_MI);COM(3,SG,M_WA)	ingalikuwa imehusiana naye.
+husiana	V;PROG;NOM(3,SG,KU);IND;PST;COM(3,SG,M_MI);Q	kulikuwa kukihusiana nao?
+husiana	V;IND;FUT;PRF;NOM(3,SG,U);NEG;COM(3,PL,KI_VI)	hautakuwa umehusiana navyo.
+husiana	V;PROG;NOM(1,PL);IND;FUT;COM(3,SG,JI_MA)	tutakuwa tukihusiana nalo.
+husiana	V;PROG;NOM(1,PL);IND;PST;NEG;COM(2,PL)	hatukuwa tukihusiana nanyi.
+husiana	V;PROG;NOM(3,SG,M_MI);COND;PRS;NEG;LGSPEC1;COM(3,SG,JI_MA);Q	haungekuwa ukihusiana nalo?
+husiana	V;COND;PRS;PRF;NOM(1,PL);NEG;LGSPEC1;COM(3,SG,M_WA);Q	hatungekuwa tumehusiana naye?
+husiana	V;PROG;NOM(3,SG,JI_MA);IND;PRS;PRF;NEG;COM(1,SG);Q	halijakuwa likihusiana nami?
+shukia	V;PROG;NOM(3,PL,N);IND;PRS;PRF;NEG;Q	hazijakuwa zikishukia?
+shukia	V;COND;PRS;NEG;LGSPEC1;NOM(PROXM);Q	hapangeshukia?
+shukia	V;IND;PST;PRF;NOM(REM);NEG;Q	hakukuwa kumeshukia?
+shukia	V;PROG;NOM(3,SG,M_MI);IND;FUT	utakuwa ukishukia.
+shukia	V;IND;PST;NOM(3,PL,M_WA);Q	walishukia?
+shukia	V;SUBJ;PRS;NOM(3,PL,M_WA);Q	washukie?
+shukia	V;SUBJ;PRS;NOM(3,SG,U);Q	ushukie?
+shukia	V;IND;PST;NEG;NOM(3,SG,M_WA);Q	hakushukia?
+shukia	V;COND;PST;NEG;LGSPEC1;NOM(IN);Q	hamungalishukia?
+shukia	V;IND;PST;NOM(1,PL)	tulishukia.
+shukia	V;COND;PST;PRF;NOM(1,SG)	ningalikuwa nimeshukia.
+shukia	V;IND;PRS;PRF;NOM(1,SG)	nimeshukia.
+shukia	V;COND;PRS;NEG;LGSPEC1;NOM(2,PL);Q	hamngeshukia?
+shukia	V;COND;PRS;PRF;NOM(3,SG,U);Q	ungekuwa umeshukia?
+shukia	V;PROG;NOM(3,PL,KI_VI);COND;PST;NEG;LGSPEC1;Q	havingalikuwa vikishukia?
+shukia	V;PROG;NOM(1,PL);IND;PRS;PRF	tumekuwa tukishukia.
+shukia	V;IND;FUT;NEG;NOM(3,SG,U);Q	hautashukia?
+shukia	V;PROG;NOM(1,SG);COND;PRS	ningekuwa nikishukia.
+shukia	V;IND;FUT;NOM(3,SG,KI_VI);Q	kitashukia?
+shukia	V;COND;PRS;PRF;NOM(REM);NEG	kusingekuwa kumeshukia.
+shukia	V;SUBJ;PRS;NOM(2,PL)	mshukie.
+shukia	V;IND;PRS;PRF;NOM(2,PL);Q	mmeshukia?
+shukia	V;IND;FUT;PRF;NOM(3,SG,N)	itakuwa imeshukia.
+shukia	V;IND;PRS;NEG;NOM(3,SG,M_WA);Q	hashukii?
+angusha	V;COND;PST;NEG;LGSPEC1;NOM(1,PL);PRIM(RFLX)	hatungalijiangusha.
+angusha	V;COND;PST;PRF;NOM(3,SG,N);PRIM(3,PL,N);NEG;LGSPEC1;Q	haingalikuwa imeziangusha?
+angusha	V;PROG;NOM(3,PL,M_WA);PRIM(PROXM);COND;PST;NEG;Q	wasingalikuwa wakipaangusha?
+angusha	V;COND;PST;NEG;NOM(3,PL,M_WA);PRIM(IN)	wasingalimuangusha.
+angusha	V;PROG;NOM(3,SG,M_WA);PRIM(3,SG,KI_VI);IND;FUT;NEG	hatakuwa akikiangusha.
+angusha	V;PROG;NOM(3,PL,M_MI);PRIM(1,PL);IND;FUT;NEG	hitakuwa ikituangusha.
+angusha	V;COND;PRS;PRF;NOM(3,PL,JI_MA);PRIM(3,PL,KI_VI);NEG	yasingekuwa yameviangusha.
+angusha	V;PROG;NOM(3,SG,N);PRIM(3,SG,M_MI);COND;PRS;NEG;LGSPEC1	haingekuwa ikiuangusha.
+angusha	V;IND;PRS;PRF;NEG;NOM(2,SG);PRIM(3,PL,KI_VI)	hujaviangusha.
+angusha	V;PROG;NOM(3,SG,JI_MA);PRIM(2,PL);COND;PRS	lingekuwa likiwaangusha.
+angusha	V;PROG;NOM(3,SG,KI_VI);PRIM(RFLX);COND;PST;NEG;Q	kisingalikuwa kikijiangusha?
+angusha	V;PROG;NOM(3,SG,KU);PRIM(3,PL,JI_MA);IND;PST;NEG;Q	hakukuwa kukiyaangusha?
+angusha	V;COND;PRS;PRF;NOM(3,SG,KI_VI);PRIM(3,SG,KU);NEG;LGSPEC1	hakingekuwa kimekuangusha.
+angusha	V;COND;PRS;PRF;NOM(1,SG);PRIM(1,PL);Q	ningekuwa nimetuangusha?
+angusha	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU);PRIM(2,PL);Q	hakungaliwaangusha?
+angusha	V;IND;PST;NEG;NOM(3,PL,M_MI);PRIM(3,SG,KI_VI);Q	hikukiangusha?
+angusha	V;PROG;NOM(3,SG,N);PRIM(3,SG,M_MI);IND;FUT	itakuwa ikiuangusha.
+angusha	V;COND;PRS;NEG;NOM(1,PL);PRIM(3,SG,KU)	tusingekuangusha.
+angusha	V;COND;PRS;PRF;NOM(3,SG,KU);PRIM(2,SG);NEG;Q	kusingekuwa kumekuangusha?
+angusha	V;PROG;NOM(3,SG,N);PRIM(IN);IND;PRS;PRF;Q	imekuwa ikimuangusha?
+angusha	V;IND;FUT;PRF;NOM(3,SG,N);PRIM(3,SG,U);Q	itakuwa imeuangusha?
+angusha	V;SUBJ;PRS;NEG;NOM(3,PL,M_MI);PRIM(3,PL,KI_VI)	isiviangushe.
+angusha	V;COND;PST;NEG;NOM(REM);PRIM(3,SG,M_WA);Q	kusingalimangusha?
+angusha	V;PROG;NOM(3,PL,JI_MA);PRIM(3,PL,M_MI);IND;PST;NEG;Q	hayakuwa yakiiangusha?
+lalamika	V;PROG;NOM(1,PL);IND;PRS;PRF;NEG;Q	hatujakuwa tukilalamika?
+lalamika	V;IND;PST;PRF;NOM(3,SG,M_MI);Q	ulikuwa umelalamika?
+lalamika	V;IND;PST;NEG;NOM(3,PL,M_MI)	hikulalamika.
+lalamika	V;IND;PRS;PRF;NEG;NOM(3,SG,KU);Q	hakujalalamika?
+lalamika	V;IND;PRS;NEG;NOM(3,PL,JI_MA)	hayalalamiki.
+lalamika	V;IND;FUT;PRF;NOM(2,PL);NEG	hamtakuwa mmelalamika.
+lalamika	V;PROG;NOM(3,PL,M_WA);IND;PRS;PRF	wamekuwa wakilalamika.
+lalamika	V;IND;PRS;NOM(3,SG,KI_VI)	kinalalamika.
+lalamika	V;IND;FUT;NEG;NOM(1,PL)	hatutalalamika.
+lalamika	V;IND;FUT;NOM(2,PL);Q	mtalalamika?
+lalamika	V;IND;FUT;NOM(REM)	kutalalamika.
+lalamika	V;PROG;NOM(3,PL,KI_VI);COND;PRS;NEG;Q	visingekuwa vikilalamika?
+lalamika	V;IND;FUT;PRF;NOM(3,SG,N);NEG	haitakuwa imelalamika.
+lalamika	V;IND;PST;NOM(IN)	mulilalamika.
+lalamika	V;COND;PST;PRF;NOM(1,SG)	ningalikuwa nimelalamika.
+lalamika	V;COND;PST;PRF;NOM(3,PL,N);NEG;LGSPEC1;Q	hazingalikuwa zimelalamika?
+lalamika	V;IND;PRS;PRF;NOM(PROXM);Q	pamelalamika?
+lalamika	V;IND;PRS;PRF;NEG;NOM(REM);Q	hakujalalamika?
+lalamika	V;PROG;NOM(2,PL);COND;PST;Q	mngalikuwa mkilalamika?
+lalamika	V;PROG;NOM(3,SG,N);IND;PRS;PRF;NEG;Q	haijakuwa ikilalamika?
+tatua	V;COND;PST;NOM(3,SG,M_MI);PRIM(3,SG,M_MI)	ungaliutatua.
+tatua	V;COND;PRS;PRF;NOM(3,SG,N);PRIM(3,PL,M_WA);NEG;Q	isingekuwa imewatatua?
+tatua	V;IND;PST;PRF;NOM(3,SG,KI_VI);PRIM(3,SG,KU);NEG;Q	hakikuwa kimekutatua?
+tatua	V;COND;PRS;PRF;NOM(3,PL,JI_MA);PRIM(3,SG,M_MI);NEG;LGSPEC1	hayangekuwa yameutatua.
+tatua	V;COND;PST;NOM(1,PL);PRIM(3,PL,M_MI)	tungaliitatua.
+tatua	V;IND;PST;NEG;NOM(3,PL,M_MI);PRIM(1,SG)	hikunitatua.
+tatua	V;COND;PST;NEG;LGSPEC1;NOM(1,SG);PRIM(REM);Q	singalikutatua?
+tatua	V;SUBJ;PRS;NEG;NOM(3,PL,JI_MA);PRIM(3,SG,M_MI);Q	yasiutatue?
+tatua	V;COND;PRS;PRF;NOM(3,PL,N);PRIM(3,SG,KI_VI);NEG;LGSPEC1	hazingekuwa zimekitatua.
+tatua	V;IND;PRS;NEG;NOM(3,SG,M_MI);PRIM(3,SG,KU)	haukutatui.
+tatua	V;IND;PRS;NOM(3,PL,JI_MA);PRIM(3,PL,JI_MA)	yanayatatua.
+tatua	V;COND;PST;PRF;NOM(3,SG,KU);PRIM(3,PL,M_MI);NEG	kusingalikuwa kumeitatua.
+tatua	V;COND;PST;NEG;NOM(3,PL,KI_VI);PRIM(3,PL,M_MI)	visingaliitatua.
+tatua	V;IND;PST;PRF;NOM(3,SG,KI_VI);PRIM(PROXM);NEG;Q	hakikuwa kimepatatua?
+tatua	V;IND;PRS;HAB;NOM(3,PL,M_WA);PRIM(3,PL,JI_MA)	wao huyatatua.
+tatua	V;IND;PRS;NEG;NOM(3,PL,JI_MA);PRIM(3,SG,U);Q	hayautatui?
+tatua	V;PROG;NOM(3,PL,JI_MA);PRIM(2,SG);IND;FUT	yatakuwa yakikutatua.
+tatua	V;COND;PST;NOM(REM);PRIM(PROXM);Q	kungalipatatua?
+tatua	V;PROG;NOM(IN);PRIM(3,SG,M_WA);IND;FUT;NEG;Q	hamutakuwa mukimtatua?
+tatua	V;COND;PRS;NEG;NOM(3,SG,U);PRIM(IN);Q	usingemutatua?
+nyonya	V;COND;PRS;PRF;NOM(3,SG,N);PRIM(RFLX);SEC(PROXM)	ingekuwa imejinyonya hapo.
+nyonya	V;COND;PST;NEG;NOM(IN);PRIM(3,SG,M_WA);SEC(3,SG,JI_MA)	musingalimnyonya hilo.
+nyonya	V;SUBJ;PRS;NOM(3,PL,M_MI);PRIM(3,PL,JI_MA);SEC(3,SG,KI_VI)	iyanyonye hicho.
+nyonya	V;COND;PRS;PRF;NOM(REM);PRIM(3,SG,JI_MA);SEC(3,SG,JI_MA);Q	kungekuwa kumelinyonya hilo?
+nyonya	V;IND;PRS;PRF;NEG;NOM(3,SG,KI_VI);PRIM(3,SG,N);SEC(3,PL,M_WA)	hakijainyonya wao.
+nyonya	V;SUBJ;PRS;NEG;NOM(3,PL,M_WA);PRIM(IN);SEC(3,SG,KI_VI)	wasimunyonye hicho.
+nyonya	V;COND;PST;NEG;LGSPEC1;NOM(3,SG,KU);PRIM(3,SG,M_WA);SEC(3,PL,KI_VI);Q	hakungalimnyonya hivyo?
+nyonya	V;IND;FUT;PRF;NOM(PROXM);PRIM(3,SG,M_WA);NEG;SEC(2,SG)	hapatakuwa pamemnyonya wewe.
+nyonya	V;SUBJ;PRS;NEG;NOM(3,SG,M_MI);PRIM(3,PL,JI_MA);SEC(3,PL,JI_MA)	usiyanyonye hayo.
+nyonya	V;COND;PST;PRF;NOM(3,SG,KI_VI);PRIM(3,PL,JI_MA);NEG;SEC(3,PL,M_WA);Q	kisingalikuwa kimeyanyonya wao?
+nyonya	V;COND;PST;NOM(PROXM);PRIM(3,SG,JI_MA);SEC(3,PL,M_MI)	pangalilinyonya hiyo.
+nyonya	V;PROG;NOM(3,PL,N);PRIM(PROXM);IND;PRS;PRF;SEC(3,SG,JI_MA)	zimekuwa zikipanyonya hilo.
+nyonya	V;IND;PRS;PRF;NEG;NOM(3,PL,JI_MA);PRIM(3,PL,M_MI);SEC(PROXM)	hayajainyonya hapo.
+nyonya	V;IND;PST;NEG;NOM(REM);PRIM(PROXM);SEC(2,PL);Q	hakukupanyonya ninyi?
+nyonya	V;COND;PST;NEG;NOM(3,PL,KI_VI);PRIM(1,SG);SEC(1,PL);Q	visingalininyonya sisi?
+nyonya	V;COND;PRS;NOM(2,PL);PRIM(3,PL,M_WA);SEC(3,SG,KI_VI)	mngewanyonya hicho.
+nyonya	V;COND;PRS;NEG;NOM(3,SG,KU);PRIM(IN);SEC(3,SG,KI_VI)	kusingemunyonya hicho.
+nyonya	V;PROG;NOM(3,PL,JI_MA);PRIM(3,PL,KI_VI);COND;PST;NEG;SEC(3,SG,M_WA)	yasingalikuwa yakivinyonya yeye.
+nyonya	V;PROG;NOM(3,SG,N);PRIM(3,SG,M_MI);COND;PST;SEC(1,SG)	ingalikuwa ikiunyonya mimi.
+nyonya	V;COND;PST;NEG;LGSPEC1;NOM(3,PL,JI_MA);PRIM(3,SG,JI_MA);SEC(1,PL)	hayangalilinyonya sisi.
+nyonya	V;IND;PRS;NEG;NOM(2,SG);PRIM(IN);HAB;SEC(3,SG,KI_VI)	wewe huwa humunyonyi hicho.
+fariki	V;PROG;NOM(3,SG,M_MI);COND;PST;Q	ungalikuwa ukifariki?
+fariki	V;COND;PRS;NEG;NOM(3,SG,KI_VI)	kisingefariki.
+fariki	V;COND;PST;NEG;LGSPEC1;NOM(2,PL);Q	hamngalifariki?
+fariki	V;COND;PRS;NOM(3,SG,M_WA);Q	angefariki?
+fariki	V;PROG;NOM(3,PL,M_MI);IND;FUT;NEG	hitakuwa ikifariki.
+fariki	V;COND;PRS;NEG;LGSPEC1;NOM(PROXM);Q	hapangefariki?
+fariki	V;COND;PRS;NEG;LGSPEC1;NOM(2,PL);Q	hamngefariki?
+fariki	V;IND;PRS;PRF;NOM(PROXM)	pamefariki.
+fariki	V;IND;PRS;NEG;NOM(3,SG,KI_VI);Q	hakifariki?
+fariki	V;PROG;NOM(3,PL,N);IND;FUT	zitakuwa zikifariki.
+fariki	V;IND;FUT;NOM(2,SG);Q	utafariki?
+fariki	V;IND;PRS;PRF;NEG;NOM(3,SG,M_WA);Q	hajafariki?
+fariki	V;IND;PRS;PRF;NEG;NOM(3,PL,JI_MA)	hayajafariki.
+fariki	V;IND;FUT;NEG;NOM(2,SG)	hutafariki.
+fariki	V;COND;PST;NEG;NOM(3,PL,N)	zisingalifariki.
+fariki	V;IND;PRS;PRF;NEG;NOM(3,SG,N);Q	haijafariki?
+fariki	V;PROG;NOM(3,SG,M_MI);IND;PST;Q	ulikuwa ukifariki?
+fariki	V;IND;PRS;PRF;NEG;NOM(3,SG,M_MI);Q	haujafariki?
+fariki	V;IND;PST;NOM(3,PL,M_MI)	ilifariki.
+fariki	V;IND;PRS;NOM(3,PL,M_MI)	inafariki.
+fariki	V;IND;PRS;PRF;NOM(3,SG,JI_MA)	limefariki.
+fariki	V;IND;PST;NOM(2,SG)	ulifariki.
+fariki	V;PROG;NOM(3,SG,KI_VI);IND;PST;Q	kilikuwa kikifariki?
+ongezwa	V;PROG;NOM(3,PL,M_MI);PRIM(3,PL,M_WA);COND;PST;Q	ingalikuwa ikiwaongezwa?
+ongezwa	V;IND;FUT;PRF;NOM(3,PL,N);PRIM(IN);NEG;Q	hazitakuwa zimemuongezwa?
+ongezwa	V;IMP;NOM(2,SG);PRIM(1,PL)	tuongezwe!
+ongezwa	V;PROG;NOM(3,PL,N);PRIM(3,SG,KI_VI);IND;PRS;PRF;NEG;Q	hazijakuwa zikikiongezwa?
+ongezwa	V;IND;PST;NOM(3,PL,JI_MA);PRIM(1,PL);Q	yalituongezwa?
+ongezwa	V;IND;FUT;NEG;NOM(3,SG,KU);PRIM(3,SG,U);Q	hakutauongezwa?
+ongezwa	V;PROG;NOM(3,SG,KI_VI);PRIM(3,SG,M_MI);IND;FUT;Q	kitakuwa kikiuongezwa?
+ongezwa	V;PROG;NOM(3,PL,M_MI);PRIM(1,PL);IND;FUT;NEG	hitakuwa ikituongezwa.
+ongezwa	V;COND;PRS;PRF;NOM(3,PL,KI_VI);PRIM(3,PL,M_WA)	vingekuwa vimewaongezwa.
+ongezwa	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,JI_MA);PRIM(3,SG,KI_VI);Q	halingekiongezwa?
+ongezwa	V;PROG;NOM(3,PL,N);PRIM(3,SG,JI_MA);COND;PRS;NEG;LGSPEC1;Q	hazingekuwa zikiliongezwa?
+ongezwa	V;PROG;NOM(3,SG,U);PRIM(RFLX);COND;PST;NEG	usingalikuwa ukijiongezwa.
+ongezwa	V;IND;PST;PRF;NOM(1,SG);PRIM(3,PL,KI_VI)	nilikuwa nimeviongezwa.
+ongezwa	V;PROG;NOM(1,SG);PRIM(3,PL,M_MI);IND;PST;NEG	sikuwa nikiiongezwa.
+ongezwa	V;PROG;NOM(3,PL,KI_VI);PRIM(3,SG,M_WA);COND;PST;NEG;LGSPEC1;Q	havingalikuwa vikimongezwa?
+ongezwa	V;COND;PST;PRF;NOM(2,PL);PRIM(3,SG,N);NEG	msingalikuwa mmeiongezwa.
+ongezwa	V;PROG;NOM(3,SG,U);PRIM(3,PL,N);IND;PRS;PRF;Q	umekuwa ukiziongezwa?
+ongezwa	V;PROG;NOM(REM);PRIM(2,SG);COND;PRS;Q	kungekuwa kukikuongezwa?
+ongezwa	V;IND;FUT;NEG;NOM(2,PL);PRIM(3,PL,JI_MA)	hamtayaongezwa.
+ongezwa	V;PROG;NOM(PROXM);PRIM(3,SG,JI_MA);IND;PRS;PRF;NEG;Q	hapajakuwa pakiliongezwa?
+okolewa	V;PROG;NOM(2,SG);COND;PST;NEG;LGSPEC1	hungalikuwa ukiokolewa.
+okolewa	V;PROG;NOM(IN);IND;PST	mulikuwa mukiokolewa.
+okolewa	V;COND;PST;NOM(2,PL)	mngaliokolewa.
+okolewa	V;PROG;NOM(3,PL,M_WA);COND;PRS;NEG;Q	wasingekuwa wakiokolewa?
+okolewa	V;IND;PST;PRF;NOM(3,PL,M_MI);NEG	hikuwa imeokolewa.
+okolewa	V;IND;PRS;PRF;NEG;NOM(3,PL,M_MI)	hijaokolewa.
+okolewa	V;IND;PST;NEG;NOM(3,SG,U)	haukuokolewa.
+okolewa	V;PROG;NOM(3,SG,U);IND;PST	ulikuwa ukiokolewa.
+okolewa	V;COND;PST;NEG;NOM(3,SG,JI_MA);Q	lisingaliokolewa?
+okolewa	V;COND;PRS;NOM(3,PL,JI_MA)	yangeokolewa.
+okolewa	V;PROG;NOM(1,SG);COND;PST;Q	ningalikuwa nikiokolewa?
+okolewa	V;SUBJ;PRS;NOM(REM);Q	kuokolewe?
+okolewa	V;IND;PRS;PRF;NEG;NOM(3,PL,JI_MA)	hayajaokolewa.
+okolewa	V;PROG;NOM(3,PL,KI_VI);IND;PRS;PRF	vimekuwa vikiokolewa.
+okolewa	V;SUBJ;PRS;NOM(PROXM);Q	paokolewe?
+okolewa	V;IND;FUT;NEG;NOM(IN);Q	hamutaokolewa?
+okolewa	V;PROG;NOM(3,PL,KI_VI);COND;PST;NEG;Q	visingalikuwa vikiokolewa?
+okolewa	V;PROG;NOM(3,SG,N);IND;PST;NEG;Q	haikuwa ikiokolewa?
+okolewa	V;SUBJ;PRS;NOM(3,SG,M_WA);Q	aokolewe?
+okolewa	V;PROG;NOM(3,PL,M_WA);IND;PRS;PRF;NEG	hawajakuwa wakiokolewa.
+okolewa	V;COND;PST;PRF;NOM(2,SG);Q	ungalikuwa umeokolewa?
+fadhaika	V;COND;PRS;NEG;NOM(3,SG,KU)	kusingefadhaika.
+fadhaika	V;PROG;NOM(3,PL,N);IND;PRS;PRF;Q	zimekuwa zikifadhaika?
+fadhaika	V;COND;PRS;NOM(1,SG)	ningefadhaika.
+fadhaika	V;PROG;NOM(3,SG,M_MI);COND;PRS;NEG	usingekuwa ukifadhaika.
+fadhaika	V;IND;FUT;PRF;NOM(3,SG,U);Q	utakuwa umefadhaika?
+fadhaika	V;IND;PST;NEG;NOM(3,SG,KU);Q	hakukufadhaika?
+fadhaika	V;PROG;NOM(3,PL,M_WA);COND;PRS	wangekuwa wakifadhaika.
+fadhaika	V;COND;PRS;NEG;LGSPEC1;NOM(3,SG,M_MI);Q	haungefadhaika?
+fadhaika	V;PROG;NOM(3,SG,KI_VI);COND;PRS;NEG;LGSPEC1	hakingekuwa kikifadhaika.
+fadhaika	V;COND;PRS;PRF;NOM(3,PL,JI_MA)	yangekuwa yamefadhaika.
+fadhaika	V;IND;PST;PRF;NOM(3,PL,JI_MA);Q	yalikuwa yamefadhaika?
+fadhaika	V;IND;PRS;PRF;NOM(3,PL,N)	zimefadhaika.
+fadhaika	V;IND;PST;NOM(2,SG)	ulifadhaika.
+fadhaika	V;IND;FUT;NEG;NOM(3,SG,KU);Q	hakutafadhaika?
+fadhaika	V;COND;PST;NEG;NOM(PROXM)	pasingalifadhaika.
+fadhaika	V;PROG;NOM(3,PL,N);IND;PST;NEG	hazikuwa zikifadhaika.
+fadhaika	V;IND;PST;PRF;NOM(3,SG,U);Q	ulikuwa umefadhaika?
+fadhaika	V;IND;PST;PRF;NOM(3,SG,KI_VI);NEG	hakikuwa kimefadhaika.
+fadhaika	V;COND;PST;NEG;NOM(3,SG,M_MI);Q	usingalifadhaika?
+fadhaika	V;IND;PST;NEG;NOM(IN);Q	hamukufadhaika?
+fadhaika	V;COND;PRS;PRF;NOM(3,SG,KI_VI);Q	kingekuwa kimefadhaika?
+fadhaika	V;IND;PST;NOM(3,PL,M_MI);Q	ilifadhaika?
+suluhisha	V;IND;PST;PRF;NOM(3,SG,N);PRIM(3,PL,N);Q	ilikuwa imezisuluhisha?
+suluhisha	V;PROG;NOM(2,SG);PRIM(PROXM);COND;PST;Q	ungalikuwa ukipasuluhisha?
+suluhisha	V;COND;PST;NEG;NOM(1,SG);PRIM(IN)	nisingalimusuluhisha.
+suluhisha	V;PROG;NOM(1,PL);PRIM(3,SG,N);COND;PST;NEG;LGSPEC1;Q	hatungalikuwa tukiisuluhisha?
+suluhisha	V;COND;PST;PRF;NOM(1,PL);PRIM(3,PL,JI_MA);NEG;Q	tusingalikuwa tumeyasuluhisha?
+suluhisha	V;COND;PRS;PRF;NOM(3,SG,KI_VI);PRIM(3,SG,M_MI);NEG;LGSPEC1;Q	hakingekuwa kimeusuluhisha?
+suluhisha	V;COND;PST;PRF;NOM(3,SG,U);PRIM(REM);Q	ungalikuwa umekusuluhisha?
+suluhisha	V;IND;PRS;NOM(3,PL,M_WA);PRIM(3,SG,KU)	wanakusuluhisha.
+suluhisha	V;IND;PRS;NOM(3,PL,JI_MA);PRIM(3,SG,U);Q	yanausuluhisha?
+suluhisha	V;IND;PST;PRF;NOM(3,SG,JI_MA);PRIM(1,SG);NEG;Q	halikuwa limenisuluhisha?
+suluhisha	V;IND;PRS;NEG;NOM(1,SG);PRIM(3,PL,JI_MA);Q	siyasuluhishi?
+suluhisha	V;IND;FUT;NEG;NOM(3,SG,KI_VI);PRIM(RFLX);Q	hakitajisuluhisha?
+suluhisha	V;IND;PRS;NEG;NOM(3,SG,N);PRIM(3,SG,N)	haiisuluhishi.
+suluhisha	V;PROG;NOM(1,PL);PRIM(3,SG,KI_VI);IND;FUT;Q	tutakuwa tukikisuluhisha?
+suluhisha	V;SUBJ;PRS;NOM(2,PL);PRIM(1,SG)	mnisuluhishe.
+suluhisha	V;COND;PRS;PRF;NOM(PROXM);PRIM(3,SG,M_WA);NEG;Q	pasingekuwa pamemsuluhisha?
+suluhisha	V;IND;PRS;PRF;NOM(2,PL);PRIM(IN);Q	mmemusuluhisha?
+suluhisha	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,N);PRIM(3,PL,KI_VI)	hazingevisuluhisha.
+suluhisha	V;IND;PST;NEG;NOM(3,SG,M_WA);PRIM(3,SG,M_WA)	hakumsuluhisha.
+suluhisha	V;COND;PRS;NOM(3,SG,JI_MA);PRIM(3,SG,KI_VI)	lingekisuluhisha.
+suluhisha	V;PROG;NOM(3,PL,M_WA);PRIM(IN);IND;FUT;NEG;Q	hawatakuwa wakimusuluhisha?
+suluhisha	V;COND;PST;NOM(2,PL);PRIM(RFLX);Q	mngalijisuluhisha?
+suluhisha	V;PROG;NOM(2,PL);PRIM(2,SG);COND;PST;NEG;LGSPEC1	hamngalikuwa mkikusuluhisha.
+suluhisha	V;PROG;NOM(1,SG);PRIM(2,SG);IND;PRS;PRF	nimekuwa nikikusuluhisha.
+sisimua	V;COND;PRS;NOM(3,PL,N);PRIM(3,SG,KU)	zingekusisimua.
+sisimua	V;COND;PST;PRF;NOM(IN);PRIM(3,SG,KI_VI);NEG;LGSPEC1;Q	hamungalikuwa mumekisisimua?
+sisimua	V;PROG;NOM(3,SG,N);PRIM(3,PL,M_WA);COND;PRS	ingekuwa ikiwasisimua.
+sisimua	V;COND;PST;NEG;NOM(1,SG);PRIM(3,SG,N)	nisingaliisisimua.
+sisimua	V;PROG;NOM(3,SG,KU);PRIM(3,PL,M_MI);IND;PRS;PRF;NEG;Q	hakujakuwa kukiisisimua?
+sisimua	V;COND;PST;PRF;NOM(1,SG);PRIM(REM)	ningalikuwa nimekusisimua.
+sisimua	V;COND;PRS;NEG;LGSPEC1;NOM(3,PL,M_MI);PRIM(IN);Q	hingemusisimua?
+sisimua	V;COND;PRS;NOM(3,PL,N);PRIM(IN);Q	zingemusisimua?
+sisimua	V;PROG;NOM(1,PL);PRIM(3,PL,M_WA);IND;PST;NEG;Q	hatukuwa tukiwasisimua?
+sisimua	V;PROG;NOM(3,SG,JI_MA);PRIM(3,SG,KI_VI);COND;PST;Q	lingalikuwa likikisisimua?
+sisimua	V;IND;PST;PRF;NOM(3,SG,N);PRIM(3,PL,M_MI);NEG	haikuwa imeisisimua.
+sisimua	V;IND;PRS;NEG;NOM(1,SG);PRIM(3,PL,M_MI);HAB;Q	mimi huwa siisisimui?
+sisimua	V;COND;PST;NEG;NOM(PROXM);PRIM(3,PL,JI_MA);Q	pasingaliyasisimua?
+sisimua	V;COND;PRS;PRF;NOM(3,SG,KI_VI);PRIM(3,SG,JI_MA)	kingekuwa kimelisisimua.
+sisimua	V;COND;PST;PRF;NOM(3,SG,JI_MA);PRIM(RFLX);NEG	lisingalikuwa limejisisimua.
+sisimua	V;PROG;NOM(2,PL);PRIM(1,PL);IND;PRS;PRF;NEG;Q	hamjakuwa mkitusisimua?
+sisimua	V;PROG;NOM(3,SG,M_MI);PRIM(3,SG,KU);COND;PRS	ungekuwa ukikusisimua.
+sisimua	V;COND;PRS;PRF;NOM(3,SG,U);PRIM(IN);NEG;LGSPEC1;Q	haungekuwa umemusisimua?
+sisimua	V;PROG;NOM(3,PL,N);PRIM(3,PL,M_WA);COND;PST;NEG;LGSPEC1	hazingalikuwa zikiwasisimua.
+sisimua	V;PROG;NOM(2,SG);PRIM(3,SG,M_WA);COND;PST;NEG;LGSPEC1;Q	hungalikuwa ukimsisimua?
+sisimua	V;COND;PRS;NEG;LGSPEC1;NOM(2,SG);PRIM(REM)	hungekusisimua.

@@ -1,0 +1,1000 @@
+IND;PST;HAB;PROG;NOM(2,PL);NEG;Q;ACC(1,SG)	beni Türkçeleştiriyor olmaz mıydınız?	NEC;INFR;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX)	kendini keştiriyor olmalı mıymışsın?
+IND;PST;PRSP;NOM(3,SG);NEG;Q;ACC(2,PL)	sizi Türkçeleştirmeyecek miydi?	IND;PST;NOM(1,SG);NEG;ACC(2,SG)	seni keştirmedim.
+NEC;PST;PROG;NOM(2,SG);NEG;Q;ACC(1,SG)	beni Türkçeleştiriyor olmamalı mıydın?	NEC;INFR;PST;NOM(1,PL);ACC(1,SG)	beni keştirmeliymişiz.
+IND;PST;PERF;NOM(1,SG);Q;ACC(2,SG)	seni Türkçeleştirdi miydim?	INFR;PST;PERF;NOM(1,SG);ACC(3,SG)	onu kendimiştim.
+IND;PST;NOM(3,PL);Q;ACC(1,PL)	bizi Türkçeleştirdiler mi?	INFR;FUT;PRSP;NOM(3,SG);NEG;Q;ACC(3,PL)	onları kendiriyleştirecek olmayacak mıymış?
+NEC;INFR;PST;NOM(3,SG);Q;ACC(1,SG)	beni Türkçeleştirmeli miymiş?	INFR;FUT;PRSP;NOM(1,SG);Q;ACC(3,PL)	onları keştirecek olacak mıymışım?
+INFR;PST;PERF;NOM(3,SG);NEG;ACC(1,PL)	bizi Türkçeleştirmemişti.	IND;FUT;NOM(1,SG);NEG;ACC(2,PL)	sizi kendiniz çüreştirmeyeceğim.
+INFR;FUT;PERF;NOM(1,SG);ACC(3,PL)	onları Türkçeleştirmiş olacağım.	INFR;PST;PERF;NOM(2,PL);Q;ACC(3,SG)	onu kendinize çökertmiş miydiniz?
+INFR;FUT;PERF;NOM(3,SG);ACC(2,SG)	seni Türkçeleştirmiş olacak.	IND;PST;PROG;NOM(3,SG);NEG;ACC(3,SG,RFLX)	kendini kendini kendinize çökertmiyordu.
+IND;PST;HAB;NOM(3,PL);Q;ACC(2,PL)	sizi Türkçeleştirirler miydi?	IND;FUT;PRSP;NOM(1,SG);NEG;ACC(3,SG)	onu kendiriyleştirecek olmayacağım.
+IND;PST;HAB;NOM(2,SG);NEG;ACC(3,SG)	onu Türkçeleştirmezdin.	INFR;FUT;PERF;NOM(3,SG);Q;ACC(3,PL)	onları keştirmiş olacak mı?
+INFR;FUT;HAB;NOM(2,PL);NEG;ACC(3,PL)	onları Türkçeleştirir olmayacakmışsınız.	INFR;PST;PERF;NOM(2,PL);ACC(1,SG)	beni kendinizi onlara çökertmiştiniz.
+NEC;INFR;PST;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi Türkçeleştirmemeliymişsiniz.	IND;PST;HAB;NOM(2,PL);NEG;ACC(3,PL)	onları kendinizden çüreştirmezdiniz.
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi Türkçeleştiriyor olmayacaklar mıydı?	INFR;FUT;PERF;NOM(2,PL);Q;ACC(1,PL)	bizi keştirmiş olacak mısınız?
+IND;FUT;NOM(1,PL);Q;ACC(1,SG)	beni Türkçeleştirecek miyiz?	IND;PST;HAB;NOM(3,PL);ACC(1,SG)	beni keştirirlerdi.
+IND;PST;NOM(1,SG);Q;ACC(3,SG)	onu Türkçeleştirdim mi?	IND;PST;PROG;NOM(1,SG);Q;ACC(2,PL)	sizi keştiriyor muydum?
+IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,PL)	onları Türkçeleştirmiyor muyum?	INFR;FUT;HAB;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi keştirir olacak mıymışsınız?
+IND;PRS;HAB;NOM(3,PL);NEG;ACC(1,SG)	beni Türkçeleştirmezler.	IND;FUT;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi keştiriyor olmayacaksınız.
+IND;PST;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini Türkçeleştirmediler.	NEC;PST;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	kendinizi kendinizdertmemeli miydiniz?
+NEC;PST;PROG;NOM(1,PL)	ağlıyor olmalıydık.	INFR;FUT;HAB;NOM(2,PL);Q	yağlır olacak mıymışsınız?
+INFR;FUT;NOM(3,PL);NEG	ağlamayacaklarmış.	NEC;PST;NOM(3,SG);Q	yağlamalı mıydı?
+IND;PRS;HAB;NOM(3,PL);Q	ağlarlar mı?	IND;PST;PRSP;NOM(3,SG)	yağlacaktı.
+INFR;FUT;PERF;NOM(2,PL);NEG;Q	ağlamış olmayacak mısınız?	INFR;PST;NOM(3,SG);Q	yağlamış mı?
+INFR;PRS;HAB;NOM(3,SG);Q	ağlar mıymış?	IND;PST;NOM(2,SG);NEG;Q	yağlaşmadın mı?
+INFR;PRS;HAB;NOM(1,PL);NEG;Q	ağlamaz mıymışız?	IND;FUT;NOM(3,PL);NEG;Q	yağlamayacaklar mı?
+NEC;PRS;NOM(2,SG)	ağlamalısın.	NEC;PRS;NOM(2,PL);NEG	yağlamalısınız.
+NEC;PST;PROG;NOM(1,PL)	ağlıyor olmalıydık.	INFR;PST;PERF;NOM(3,SG)	yağlmıştı.
+IND;PST;NOM(2,PL)	ağladınız.	NEC;PST;NOM(2,SG);Q	yağlaşmalı mıydın?
+IND;PST;PRSP;NOM(2,PL);Q	ağlayacak mıydınız?	INFR;PRS;PROG;NOM(1,SG);Q	yağlıyor muymuşum?
+IND;PST;PERF;NOM(2,PL);Q	ağladı mıydınız?	IND;PRS;HAB;NOM(2,PL);NEG;Q	dağılmaz mısınız?
+NEC;PST;NOM(1,SG);NEG	ağlamamalıydım.	IND;FUT;PRSP;NOM(3,PL)	yağlayacak olacaklar.
+IND;FUT;NOM(2,PL);Q	ağlayacak mısınız?	INFR;FUT;PROG;NOM(1,SG);NEG;Q	yağlıyor olmayacak mıymışım?
+IND;PST;PROG;NOM(1,SG)	ağlıyordum.	INFR;PRS;PROG;NOM(3,SG);Q	yağlıyor muymuş?
+INFR;PST;NOM(3,SG)	ağlamış.	IND;PST;PERF;NOM(3,SG);NEG;Q	yağlaşmadı mıydı?
+INFR;PRS;PROG;NOM(1,PL);NEG	ağlamıyormuşuz.	IND;FUT;PRSP;NOM(3,SG);Q	yağlayacak olacak mı?
+INFR;PST;NOM(3,PL);NEG;Q	ağlamamışlar mı?	IND;FUT;PRSP;NOM(1,SG);NEG	dağılacak olmayacağım.
+INFR;FUT;NOM(1,SG);NEG;Q	ağlamayacak mıymışım?	IND;FUT;NOM(1,SG);Q	yağlayacak mıyım?
+INFR;FUT;NOM(2,SG);NEG;Q	ağlamayacak mıymışsın?	NEC;PST;PROG;NOM(3,SG);Q	yağlıyor olmalı mıydı?
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG;Q	ağlıyor olmamalılar mıymış?	IND;FUT;PRSP;NOM(1,SG);NEG;Q	yağlayacak olmayacak mıyım?
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG	ağlıyor olmamalılarmış.	IND;PST;PRSP;NOM(1,SG);NEG;Q	yağlamayacak mıydım?
+INFR;FUT;PRSP;NOM(3,PL);NEG;Q	ağlaacak olmayacaklar mıymış?	NEC;PRS;NOM(3,SG);NEG;Q	yağlamalı mı?
+IND;FUT;NOM(1,SG);NEG;DAT(1,PL)	bize aşık olmayacağım.	IND;PST;PRSP;NOM(3,SG);NEG;DAT(3,SG,RFLX)	kendine aşıkmayacaktı.
+IND;FUT;PRSP;NOM(3,SG);DAT(3,SG,RFLX)	kendine aşık olacak olacak.	IND;PRS;HAB;NOM(3,PL);NEG;Q;DAT(3,PL)	onlara kışmazlar mı?
+INFR;LGSPEC1;PST;NOM(2,PL);NEG;DAT(3,PL)	onlara aşık olmamışmışsınız.	NEC;PRS;NOM(2,SG);NEG;Q;DAT(2,SG,RFLX)	kendine kaşımamalı mısın?
+IND;FUT;NOM(3,SG);NEG;Q;DAT(2,SG)	sana aşık olmayacak mı?	INFR;FUT;PRSP;NOM(1,PL);NEG;Q;DAT(1,SG)	bana akışacak olmayacak mıymışız?
+INFR;PST;PERF;NOM(2,PL);Q;DAT(2,PL,RFLX)	kendinize aşık olmuş muydunuz?	IND;PST;NOM(2,SG);NEG;Q;DAT(3,SG)	ona aşık mı?
+NEC;PST;NOM(3,PL);Q;DAT(2,PL)	size aşık olmalılar mıydı?	IND;PRS;PROG;NOM(1,PL);DAT(3,SG)	ona aşılıyoruz.
+NEC;PRS;NOM(3,PL);NEG;Q;DAT(1,PL)	bize aşık olmamalılar mı?	IND;FUT;PRSP;NOM(1,PL);Q;DAT(1,SG)	bana aşıkacak olacak mıyız?
+IND;PST;NOM(3,PL);Q;DAT(3,PL)	onlara aşık oldular mı?	IND;PST;HAB;NOM(1,SG);Q;DAT(3,SG)	ona kaşır mıydım?
+INFR;PST;PRSP;NOM(2,SG);DAT(1,SG)	bana aşık olmuş olacaktın.	INFR;PRS;PROG;NOM(2,PL);NEG;DAT(3,SG)	ona kaşılmıyormuşsunuz.
+INFR;PST;NOM(1,PL);NEG;Q;DAT(3,PL)	onlara aşık olmamış mıyız?	INFR;PRS;PROG;NOM(3,SG);NEG;Q;DAT(1,PL)	bize aşıkmıyor muymuş?
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;Q;DAT(1,PL)	bize aşık oluyor olmamalı mıymış?	NEC;INFR;PRS;PROG;NOM(2,SG);NEG;Q;DAT(1,SG)	bana kaşıyor olmamalı mıymışsın?
+INFR;FUT;HAB;NOM(2,PL);DAT(1,SG)	bana aşık olur olacakmışsınız.	IND;PST;PERF;NOM(2,PL);Q;DAT(3,SG)	ona kıştı mıydınız?
+INFR;FUT;PROG;NOM(1,PL);Q;DAT(1,SG)	bana aşık oluyor olacak mıymışız?	INFR;PRS;HAB;NOM(3,PL);DAT(2,SG)	sana kaşırlarmış.
+INFR;LGSPEC1;PST;NOM(2,PL);DAT(2,PL,RFLX)	kendinize aşık olmuşmuşsunuz.	INFR;FUT;PROG;NOM(3,SG);NEG;Q;DAT(2,SG)	sana aşıyor olmayacak mıymış?
+NEC;PRS;PROG;NOM(2,PL);NEG;DAT(1,SG)	bana aşık oluyor olmamalısınız.	IND;PRS;PROG;NOM(2,SG);DAT(2,PL)	size kaşıyorsun.
+IND;PST;HAB;NOM(1,SG);NEG;DAT(1,PL)	bize aşık olmazdım.	IND;PST;PROG;NOM(3,PL);NEG;Q;DAT(2,SG)	sana aşıkmıyorlar mıydı?
+INFR;FUT;PRSP;NOM(1,PL);Q;DAT(3,SG)	ona aşık olacak olacak mıymışız?	IND;PST;NOM(1,PL);Q;DAT(3,SG)	ona kıştık mı?
+IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;DAT(1,SG,RFLX)	kendime aşık oluyor olmaz mıydım?	IND;PST;HAB;PROG;NOM(2,SG);NEG;DAT(3,SG)	ona kaşıyor olmazdın.
+IND;PRS;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi başarmıyorsunuz.	IND;FUT;PROG;NOM(2,PL);ACC(1,PL)	bizi boşarıyor olacaksınız.
+INFR;LGSPEC1;PST;NOM(2,PL);ACC(1,SG)	beni başarmışmışsınız.	INFR;FUT;PERF;NOM(2,SG);NEG;ACC(1,SG)	beni boşarmış olmayacaksın.
+INFR;LGSPEC1;PST;NOM(3,PL);NEG;ACC(2,SG)	seni başarmamışlarmış.	IND;PRS;HAB;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi boşarmaz mıyım?
+IND;PRS;HAB;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini başarırlar.	NEC;INFR;PRS;PROG;NOM(3,SG);Q;ACC(2,PL)	sizi başırıyor olmalı mıymış?
+IND;FUT;PRSP;NOM(3,SG);ACC(2,PL)	sizi başaracak olacak.	IND;PRS;PROG;NOM(1,SG);NEG;ACC(2,SG)	seni baraşmıyorum.
+NEC;INFR;PST;NOM(3,PL);Q;ACC(2,PL)	sizi başarmalılar mıymış?	INFR;LGSPEC1;PST;NOM(2,SG);ACC(1,SG)	beni baraşmışsın.
+IND;FUT;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi başarmayacaksınız.	INFR;FUT;PERF;NOM(3,SG);NEG;ACC(1,SG)	beni baraşmış olmayacak.
+IND;FUT;PROG;NOM(2,PL);Q;ACC(3,PL)	onları başarıyor olacak mısınız?	IND;PST;HAB;NOM(3,PL);NEG;ACC(3,SG)	onu boşarmazlardı.
+IND;PST;PRSP;NOM(3,PL);ACC(1,PL)	bizi başaracaklardı.	IND;PST;PROG;NOM(2,SG);Q;ACC(1,SG)	beni barıyor muydun?
+IND;PRS;PROG;NOM(3,SG);Q;ACC(3,SG)	onu başarıyor mu?	IND;PST;HAB;NOM(1,PL);ACC(3,SG)	onu boşardık.
+IND;PST;HAB;PROG;NOM(3,SG);ACC(2,SG)	seni başarıyor olurdu.	IND;PST;PERF;NOM(3,PL);NEG;ACC(1,SG)	beni boşarmadılardı.
+INFR;PST;PERF;NOM(3,SG);Q;ACC(2,SG)	seni başarmış mıydı?	NEC;PRS;PROG;NOM(1,PL);NEG;ACC(3,SG)	onu barıyor olmamalıyız.
+NEC;INFR;PST;NOM(2,PL);NEG;ACC(1,PL)	bizi başarmamalıymışsınız.	NEC;PST;PROG;NOM(3,PL);ACC(3,PL)	onları boşarıyor olmalılardı.
+IND;FUT;NOM(1,SG);ACC(3,SG)	onu başaracağım.	INFR;PST;NOM(3,SG);Q;ACC(3,PL)	onları boşar mı?
+IND;FUT;NOM(2,SG);NEG;ACC(1,SG)	beni başarmayacaksın.	NEC;PRS;NOM(1,PL);Q;ACC(3,PL)	onları boşarmalı mıyız?
+INFR;PST;PRSP;NOM(1,SG);NEG;Q;ACC(2,SG)	seni başarmış olmayacak mıydım?	IND;PRS;HAB;NOM(3,SG);NEG;ACC(2,SG)	seni baraşmaz.
+INFR;LGSPEC1;PST;NOM(1,SG);ACC(2,SG)	seni başarmışmışım.	IND;PRS;HAB;NOM(1,SG);NEG;ACC(2,SG)	seni baraşmam.
+INFR;FUT;NOM(3,PL);Q;ACC(3,PL)	onları başaracaklar mıymış?	INFR;FUT;PROG;NOM(3,SG);Q;ACC(1,PL)	bizi barıyor olacak mıymış?
+INFR;FUT;PRSP;NOM(2,SG);NEG;ACC(1,PL)	bizi başaracak olmayacakmışsın.	INFR;PST;PERF;NOM(2,PL);ACC(3,PL)	onları boşarmıştınız.
+INFR;PST;PERF;NOM(3,SG);NEG;ACC(1,PL)	bizi başarmamıştı.	NEC;PRS;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX)	kendilerini başıyor olmalılar mı?
+INFR;PST;NOM(2,SG);NEG;ACC(3,SG)	onu beklememişsin.	IND;PST;PRSP;NOM(1,SG);NEG;ACC(3,PL)	onları bilkmeyecektim.
+INFR;FUT;PRSP;NOM(2,SG);NEG;Q;ACC(2,PL)	sizi bekleecek olmayacak mıymışsın?	INFR;PRS;HAB;NOM(2,SG);NEG;Q;ACC(3,SG)	onu bilkmez miymişsin?
+INFR;FUT;PROG;NOM(3,SG);NEG;Q;ACC(2,PL)	sizi bekliyor olmayacak mıymış?	INFR;LGSPEC1;PST;NOM(3,PL);Q;ACC(3,PL)	onları bilkletmişler miymiş?
+INFR;FUT;PERF;NOM(3,PL);NEG;Q;ACC(3,SG)	onu beklemiş olmayacaklar mı?	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi bilemiyor muyduk?
+INFR;PRS;PROG;NOM(2,PL);ACC(3,PL)	onları bekliyormuşsunuz.	INFR;FUT;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini bilkecek miymiş?
+IND;PST;NOM(3,PL);ACC(1,SG)	beni beklediler.	IND;PST;HAB;NOM(2,SG);Q;ACC(2,SG,RFLX)	kendini bilker miydin?
+NEC;PRS;PROG;NOM(3,SG);NEG;ACC(1,PL)	bizi bekliyor olmamalı.	NEC;PST;NOM(1,SG);ACC(3,SG)	onu bilklemeliydim.
+NEC;INFR;PRS;PROG;NOM(1,SG);Q;ACC(2,PL)	sizi bekliyor olmalı mıymışım?	NEC;INFR;PST;NOM(1,PL);NEG;ACC(3,SG)	onu bilklememeliymişiz.
+IND;PST;PRSP;PROG;NOM(1,SG);Q;ACC(1,PL)	bizi bekliyor olacak mıydım?	INFR;PST;NOM(2,PL);NEG;ACC(3,PL)	onları bilklememişsiniz.
+INFR;PST;PERF;NOM(3,SG);NEG;ACC(3,PL)	onları beklememişti.	INFR;FUT;PERF;NOM(2,SG);NEG;Q;ACC(1,SG)	beni bilkmiş olmayacak mısın?
+NEC;PST;PROG;NOM(3,SG);NEG;Q;ACC(2,SG)	seni bekliyor olmamalı mıydı?	IND;PST;HAB;PROG;NOM(2,SG);Q;ACC(1,SG)	beni biliyor olur muydun?
+IMP;NOM(2,SG);ACC(3,SG)	onu bekle!	INFR;PRS;HAB;NOM(2,PL);NEG;ACC(1,PL)	bizi bemezmişsiniz.
+IND;PST;NOM(2,SG);Q;ACC(2,PL)	sizi bekledin mi?	IND;PST;PRSP;PROG;NOM(1,PL);ACC(2,PL)	sizi biliyor olacaktık.
+NEC;PRS;NOM(3,SG);NEG;ACC(2,SG)	seni beklememeli.	INFR;FUT;NOM(3,SG);NEG;ACC(2,PL)	sizi bilkmeyecekmiş.
+INFR;PRS;HAB;NOM(2,SG);ACC(3,PL)	onları beklermişsin.	INFR;PST;PERF;NOM(1,PL);Q;ACC(2,PL)	sizi bilkmiş miydik?
+NEC;PST;NOM(2,PL);ACC(3,SG)	onu beklemeliydiniz.	IND;PRS;HAB;NOM(2,PL);NEG;ACC(1,SG)	beni bilmezsiniz.
+IND;PRS;PROG;NOM(2,SG);NEG;ACC(3,PL)	onları beklemiyorsun.	INFR;LGSPEC1;PST;NOM(3,PL);ACC(2,SG)	seni bilkmişlermiş.
+IND;FUT;PRSP;NOM(2,PL);Q;ACC(2,SG)	seni bekleyecek olacak mısınız?	NEC;PST;PROG;NOM(3,PL);ACC(1,PL)	bizi biliyor olmalılardı.
+INFR;FUT;NOM(1,PL);Q;ACC(2,SG)	seni bekleyecek miymişiz?	IND;PST;HAB;NOM(2,PL);NEG;Q;ACC(3,SG)	onu bilkmez miydiniz?
+NEC;PRS;NOM(3,PL);NEG;ACC(2,PL)	sizi boşlamamalılar.	IND;PST;HAB;NOM(2,PL);NEG;Q;ACC(1,SG)	beni bozmaz mıydınız?
+NEC;PST;PROG;NOM(2,PL);NEG;Q;ACC(2,SG)	seni boşluyor olmamalı mıydınız?	INFR;FUT;PERF;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini bozmuş olmayacak mı?
+NEC;PST;NOM(3,PL);NEG;ACC(3,PL)	onları boşlamamalılardı.	IND;PST;NOM(3,PL);NEG;ACC(3,PL)	onları boşamadılar.
+NEC;INFR;PRS;PROG;NOM(2,SG);ACC(1,SG)	beni boşluyor olmalıymışsın.	IND;PST;PERF;NOM(2,SG);NEG;ACC(2,PL)	sizi bozmadıydın.
+INFR;PRS;PROG;NOM(2,SG);NEG;Q;ACC(1,SG)	beni boşlamıyor muymuşsun?	IND;PST;HAB;NOM(1,PL);NEG;ACC(1,PL,RFLX)	kendimizi bozmazdık.
+INFR;FUT;PROG;NOM(3,PL);NEG;ACC(1,PL)	bizi boşluyor olmayacaklarmış.	IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi bozmadı mıydım?
+NEC;PRS;NOM(2,PL);NEG;Q;ACC(1,SG)	beni boşlamamalı mısınız?	INFR;PRS;HAB;NOM(3,SG);ACC(3,PL)	onları bozarmış.
+INFR;PRS;HAB;NOM(2,PL);NEG;Q;ACC(3,SG)	onu boşlamaz mıymışsınız?	NEC;PRS;NOM(2,SG);ACC(1,PL)	bizi bozmalısın.
+IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,SG)	onu boşlamadılar mıydı?	INFR;FUT;HAB;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi bozar olacak mıymışım?
+IND;FUT;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi boşluyor olacak mıyız?	NEC;INFR;PRS;PROG;NOM(2,SG);Q;ACC(1,PL)	bizi bozuyor olmalı mıymışsın?
+NEC;PRS;NOM(3,SG);NEG;Q;ACC(1,SG)	beni boşlamamalı mı?	INFR;LGSPEC1;PST;NOM(2,SG);NEG;ACC(3,PL)	onları bozmamışmışsın.
+IND;PST;PROG;NOM(2,PL);ACC(2,SG)	seni boşluyordunuz.	INFR;PST;PERF;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi bozmamış mıydı?
+IND;PRS;PROG;NOM(1,SG);ACC(2,SG)	seni boşluyorum.	INFR;LGSPEC1;PST;NOM(3,SG);NEG;Q;ACC(1,SG)	beni bozmamış mıymış?
+IND;PRS;HAB;NOM(1,SG);ACC(1,PL)	bizi boşlarım.	IND;PST;PRSP;PROG;NOM(1,PL);NEG;ACC(3,PL)	onları bozuyor olmayacaktık.
+IND;PST;PRSP;NOM(1,SG);ACC(3,SG)	onu boşlayacaktım.	NEC;PST;PROG;NOM(3,SG);NEG;ACC(1,SG)	beni boşuyor olmamalıydı.
+IND;PST;PROG;NOM(2,PL);NEG;Q;ACC(3,SG)	onu boşlamıyor muydunuz?	NEC;PST;PROG;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini boşuyor olmalı mıydı?
+INFR;FUT;PROG;NOM(3,PL);NEG;Q;ACC(2,SG)	seni boşluyor olmayacaklar mıymış?	IND;FUT;NOM(3,PL);ACC(3,PL)	onları bozacaklar.
+IND;PST;PERF;NOM(3,SG);NEG;ACC(1,PL);DAT(2,SG)	bizi sana daldırmadıydı.	IND;PRS;PROG;NOM(1,SG);NEG;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine daldırmıyorum.
+INFR;FUT;PROG;NOM(1,SG);ACC(2,SG);DAT(1,SG,RFLX)	seni kendime daldırıyor olacakmışım.	INFR;PST;NOM(3,SG);Q;ACC(1,SG);DAT(3,PL)	beni onlara daldırmış mı?
+NEC;INFR;PST;NOM(3,SG);NEG;ACC(3,SG);DAT(3,PL)	onu onlara daldırmamalıymış.	IND;PST;NOM(1,SG);ACC(2,SG);DAT(1,PL)	seni bize daldırdım.
+IND;FUT;PRSP;NOM(2,PL);Q;ACC(1,SG);DAT(3,PL)	beni onlara daldıracak olacak mısınız?	IND;PST;HAB;PROG;NOM(2,PL);ACC(1,SG);DAT(1,PL)	beni bize daldırıyor olurdunuz.
+IND;PST;PROG;NOM(3,PL);ACC(1,PL);DAT(3,SG)	bizi ona daldırıyorlardı.	IND;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,PL);DAT(2,SG)	bizi sana dadırmıyor mu?
+INFR;PST;PERF;NOM(1,SG);Q;ACC(3,PL);DAT(1,SG,RFLX)	onları kendime daldırmış mıydım?	IND;PST;PROG;NOM(1,PL);ACC(2,SG);DAT(3,PL)	seni onlara daldırıyorduk.
+NEC;PST;NOM(2,PL);Q;ACC(3,SG);DAT(3,PL)	onu onlara daldırmalı mıydınız?	IND;FUT;PRSP;NOM(1,PL);Q;ACC(1,PL,RFLX);DAT(1,SG)	kendimizi bana dalacak olacak mıyız?
+INFR;PRS;HAB;NOM(3,SG);Q;ACC(3,SG,RFLX);DAT(3,SG)	kendini ona daldırır mıymış?	NEC;PRS;NOM(3,SG);ACC(2,SG);DAT(3,SG)	seni ona daldırmalı.
+IND;FUT;PROG;NOM(3,PL);ACC(3,PL);DAT(3,PL,RFLX)	onları kendilerine daldırıyor olacaklar.	IND;PST;PROG;NOM(3,PL);ACC(2,PL);DAT(2,PL,RFLX)	sizi kendinize daldırıyorlardı.
+IND;PRS;HAB;NOM(2,PL);Q;ACC(2,PL,RFLX);DAT(1,SG)	kendinizi bana daldırır mısınız?	INFR;FUT;HAB;NOM(1,SG);NEG;ACC(3,PL);DAT(3,SG)	onları ona daldırır olmayacakmışım.
+IND;PST;PERF;NOM(2,SG);NEG;Q;ACC(3,SG);DAT(3,SG)	onu ona daldırmadı mıydın?	INFR;LGSPEC1;PST;NOM(1,SG);ACC(2,PL);DAT(2,SG)	sizi sana daldırmışmışım.
+NEC;INFR;PRS;PROG;NOM(1,PL);Q;ACC(2,SG);DAT(1,PL,RFLX)	seni kendimize daldırıyor olmalı mıymışız?	IND;PST;PRSP;PROG;NOM(3,SG);Q;ACC(2,SG);DAT(1,SG)	seni bana daldırıyor olacak mıydı?
+INFR;PRS;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(3,SG)	kendilerini ona daldırıyorlar mıymış?	NEC;INFR;PRS;PROG;NOM(1,SG);Q;ACC(3,SG);DAT(3,PL)	onu onlara daldırıyor olmalı mıymışım?
+IND;PST;PROG;NOM(1,SG);Q;ACC(1,PL);DAT(2,PL)	bizi size daldırıyor muydum?	IND;PST;HAB;NOM(3,PL);ACC(3,SG);DAT(3,PL,RFLX)	onu kendilerine daldırı.
+INFR;FUT;HAB;NOM(2,SG);NEG;ACC(3,SG);DAT(1,SG)	onu bana daldırır olmayacakmışsın.	IND;FUT;PRSP;NOM(3,SG);Q;ACC(3,PL);DAT(3,PL)	onları onlara dalacak mı?
+IND;PST;PROG;NOM(3,PL);NEG;ACC(1,PL);DAT(2,SG)	bizi sana daldırmıyorlardı.	IND;FUT;PRSP;NOM(3,SG);NEG;Q;ACC(1,PL);DAT(3,SG)	bizi ona daldıracak olmayacak mı?
+INFR;PRS;PROG;NOM(2,PL);Q;ACC(3,PL);DAT(3,PL,RFLX)	onları kendilerine daldırıyor muymuşsunuz?	IND;PST;HAB;PROG;NOM(2,PL);ACC(3,PL);DAT(2,SG)	onları sana daldırıyor olurdunuz.
+IND;PST;PROG;NOM(1,SG);NEG;Q;ACC(3,SG);DAT(2,PL)	onu size daldırmıyor muydum?	NEC;INFR;PRS;PROG;NOM(2,SG);ACC(3,PL);DAT(3,SG)	onları ona daldırıyor olmalıymışsın.
+IND;PST;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX);DAT(3,SG)	kendimizi ona daldırıyor muyduk?	IND;PRS;HAB;NOM(3,PL);NEG;Q;ACC(1,PL);DAT(2,PL)	bizi size daldırmazlar mı?
+INFR;FUT;PROG;NOM(1,PL);Q;ACC(2,PL);DAT(3,PL)	sizi onlara daldırıyor olacak mıymışız?	INFR;FUT;PERF;NOM(3,SG);NEG;Q;ACC(2,SG);DAT(3,PL)	seni onlara daldırmış olmayacak mı?
+IND;PRS;PROG;NOM(1,PL);Q;ACC(2,SG);DAT(2,PL)	seni size daldırıyor muyuz?	IND;PST;NOM(3,SG);ACC(1,SG);DAT(1,SG,RFLX)	beni kendime daldı.
+INFR;PST;PRSP;NOM(3,SG);ACC(1,SG);DAT(2,PL)	beni size dayamış olacaktı.	IND;FUT;PRSP;NOM(3,PL);NEG;ACC(3,SG);DAT(1,SG)	onu bana dayacak olmayacaklar.
+IND;PST;PRSP;NOM(1,SG);ACC(1,PL);DAT(3,PL)	bizi onlara dayayacaktım.	INFR;LGSPEC1;PST;NOM(1,SG);NEG;ACC(2,SG);DAT(1,PL)	seni bize daymamışmışım.
+INFR;LGSPEC1;PST;NOM(1,SG);NEG;Q;ACC(3,PL);DAT(3,PL)	onları onlara dayamamış mıymışım?	NEC;PST;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX);DAT(2,PL)	kendimizi size dayık?
+IND;PST;PRSP;NOM(2,SG);NEG;ACC(3,SG);DAT(2,PL)	onu size dayamayacaktın.	IND;PRS;PROG;NOM(2,PL);Q;ACC(2,SG);DAT(1,PL)	seni bize dayıyor musunuz?
+NEC;INFR;PST;NOM(2,PL);Q;ACC(3,SG);DAT(3,SG)	onu ona dayamalı mıymışsınız?	IND;PST;HAB;PROG;NOM(3,SG);NEG;Q;ACC(3,PL);DAT(3,PL)	onları onlara dayıyor olmaz mıydı?
+IND;PST;NOM(2,PL);NEG;Q;ACC(1,PL);DAT(1,SG)	bizi bana dayamadınız mı?	IND;FUT;PROG;NOM(1,PL);Q;ACC(3,SG);DAT(2,SG)	onu sana dayıyor olacak mıyız?
+NEC;PRS;NOM(3,PL);NEG;Q;ACC(1,PL);DAT(2,PL)	bizi size dayamamalılar mı?	INFR;PRS;HAB;NOM(1,SG);NEG;ACC(1,PL);DAT(3,SG)	bizi ona daymazmışım.
+IND;PST;PROG;NOM(3,SG);NEG;ACC(1,PL);DAT(3,SG)	bizi ona dayamıyordu.	INFR;PRS;HAB;NOM(2,SG);NEG;ACC(1,SG);DAT(1,PL)	beni bize daymazmışsın.
+INFR;FUT;PRSP;NOM(3,PL);NEG;ACC(3,SG);DAT(2,PL)	onu size dayayacak olmayacaklarmış.	INFR;PST;PRSP;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(1,PL)	kendilerini bize daymış olacaklar mıydı?
+INFR;PRS;PROG;NOM(1,SG);DAT(1,PL)	bize dayıyormuşum.	IND;PST;PRSP;NOM(3,SG);ACC(3,PL);DAT(3,SG,RFLX)	onları kendine dayacaktı.
+INFR;PST;PRSP;NOM(3,PL);NEG;Q;ACC(1,PL);DAT(1,PL,RFLX)	bizi kendimize dayamış olmayacaklar mıydı?	INFR;PST;PRSP;NOM(3,PL);DAT(1,PL)	bize daymış olacaklardı.
+IND;PST;PERF;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(3,PL)	kendilerini onlara dayadılar mıydı?	IND;PST;NOM(2,PL);NEG;ACC(3,SG);DAT(2,PL,RFLX)	onu kendinize daymadınız.
+INFR;FUT;PERF;NOM(1,SG);Q;ACC(2,PL);DAT(2,SG)	sizi sana dayamış olacak mıyım?	IND;PST;PRSP;NOM(3,PL);Q;ACC(2,PL);DAT(2,PL,RFLX)	sizi kendinize dayacaklar mıydı?
+IND;PST;PERF;NOM(1,PL);Q;ACC(1,SG);DAT(1,PL,RFLX)	beni kendimize dayadı mıydık?	INFR;PST;PERF;NOM(2,SG);DAT(2,SG,RFLX)	kendine daymıştın.
+INFR;PRS;PROG;NOM(2,PL);ACC(2,PL,RFLX);DAT(3,SG)	kendinizi ona dayıyormuşsunuz.	IND;PST;NOM(3,PL);Q;ACC(3,SG);DAT(3,PL,RFLX)	onu kendilerine damlar mı?
+NEC;PRS;PROG;NOM(3,SG);ACC(2,SG);DAT(3,PL)	seni onlara dayıyor olmalı.	IND;PST;PRSP;NOM(1,PL);NEG;Q;DAT(1,SG)	bana daymayacak mıydık?
+INFR;FUT;HAB;NOM(1,PL);Q;ACC(3,PL);DAT(2,PL)	onları size dayar olacak mıymışız?	NEC;INFR;PST;NOM(1,SG);NEG;ACC(3,SG);DAT(3,PL)	onu onlara damalıymışım.
+NEC;PRS;NOM(3,SG);NEG;Q;ACC(2,SG);DAT(3,SG)	seni ona dayamamalı mı?	INFR;FUT;HAB;NOM(1,SG);NEG;ACC(2,PL);DAT(3,SG)	sizi ona dayar olmayacakmışım.
+IND;FUT;NOM(2,SG);NEG;Q;ACC(2,PL);DAT(1,SG)	sizi bana dayamayacak mısın?	NEC;PRS;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(2,SG)	kendilerini sana damlılar mı?
+INFR;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,PL);DAT(1,PL,RFLX)	bizi kendimize dayamıyor muymuş?	INFR;FUT;HAB;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX);DAT(2,PL)	kendilerini size dayırır olmayacaklar mıymış?
+INFR;PST;PERF;NOM(3,PL);NEG;ACC(1,PL);DAT(3,SG)	bizi ona dayamamışlardı.	INFR;PRS;HAB;NOM(2,SG);DAT(2,SG,RFLX)	kendine dayırmışsın.
+IND;FUT;PRSP;NOM(3,SG);Q;ACC(3,SG);DAT(3,SG)	onu ona dayayacak olacak mı?	IND;PRS;PROG;NOM(1,PL);NEG;ACC(2,SG);DAT(1,SG)	seni bana daymıyoruz.
+INFR;FUT;PROG;NOM(1,SG);ACC(2,PL)	sizi demliyor olacakmışım.	IND;PST;NOM(3,PL);NEG;ACC(3,SG)	onu delmediler.
+INFR;PST;NOM(2,PL);ACC(1,PL)	bizi demlemişsiniz.	IND;FUT;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini delmeyecekler mi?
+NEC;INFR;PST;NOM(1,PL);NEG;ACC(1,PL,RFLX)	kendimizi demlememeliymişiz.	IND;PST;HAB;NOM(3,SG);NEG;ACC(1,PL)	bizi delmezdi.
+INFR;LGSPEC1;PST;NOM(2,PL);ACC(1,PL)	bizi demlemişmişsiniz.	NEC;PST;PROG;NOM(3,SG);ACC(1,PL)	bizi deliyor olmalıydı.
+IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;ACC(3,PL)	onları demliyor olmaz mıydım?	IND;PST;NOM(3,SG);NEG;ACC(3,PL)	onları delmedi.
+IND;PST;HAB;NOM(1,SG);ACC(3,PL)	onları demlerdim.	INFR;PRS;HAB;NOM(3,SG);ACC(2,SG)	seni delermiş.
+NEC;INFR;PST;NOM(2,PL);NEG;Q;ACC(2,SG)	seni demlememeli miymişsiniz?	INFR;FUT;PROG;NOM(3,SG);Q;ACC(3,SG)	onu deliyor olacak mıymış?
+INFR;PRS;HAB;NOM(3,PL);Q;ACC(2,PL)	sizi demlerler miymiş?	IND;PST;PRSP;NOM(3,PL);ACC(2,PL)	sizi deleceklerdi.
+INFR;PST;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini demlememişler mi?	INFR;FUT;PRSP;NOM(3,PL);NEG;Q;ACC(1,SG)	beni delecek olmayacaklar mıymış?
+IND;PST;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi demliyor muyduk?	IND;PST;PRSP;NOM(1,PL);ACC(3,PL)	onları delecektik.
+IND;PST;PROG;NOM(2,SG);Q;ACC(3,PL)	onları demliyor muydun?	INFR;PST;PRSP;NOM(3,PL);ACC(2,PL)	sizi delmiş olacaklardı.
+INFR;PST;PRSP;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi demlemiş olmayacaktınız.	IND;PST;HAB;NOM(1,PL);NEG;ACC(3,PL)	onları delmezdik.
+INFR;PST;PRSP;NOM(1,SG);ACC(1,SG,RFLX)	kendimi demlemiş olacaktım.	INFR;PRS;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi delmiyormuşum.
+INFR;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX)	kendini demliyor muymuşsun?	NEC;PRS;NOM(1,PL);ACC(1,PL,RFLX)	kendimizi delmeliyiz.
+IND;PST;PROG;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi demlemiyorlar mıydı?	INFR;FUT;PERF;NOM(1,SG);NEG;Q;ACC(2,SG)	seni delmiş olmayacak mıyım?
+IND;PRS;HAB;NOM(1,PL);NEG;Q;ACC(3,SG)	onu demlemez miyiz?	NEC;INFR;PST;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi delmemeli miymişim?
+IND;PRS;HAB;NOM(1,PL);NEG;ACC(3,SG)	onu demlemeyiz.	IND;PRS;PROG;NOM(1,PL);NEG;Q;ACC(1,SG)	beni delmiyor muyuz?
+INFR;FUT;NOM(2,PL);Q;ACC(1,PL)	bizi demleyecek miymişsiniz?	IND;PST;PROG;NOM(1,PL);ACC(3,SG)	onu deliyorduk.
+IND;PST;PROG;NOM(2,PL);ACC(3,SG)	onu demliyordunuz.	IND;FUT;PROG;NOM(2,PL);Q;ACC(1,PL)	bizi deliyor olacak mısınız?
+NEC;PST;NOM(1,SG);NEG;ACC(2,PL)	sizi demlememeliydim.	IND;PST;PROG;NOM(2,SG);Q;ACC(3,SG)	onu deliyor muydun?
+IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini demlemediler miydi?	INFR;FUT;PRSP;NOM(1,PL);Q;ACC(2,PL)	sizi delecek olacak mıymışız?
+NEC;INFR;PST;NOM(1,SG);NEG;Q;ACC(3,SG)	onu dokumamalı mıymışım?	NEC;PRS;NOM(2,SG);NEG;ACC(3,PL)	onları dokumamalısın.
+IND;PRS;HAB;NOM(3,SG);NEG;Q;ACC(3,SG)	onu dokumaz mı?	IND;FUT;PRSP;NOM(2,SG);Q;ACC(1,SG)	beni dokacak olacak mısın?
+IND;PST;HAB;PROG;NOM(1,SG);ACC(2,SG)	seni dokuyor olurdum.	NEC;INFR;PRS;PROG;NOM(1,SG);Q;ACC(2,PL)	sizi dokuyor olmalı mıymışım?
+IND;PST;PRSP;NOM(2,PL);Q;ACC(3,SG)	onu dokuyacak mıydınız?	INFR;PST;NOM(2,SG);NEG;Q;ACC(3,PL)	onları dokumamış mısın?
+INFR;FUT;PERF;NOM(2,PL);NEG;Q;ACC(3,PL)	onları dokumuş olmayacak mısınız?	IND;PRS;PROG;NOM(1,SG);Q;ACC(3,PL)	onları dokuyor muyum?
+INFR;FUT;HAB;NOM(1,PL);NEG;ACC(3,PL)	onları dokur olmayacakmışız.	IND;FUT;PROG;NOM(1,PL);NEG;Q;ACC(2,SG)	seni dokuyor olmayacak mıyız?
+NEC;PRS;PROG;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini dokuyor olmamalılar.	IND;FUT;PROG;NOM(3,SG);Q;ACC(3,SG)	onu dokuyor olacak mı?
+IND;PST;HAB;PROG;NOM(1,SG);Q;ACC(3,PL)	onları dokuyor olur muydum?	INFR;LGSPEC1;PST;NOM(1,SG);ACC(1,SG,RFLX)	kendimi dokmuşmuşum.
+INFR;PST;PERF;NOM(3,PL);Q;ACC(2,PL)	sizi dokumuşlar mıydı?	NEC;PRS;PROG;NOM(3,PL);NEG;ACC(3,SG)	onu dokuyor olmamalılar.
+NEC;INFR;PRS;PROG;NOM(2,SG);NEG;Q;ACC(2,PL)	sizi dokuyor olmamalı mıymışsın?	INFR;FUT;PERF;NOM(1,SG);Q;ACC(2,PL)	sizi dokumuş olacak mıyım?
+IND;PST;PRSP;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	kendini dokumayacak mıydın?	INFR;PST;NOM(3,PL);ACC(1,PL)	bizi dokumuşlar.
+IND;PST;NOM(2,PL);Q;ACC(1,SG)	beni dokudunuz mu?	INFR;PRS;PROG;NOM(2,SG);Q;ACC(3,PL)	onları dokuyor muymuşsun?
+IND;PST;HAB;PROG;NOM(3,PL);NEG;Q;ACC(3,PL)	onları dokuyor olmazlar mıydı?	IND;FUT;PRSP;NOM(2,PL);NEG;ACC(2,SG)	seni dokuyacak olmayacaksınız.
+INFR;FUT;HAB;NOM(1,SG);Q;ACC(2,PL)	sizi dokur olacak mıymışım?	INFR;PST;NOM(1,PL);NEG;ACC(2,PL)	sizi dokumamışız.
+IND;FUT;NOM(1,PL);Q;ACC(1,SG)	beni dokuyacak mıyız?	IND;FUT;PRSP;NOM(3,PL);ACC(1,PL)	bizi dokacak olacaklar.
+INFR;FUT;PRSP;NOM(2,PL);ACC(1,PL)	bizi dokuyacak olacakmışsınız.	INFR;FUT;PERF;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini dokumuş olacaklar.
+IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi dokuyor olmaz mıydım?	IND;PST;PERF;NOM(3,PL);ACC(1,PL)	bizi dokladılardı.
+INFR;PST;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini dokumamışsın.	INFR;PRS;HAB;NOM(3,SG);ACC(1,SG)	beni dokurmuş.
+INFR;PST;NOM(1,PL);NEG;ACC(1,SG)	beni dokumamışız.	IND;PST;PERF;NOM(2,PL);ACC(3,PL)	onları dokuydunuz.
+NEC;INFR;PST;NOM(2,SG);ACC(3,SG)	onu dokumalıymışsın.	INFR;FUT;PROG;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini dokuyor olmayacaklarmış.
+INFR;FUT;PRSP;NOM(2,SG);Q;ACC(3,PL);DAT(2,SG,RFLX)	onları kendine dolayacak olacak mıymışsın?	INFR;FUT;HAB;NOM(1,PL);Q;ACC(1,SG);DAT(2,PL)	beni size doyar olacak mıymışız?
+INFR;FUT;HAB;NOM(2,PL);NEG;Q;ACC(3,PL);DAT(1,PL)	onları bize dolar olmayacak mıymışsınız?	IND;FUT;PROG;NOM(2,PL);NEG;Q;ACC(1,PL);DAT(2,PL,RFLX)	bizi kendinize doyuyor olmayacak mısınız?
+IND;PST;NOM(3,PL);ACC(3,SG);DAT(3,SG,RFLX)	onu kendine doladılar.	INFR;FUT;PERF;NOM(1,SG);Q;ACC(3,PL);DAT(3,PL,RFLX)	onları kendilerine doldurmuş olacak mıyım?
+NEC;INFR;PST;NOM(2,PL);ACC(1,PL);DAT(3,SG)	bizi ona dolamalıymışsınız.	NEC;INFR;PST;NOM(1,SG);Q;ACC(1,SG,RFLX);DAT(2,SG)	kendimi sana doymalı mıymışım?
+INFR;PST;NOM(1,PL);Q;ACC(3,PL);DAT(3,SG)	onları ona dolamış mıyız?	IND;PST;PROG;NOM(1,SG);NEG;ACC(1,SG,RFLX);DAT(1,PL)	kendimi bize dolmuyordum.
+NEC;PST;NOM(1,SG);ACC(1,SG,RFLX);DAT(1,PL)	kendimi bize dolamalıydım.	INFR;PST;PERF;NOM(2,SG);NEG;Q;ACC(1,PL);DAT(3,PL)	bizi onlara doldurmamış mıydın?
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;ACC(2,PL);DAT(1,SG)	sizi bana doluyor olmamalıymış.	IND;FUT;NOM(3,PL);ACC(3,PL);DAT(2,SG)	onları sana doyacaklar.
+NEC;PST;NOM(3,PL);Q;ACC(3,SG);DAT(3,PL,RFLX)	onu kendilerine dolamalılar mıydı?	IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX);DAT(1,PL)	kendilerini bize dolmayacaklar mıydı?
+IND;FUT;PROG;NOM(3,PL);ACC(2,SG);DAT(3,SG)	seni ona doluyor olacaklar.	NEC;PST;PROG;NOM(2,SG);Q;ACC(1,PL);DAT(1,SG)	bizi bana doluyor olmalı mıydın?
+INFR;FUT;PROG;NOM(2,SG);NEG;ACC(3,SG);DAT(2,PL)	onu size doluyor olmayacakmışsın.	NEC;INFR;PRS;PROG;NOM(2,SG);Q;ACC(1,PL);DAT(1,PL,RFLX)	bizi kendimize doyuyor olmalı mıymışsın?
+IND;FUT;PRSP;NOM(1,SG);Q;ACC(1,SG,RFLX);DAT(2,PL)	kendimi size dolayacak olacak mıyım?	NEC;INFR;PST;NOM(3,SG);NEG;ACC(1,SG);DAT(1,PL)	beni bize doymamalıymış.
+INFR;LGSPEC1;PST;NOM(2,PL);NEG;ACC(3,SG);DAT(1,PL)	onu bize dolamamışmışsınız.	IND;PRS;HAB;NOM(1,SG);ACC(1,PL);DAT(2,PL)	bizi size doyarım.
+INFR;LGSPEC1;PST;NOM(3,SG);NEG;ACC(1,PL);DAT(3,SG)	bizi ona dolamamışmış.	IND;PST;PROG;NOM(2,PL);NEG;Q;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine doymuyor muydunuz?
+IND;FUT;PROG;NOM(1,PL);Q;ACC(3,SG);DAT(2,PL)	onu size doluyor olacak mıyız?	IND;FUT;PROG;NOM(3,PL);ACC(1,SG);DAT(3,PL)	beni onlara doyuyor olacaklar.
+INFR;PST;PRSP;NOM(1,SG);ACC(2,SG);DAT(2,PL)	seni size dolamış olacaktım.	NEC;PST;NOM(2,PL);ACC(3,SG);DAT(3,SG)	onu ona dona dona dona doymalıydınız.
+IND;PST;PRSP;PROG;NOM(2,PL);NEG;ACC(1,SG);DAT(2,PL,RFLX)	beni kendinize doluyor olmayacaktınız.	IND;FUT;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(1,PL)	kendilerini bize doyuyor olacaklar mı?
+IND;FUT;NOM(3,SG);NEG;Q;ACC(2,SG);DAT(2,PL)	seni size dolamayacak mı?	INFR;FUT;PRSP;NOM(3,PL);NEG;ACC(3,PL);DAT(2,SG)	onları sana dolmayacaklarmış.
+NEC;PST;PROG;NOM(3,PL);Q;ACC(2,PL);DAT(3,SG)	sizi ona doluyor olmalılar mıydı?	IND;PST;NOM(1,SG);Q;ACC(1,PL);DAT(2,SG)	bizi sana doldum mu?
+INFR;PST;PERF;NOM(2,SG);NEG;ACC(1,PL);DAT(1,PL,RFLX)	bizi kendimize dolamamıştın.	IND;PST;PRSP;PROG;NOM(2,SG);ACC(3,PL);DAT(1,PL)	onları bize dolacaktın.
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG	doluyor olmamalıymış.	NEC;PST;PROG;NOM(3,SG);Q	doluyor olmalı mıydı?
+INFR;PST;PRSP;NOM(3,SG)	dolmuş olacaktı.	INFR;FUT;HAB;NOM(3,PL);NEG;Q	dolur olmayacaklar mıymış?
+IND;PRS;PROG;NOM(1,PL);Q	doluyor muyuz?	INFR;FUT;PROG;NOM(3,PL);NEG	doluyor olmayacaklarmış.
+IND;FUT;NOM(3,PL);Q	dolacaklar mı?	INFR;PRS;HAB;NOM(1,SG)	doldurmuşum.
+IND;PST;HAB;PROG;NOM(1,SG);Q	doluyor olur muydum?	IND;FUT;PRSP;NOM(2,PL);Q	dolduracak olacak mısınız?
+IND;FUT;NOM(3,SG);NEG;Q	dolmayacak mı?	IND;PST;PERF;NOM(1,PL);NEG	doğmadıydık.
+INFR;PST;PRSP;NOM(3,PL)	dolmuş olacaklardı.	INFR;PST;NOM(2,SG);NEG;Q	doldurmamış mısın?
+INFR;FUT;PRSP;NOM(3,PL);NEG;Q	dolacak olmayacaklar mıymış?	IND;PST;HAB;PROG;NOM(2,SG);Q	doluyor olur muydun?
+IND;FUT;NOM(1,SG);Q	dolacak mıyım?	NEC;INFR;PST;NOM(2,PL);Q	doğmalı mıymışsınız?
+IND;PST;PRSP;PROG;NOM(3,PL);NEG	doluyor olmayacaklardı.	NEC;INFR;PST;NOM(2,PL)	dolmalıymışsınız.
+IND;PST;HAB;NOM(1,SG)	dolardım.	INFR;FUT;HAB;NOM(1,PL);NEG	doğar olmayacakmışız.
+NEC;INFR;PST;NOM(2,SG);NEG	dolmamalıymışsın.	INFR;PRS;HAB;NOM(2,SG);NEG;Q	doğmaz mıymışsın?
+INFR;PRS;PROG;NOM(3,SG);NEG	dolmuyormuş.	INFR;FUT;NOM(1,SG)	dolduracakmışım.
+IND;PST;NOM(2,PL);Q	doldunuz mu?	IND;PST;PERF;NOM(1,PL)	doğduyduk.
+IND;PRS;HAB;NOM(3,PL);Q	dolarlar mı?	INFR;PRS;HAB;NOM(3,SG);NEG;Q	dolmaz mıymış?
+IND;FUT;PROG;NOM(3,SG);NEG;Q	doluyor olmayacak mı?	INFR;FUT;PRSP;NOM(2,PL);NEG;Q	dolmayacak mıymışsınız?
+IND;PST;PROG;NOM(2,SG);NEG;Q	dolmuyor muydun?	INFR;LGSPEC1;PST;NOM(2,PL);NEG	dolmamışmışsınız.
+IND;FUT;NOM(3,PL)	dolacaklar.	IMP;NOM(2,PL);NEG	doğmayınız.
+NEC;PST;PROG;NOM(1,SG);NEG	doluyor olmamalıydım.	INFR;FUT;NOM(3,PL);NEG;Q	dolmayacaklar mıymış?
+NEC;PST;PROG;NOM(1,PL);Q	doluyor olmalı mıydık?	IND;FUT;PRSP;NOM(1,PL);NEG	dolmayacağız.
+IMP;NOM(2,SG);NEG	eskime!	IND;PST;PROG;NOM(3,PL);NEG;Q	sekmiyorlar mıydı?
+IND;PST;PRSP;PROG;NOM(1,PL)	eskiyor olacaktık.	IND;PST;NOM(2,SG)	sektin.
+NEC;PRS;PROG;NOM(2,SG);NEG	eskiyor olmamalısın.	IND;PST;HAB;NOM(3,SG);NEG	sekmezdi.
+IND;PST;PRSP;PROG;NOM(3,PL);NEG	eskiyor olmayacaklardı.	INFR;LGSPEC1;PST;NOM(2,SG);Q	sekmiş miymişsin?
+NEC;PST;NOM(1,SG);Q	eskimeli miydim?	NEC;PST;NOM(3,SG);NEG;Q	sekmemeli miydi?
+INFR;PRS;HAB;NOM(1,PL);NEG;Q	eskimez miymişiz?	NEC;PRS;PROG;NOM(3,PL);NEG	sekiyor olmamalılar.
+IND;PRS;HAB;NOM(1,SG)	eskirim.	INFR;FUT;PERF;NOM(3,SG)	sekmiş olacak.
+IMP;NOM(2,PL,LGSPEC2)	eskiyiniz!	IND;PST;HAB;NOM(1,SG);NEG	sekmezdim.
+INFR;FUT;PRSP;NOM(3,SG);NEG	eskiyecek olmayacakmış.	IND;PRS;HAB;NOM(3,SG);NEG;Q	sekmez mi?
+NEC;PST;PROG;NOM(3,SG);NEG	eskiyor olmamalıydı.	INFR;FUT;PROG;NOM(1,PL);NEG;Q	sekiyor olmayacak mıymışız?
+NEC;PRS;NOM(2,SG);NEG	eskimemelisin.	INFR;PRS;HAB;NOM(2,PL)	sekermişsiniz.
+INFR;FUT;PERF;NOM(1,SG);NEG;Q	eskimiş olmayacak mıyım?	INFR;PRS;PROG;NOM(2,SG)	sekiyormuşsun.
+INFR;LGSPEC1;PST;NOM(2,SG)	eskimişmişsin.	IND;PST;HAB;PROG;NOM(1,SG)	sekiyor olurdum.
+IND;PRS;HAB;NOM(1,PL)	eskiriz.	INFR;FUT;PRSP;NOM(1,PL);Q	sekecek olacak mıymışız?
+IND;FUT;NOM(2,SG);NEG;Q	eskimeyecek misin?	INFR;PRS;HAB;NOM(1,SG)	sekermişim.
+IND;FUT;PROG;NOM(1,SG);Q	eskiyor olacak mıyım?	NEC;INFR;PRS;PROG;NOM(1,PL);Q	sekiyor olmalı mıymışız?
+IND;PRS;HAB;NOM(2,PL);Q	eskir misiniz?	INFR;FUT;NOM(2,PL);Q	sekecek miymişsiniz?
+INFR;FUT;PROG;NOM(2,PL)	eskiyor olacakmışsınız.	INFR;PST;PERF;NOM(3,SG)	sekmişti.
+INFR;PRS;PROG;NOM(1,PL)	eskiyormuşuz.	INFR;PST;PRSP;NOM(3,PL);Q	sekecekler miydi?
+IND;PST;NOM(1,SG);NEG	eskimedim.	INFR;PST;NOM(3,PL);NEG	sekmemişler.
+IND;PST;PRSP;NOM(3,PL);Q	eskiyecekler miydi?	INFR;FUT;NOM(2,SG);NEG;Q	sekmeyecek miymişsin?
+IND;PST;PRSP;PROG;NOM(1,SG);NEG;Q;COM(2,PL)	sizinle hava atıyor olmayacak mıydım?	INFR;PST;NOM(1,SG);NEG;COM(1,SG,RFLX)	kendimle atmamışım.
+INFR;PST;NOM(3,SG);NEG;Q;COM(3,PL)	onlarınla hava atmamış mı?	INFR;FUT;HAB;NOM(2,PL);NEG;COM(3,SG)	onunla havlu atanır olmayacakmışsınız.
+INFR;FUT;PRSP;NOM(2,SG);NEG;Q;COM(2,SG,RFLX)	kendinle hava atacak olmayacak mıymışsın?	INFR;PRS;HAB;NOM(1,PL);NEG;Q;COM(2,PL)	sizinle havlu atmaz mıymışız?
+INFR;FUT;HAB;NOM(2,SG);NEG;COM(3,SG)	onunla hava atar olmayacakmışsın.	INFR;PST;NOM(3,PL);COM(1,PL)	bizimle atmışlar.
+IND;PST;NOM(2,SG);Q;COM(3,PL)	onlarınla hava attın mı?	IND;PST;PRSP;PROG;NOM(3,PL)	havlanıyor olacaklardı.
+IND;PRS;HAB;NOM(3,PL);COM(3,PL)	onlarınla hava atarlar.	NEC;PRS;PROG;NOM(2,PL);COM(2,SG)	seninle atıyor olmalısınız.
+IND;PST;PERF;NOM(3,SG);COM(2,SG)	seninle hava attıydı.	IND;PRS;HAB;NOM(3,SG);Q;COM(2,PL)	sizinle atar mı?
+INFR;PST;NOM(1,SG);NEG;COM(1,SG,RFLX)	kendimle hava atmamışım.	INFR;PST;PRSP;NOM(3,PL);Q;COM(3,PL)	onlarınla havlaşmış olacaklar mıydı?
+IND;FUT;PRSP;NOM(2,PL);NEG;COM(2,PL,RFLX)	kendinizle hava atacak olmayacaksınız.	NEC;INFR;PST;NOM(3,SG);NEG;COM(3,SG)	onunla havlaşmamalıymış.
+IND;PRS;HAB;NOM(3,SG);NEG;COM(3,SG,RFLX)	kendiyle hava atmaz.	INFR;FUT;HAB;NOM(3,PL);NEG;COM(3,PL,RFLX)	kendileriyle atar olmayacaklarmış.
+NEC;INFR;PRS;PROG;NOM(2,SG);NEG;Q;COM(1,SG)	benimle hava atıyor olmamalı mıymışsın?	INFR;LGSPEC1;PST;NOM(3,SG);NEG;Q;COM(1,SG)	benimle atmamış mıymış?
+NEC;PRS;PROG;NOM(3,PL);Q;COM(2,PL)	sizinle hava atıyor olmalılar mı?	NEC;PRS;PROG;NOM(3,SG);COM(1,PL)	bizimle atıyor olmalı.
+IND;PST;NOM(1,PL);COM(2,SG)	seninle hava attık.	NEC;PST;NOM(1,SG);COM(1,SG,RFLX)	kendimle atmalıydım.
+INFR;FUT;PROG;NOM(1,SG);NEG;Q;COM(3,PL)	onlarınla hava atıyor olmayacak mıymışım?	IND;PRS;HAB;NOM(2,PL);NEG;Q;COM(3,SG)	onunla havlaşmaz mısınız?
+IND;FUT;NOM(2,PL);NEG;Q;COM(3,PL)	onlarınla hava atmayacak mısınız?	IND;FUT;PRSP;NOM(3,PL);Q;COM(2,SG)	seninle havlanacak olacaklar mı?
+IND;PST;HAB;PROG;NOM(3,SG);COM(2,PL)	sizinle hava atıyor olurdu.	IND;PST;PRSP;NOM(2,SG);NEG;Q;COM(3,SG)	onunla havlu atmayacak mıydın?
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;COM(3,PL,RFLX)	kendileriyle hava atıyor olmayacaklardı.	NEC;PST;PROG;NOM(2,SG);Q	havleniyor olmalı mıydın?
+IND;PST;PRSP;PROG;NOM(1,PL);NEG;Q	hava atıyor olmayacak mıydık?	IND;PRS;PROG;NOM(3,PL);NEG;Q	havlu atmıyorlar mı?
+INFR;FUT;PROG;NOM(3,PL);Q;COM(1,SG)	benimle hava atıyor olacaklar mıymış?	NEC;PRS;NOM(2,PL);COM(1,PL)	bizimle atmalısınız.
+INFR;FUT;PERF;NOM(1,PL);NEG;COM(3,SG)	onunla hava atmış olmayacağız.	INFR;FUT;PROG;NOM(2,SG);NEG;Q;COM(2,SG,RFLX)	kendinle atıyor olmayacak mıymışsın?
+INFR;LGSPEC1;PST;NOM(3,SG);NEG;Q	heyecanlanmamış mıymış?	INFR;PST;PERF;NOM(2,PL);NEG;Q	hanacanlanmamış mıydınız?
+NEC;INFR;PRS;PROG;NOM(1,PL);NEG	heyecanlanıyor olmamalıymışız.	NEC;INFR;PST;NOM(2,SG);NEG	hacanmamalıymışsın.
+IND;PRS;PROG;NOM(1,PL);NEG	heyecanlanmıyoruz.	IND;FUT;PROG;NOM(3,PL)	hanacanlanıyor olacaklar.
+IND;FUT;NOM(3,SG)	heyecanlanacak.	IND;PST;HAB;PROG;NOM(1,PL);NEG	hanacanlanıyor olmazdık.
+INFR;PST;NOM(3,PL)	heyecanlanmışlar.	IND;PST;NOM(1,PL)	hacenlandık.
+INFR;FUT;NOM(2,SG);NEG	heyecanlanmayacakmışsın.	NEC;PRS;NOM(3,PL)	hanacanmalılar.
+INFR;PRS;PROG;NOM(1,SG)	heyecanlanıyormuşum.	NEC;INFR;PRS;PROG;NOM(2,SG);NEG	hacenlanıyor olmamalıymışsın.
+INFR;FUT;PROG;NOM(1,SG);NEG;Q	heyecanlanıyor olmayacak mıymışım?	IND;PRS;HAB;NOM(2,PL)	hanarlanırsınız.
+INFR;PST;NOM(2,PL);Q	heyecanlanmış mısınız?	INFR;FUT;HAB;NOM(3,PL);NEG	hanacanlanır olmayacaklarmış.
+IND;FUT;NOM(1,PL);NEG	heyecanlanmayacağız.	NEC;PRS;PROG;NOM(3,PL);NEG;Q	hanacanlanıyor olmamalılar mı?
+INFR;PST;PRSP;NOM(1,SG);NEG;Q	heyecanlanmış olmayacak mıydım?	IND;PST;PRSP;NOM(3,SG);NEG;Q	hanacak mıydı?
+IND;PST;PRSP;PROG;NOM(2,PL);NEG	heyecanlanıyor olmayacaktınız.	INFR;PRS;PROG;NOM(3,PL)	hanacanlanıyorlarmış.
+NEC;PRS;PROG;NOM(1,SG);Q	heyecanlanıyor olmalı mıyım?	NEC;INFR;PST;NOM(2,SG)	hacanmalıymışsın.
+NEC;PRS;NOM(2,PL);NEG	heyecanlanmamalısınız.	NEC;PRS;NOM(2,PL);NEG;Q	hanacanlanmamalı mısınız?
+INFR;FUT;NOM(1,SG)	heyecanlanacakmışım.	INFR;PST;NOM(2,PL);NEG;Q	hanacanlanmamış mısınız?
+NEC;INFR;PST;NOM(1,SG);NEG	heyecanlanmamalıymışım.	IND;PST;NOM(3,PL)	hanacanlandılar.
+NEC;PRS;NOM(2,PL)	heyecanlanmalısınız.	INFR;FUT;NOM(1,PL);NEG;Q	hanacanlanmayacak mıymışız?
+INFR;PST;PRSP;NOM(1,PL);NEG	heyecanlanmış olmayacaktık.	IND;PST;PERF;NOM(2,PL)	hastalandıydınız.
+NEC;PST;NOM(1,SG)	heyecanlanmalıydım.	IND;PST;PRSP;PROG;NOM(2,SG)	hanacakenıyor olacaktın.
+IND;PST;HAB;PROG;NOM(3,PL);NEG;ACC(1,SG)	beni iletiyor olmazlardı.	IND;PST;HAB;PROG;NOM(2,SG);ACC(1,PL)	bizi ilerletiyor olurdun.
+IND;PST;PERF;NOM(2,PL);ACC(2,PL,RFLX)	kendinizi ilettiydiniz.	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(2,SG)	seni itmiyor muyduk?
+INFR;PRS;PROG;NOM(1,PL);ACC(3,PL)	onları iletiyormuşuz.	NEC;INFR;PRS;PROG;NOM(3,PL);NEG;ACC(2,SG)	seni ilerletiyor olmamalılarmış.
+IND;PRS;HAB;NOM(1,PL);Q;ACC(2,PL)	sizi iletir miyiz?	INFR;PST;PRSP;NOM(1,SG);NEG;ACC(2,SG)	seni ilerletmiş olmayacaktım.
+IND;FUT;PRSP;NOM(2,PL);Q;ACC(1,PL)	bizi iletecek olacak mısınız?	NEC;INFR;PRS;PROG;NOM(2,PL);NEG;ACC(1,SG)	beni ilerletiyor olmamalıymışsınız.
+IND;FUT;PROG;NOM(1,PL);ACC(2,PL)	sizi iletiyor olacağız.	IMP;NOM(2,PL);NEG;ACC(1,SG)	beni ilerletme!
+IND;PST;NOM(2,PL);NEG;ACC(3,SG)	onu iletmediniz.	IND;FUT;PROG;NOM(1,SG);ACC(3,PL)	onları ilerletiyor olacağım.
+INFR;PRS;PROG;NOM(3,PL);Q;ACC(1,PL)	bizi iletiyorlar mıymış?	INFR;FUT;NOM(2,SG);Q;ACC(2,PL)	sizi ilerletecek miymişsin?
+INFR;FUT;PERF;NOM(1,PL);ACC(3,SG)	onu iletmiş olacağız.	NEC;INFR;PRS;PROG;NOM(3,PL);Q;ACC(2,PL)	sizi ilerletiyor olmalılar mıymış?
+IND;PRS;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi iletmiyorum.	IND;PRS;HAB;NOM(2,SG);ACC(3,SG)	onu ilertirsin.
+INFR;PRS;PROG;NOM(3,SG);NEG;ACC(3,SG,RFLX)	kendini iletmiyormuş.	NEC;PST;NOM(2,SG);ACC(1,SG)	beni iletmeliydin.
+INFR;PST;PRSP;NOM(2,SG);ACC(2,SG,RFLX)	kendini iletmiş olacaktın.	IND;PRS;HAB;NOM(1,SG);Q;ACC(3,SG)	onu ilerletir miyim?
+INFR;FUT;PRSP;NOM(1,PL);NEG;Q;ACC(3,SG)	onu iletecek olmayacak mıymışız?	INFR;LGSPEC1;PST;NOM(1,SG);Q;ACC(2,PL)	sizi ilerletmiş miymişim?
+IND;PST;HAB;NOM(3,PL);Q;ACC(3,PL,RFLX)	kendilerini iletirler miydi?	IND;FUT;NOM(2,PL);NEG;ACC(1,PL)	bizi ilerletmeyeceksiniz.
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;Q;ACC(3,SG)	onu iletiyor olmamalı mıymış?	IND;PST;PROG;NOM(1,PL);NEG;ACC(3,SG)	onu ilerletmiyorduk.
+INFR;PST;PRSP;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi iletmiş olmayacak mıydık?	INFR;FUT;NOM(1,PL);NEG;ACC(1,SG)	beni ilerletmeyecekmişiz.
+IND;PST;PRSP;NOM(1,SG);NEG;ACC(1,PL)	bizi iletmeyecektim.	NEC;INFR;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi iletiyor olmamalı mıymış?
+INFR;PST;PERF;NOM(2,PL);ACC(2,SG)	seni iletmiştiniz.	NEC;INFR;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,SG)	onu ilerletiyor olmamalı mıymışım?
+NEC;INFR;PST;NOM(2,PL);NEG;ACC(1,PL)	bizi iletmemeliymişsiniz.	NEC;PST;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi ilerletmeli miydi?
+NEC;INFR;PST;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi iletmemeliler miymiş?	INFR;PST;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi ilerletmemişler mi?
+NEC;PRS;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi iletiyor olmamalıyım.	INFR;FUT;PRSP;NOM(1,SG);NEG;Q;ACC(3,SG)	onu ilerletecek olmayacak mıymışım?
+IND;PST;PRSP;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi iletiyor olacak mıydık?	IND;FUT;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi ilerletiyor olmayacağım.
+INFR;FUT;NOM(3,PL);DAT(3,PL,RFLX)	kendilerine imreneceklermiş.	INFR;PST;NOM(1,SG);DAT(3,PL)	onlara inmişim.
+NEC;INFR;PRS;PROG;NOM(2,PL);NEG;DAT(1,PL)	bize imreniyor olmamalıymışsınız.	INFR;PRS;HAB;NOM(3,SG);Q;DAT(2,PL)	size iner miymiş?
+NEC;PRS;PROG;NOM(1,SG);Q;DAT(1,PL)	bize imreniyor olmalı mıyım?	NEC;PST;PROG;NOM(3,SG);NEG;Q;DAT(1,PL)	bize iniyor olmamalı mıydı?
+NEC;PST;NOM(2,PL);NEG;DAT(1,SG)	bana imrenmemeliydiniz.	IND;PST;HAB;NOM(1,PL);NEG;Q;DAT(3,SG)	ona inmez miydik?
+INFR;PST;PERF;NOM(2,PL);NEG;Q;DAT(1,SG)	bana imrenmemiş miydiniz?	IND;FUT;PROG;NOM(3,SG);Q;DAT(2,PL)	size ineriyor olacak mı?
+NEC;PRS;PROG;NOM(3,PL);NEG;Q;DAT(3,PL)	onlara imreniyor olmamalılar mı?	INFR;PST;PERF;NOM(1,SG);Q;DAT(3,SG)	ona inmiş miydim?
+IND;PST;PROG;NOM(3,PL);NEG;DAT(3,PL)	onlara imrenmiyorlardı.	IND;PST;HAB;PROG;NOM(3,SG);NEG;DAT(1,SG)	bana iriyor olmazdı.
+NEC;PRS;PROG;NOM(2,SG);NEG;DAT(3,PL)	onlara imreniyor olmamalısın.	INFR;PRS;HAB;NOM(2,SG);NEG;DAT(2,PL)	size inmezmişsin.
+NEC;INFR;PRS;PROG;NOM(2,SG);NEG;DAT(2,SG,RFLX)	kendine imreniyor olmamalıymışsın.	INFR;PRS;HAB;NOM(1,SG);Q;DAT(1,PL)	bize iner miymişim?
+INFR;PST;PERF;NOM(1,PL);NEG;Q;DAT(1,PL,RFLX)	kendimize imrenmemiş miydik?	IND;PST;PRSP;NOM(2,SG);NEG;Q;DAT(3,SG)	ona inermeyecek miydin?
+INFR;PST;PRSP;NOM(2,PL);Q;DAT(2,SG)	sana imrenmiş olacak mıydınız?	INFR;FUT;PROG;NOM(3,PL);NEG;DAT(3,PL)	onlara iniyor olmayacaklarmış.
+INFR;FUT;PERF;NOM(2,PL);NEG;Q;DAT(2,PL,RFLX)	kendinize imrenmiş olmayacak mısınız?	IND;PST;PROG;NOM(1,PL);NEG;DAT(1,SG)	bana inmiyorduk.
+INFR;FUT;PROG;NOM(1,SG);NEG;DAT(1,PL)	bize imreniyor olmayacakmışım.	INFR;LGSPEC1;PST;NOM(1,PL);DAT(2,PL)	size inmişmişiz.
+NEC;PST;NOM(2,SG);NEG;Q;DAT(1,PL)	bize imrenmemeli miydin?	IND;FUT;PRSP;NOM(3,SG);NEG;DAT(3,PL)	onlara inecek olmayacak.
+NEC;PRS;NOM(2,SG);Q;DAT(2,SG,RFLX)	kendine imrenmeli misin?	IND;FUT;PROG;NOM(3,SG);NEG;Q;DAT(1,SG)	bana iniyor olmayacak mı?
+IND;FUT;NOM(2,PL);Q;DAT(1,SG)	bana imrenecek misiniz?	IND;PST;PRSP;NOM(3,PL);NEG;DAT(2,SG)	sana inmeyeceklerdi.
+IND;FUT;NOM(3,PL);NEG;Q;DAT(3,PL)	onlara imrenmeyecekler mi?	IND;PST;PRSP;PROG;NOM(2,PL);NEG;Q;DAT(2,SG)	sana iniyor olmayacak mıydınız?
+IMP;NOM(2,PL);NEG;DAT(3,SG)	ona imrenmeyin!	INFR;FUT;PROG;NOM(1,SG);Q;DAT(2,SG)	sana iniyor olacak mıymışım?
+IND;PST;NOM(2,SG);NEG;Q;DAT(3,PL)	onlara imrenmedin mi?	IND;FUT;PRSP;NOM(1,SG);NEG;DAT(2,SG)	sana inecek olmayacağım.
+INFR;PRS;HAB;NOM(3,PL);NEG;Q;DAT(2,PL)	size imrenmezler miymiş?	NEC;INFR;PST;NOM(1,SG);NEG;DAT(2,PL)	size irmemeliymişim.
+INFR;FUT;HAB;NOM(1,SG);Q;DAT(3,PL)	onlara imrenir olacak mıymışım?	IND;PST;PERF;NOM(2,PL);DAT(2,PL,RFLX)	kendinize iniydiniz.
+NEC;PST;NOM(1,SG);Q;ACC(3,SG);ABL(3,SG)	onu ondan istemeli miydim?	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(3,SG);ABL(3,SG,RFLX)	onu kendinden sitriyor muyduk?
+INFR;FUT;PERF;NOM(2,SG);ACC(3,SG)	onu istemiş olacaksın.	IND;PRS;HAB;NOM(1,SG);Q;ACC(2,SG);ABL(3,SG)	seni ondan siler miyim?
+NEC;PST;NOM(3,SG);NEG;ACC(2,SG);ABL(1,PL)	seni bizden istememeliydi.	IND;FUT;PRSP;NOM(3,PL);ACC(3,SG);ABL(1,SG)	onu benden temeyecek olacaklar.
+INFR;PRS;PROG;NOM(1,PL);Q;ACC(3,PL)	onları istiyor muymuşuz?	IND;FUT;NOM(2,PL);NEG;ACC(1,SG);ABL(1,PL)	beni bizden sitmeyeceksiniz.
+IND;PRS;PROG;NOM(1,SG);NEG;Q;ACC(3,PL);ABL(2,SG)	onları senden istemiyor muyum?	IND;PST;PRSP;PROG;NOM(1,SG);NEG;Q;ACC(2,SG)	seni setiyor olmayacak mıydım?
+INFR;PRS;PROG;NOM(3,PL);Q;ACC(1,SG);ABL(2,SG)	beni senden istiyorlar mıymış?	IND;PST;PROG;NOM(3,PL);NEG;ACC(2,PL);ABL(1,PL)	sizi bizden sitiyorlardı.
+INFR;LGSPEC1;PST;NOM(2,SG);NEG;Q;ACC(3,SG);ABL(3,SG,RFLX)	onu kendinden istememiş miymişsin?	INFR;PST;NOM(2,PL);NEG;ACC(3,SG)	onu itmemişsiniz.
+INFR;FUT;PROG;NOM(2,PL);ACC(1,SG)	beni istiyor olacakmışsınız.	IND;PST;PRSP;NOM(2,PL);ACC(1,SG);ABL(3,PL)	beni onlardan itrecektiniz.
+IND;PST;NOM(3,SG);ACC(2,SG);ABL(3,PL)	seni onlardan istedi.	IND;PST;HAB;NOM(3,PL);ACC(3,SG);ABL(3,SG,RFLX)	onu kendilerlerdi.
+IND;PST;HAB;NOM(1,SG);Q;ACC(3,PL);ABL(3,PL)	onları onlardan ister miydim?	IND;FUT;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi isitmeyecek misin?
+IND;PST;NOM(1,SG);NEG;ACC(3,SG);ABL(1,PL)	onu bizden istemedim.	NEC;PRS;NOM(1,PL);NEG;Q;ACC(3,SG)	onu itmemeli miyiz?
+IND;PST;HAB;PROG;NOM(2,SG);NEG;ACC(3,SG);ABL(1,SG)	onu benden istiyor olmazdın.	INFR;FUT;PERF;NOM(2,SG);NEG;Q;ACC(1,SG)	beni sitmiş olmayacak mısın?
+INFR;PRS;HAB;NOM(3,PL);Q;ACC(1,SG);ABL(1,PL)	beni bizden isterler miymiş?	INFR;FUT;NOM(3,PL);Q;ACC(2,SG);ABL(1,PL)	seni bizden tilecekler miymiş?
+IND;PRS;HAB;NOM(1,SG);NEG;ACC(3,PL);ABL(3,PL)	onları onlardan istemem.	IND;PST;PRSP;PROG;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi içiyor olacak mıydım?
+INFR;LGSPEC1;PST;NOM(2,SG);ACC(2,PL);ABL(1,PL)	sizi bizden istemişmişsin.	IND;FUT;PRSP;NOM(3,PL);NEG;ACC(1,PL);ABL(2,SG)	bizi senden sitecek olmayacaklar.
+NEC;INFR;PRS;PROG;NOM(1,PL);NEG;ACC(3,PL);ABL(1,SG)	onları benden istiyor olmamalıymışız.	IND;FUT;PROG;NOM(1,PL);ACC(3,PL);ABL(1,SG)	onları benden titriyor olacağız.
+INFR;PRS;HAB;NOM(3,PL);Q;ACC(3,PL);ABL(3,PL,RFLX)	onları kendilerinden isterler miymiş?	INFR;FUT;PROG;NOM(3,SG);NEG;Q;ACC(2,PL);ABL(3,PL)	sizi onlardan tiliyor olmayacak mıymış?
+IND;PST;PROG;NOM(3,SG);Q;ACC(2,SG);ABL(2,PL)	seni sizden istiyor muydu?	NEC;PRS;PROG;NOM(2,PL);Q;ACC(3,SG);ABL(1,SG)	onu benden siliyor olmalı mısınız?
+IND;PST;PRSP;NOM(1,SG);ACC(1,PL);ABL(1,SG,RFLX)	bizi kendimden isteyecektim.	IND;PST;PRSP;PROG;NOM(2,PL);ACC(3,PL);ABL(1,SG)	onları benden titriyor olacaktınız.
+INFR;PRS;PROG;NOM(3,PL);NEG;Q	işemiyorlar mıymış?	NEC;PST;NOM(2,SG);NEG	şişmemeliydin.
+INFR;FUT;HAB;NOM(1,SG);NEG;Q	işer olmayacak mıymışım?	INFR;PST;PRSP;NOM(3,SG)	şişmiş olacaktı.
+NEC;PST;NOM(1,SG)	işemeliydim.	INFR;LGSPEC1;PST;NOM(2,SG)	işmişsin.
+INFR;LGSPEC1;PST;NOM(3,SG);Q	işemiş miymiş?	INFR;FUT;PERF;NOM(2,PL);Q	şişmiş olacak mısınız?
+INFR;FUT;PROG;NOM(3,SG);Q	işiyor olacak mıymış?	INFR;PST;NOM(1,PL);Q	şişmiş miyiz?
+INFR;LGSPEC1;PST;NOM(1,SG);NEG;Q	işememiş miymişim?	IND;PST;HAB;NOM(2,SG);NEG;Q	şişmez miydin?
+INFR;PST;PERF;NOM(1,SG);NEG;Q	işememiş miydim?	IND;PST;PROG;NOM(1,PL);NEG;Q	şişmiyor muyduk?
+IND;FUT;PRSP;NOM(3,PL);NEG	işeyecek olmayacaklar.	IND;PST;PRSP;NOM(1,PL)	iyileşecektik.
+IND;PST;PERF;NOM(2,SG);NEG	işemediydin.	IND;PST;NOM(3,SG);Q	şişti mi?
+NEC;PST;NOM(3,PL);Q	işemeliler miydi?	INFR;PRS;HAB;NOM(3,SG)	işirmiş.
+IND;PST;PRSP;NOM(3,SG);Q	işeyecek miydi?	NEC;PST;PROG;NOM(3,PL);NEG;Q	şişiyor olmamalılar mıydı?
+NEC;PST;NOM(2,PL);Q	işemeli miydiniz?	IND;PRS;PROG;NOM(1,SG);NEG;Q	işiyor muyum?
+NEC;PST;NOM(3,PL);NEG	işememelilerdi.	NEC;PRS;PROG;NOM(3,PL)	şişiyor olmalılar.
+INFR;PST;PERF;NOM(1,SG)	işemiştim.	INFR;PRS;HAB;NOM(1,PL);NEG	şişmezmişiz.
+NEC;PST;NOM(3,SG)	işemeliydi.	IND;PRS;HAB;NOM(1,PL)	işiriz.
+NEC;PRS;PROG;NOM(1,PL);NEG	işiyor olmamalıyız.	INFR;PRS;PROG;NOM(2,PL)	şişiyormuşsunuz.
+INFR;PST;PERF;NOM(2,PL)	işemiştiniz.	INFR;FUT;PERF;NOM(3,SG)	şişmiş olacak.
+IND;PRS;PROG;NOM(3,SG);Q	işiyor mu?	IND;PST;PROG;NOM(2,SG);Q	şişiyor muydun?
+IND;FUT;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi işliyor olmayacağım.	NEC;PST;PROG;NOM(3,PL);NEG;DAT(3,PL)	onlara işiyor olmamalılardı.
+IND;FUT;PROG;NOM(2,PL);NEG;Q;DAT(1,SG)	bana işliyor olmayacak mısınız?	IND;PST;PERF;NOM(1,SG);ACC(3,PL)	onları işiydim.
+IND;PST;PERF;NOM(3,PL);Q;DAT(2,PL)	size işlediler miydi?	NEC;INFR;PRS;PROG;NOM(1,SG);Q;DAT(1,PL)	bize işiliyor olmalı mıymışım?
+INFR;FUT;PERF;NOM(2,PL);Q;ACC(3,SG)	onu işlemiş olacak mısınız?	IND;PRS;PROG;NOM(3,SG);DAT(3,SG,RFLX)	kendine işiyor.
+IND;FUT;NOM(1,SG);NEG;ACC(3,SG)	onu işlemeyeceğim.	INFR;FUT;PERF;NOM(3,PL);NEG;Q;DAT(3,SG)	ona işilmiş olmayacaklar mı?
+IND;PST;NOM(3,PL);NEG;ACC(1,SG)	beni işlemediler.	INFR;PST;NOM(1,PL);Q	elişmiş miyiz?
+NEC;INFR;PST;NOM(1,PL);Q;DAT(2,SG)	sana işlemeli miymişiz?	INFR;FUT;PROG;NOM(2,SG);NEG;Q;ACC(3,SG)	onu işiyor olmayacak mıymışsın?
+IND;PST;HAB;NOM(1,PL);Q;ACC(2,PL)	sizi işler miydik?	NEC;INFR;PST;NOM(2,SG);NEG;ACC(1,SG)	beni işimemeliymişsin.
+IND;PST;HAB;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini işlemezdin.	INFR;PST;NOM(3,SG);NEG	iyileşmemiş.
+IND;PST;PRSP;PROG;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini işliyor olmayacaktın.	NEC;INFR;PST;NOM(3,PL);Q;ACC(1,PL)	bizi işilmeliler miymiş?
+NEC;INFR;PRS;PROG;NOM(2,SG);NEG;ACC(3,PL)	onları işliyor olmamalıymışsın.	NEC;INFR;PST;NOM(2,PL);NEG;DAT(2,SG)	sana işilmemeliymişsiniz.
+INFR;PST;NOM(1,SG);NEG;ACC(2,SG)	seni işlememişim.	IND;PRS;HAB;NOM(3,SG);NEG;Q;ACC(2,SG)	seni işimez mi?
+NEC;INFR;PST;NOM(2,PL);DAT(1,PL)	bize işlemeliymişsiniz.	IND;PRS;HAB;NOM(1,SG);NEG;Q;DAT(3,SG)	ona iyileşmez miyim?
+NEC;PST;NOM(2,PL);NEG;ACC(2,SG)	seni işlememeliydiniz.	INFR;PRS;PROG;NOM(3,PL);NEG	iyileşmiyorlarmış.
+IND;FUT;NOM(3,PL);DAT(1,PL)	bize işleyecekler.	IND;PST;PERF;NOM(2,SG);NEG;DAT(1,SG)	bana işilmediydin.
+IMP;NOM(2,PL);NEG;DAT(1,PL)	bize işlemeyin!	INFR;LGSPEC1;PST;NOM(2,PL);Q;ACC(1,SG)	beni izlemiş miymişsiniz?
+IND;PST;PRSP;NOM(1,PL);Q;ACC(2,PL)	sizi işleyecek miydik?	INFR;PST;PERF;NOM(2,SG);NEG;DAT(2,SG,RFLX)	kendine işitmemiştin.
+IND;PRS;PROG;NOM(1,PL);Q;DAT(3,PL)	onlara işliyor muyuz?	INFR;PST;PRSP;NOM(3,PL);Q;DAT(2,PL)	size işilmiş olacaklar mıydı?
+INFR;PST;PERF;NOM(2,PL);NEG;ACC(3,PL)	onları işlememiştiniz.	INFR;PST;PRSP;NOM(3,PL);NEG;Q	iyileşmiş olmayacaklar mıydı?
+IND;PRS;HAB;NOM(3,SG);DAT(2,SG)	sana işler.	IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi anliyor olmaz mıydım?
+IND;PRS;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi işlemiyorum.	INFR;PRS;HAB;NOM(2,PL);NEG;Q;ACC(3,PL)	onları işitmez miymişsiniz?
+IND;FUT;PROG;NOM(2,SG);Q	kararıyor olacak mısın?	NEC;PST;NOM(2,SG);NEG;Q	kararmamalı mıydın?
+IND;PST;PRSP;PROG;NOM(1,PL);NEG	kararıyor olmayacaktık.	IND;PST;PROG;NOM(3,SG);NEG	kararmıyordu.
+IND;PST;PROG;NOM(3,PL);NEG;Q	kararmıyorlar mıydı?	IND;FUT;PROG;NOM(1,PL)	kararıyor olacağız.
+INFR;FUT;PERF;NOM(2,SG)	kararmış olacaksın.	IND;FUT;NOM(3,SG);NEG	kararmayacak.
+NEC;PRS;PROG;NOM(3,PL)	kararıyor olmalılar.	IND;PST;NOM(2,SG);Q	kararıttın mı?
+IND;PST;NOM(3,PL)	karardılar.	INFR;FUT;HAB;NOM(2,SG);NEG	karır olmayacakmışsın.
+NEC;INFR;PST;NOM(1,SG)	kararmalıymışım.	INFR;LGSPEC1;PST;NOM(3,SG);Q	kararmış mıymış?
+NEC;INFR;PST;NOM(3,SG);Q	kararmalı mıymış?	INFR;PST;NOM(1,SG);Q	kararmış mıyım?
+NEC;INFR;PRS;PROG;NOM(2,PL);Q	kararıyor olmalı mıymışsınız?	INFR;FUT;PROG;NOM(3,PL);Q	kararıyor olacaklar mıymış?
+NEC;PST;PROG;NOM(1,SG);NEG;Q	kararıyor olmamalı mıydım?	IND;PRS;PROG;NOM(2,SG);NEG	kararmıyorsun.
+IND;FUT;NOM(1,SG);NEG;Q	kararmayacak mıyım?	IND;FUT;PRSP;NOM(1,PL);NEG	karacak olmayacağız.
+NEC;PST;PROG;NOM(3,SG)	kararıyor olmalıydı.	INFR;FUT;PROG;NOM(2,SG)	kararıyor olacakmışsın.
+IND;PRS;PROG;NOM(3,PL);NEG;Q	kararmıyorlar mı?	IND;PST;HAB;NOM(2,SG);NEG	kararmazdın.
+IND;PST;HAB;NOM(3,PL)	kararırlardı.	IND;FUT;PRSP;NOM(3,SG)	karınacak olacak.
+IND;PST;HAB;PROG;NOM(2,PL);Q	kararıyor olur muydunuz?	IND;PST;PROG;NOM(3,SG);NEG;Q	karınmıyor muydu?
+IND;PST;NOM(1,PL)	karardık.	IND;PST;HAB;PROG;NOM(3,PL);Q	karkıyor olurlar mıydı?
+INFR;FUT;PERF;NOM(3,SG)	kararmış olacak.	INFR;FUT;PERF;NOM(2,SG)	kararmış olacaksın.
+IND;PRS;PROG;NOM(2,SG);Q	kararıyor musun?	INFR;FUT;PERF;NOM(1,PL)	kararmış olacağız.
+INFR;FUT;PRSP;NOM(3,SG);NEG;Q	kararacak olmayacak mıymış?	NEC;INFR;PRS;PROG;NOM(2,PL)	kararıyor olmalıymışsınız.
+NEC;PST;PROG;NOM(2,SG);NEG;Q	kararıyor olmamalı mıydın?	INFR;FUT;PRSP;NOM(3,PL);Q	kararacak olacaklar mıymış?
+NEC;PRS;NOM(1,PL);Q	kararmalı mıyız?	NEC;PST;PROG;NOM(2,PL);Q	karıyor olmalı mıydınız?
+IND;PRS;PROG;NOM(2,SG)	kararıyorsun.	IND;PRS;HAB;NOM(1,SG);NEG	karınmam.
+INFR;FUT;PROG;NOM(3,SG)	kararıyor olacakmış.	NEC;PRS;PROG;NOM(1,SG);NEG;Q	karıyor olmamalı mıyım?
+INFR;FUT;PROG;NOM(1,PL)	kararıyor olacakmışız.	NEC;PRS;PROG;NOM(1,PL);Q	kararıyor olmalı mıyız?
+IND;PST;HAB;NOM(2,SG);Q;ACC(1,PL)	bizi kasar mıydın?	INFR;PST;PRSP;NOM(3,PL);Q;ACC(1,PL)	bizi kasmış olacaklar mıydı?
+INFR;FUT;PERF;NOM(1,SG);NEG;ACC(3,SG)	onu kasmış olmayacağım.	INFR;FUT;PROG;NOM(3,PL);Q;ACC(1,PL)	bizi kasıyor olacaklar mıymış?
+NEC;PRS;NOM(1,PL);Q;ACC(1,SG)	beni kasmalı mıyız?	IND;FUT;PRSP;NOM(1,SG);NEG;Q;ACC(2,SG)	seni kasacak olmayacak mıyım?
+INFR;PST;NOM(2,PL);Q;ACC(2,SG)	seni kasmış mısınız?	INFR;FUT;PRSP;NOM(3,PL);NEG;Q;ACC(3,SG)	onu kasacak olmayacaklar mıymış?
+IND;PST;HAB;NOM(3,SG);ACC(3,SG)	onu kasardı.	INFR;FUT;HAB;NOM(1,SG);Q;ACC(1,PL)	bizi kasar olacak mıymışım?
+IND;FUT;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini kasmayacaksın.	IND;FUT;PRSP;NOM(3,PL);ACC(3,SG)	onu kasacak olacaklar.
+IND;PST;NOM(3,PL);ACC(1,PL)	bizi kastılar.	NEC;PST;NOM(1,SG);NEG;ACC(3,PL)	onları kasmamalıydım.
+INFR;FUT;HAB;NOM(1,SG);NEG;ACC(3,SG)	onu kasar olmayacakmışım.	INFR;PRS;PROG;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi kasmıyor muymuşuz?
+NEC;INFR;PST;NOM(3,SG);Q;ACC(3,SG)	onu kasmalı mıymış?	INFR;PRS;PROG;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi kasmıyorlar mıymış?
+NEC;INFR;PST;NOM(3,SG);Q;ACC(2,PL)	sizi kasmalı mıymış?	INFR;PRS;PROG;NOM(2,PL);Q;ACC(2,SG)	seni kasıyor muymuşsunuz?
+IND;PST;PERF;NOM(3,PL);ACC(2,PL)	sizi kastılardı.	INFR;PST;NOM(2,PL);NEG;Q;ACC(2,SG)	seni kasmamış mısınız?
+INFR;FUT;NOM(3,PL);NEG;ACC(1,PL)	bizi kasmayacaklarmış.	INFR;FUT;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi kasacak mıymışız?
+NEC;INFR;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX)	kendini kasıyor olmalı mıymışsın?	INFR;PST;PRSP;NOM(1,SG);NEG;ACC(3,PL)	onları kasmış olmayacaktım.
+NEC;PRS;NOM(2,PL);NEG;ACC(3,SG)	onu kasmamalısınız.	NEC;PRS;PROG;NOM(2,SG);ACC(2,SG,RFLX)	kendini kasıyor olmalısın.
+NEC;PST;PROG;NOM(2,PL);NEG;Q;ACC(2,SG)	seni kasıyor olmamalı mıydınız?	INFR;PST;PERF;NOM(1,SG);NEG;ACC(3,PL)	onları kasmamıştım.
+INFR;FUT;PERF;NOM(2,SG);NEG;ACC(2,PL)	sizi kasmış olmayacaksın.	IND;PST;PERF;NOM(2,PL);ACC(2,SG)	seni kastıydınız.
+INFR;PST;PERF;NOM(3,SG);NEG;Q;ACC(1,SG)	beni kasmamış mıydı?	IND;FUT;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi kasıyor olmayacaksınız.
+IND;PST;NOM(2,PL);NEG;ACC(2,SG)	seni kasmadınız.	IND;PST;PRSP;PROG;NOM(2,PL);ACC(3,SG)	onu kasıyor olacaktınız.
+IND;FUT;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi kasmayacaklar mı?	INFR;FUT;PROG;NOM(3,SG);Q;ACC(1,PL)	bizi kasıyor olacak mıymış?
+INFR;PRS;HAB;NOM(3,PL);NEG;ACC(2,SG)	seni kasmazlarmış.	INFR;FUT;HAB;NOM(3,SG);Q;ACC(2,PL)	sizi kasar olacak mıymış?
+NEC;INFR;PST;NOM(1,PL);ACC(3,PL)	onları kasmalıymışız.	INFR;PRS;HAB;NOM(3,SG);NEG;Q;ACC(2,PL)	sizi kasmaz mıymış?
+IND;PRS;HAB;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi katılaştırmazsınız.	IND;PST;HAB;NOM(1,PL);ACC(2,SG)	seni katılaştırırdık.
+IND;PST;NOM(3,SG);ACC(2,SG)	seni katılaştırdı.	INFR;PRS;HAB;NOM(2,PL);Q;ACC(1,PL)	bizi katılaştır mıymışsınız?
+INFR;FUT;PROG;NOM(3,PL);ACC(1,SG)	beni katılaştırıyor olacaklarmış.	IND;PST;PERF;NOM(2,SG);NEG;ACC(1,SG)	beni kaşırtmadıydın.
+IND;PST;HAB;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi katılaştırıyor olmazdım.	INFR;LGSPEC1;PST;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi katırmamış mıymışım?
+INFR;FUT;NOM(2,SG);NEG;ACC(3,SG)	onu katılaştırmayacakmışsın.	INFR;FUT;PRSP;NOM(3,SG);ACC(3,SG,RFLX)	kendini kaşırtacak olacakmış.
+INFR;FUT;HAB;NOM(2,SG);Q;ACC(2,PL)	sizi katılaştırır olacak mıymışsın?	IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi katırıyor olmayacaklar mıydı?
+INFR;PRS;HAB;NOM(3,PL);NEG;Q;ACC(3,SG)	onu katılaştırmazlar mıymış?	IND;FUT;PROG;NOM(3,PL);NEG;ACC(3,PL)	onları katırıyor olmayacaklar.
+INFR;PRS;HAB;NOM(2,PL);NEG;ACC(1,PL)	bizi katılaştırmazmışsınız.	INFR;FUT;HAB;NOM(3,PL);NEG;ACC(3,SG)	onu kaşırtır olmayacaklarmış.
+IND;PST;PRSP;PROG;NOM(2,PL);NEG;Q;ACC(1,SG)	beni katılaştırıyor olmayacak mıydınız?	INFR;FUT;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi kaşırtıyor olmayacak mıymışız?
+NEC;PST;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	kendinizi katılaştırmamalı mıydınız?	IND;PRS;HAB;NOM(3,PL);Q;ACC(1,PL)	bizi kaşırtırlar mı?
+INFR;PST;PRSP;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	kendini katılaştırmış olmayacak mıydın?	INFR;PST;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini kaşırtmışlar.
+NEC;PST;NOM(3,PL);NEG;ACC(2,PL)	sizi katılaştırmamalılardı.	IND;FUT;PROG;NOM(2,PL);Q;ACC(3,PL)	onları katırıyor olacak mısınız?
+INFR;PRS;HAB;NOM(3,SG);ACC(2,SG)	seni katılaştırırmış.	INFR;FUT;PROG;NOM(2,SG);Q;ACC(2,PL)	sizi katılaştırıyor olacak mıymışsın?
+IND;PST;PRSP;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini katılaştırmayacak mıydı?	NEC;PST;NOM(1,SG);ACC(3,PL)	onları kaşırtmalıydım.
+NEC;INFR;PST;NOM(1,SG);Q;ACC(1,PL)	bizi katılaştırmalı mıymışım?	INFR;FUT;PRSP;NOM(3,PL);Q;ACC(1,SG)	beni katılaştıracak olacaklar mıymış?
+INFR;FUT;HAB;NOM(3,PL);Q;ACC(3,PL)	onları katılaştırır olacaklar mıymış?	INFR;PST;PERF;NOM(3,PL);Q;ACC(1,SG)	beni kaşırtmışlar mıydı?
+INFR;FUT;NOM(3,PL);ACC(3,SG)	onu katılaştıracaklarmış.	NEC;PRS;PROG;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi kaşırtıyor olmamalı mısın?
+IND;PST;HAB;NOM(2,PL);NEG;Q	komikleşmez miydiniz?	NEC;INFR;PRS;PROG;NOM(1,SG);NEG;Q	ekşiyor olmamalı mıymışım?
+INFR;FUT;HAB;NOM(1,PL)	komikleşir olacakmışız.	IND;PST;PRSP;PROG;NOM(1,SG);NEG	ekşiyor olmayacaktım.
+IND;PST;PROG;NOM(3,SG);NEG	komikleşmiyordu.	IND;PST;PERF;NOM(3,SG);NEG	ekşimediydi.
+IND;PST;HAB;PROG;NOM(1,PL);NEG;Q	komikleşiyor olmaz mıydık?	IND;FUT;NOM(2,PL);Q	kekleşecek misiniz?
+INFR;FUT;HAB;NOM(1,PL)	komikleşir olacakmışız.	IND;FUT;PRSP;NOM(3,PL);NEG;Q	ekşiyecek olmayacaklar mı?
+NEC;PRS;NOM(2,SG)	komikleşmelisin.	INFR;FUT;PERF;NOM(1,PL);Q	ekşimiş olacak mıyız?
+NEC;INFR;PST;NOM(1,PL)	komikleşmeliymişiz.	INFR;LGSPEC1;PST;NOM(1,PL);Q	ekşimiş miymişiz?
+INFR;FUT;NOM(1,PL);NEG;Q	komikleşmeyecek miymişiz?	INFR;FUT;HAB;NOM(3,PL);NEG	ekşir olmayacaklarmış.
+NEC;INFR;PRS;PROG;NOM(1,PL);Q	komikleşiyor olmalı mıymışız?	IND;FUT;PRSP;NOM(2,PL);NEG;Q	ekşiyecek olmayacak mısınız?
+NEC;PST;NOM(1,PL)	komikleşmeliydik.	IND;PRS;HAB;NOM(2,PL);Q	ekşir misiniz?
+IND;FUT;PRSP;NOM(3,SG)	komikleşecek olacak.	INFR;FUT;PROG;NOM(3,SG);Q	korkuyor olacak mıymış?
+INFR;PST;PERF;NOM(3,SG);Q	komikleşmiş miydi?	IND;PRS;HAB;NOM(2,PL);Q	ekşir misiniz?
+IND;PRS;PROG;NOM(2,SG);Q	komikleşiyor musun?	INFR;FUT;PROG;NOM(2,SG);Q	koklaşıyor olacak mıymışsın?
+INFR;PRS;PROG;NOM(2,SG);NEG;Q	komikleşmiyor muymuşsun?	IND;FUT;PRSP;NOM(1,PL);Q	ekşiyecek olacak mıyız?
+IND;PST;PRSP;NOM(1,PL);NEG;Q	komikleşmeyecek miydik?	IND;PRS;HAB;NOM(1,PL)	ekşiriz.
+INFR;FUT;HAB;NOM(1,SG)	komikleşir olacakmışım.	NEC;INFR;PRS;PROG;NOM(1,SG);Q	ekşiyor olmalı mıymışım?
+NEC;INFR;PST;NOM(1,SG)	komikleşmeliymişim.	NEC;PRS;NOM(1,PL);Q	ekşimeli miyiz?
+NEC;PRS;NOM(1,SG);NEG	komikleşmemeliyim.	NEC;INFR;PRS;PROG;NOM(3,SG);NEG	kşiyor olmamalıymış.
+NEC;PRS;PROG;NOM(3,SG);NEG;Q	komikleşiyor olmamalı mı?	INFR;FUT;PERF;NOM(3,SG)	ekşimiş olacak.
+INFR;FUT;PERF;NOM(1,SG);NEG;Q	komikleşmiş olmayacak mıyım?	IND;PST;NOM(2,SG);NEG	ekşimedin.
+INFR;PST;NOM(1,SG)	komikleşmişim.	IMP;NOM(2,SG);NEG	ekşime!
+IND;PRS;HAB;NOM(3,PL)	kötüleşirler.	INFR;FUT;HAB;NOM(3,PL);Q	köpüşür olacaklar mıymış?
+NEC;PST;PROG;NOM(1,SG);NEG	kötüleşiyor olmamalıydım.	IND;PST;HAB;NOM(1,PL);NEG	ölümsüzleşmezdik.
+IND;PST;PERF;NOM(2,SG);NEG	kötüleşmediydin.	INFR;LGSPEC1;PST;NOM(2,PL);NEG;Q	öktüleşmemiş miymişsiniz?
+IND;PST;PROG;NOM(1,SG);NEG;Q	kötüleşmiyor muydum?	IND;FUT;NOM(3,PL);Q	köpüşüyecekler mi?
+IND;PST;HAB;NOM(3,SG)	kötüleşirdi.	INFR;PST;NOM(2,PL);NEG	öktüreşmemişsiniz.
+INFR;FUT;PROG;NOM(2,PL);Q	kötüleşiyor olacak mıymışsınız?	IND;PST;HAB;NOM(2,PL);Q	öktürülür müydünüz?
+IND;PST;NOM(3,PL);NEG;Q	kötüleşmediler mi?	INFR;PST;PRSP;NOM(2,PL)	öktüleşmiş olacaktınız.
+NEC;PST;NOM(1,SG)	kötüleşmeliydim.	IND;PRS;PROG;NOM(1,SG);NEG;Q	köpüşüyor muyum?
+IND;PST;NOM(3,SG);NEG;Q	kötüleşmedi mi?	NEC;INFR;PST;NOM(2,SG);NEG;Q	öktüleşmemeli miymişsin?
+IND;FUT;PRSP;NOM(3,SG);NEG;Q	kötüleşecek olmayacak mı?	INFR;FUT;PRSP;NOM(2,PL)	köpüşüyecek olacakmışsınız.
+INFR;PST;PERF;NOM(1,SG);NEG	kötüleşmemiştim.	IND;FUT;PRSP;NOM(3,SG);Q	köpüşüyecek olacak mı?
+INFR;PRS;HAB;NOM(3,PL);Q	kötüleşirler miymiş?	NEC;PRS;PROG;NOM(3,PL);NEG;Q	öktürülünleşiyor olmamalılar mı?
+INFR;PST;PRSP;NOM(3,PL);NEG	kötüleşmiş olmayacaklardı.	NEC;PRS;NOM(3,SG);NEG;Q	öktüleşmemeli mi?
+NEC;PST;NOM(3,SG)	kötüleşmeliydi.	IND;FUT;PRSP;NOM(1,PL)	köpüşüyecek olacağız.
+IND;PRS;HAB;NOM(1,PL)	kötüleşiriz.	NEC;PST;PROG;NOM(2,PL)	öktürülüyor olmalıydınız.
+IND;PST;HAB;NOM(2,SG)	kötüleşirdin.	IND;FUT;PRSP;NOM(3,PL);Q	köpüşüyecek olacaklar mı?
+INFR;PRS;PROG;NOM(3,SG)	kötüleşiyormuş.	INFR;PST;PERF;NOM(2,PL);NEG	köpüşümemiştiniz.
+INFR;FUT;PERF;NOM(2,PL);NEG	kötüleşmiş olmayacaksınız.	NEC;PST;PROG;NOM(1,SG);NEG	köpüşüyor olmamalıydım.
+NEC;INFR;PRS;PROG;NOM(2,PL)	kötüleşiyor olmalıymışsınız.	IND;PST;PRSP;NOM(1,PL);NEG;Q	öktüleşmeyecek miydik?
+IND;PST;PERF;NOM(2,SG);Q	kötüleşti miydin?	IND;PST;NOM(3,SG);NEG;Q	öktünleşmedi mi?
+NEC;PST;PROG;NOM(3,PL);Q	kötüleşiyor olmalılar mıydı?	NEC;PRS;NOM(1,SG);NEG	öktüleşmemeliyim.
+IND;PST;NOM(2,SG);NEG;Q;ACC(3,SG)	onu kötüleştirmedin mi?	IND;PRS;PROG;NOM(3,SG);NEG;Q;ACC(2,SG)	seni köpüştürmüyor mu?
+NEC;PST;PROG;NOM(1,PL);Q;ACC(3,SG)	onu kötüleştiriyor olmalı mıydık?	NEC;PRS;PROG;NOM(3,PL);Q;ACC(3,SG)	onu köpüştürüyor olmalılar mı?
+INFR;FUT;HAB;NOM(3,PL);NEG;ACC(3,PL)	onları kötüleştirir olmayacaklarmış.	NEC;PRS;PROG;NOM(1,PL);Q;ACC(3,SG)	onu köpürtüyor olmalı mıyız?
+IND;PST;PROG;NOM(1,PL);NEG;ACC(3,SG)	onu kötüleştirmiyorduk.	NEC;PRS;PROG;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi köpüştürüyor olmamalı mıyım?
+IND;PRS;HAB;NOM(3,SG);NEG;ACC(3,PL)	onları kötüleştirmez.	IND;FUT;NOM(3,SG);ACC(3,PL)	onları köpüştirecek.
+NEC;PST;PROG;NOM(2,SG);ACC(2,PL)	sizi kötüleştiriyor olmalıydın.	IND;PRS;HAB;NOM(2,SG);ACC(3,PL)	onları köpüştürürsün.
+INFR;PST;PRSP;NOM(3,PL);NEG;ACC(3,SG)	onu kötüleştirmiş olmayacaklardı.	IND;PST;PERF;NOM(2,PL);NEG;Q;ACC(1,SG)	beni kölümsüzleştirmedi miydiniz?
+INFR;PRS;HAB;NOM(2,SG);Q;ACC(1,SG)	beni kötüleştirir miymişsin?	INFR;PRS;PROG;NOM(3,PL);ACC(1,PL)	bizi köpüştürüyorlarmış.
+INFR;LGSPEC1;PST;NOM(1,PL);ACC(3,PL)	onları kötüleştirmişmişiz.	IND;PST;NOM(1,PL);ACC(1,SG)	beni kölümsüzleştirik.
+INFR;FUT;PERF;NOM(1,SG);NEG;ACC(1,PL)	bizi kötüleştirmiş olmayacağım.	IND;FUT;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi köpüştirmeyecek miyiz?
+IMP;NOM(2,SG);ACC(1,PL)	bizi kötüleştir!	INFR;LGSPEC1;PST;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi köpürtmüş müymüşüm?
+IND;FUT;PRSP;NOM(3,PL);Q;ACC(2,SG)	seni kötüleştirecek olacaklar mı?	INFR;PST;NOM(1,SG);Q;ACC(1,PL)	bizi köpürtüleştirmiş miyim?
+IND;FUT;PRSP;NOM(3,SG);ACC(3,SG,RFLX)	kendini kötüleştirecek olacak.	INFR;FUT;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi köpüştürmeyecek miymişim?
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG;Q;ACC(1,SG)	beni kötüleştiriyor olmamalılar mıymış?	IND;PRS;PROG;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini ökeştirmiyor mu?
+INFR;FUT;HAB;NOM(2,SG);ACC(3,SG)	onu kötüleştirir olacakmışsın.	NEC;INFR;PST;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini köpürtüleştirmeli miymiş?
+IND;PST;PRSP;PROG;NOM(2,PL);Q;ACC(1,PL)	bizi kötüleştiriyor olacak mıydınız?	IND;PST;PROG;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi ölümsüzleştirmiyor muyduk?
+NEC;PST;NOM(1,PL);ACC(1,PL,RFLX)	kendimizi kötüleştirmeliydik.	INFR;PST;PERF;NOM(2,PL);NEG;ACC(2,SG)	seni köpüştürmemiştiniz.
+IND;PST;PRSP;PROG;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi kötüleştiriyor olmayacak mıydık?	INFR;LGSPEC1;PST;NOM(1,SG);Q;ACC(1,PL)	bizi kölümsüzleştirmiş miymişim?
+INFR;FUT;PERF;NOM(2,PL);ACC(3,SG)	onu kötüleştirmiş olacaksınız.	IND;FUT;PROG;NOM(3,PL);Q;ACC(1,SG)	beni köpüştürüyor olacaklar mı?
+IND;FUT;PRSP;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi kötüleştirecek olmayacaklar mı?	IND;PST;PRSP;NOM(3,SG);NEG;ACC(3,PL)	onları kölümsüzleştirmeyecekti.
+IND;PST;NOM(1,PL);ACC(2,PL)	sizi kötüleştirdik.	IMP;NOM(2,SG);NEG;ACC(3,SG)	onu köpüştürme!
+IND;PST;PRSP;NOM(3,SG);ACC(2,PL)	sizi küreyecekti.	IND;FUT;PROG;NOM(1,SG);ACC(2,SG)	seni kürüyor olacağım.
+NEC;PST;PROG;NOM(2,PL);NEG;Q;ACC(3,PL)	onları kürüyor olmamalı mıydınız?	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi kürümediler miydi?
+IND;PST;PRSP;NOM(1,SG);ACC(1,SG,RFLX)	kendimi küreyecektim.	IND;PST;NOM(2,SG);ACC(3,PL)	onları kürdün.
+IND;PST;PRSP;NOM(2,PL);NEG;Q;ACC(2,SG)	seni küremeyecek miydiniz?	INFR;PRS;PROG;NOM(2,PL);Q;ACC(2,SG)	seni ürüyor muymuşsunuz?
+INFR;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini küremiyorlar mıymış?	IND;FUT;NOM(2,PL);NEG;ACC(1,PL)	bizi kürmeyeceksiniz.
+IND;PST;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini küremediler mi?	NEC;PST;NOM(2,SG);ACC(3,PL)	onları ürümeliydin.
+NEC;PRS;NOM(3,PL);NEG;ACC(1,PL)	bizi kürememeliler.	INFR;PST;PRSP;NOM(3,PL);NEG;ACC(1,SG)	beni kürümüş olmayacaklardı.
+IND;FUT;PRSP;NOM(3,PL);ACC(2,SG)	seni küreyecek olacaklar.	NEC;PRS;NOM(3,PL);ACC(3,SG)	onu kürmeliler.
+INFR;LGSPEC1;PST;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi kürememişler miymiş?	NEC;INFR;PST;NOM(1,PL);NEG;ACC(3,PL)	onları ürümemeliymişiz.
+IND;PRS;HAB;NOM(3,PL);NEG;Q;ACC(2,SG)	seni küremezler mi?	INFR;PRS;PROG;NOM(1,PL);NEG;Q;ACC(1,SG)	beni kürümüyor muymuşuz?
+IND;PST;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini küremedi mi?	IND;PST;HAB;PROG;NOM(2,PL);NEG;ACC(2,SG)	seni kürüyor olmazdınız.
+IND;PST;PERF;NOM(2,SG);NEG;ACC(2,PL)	sizi küremediydin.	INFR;FUT;HAB;NOM(2,SG);NEG;Q;ACC(3,PL)	onları körür olmayacak mıymışsın?
+IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,SG)	onu küremediler miydi?	IND;PST;PRSP;NOM(3,PL);Q;ACC(3,PL)	onları kürecekler miydi?
+IND;PST;HAB;PROG;NOM(3,PL);Q;ACC(2,SG)	seni kürüyor olurlar mıydı?	INFR;PRS;PROG;NOM(2,PL);NEG;Q;ACC(2,SG)	seni körmüyor muymuşsunuz?
+IND;PST;HAB;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi küremezler miydi?	IND;FUT;NOM(1,SG);NEG;ACC(3,SG)	onu kürmeyeceğim.
+INFR;FUT;PRSP;NOM(3,PL);Q;ACC(3,PL,RFLX)	kendilerini küreyecek olacaklar mıymış?	IND;FUT;PRSP;NOM(3,SG);Q;ACC(2,PL)	sizi ürüyecek olacak mı?
+INFR;FUT;PROG;NOM(2,SG);NEG;ACC(2,PL)	sizi kürüyor olmayacakmışsın.	IND;PST;HAB;NOM(2,SG);Q;ACC(2,PL)	sizi kürür müydün?
+IND;PST;PRSP;NOM(2,PL)	küsecektiniz.	IND;PST;HAB;PROG;NOM(2,PL);Q	süküyor olur muydunuz?
+INFR;PST;PRSP;NOM(3,PL);NEG;Q	küsmüş olmayacaklar mıydı?	IND;PST;PROG;NOM(2,SG);Q	süküyor muydun?
+IND;PST;NOM(2,PL);Q	küstünüz mü?	IND;PRS;HAB;NOM(1,PL)	sünüz.
+INFR;LGSPEC1;PST;NOM(2,PL)	küsmüşmüşsünüz.	IND;PST;PERF;NOM(1,SG);Q	süktü müydüm?
+IND;PST;PRSP;PROG;NOM(1,PL);NEG	küsüyor olmayacaktık.	INFR;FUT;HAB;NOM(1,SG);NEG;Q	sürker olmayacak mıymışım?
+IND;PRS;HAB;NOM(3,SG);Q	küser mi?	INFR;FUT;PROG;NOM(2,SG);NEG	süküyor olmayacakmışsın.
+NEC;PST;NOM(2,PL);NEG;Q	küsmemeli miydiniz?	IND;PST;NOM(1,SG);Q	süktüm mü?
+IND;FUT;PRSP;NOM(3,PL);NEG;Q	küsecek olmayacaklar mı?	NEC;PST;NOM(3,PL);Q	sükmeliler miydi?
+INFR;PRS;HAB;NOM(1,SG);NEG	küsmezmişim.	IND;FUT;PRSP;NOM(2,PL)	sükecek olacaksınız.
+INFR;PST;PRSP;NOM(3,SG);NEG	küsmüş olmayacaktı.	INFR;PST;PERF;NOM(2,PL);NEG	sükmemiştiniz.
+IND;PST;NOM(3,PL)	küstüler.	INFR;FUT;NOM(1,PL);NEG	sükülmeyecekmişiz.
+INFR;FUT;HAB;NOM(1,PL);Q	küser olacak mıymışız?	NEC;PST;PROG;NOM(3,SG)	süküyor olmalıydı.
+INFR;PRS;HAB;NOM(2,SG);Q	küser miymişsin?	IND;FUT;PROG;NOM(1,PL);NEG	süküyor olmayacağız.
+INFR;PST;PRSP;NOM(2,SG);NEG	küsmüş olmayacaktın.	IND;PST;NOM(3,SG)	süktü.
+INFR;PRS;PROG;NOM(1,SG);NEG;Q	küsmüyor muymuşum?	IND;PST;PROG;NOM(2,PL)	süküyordunuz.
+NEC;INFR;PRS;PROG;NOM(3,SG)	küsüyor olmalıymış.	IND;FUT;PRSP;NOM(1,SG)	sükecek olacağım.
+NEC;PRS;PROG;NOM(2,PL);NEG	küsüyor olmamalısınız.	INFR;FUT;HAB;NOM(3,PL);Q	süker olacaklar mıymış?
+INFR;PST;NOM(3,PL);NEG	küsmemişler.	INFR;PST;PRSP;NOM(2,PL);NEG	sükmüş olmayacaktınız.
+IND;PST;PROG;NOM(2,SG);NEG	küsmüyordun.	IND;PST;NOM(1,SG)	süktüm.
+IND;PRS;PROG;NOM(2,PL);NEG;Q	küsmüyor musunuz?	IND;FUT;PRSP;NOM(3,PL);NEG;Q	sükecek olmayacaklar mı?
+INFR;PRS;PROG;NOM(1,PL);Q	küsüyor muymuşuz?	IND;PST;HAB;NOM(3,SG);NEG	sükmezdi.
+IND;PST;PERF;NOM(1,PL);NEG;Q	küsmedi miydik?	IMP;NOM(2,SG)	sükün!
+NEC;INFR;PST;NOM(1,SG);NEG;Q;ACC(2,SG);ABL(1,PL)	seni bizden kıskanmamalı mıymışım?	NEC;PRS;NOM(3,SG);ACC(2,PL);ABL(2,SG)	sizi senden kısamalı.
+INFR;PRS;PROG;NOM(3,SG);Q;ACC(2,PL);ABL(1,SG)	sizi benden kıskanıyor muymuş?	NEC;PRS;NOM(2,SG);Q;ACC(1,PL);ABL(1,SG)	bizi benden kısamalı mısın?
+NEC;PRS;NOM(3,SG);NEG;Q;ACC(2,SG)	seni kıskanmamalı mı?	INFR;FUT;PERF;NOM(3,PL);Q;ACC(2,PL);ABL(1,PL)	sizi bizden kısizden kısilmiş olacaklar mı?
+IND;PST;PROG;NOM(2,PL);NEG;Q;ACC(1,SG);ABL(2,PL,RFLX)	beni kendinizden kıskanmıyor muydunuz?	INFR;FUT;PERF;NOM(1,PL);ACC(1,SG);ABL(2,PL)	beni sizden kıymış olacağız.
+INFR;FUT;PROG;NOM(3,PL);NEG;ACC(1,PL);ABL(3,SG)	bizi ondan kıskanıyor olmayacaklarmış.	IND;PRS;HAB;NOM(3,PL);ACC(1,SG);ABL(1,PL)	beni bizden kısizden kısilarlar.
+NEC;PRS;NOM(1,PL);ACC(3,SG);ABL(3,SG,RFLX)	onu kendinden kıskanmalıyız.	NEC;INFR;PRS;PROG;NOM(2,SG);ACC(2,SG,RFLX);ABL(3,PL)	kendini onlardan kısizden kısıyor olmalıymışsın.
+INFR;PRS;PROG;NOM(3,PL);NEG;ACC(3,SG);ABL(3,SG)	onu ondan kıskanmıyorlarmış.	INFR;PRS;PROG;NOM(1,PL);NEG;ACC(3,PL);ABL(3,PL,RFLX)	onları kendilerinden kısilmiyormuşuz.
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q;ACC(1,SG);ABL(2,PL)	beni sizden kıskanıyor olmayacaklar mıydı?	NEC;PRS;NOM(3,SG);ACC(1,PL);ABL(2,SG)	bizi senden kazanmalı.
+INFR;PST;NOM(2,PL);NEG;ACC(3,SG);ABL(3,SG,RFLX)	onu kendinden kıskanmamışsınız.	INFR;PST;NOM(3,SG);NEG;ACC(3,SG);ABL(3,SG,RFLX)	onu kendinden kısamamış.
+IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(2,SG);ABL(3,PL)	seni onlardan kıskanmadı mıydım?	INFR;PST;PERF;NOM(2,PL);ACC(3,PL);ABL(2,PL,RFLX)	onları kendinizden kısinizden kalmıştınız.
+IND;FUT;NOM(3,SG);ACC(1,PL);ABL(1,PL,RFLX)	bizi kendimizden kıskanacak.	IND;PRS;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi kısmıyorsunuz.
+INFR;PST;PRSP;NOM(1,SG);ACC(1,PL);ABL(3,SG)	bizi ondan kıskanmış olacaktım.	NEC;PRS;PROG;NOM(1,PL);NEG;ACC(3,PL);ABL(3,PL,RFLX)	onları kendilerinden kısizden kalıyor olmamalıyız.
+IND;PST;PROG;NOM(1,PL);ACC(1,PL,RFLX);ABL(2,SG)	kendimizi senden kıskanıyorduk.	NEC;INFR;PST;NOM(3,PL);NEG;ACC(3,SG);ABL(3,PL,RFLX)	onu kendilerinden kakmamalılarmış.
+IND;PRS;HAB;NOM(1,SG);NEG;ACC(2,PL);ABL(2,PL,RFLX)	sizi kendinizden kıskanmam.	INFR;FUT;PRSP;NOM(2,PL);Q;ACC(2,PL,RFLX);ABL(2,SG)	kendinizi senden kısacak olacak mıymışsınız?
+NEC;PRS;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX);ABL(1,SG)	kendilerini benden kıskanıyor olmalılar mı?	NEC;INFR;PRS;PROG;NOM(3,SG);NEG;ACC(1,SG);ABL(2,SG)	beni senden kakıyor olmamalıymış.
+NEC;INFR;PST;NOM(3,SG);NEG;ACC(1,SG);ABL(3,SG,RFLX)	beni kendinden kıskanmamalıymış.	NEC;PRS;NOM(3,PL);NEG;Q;ACC(3,PL);ABL(2,PL)	onları sizden kısizden kısizden kısizden kısizden kanmamama
+INFR;PST;PRSP;NOM(2,SG);ACC(1,SG);ABL(3,PL)	beni onlardan kıskanmış olacaktın.	IND;PST;PRSP;PROG;NOM(3,SG);NEG;Q;ACC(2,PL)	sizi kısıyor olmayacak mıydı?
+INFR;PST;PRSP;NOM(1,PL);ACC(1,SG);ABL(1,SG,RFLX)	beni kendimden kıskanmış olacaktık.	INFR;FUT;NOM(3,PL);NEG;Q;ACC(2,PL);ABL(1,PL)	sizi bizden kısizden kakmayacaklar mıymış?
+IND;PST;PRSP;NOM(2,SG);ACC(1,SG);ABL(1,PL)	beni bizden kıskanacaktın.	IND;FUT;PROG;NOM(1,PL);NEG;ACC(2,PL);ABL(3,PL)	sizi onlardan kısizden kısizden kısizden kısizden kısizden 
+INFR;FUT;PRSP;NOM(1,PL);NEG;Q;ACC(2,SG);ABL(1,PL,RFLX)	seni kendimizden kıskanacak olmayacak mıymışız?	IND;PST;NOM(2,PL);Q;ACC(3,PL);ABL(1,SG)	onları benden kaktınız mı?
+INFR;PST;PERF;NOM(1,PL);NEG;Q;ACC(2,PL);ABL(1,SG)	sizi benden kıskanmamış mıydık?	IND;PRS;PROG;NOM(2,PL);ACC(2,SG);ABL(1,PL)	seni bizden kısizden kakıyorsunuz.
+INFR;PST;PERF;NOM(2,PL);Q;COM(2,PL,RFLX)	kendinizle papaz olmuş muydunuz?	IND;PST;HAB;PROG;NOM(2,SG);NEG;Q;COM(2,PL)	sizinle paylaşıyor olmaz mıydın?
+INFR;PRS;PROG;NOM(3,PL);COM(1,PL)	bizimle papaz oluyorlarmış.	IND;PST;HAB;NOM(2,SG);Q;COM(1,SG)	benimle paylaşır mıydın?
+NEC;PRS;PROG;NOM(1,SG);COM(2,SG)	seninle papaz oluyor olmalıyım.	IND;PST;HAB;NOM(1,PL);COM(1,SG)	benimle pardık.
+NEC;INFR;PST;NOM(3,SG);COM(1,SG)	benimle papaz olmalıymış.	INFR;FUT;PERF;NOM(3,SG);COM(1,SG)	benimle paylamış olacak.
+NEC;INFR;PST;NOM(3,PL);Q;COM(2,PL)	sizinle papaz olmalılar mıymış?	NEC;PST;NOM(3,SG);COM(1,SG)	benimle paylaşmalıydı.
+INFR;FUT;HAB;NOM(2,PL);COM(3,SG)	onunla papaz olur olacakmışsınız.	IND;PST;PRSP;NOM(2,PL);NEG;COM(3,SG)	onunla paylaşmayacaktınız.
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;COM(1,SG)	benimle papaz oluyor olmayacaklardı.	IND;FUT;PROG;NOM(1,PL);NEG;COM(3,PL)	onlarınla paylıyor olmayacağız.
+IND;PRS;PROG;NOM(2,SG);Q;COM(1,SG)	benimle papaz oluyor musun?	IND;PST;PRSP;PROG;NOM(3,PL);COM(1,SG)	benimle paylıyor olacaklardı.
+IND;PRS;PROG;NOM(3,PL);COM(3,PL)	onlarınla papaz oluyorlar.	IND;PST;NOM(3,PL);COM(1,SG)	benimle paylaştılar.
+INFR;PST;NOM(2,PL);COM(1,PL)	bizimle papaz olmuşsunuz.	NEC;PRS;NOM(2,PL);NEG;COM(2,PL,RFLX)	kendinizle paylaşmamalısınız.
+IND;FUT;PROG;NOM(1,PL);NEG;Q;COM(1,PL,RFLX)	kendimizle papaz oluyor olmayacak mıyız?	IND;PRS;PROG;NOM(3,PL);Q;COM(1,SG)	benimle paylaşıyorlar mı?
+INFR;PRS;HAB;NOM(3,SG);NEG;COM(2,PL)	sizinle papaz olmazmış.	IND;PST;PRSP;NOM(2,PL);COM(2,SG)	seninle paylacaktınız.
+IND;FUT;PRSP;NOM(2,SG);Q;COM(3,PL)	onlarınla papaz olacak olacak mısın?	IND;PST;HAB;NOM(2,PL);NEG;COM(1,PL)	bizimle paylaşmazdınız.
+IND;PRS;HAB;NOM(2,PL);NEG;Q;COM(1,PL)	bizimle papaz olmaz mısınız?	INFR;FUT;PERF;NOM(3,SG);NEG;Q;COM(3,SG)	onunla paylaşmış olmayacak mı?
+IND;PST;PERF;NOM(3,PL);NEG;Q;COM(1,PL)	bizimle papaz olmadılar mıydı?	INFR;FUT;PRSP;NOM(3,SG);Q;COM(1,SG)	benimle paylaşacak olacak mıymış?
+IND;PST;PERF;NOM(1,SG);COM(3,SG)	onunla papaz olduydum.	IND;PST;HAB;PROG;NOM(3,PL);NEG;COM(3,PL)	onlarınla paylaşıyor olmazlardı.
+IND;PRS;PROG;NOM(2,SG);COM(1,SG)	benimle papaz oluyorsun.	NEC;INFR;PRS;PROG;NOM(1,PL);NEG;COM(3,SG)	onunla paylıyor olmamalıymışız.
+IND;PRS;PROG;NOM(2,PL);COM(1,SG)	benimle papaz oluyorsunuz.	IND;PST;HAB;PROG;NOM(1,PL);Q;COM(2,SG)	seninle paylıyor olur muyduk?
+IND;PST;PRSP;NOM(1,SG);NEG;COM(3,SG)	onunla papaz olmayacaktım.	IND;PST;NOM(3,PL);NEG;COM(1,SG)	benimle paylaşmadılar.
+INFR;PRS;PROG;NOM(1,PL);COM(3,SG)	onunla papaz oluyormuşuz.	IND;FUT;PRSP;NOM(2,PL);NEG;COM(3,SG)	onunla paylacak olmayacaksınız.
+IND;PRS;PROG;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini savunmuyor mu?	INFR;FUT;PRSP;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi sevecek olacak mıymışsınız?
+IND;FUT;PRSP;NOM(3,PL);NEG;ACC(3,PL)	onları savunacak olmayacaklar.	INFR;PRS;HAB;NOM(1,PL);NEG;Q;ACC(3,SG)	onu sıvmaz mıymışız?
+NEC;PRS;PROG;NOM(1,SG);NEG;ACC(3,SG)	onu savunuyor olmamalıyım.	IND;PST;PERF;NOM(1,SG);ACC(3,PL)	onları sevdiydim.
+INFR;LGSPEC1;PST;NOM(2,SG);Q;ACC(3,SG)	onu savunmuş muymuşsun?	IND;PST;HAB;PROG;NOM(3,SG);NEG;Q;ACC(3,SG)	onu svuyor olmaz mıydı?
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG;ACC(1,SG)	beni savunuyor olmamalılarmış.	IND;PRS;HAB;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi sevmez miyim?
+IND;FUT;PRSP;NOM(3,SG);NEG;ACC(1,SG)	beni savunacak olmayacak.	IND;PST;PRSP;NOM(3,PL);NEG;ACC(2,SG)	seni sevmeyeceklerdi.
+IND;FUT;PROG;NOM(2,SG);ACC(3,SG)	onu savunuyor olacaksın.	IND;PST;PRSP;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini svmayacak mıydı?
+NEC;PRS;NOM(2,PL);Q;ACC(1,SG)	beni savunmalı mısınız?	INFR;PST;NOM(1,SG);NEG;Q;ACC(3,SG)	onu savmamış mıyım?
+IND;FUT;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini savunacaklar.	INFR;FUT;PRSP;NOM(3,SG);NEG;ACC(2,SG)	seni sevecek olmayacakmış.
+NEC;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,SG)	beni savunuyor olmamalı mı?	IND;PST;PRSP;NOM(3,SG);ACC(3,SG,RFLX)	kendini sevmeyecekti.
+IND;PST;HAB;PROG;NOM(3,PL);NEG;ACC(1,SG)	beni savunuyor olmazlardı.	INFR;PST;PERF;NOM(2,PL);Q;ACC(3,SG)	onu sevmiş miydiniz?
+INFR;LGSPEC1;PST;NOM(2,SG);ACC(1,PL)	bizi savunmuşmuşsun.	INFR;PST;PRSP;NOM(2,PL);Q;ACC(1,PL)	bizi svmuş olacak mıydınız?
+IND;PRS;HAB;NOM(2,PL);NEG;Q;ACC(1,SG)	beni savunmaz mısınız?	INFR;FUT;PRSP;NOM(1,SG);NEG;ACC(1,PL)	bizi savacak olmayacakmışım.
+INFR;PST;NOM(2,PL);NEG;ACC(2,SG)	seni savunmamışsınız.	IND;FUT;NOM(1,PL);Q;ACC(3,PL)	onları sevmeyecek miyiz?
+INFR;FUT;PERF;NOM(2,PL);NEG;Q;ACC(2,PL,RFLX)	kendinizi savunmuş olmayacak mısınız?	IND;FUT;NOM(1,PL);ACC(2,PL)	sizi sevmeyeceğiz.
+IND;PST;NOM(3,SG);NEG;Q;ACC(1,SG)	beni savunmadı mı?	INFR;PST;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi sıvmış mıyız?
+NEC;INFR;PST;NOM(1,SG);Q;ACC(1,PL)	bizi savunmalı mıymışım?	IND;PST;NOM(3,PL);NEG;ACC(1,PL)	bizi savmadılar.
+INFR;PRS;HAB;NOM(2,PL);NEG;ACC(3,SG)	onu savunmazmışsınız.	INFR;FUT;HAB;NOM(1,PL);Q;ACC(2,PL)	sizi svar olacak mıymışız?
+INFR;LGSPEC1;PST;NOM(3,PL);Q;ACC(3,PL)	onları savunmuşlar mıymış?	NEC;INFR;PRS;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi sıvıyor olmamalıymışsınız.
+IND;PST;PERF;NOM(1,SG);ACC(2,SG)	seni savunduydum.	IND;FUT;PRSP;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi savacak olmayacak mısın?
+NEC;INFR;PRS;PROG;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi savunuyor olmalı mıymışım?	INFR;PRS;PROG;NOM(2,SG);NEG;Q;ACC(2,PL)	sizi sevmiyor muymuşsun?
+INFR;PST;PERF;NOM(2,SG);ACC(1,PL)	bizi seyretmiştin.	INFR;PST;PRSP;NOM(3,PL);NEG;ACC(1,SG)	beni sertmiş olmayacaklardı.
+INFR;PRS;HAB;NOM(1,SG);Q;ACC(3,PL)	onları seyretir miymişim?	IND;PST;PRSP;NOM(1,PL);NEG;ACC(2,SG)	seni sertmeyecektik.
+IND;PST;PRSP;PROG;NOM(3,SG);NEG;ACC(2,PL)	sizi seyretiyor olmayacaktı.	NEC;PST;NOM(2,PL);NEG;Q;ACC(3,PL)	onları sertmemeli miydiniz?
+IND;PRS;PROG;NOM(3,SG);ACC(1,SG)	beni seyretiyor.	NEC;PRS;NOM(1,SG);ACC(1,PL)	bizi sertmeliyim.
+IND;FUT;NOM(1,SG);ACC(1,SG,RFLX)	kendimi seyreteceğim.	IND;PST;NOM(1,PL);NEG;ACC(3,PL)	onları setmedik.
+INFR;FUT;HAB;NOM(2,PL);NEG;Q;ACC(2,SG)	seni seyretir olmayacak mıymışsınız?	IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,PL)	onları setmiyorlar mı?
+NEC;PST;NOM(3,PL);Q;ACC(3,SG)	onu seyretmeliler miydi?	NEC;PST;PROG;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini setiyor olmamalılar mıydı?
+IND;PST;HAB;NOM(1,PL);NEG;Q;ACC(1,SG)	beni seyretmez miydik?	IND;PST;PERF;NOM(1,SG);ACC(3,PL)	onları serttiydim.
+NEC;INFR;PRS;PROG;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi seyretiyor olmamalı mıymışız?	INFR;FUT;PROG;NOM(2,PL);Q;ACC(3,PL)	onları setiyor olacak mıymışsınız?
+NEC;INFR;PST;NOM(2,PL);ACC(1,SG)	beni seyretmeliymişsiniz.	INFR;FUT;NOM(2,PL);NEG;ACC(3,PL)	onları setmeyecekmişsiniz.
+IND;PST;NOM(1,PL);Q;ACC(1,SG)	beni seyrettik mi?	INFR;PST;NOM(2,SG);Q;ACC(2,PL)	sizi sertmiş misin?
+INFR;FUT;PERF;NOM(3,PL);Q;ACC(3,PL,RFLX)	kendilerini seyretmiş olacaklar mı?	INFR;LGSPEC1;PST;NOM(2,PL);NEG;ACC(1,SG)	beni sertmemişmişsiniz.
+NEC;INFR;PRS;PROG;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi seyretiyor olmamalı mıymışım?	NEC;INFR;PST;NOM(3,SG);NEG;ACC(1,SG)	beni sertmemeliymiş.
+INFR;FUT;PRSP;NOM(1,PL);NEG;ACC(3,PL)	onları seyretecek olmayacakmışız.	INFR;PRS;HAB;NOM(1,SG);ACC(1,SG,RFLX)	kendimi sertirmişim.
+NEC;PST;NOM(3,PL);ACC(3,SG)	onu seyretmelilerdi.	INFR;FUT;NOM(3,SG);ACC(1,PL)	bizi sertecekmiş.
+IND;FUT;NOM(1,PL);Q;ACC(1,SG)	beni seyretecek miyiz?	IND;PST;PRSP;PROG;NOM(1,PL);NEG;ACC(2,SG)	seni sertiyor olmayacaktık.
+IND;PST;PERF;NOM(2,SG);NEG;ACC(3,SG)	onu seyretmediydin.	NEC;PRS;PROG;NOM(2,PL);ACC(3,SG)	onu sertiyor olmalısınız.
+IND;PST;HAB;NOM(1,SG);Q;ACC(2,SG)	seni seyretir miydim?	NEC;PST;NOM(1,PL);ACC(1,SG)	beni sertmeliydik.
+IND;PRS;HAB;NOM(1,PL);Q;ACC(2,PL)	sizi seyretir miyiz?	IND;PST;PROG;NOM(1,SG);ACC(1,SG,RFLX)	kendimi sertiyordum.
+INFR;PRS;PROG;NOM(3,PL);NEG;Q;ACC(2,SG)	seni seyretmiyorlar mıymış?	IND;PST;PERF;NOM(2,SG);NEG;ACC(1,SG)	beni sertmediydin.
+INFR;PST;PRSP;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi seçmiş olacak mıydınız?	IND;FUT;NOM(2,SG);Q;ACC(3,SG)	onu seçecek misin?
+NEC;PST;PROG;NOM(1,PL);NEG;ACC(3,SG)	onu seçiyor olmamalıydık.	NEC;PRS;PROG;NOM(1,PL);ACC(3,PL)	onları seçiyor olmalıyız.
+INFR;PST;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi seçmemiş miyim?	NEC;INFR;PST;NOM(1,PL);Q;ACC(1,SG)	beni seçmeli miymişiz?
+IND;FUT;NOM(2,SG);Q;ACC(1,PL)	bizi seçecek misin?	INFR;PST;PERF;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini seçmemişlerdi.
+INFR;PST;PERF;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi seçmemiş miydim?	NEC;PRS;PROG;NOM(3,SG);NEG;ACC(1,PL)	bizi seçiyor olmamalı.
+NEC;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,SG)	onu seçiyor olmamalılar mı?	IND;PST;NOM(3,SG);NEG;ACC(3,SG)	onu seçmedi.
+IND;PRS;HAB;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi seçmez miyim?	IND;PST;HAB;NOM(3,PL);ACC(3,PL)	onları seçerlerdi.
+IND;PST;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi seçmediler mi?	NEC;INFR;PRS;PROG;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi seçiyor olmamalı mıymışım?
+INFR;FUT;NOM(1,SG);Q;ACC(1,PL)	bizi seçecek miymişim?	IND;PST;HAB;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini seçmezler miydi?
+IND;PST;HAB;PROG;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini seçiyor olmazdın.	INFR;PST;PERF;NOM(1,PL);ACC(2,PL)	sizi seçmiştik.
+IND;PST;PRSP;PROG;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini seçiyor olmayacak mıydı?	IND;PST;PRSP;NOM(2,SG);ACC(3,PL)	onları seçecektin.
+INFR;PST;PERF;NOM(3,SG);ACC(2,SG)	seni seçmişti.	INFR;FUT;HAB;NOM(3,SG);NEG;Q;ACC(1,SG)	beni seçilir olmayacak mıymış?
+INFR;FUT;HAB;NOM(2,PL);ACC(1,SG)	beni seçer olacakmışsınız.	IND;PRS;PROG;NOM(2,SG);NEG;ACC(2,PL)	sizi seçmiyorsun.
+NEC;PRS;NOM(1,SG);ACC(2,SG)	seni seçmeliyim.	IMP;NOM(2,PL);NEG;ACC(1,SG)	beni seçmeyin!
+INFR;PST;PRSP;NOM(1,SG);ACC(2,SG)	seni seçmiş olacaktım.	IND;PRS;PROG;NOM(1,SG);Q;ACC(3,SG)	onu seçiyor muyum?
+IND;PST;HAB;PROG;NOM(1,PL);NEG;ACC(3,SG)	onu seçiyor olmazdık.	NEC;INFR;PST;NOM(3,PL);NEG;ACC(1,SG)	beni seçmemelilermiş.
+INFR;PST;PRSP;NOM(3,SG);Q;ACC(3,SG)	onu seçmiş olacak mıydı?	INFR;FUT;PERF;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi seçmiş olmayacak mıyım?
+IND;FUT;PROG;NOM(2,PL);NEG;Q;ACC(2,SG)	seni seçiyor olmayacak mısınız?	IND;PST;PRSP;PROG;NOM(3,SG);ACC(2,PL)	sizi seçiyor olacaktı.
+IND;FUT;PROG;NOM(1,SG);NEG;Q;ACC(2,SG)	seni seçiyor olmayacak mıyım?	INFR;FUT;HAB;NOM(3,SG);Q;ACC(3,SG)	onu seçir olacak mıymış?
+NEC;PST;PROG;NOM(3,SG);NEG;Q;ACC(1,SG)	beni seçiyor olmamalı mıydı?	NEC;PST;NOM(1,SG);Q;ACC(1,PL)	bizi seçmeli miydim?
+IND;PST;HAB;NOM(3,SG);Q;ACC(2,PL)	sizi seçer miydi?	INFR;PRS;PROG;NOM(2,PL);NEG;ACC(3,SG)	onu seçmiyormuşsunuz.
+IND;PST;NOM(1,PL)	sikildik.	IND;PRS;HAB;NOM(2,SG);NEG;Q	sikecek misin?
+IND;FUT;PRSP;NOM(2,PL);Q	sikilecek olacak mısınız?	IND;PST;PERF;NOM(2,SG);NEG	sikmediydin.
+IND;FUT;PRSP;NOM(1,PL);Q	sikilecek olacak mıyız?	IND;PST;HAB;PROG;NOM(3,SG);NEG;Q	sikiyor olmaz mıydı?
+NEC;PST;PROG;NOM(1,SG)	sikiliyor olmalıydım.	IND;PST;PRSP;PROG;NOM(2,PL)	sikiyor olacaktınız.
+IND;PST;NOM(2,SG);NEG	sikilmedin.	IND;PST;PRSP;PROG;NOM(1,SG);Q	sikiyor olacak mıydım?
+IND;PST;HAB;NOM(1,PL);Q	sikilir miydik?	IND;PRS;HAB;NOM(2,PL)	sikersiniz.
+NEC;PRS;PROG;NOM(3,PL)	sikiliyor olmalılar.	NEC;PRS;PROG;NOM(2,SG);NEG	sikiyor olmamalısın.
+INFR;PRS;HAB;NOM(2,PL);NEG	sikilmezmişsiniz.	INFR;FUT;PRSP;NOM(2,PL)	sekecek olacakmışsınız.
+NEC;PST;PROG;NOM(2,SG);NEG	sikiliyor olmamalıydın.	INFR;PST;PRSP;NOM(1,PL);NEG;Q	sikmiş olmayacak mıydık?
+IND;FUT;PROG;NOM(3,SG);NEG	sikiliyor olmayacak.	INFR;PRS;HAB;NOM(1,SG);Q	siker miymişim?
+IND;FUT;NOM(1,PL);Q	sikilecek miyiz?	INFR;FUT;HAB;NOM(1,SG);Q	siker olacak mıymışım?
+IND;PST;PERF;NOM(1,PL)	sikildiydik.	NEC;INFR;PRS;PROG;NOM(3,PL);Q	sikiyor olmalılar mıymış?
+IND;PRS;PROG;NOM(1,SG);NEG;Q	sikilmiyor muyum?	IND;FUT;NOM(3,PL);NEG;Q	sikecekler mi?
+IND;PST;HAB;PROG;NOM(2,PL)	sikiliyor olurdunuz.	IND;PST;PRSP;NOM(1,PL);Q	sikecek miydik?
+IND;FUT;PROG;NOM(2,SG);Q	sikiliyor olacak mısın?	INFR;FUT;NOM(2,SG);NEG	sikir silkmeyecekmişsin.
+IND;PST;HAB;PROG;NOM(3,SG);Q	sikiliyor olur muydu?	IND;FUT;PRSP;NOM(1,SG);NEG	sikecek olmayacağım.
+INFR;FUT;PERF;NOM(3,PL)	sikilmiş olacaklar.	INFR;FUT;PROG;NOM(2,SG);Q	sikiyor olacak mıymışsın?
+IND;PST;PRSP;NOM(3,SG);NEG	sikilmeyecekti.	INFR;FUT;PROG;NOM(2,PL);Q	sikiyor olacak mıymışsınız?
+INFR;PST;NOM(3,PL);Q	sikilmişler mi?	INFR;FUT;HAB;NOM(1,PL);NEG;Q	siker olmayacak mıymışız?
+NEC;INFR;PST;NOM(2,PL)	sikilmeliymişsiniz.	IND;FUT;NOM(2,SG)	sikeceksin.
+IND;FUT;PROG;NOM(3,PL);Q	soluyor olacaklar mı?	INFR;PRS;PROG;NOM(2,SG);NEG;Q	solumuyor muymuşsun?
+IND;FUT;PROG;NOM(1,SG);Q	soluyor olacak mıyım?	IND;PST;PRSP;PROG;NOM(2,SG);NEG;Q	soluyor olmayacak mıydın?
+IND;PST;HAB;NOM(3,SG)	solardı.	INFR;PST;PERF;NOM(1,PL);Q	solumuş muyduk?
+IND;FUT;PRSP;NOM(2,SG)	solacak olacaksın.	INFR;PST;PERF;NOM(3,SG);NEG	solumamıştı.
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG;Q	soluyor olmamalılar mıymış?	NEC;INFR;PST;NOM(3,SG)	solumalıymış.
+INFR;PRS;HAB;NOM(2,SG);Q	solar mıymışsın?	NEC;PRS;NOM(1,PL);NEG;Q	solumamalı mıyız?
+INFR;PRS;HAB;NOM(1,SG);NEG	solmazmışım.	IND;PRS;HAB;NOM(3,PL)	solurlar.
+IND;PST;NOM(3,PL);Q	soldular mı?	INFR;FUT;PRSP;NOM(1,PL);Q	soluyacak olacak mıymışız?
+IND;PST;NOM(2,SG);NEG	solmadın.	IND;PST;PROG;NOM(1,SG);Q	soluyor muydum?
+IND;PRS;HAB;NOM(3,PL);Q	solarlar mı?	IMP;NOM(2,PL,LGSPEC2)	solunuz!
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q	soluyor olmayacaklar mıydı?	INFR;PST;PRSP;NOM(2,PL);NEG;Q	solumuş olmayacak mıydınız?
+INFR;FUT;NOM(2,SG)	solacakmışsın.	IND;PST;HAB;PROG;NOM(3,SG);NEG	soluyor olmazdı.
+IND;FUT;PRSP;NOM(3,PL)	solacak olacaklar.	NEC;INFR;PRS;PROG;NOM(1,SG);NEG	soluyor olmamalıymışım.
+IND;PST;HAB;NOM(2,SG);NEG;Q	solmaz mıydın?	NEC;INFR;PST;NOM(1,PL);NEG;Q	solumamalı mıymışız?
+IND;PRS;HAB;NOM(3,PL);NEG;Q	solmazlar mı?	NEC;PRS;PROG;NOM(1,PL);NEG	soluyor olmamalıyız.
+INFR;PST;PERF;NOM(2,SG);Q	solmuş muydun?	IND;PRS;HAB;NOM(2,PL);NEG;Q	solumaz mısınız?
+IND;FUT;NOM(3,PL);Q	solacaklar mı?	IND;PST;HAB;NOM(2,PL)	solurdunuz.
+IND;FUT;PRSP;NOM(3,SG);NEG	solacak olmayacak.	INFR;FUT;HAB;NOM(1,PL);NEG;Q	solur olmayacak mıymışız?
+NEC;PRS;NOM(1,SG);NEG;DAT(2,SG)	sana sövmemeliyim.	INFR;LGSPEC1;PST;NOM(2,SG);NEG;DAT(1,PL)	bize söz vermemişmişsin.
+IND;FUT;NOM(1,SG);DAT(1,SG,RFLX)	kendime söveceğim.	IND;PST;PROG;NOM(2,PL);Q;DAT(1,SG)	bana söz veriyor muydunuz?
+IND;PST;NOM(2,PL);NEG;DAT(2,PL,RFLX)	kendinize sövmediniz.	IND;PST;PROG;NOM(2,SG);NEG;DAT(3,PL)	onlara söz vermiyordun.
+INFR;PRS;HAB;NOM(2,SG);Q;DAT(3,PL)	onlara söver miymişsin?	NEC;PST;NOM(2,PL);DAT(3,PL)	onlara söz vermeliydiniz.
+NEC;PRS;NOM(2,SG);Q;DAT(1,SG)	bana sövmeli misin?	IND;PST;PERF;NOM(1,SG);NEG;DAT(3,SG)	ona söz vermediydim.
+IND;PST;HAB;PROG;NOM(1,SG);NEG;DAT(2,PL)	size sövüyor olmazdım.	IND;PRS;PROG;NOM(1,SG);DAT(3,SG)	ona söz veriyorum.
+INFR;FUT;NOM(3,SG);NEG;Q;DAT(1,SG)	bana sövmeyecek miymiş?	INFR;FUT;PROG;NOM(1,SG);DAT(1,SG,RFLX)	kendime söz veriyor olacakmışım.
+INFR;PST;PERF;NOM(3,SG);NEG;Q;DAT(3,SG,RFLX)	kendine sövmemiş miydi?	INFR;FUT;PERF;NOM(1,SG);NEG;Q;DAT(1,PL)	bize söz vermiş olmayacak mıyım?
+IND;FUT;PRSP;NOM(2,PL);DAT(2,SG)	sana sövecek olacaksınız.	INFR;PRS;HAB;NOM(3,SG);NEG;Q;DAT(3,SG)	ona söz vermez miymiş?
+INFR;PRS;PROG;NOM(2,SG);NEG;Q;DAT(1,PL)	bize sövmüyor muymuşsun?	IMP;NOM(2,PL,LGSPEC2);NEG;DAT(1,PL)	bize söz vermeyiniz!
+IMP;NOM(2,PL,LGSPEC2);NEG;DAT(3,SG)	ona sövmeyiniz!	INFR;PST;PRSP;NOM(1,SG);NEG;Q;DAT(1,SG,RFLX)	kendime söz vermiş olmayacak mıydım?
+NEC;PRS;PROG;NOM(2,PL);Q;DAT(3,SG)	ona sövüyor olmalı mısınız?	IND;PST;PERF;NOM(2,SG);Q;DAT(3,PL)	onlara söz verdi miydin?
+INFR;LGSPEC1;PST;NOM(2,SG);Q;DAT(2,PL)	size sövmüş müymüşsün?	NEC;PRS;PROG;NOM(3,PL);DAT(1,PL)	bize söz vüvüyor olmalılar.
+NEC;PST;NOM(2,SG);NEG;DAT(1,SG)	bana sövmemeliydin.	INFR;PST;PERF;NOM(3,SG);Q;DAT(3,SG)	ona söz vermiş miydi?
+NEC;PRS;NOM(3,SG);Q;DAT(2,SG)	sana sövmeli mi?	IND;PST;PERF;NOM(2,SG);NEG;Q;DAT(3,SG)	ona söz vermedi miydin?
+INFR;FUT;PRSP;NOM(1,PL);DAT(1,PL,RFLX)	kendimize sövecek olacakmışız.	INFR;FUT;NOM(1,PL);NEG;DAT(3,SG)	ona söz vermeyecekmişiz.
+INFR;PRS;PROG;NOM(1,SG);Q;DAT(2,PL)	size sövüyor muymuşum?	IND;FUT;PRSP;NOM(1,SG);DAT(3,PL)	onlara söz vecek olacağım.
+INFR;FUT;PRSP;NOM(1,PL);DAT(2,PL)	size sövecek olacakmışız.	INFR;FUT;HAB;NOM(1,SG);Q;DAT(1,SG,RFLX)	kendime söz ver olacak mıymışım?
+INFR;PST;PERF;NOM(2,PL);NEG;Q;DAT(3,PL)	onlara sövmemiş miydiniz?	INFR;FUT;PROG;NOM(2,PL);NEG;DAT(1,SG)	bana söz veriyor olmayacakmışsınız.
+NEC;PRS;NOM(3,PL);NEG;Q;DAT(3,PL,RFLX)	kendilerine sövmemeliler mi?	INFR;PST;NOM(1,PL);DAT(1,PL,RFLX)	kendimize söz vermişiz.
+IND;FUT;PROG;NOM(2,PL);NEG;Q;DAT(1,SG)	bana sövüyor olmayacak mısınız?	IND;PRS;PROG;NOM(1,PL);NEG;DAT(2,SG)	sana söz vermiyoruz.
+IND;FUT;PROG;NOM(3,PL);NEG;Q;DAT(3,PL,RFLX)	kendilerine sövüyor olmayacaklar mı?	IND;PST;PRSP;NOM(1,PL);Q;DAT(3,SG)	ona söz verecek miydik?
+IND;PST;NOM(1,SG);Q;DAT(3,PL)	onlara sövdüm mü?	INFR;FUT;PRSP;NOM(3,PL);DAT(2,PL)	size söz verecek olacaklarmış.
+IND;PRS;PROG;NOM(3,SG);NEG;ACC(2,PL)	sizi süpürmüyor.	INFR;FUT;PROG;NOM(1,PL);NEG;Q;ACC(1,SG)	beni sürüyor olmayacak mıymışız?
+NEC;PST;NOM(1,PL);NEG;ACC(2,SG)	seni süpürmemeliydik.	INFR;LGSPEC1;PST;NOM(2,SG);ACC(1,SG)	beni sürümüşmüşsün.
+IND;PST;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi süpürmüyordum.	IND;PST;PRSP;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi sürümeyecek miydim?
+IND;PST;PRSP;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi süpürüyor olacak mıydık?	INFR;PST;NOM(3,PL);Q;ACC(1,SG)	beni sürümüşler mi?
+INFR;FUT;PROG;NOM(2,SG);NEG;ACC(1,PL)	bizi süpürüyor olmayacakmışsın.	INFR;LGSPEC1;PST;NOM(1,PL);Q;ACC(3,SG)	onu sürümüş müymüşüz?
+INFR;FUT;HAB;NOM(1,PL);NEG;ACC(2,PL)	sizi süpürür olmayacakmışız.	INFR;FUT;PROG;NOM(3,SG);Q;ACC(3,SG)	onu sürüyor olacak mıymış?
+IND;PST;PERF;NOM(2,SG);NEG;ACC(1,SG)	beni süpürmediydin.	NEC;PST;PROG;NOM(2,PL);Q;ACC(1,PL)	bizi sürüyor olmalı mıydınız?
+NEC;INFR;PRS;PROG;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi süpürüyor olmalı mıymışsınız?	IND;PST;PROG;NOM(1,SG);NEG;ACC(2,SG)	seni sürüyordum.
+IND;PST;HAB;NOM(3,PL);NEG;ACC(3,PL)	onları süpürmezlerdi.	IND;PST;HAB;NOM(1,SG);Q;ACC(1,PL)	bizi sürür müydüm?
+NEC;PST;PROG;NOM(1,PL);ACC(3,PL)	onları süpürüyor olmalıydık.	IND;PRS;PROG;NOM(2,SG);Q;ACC(1,SG)	beni sürüyor musun?
+INFR;PRS;HAB;NOM(2,SG);NEG;ACC(2,PL)	sizi süpürmezmişsin.	INFR;PST;PRSP;NOM(3,SG);NEG;ACC(3,SG)	onu sürümüş olmayacaktı.
+IND;PRS;PROG;NOM(1,PL);Q;ACC(1,PL,RFLX)	kendimizi süpürüyor muyuz?	IND;FUT;PROG;NOM(2,PL);Q;ACC(1,SG)	beni sürüyor olacak mısınız?
+INFR;PST;PRSP;NOM(2,SG);NEG;Q;ACC(3,SG)	onu süpürmüş olmayacak mıydın?	NEC;INFR;PRS;PROG;NOM(3,PL);Q;ACC(2,PL)	sizi sürüyor olmalılar mıymış?
+INFR;FUT;PRSP;NOM(2,SG);NEG;ACC(3,PL)	onları süpürecek olmayacakmışsın.	IND;FUT;PROG;NOM(2,PL);NEG;Q;ACC(3,SG)	onu sürüyor olmayacak mısınız?
+IND;PST;NOM(3,SG);NEG;ACC(3,SG)	onu süpürmedi.	IND;PST;PRSP;NOM(3,PL);ACC(2,PL)	sizi sürüyeceklerdi.
+IND;FUT;PRSP;NOM(3,PL);NEG;ACC(1,SG)	beni süpürecek olmayacaklar.	IND;PST;HAB;PROG;NOM(2,PL);Q;ACC(3,SG)	onu sürüyor olur muydunuz?
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini süpürüyor olmayacaklar mıydı?	IND;PST;PRSP;NOM(1,SG);ACC(1,SG,RFLX)	kendimi sürüyecektim.
+NEC;PST;PROG;NOM(3,PL);NEG;Q;ACC(3,PL)	onları süpürüyor olmamalılar mıydı?	INFR;FUT;PERF;NOM(1,SG);NEG;ACC(3,SG)	onu sürümüş olmayacağım.
+IND;PST;PERF;NOM(3,SG);ACC(1,SG)	beni süpürdüydü.	INFR;PST;NOM(3,SG);Q;ACC(2,SG)	seni sürümüş mü?
+NEC;PST;PROG;NOM(3,PL);NEG;ACC(3,PL)	onları süpürüyor olmamalılardı.	IND;PST;NOM(3,SG);NEG;Q;ACC(3,SG)	onu sürümedi mi?
+INFR;PST;PRSP;NOM(2,PL);Q;ACC(3,SG)	onu süpürmüş olacak mıydınız?	NEC;PST;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi sürümeli miydiniz?
+INFR;PRS;HAB;NOM(3,PL);NEG;ACC(2,SG)	seni süpürmezlermiş.	NEC;PST;NOM(3,SG);Q;ACC(2,PL)	sizi sürümeli miydi?
+IND;PST;HAB;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini süpürürlerdi.	NEC;PST;PROG;NOM(3,PL);Q;ACC(1,PL)	bizi sürüyor olmalılar mıydı?
+INFR;FUT;PRSP;NOM(2,SG);Q;ACC(1,PL);DAT(2,PL)	bizi size takacak olacak mıymışsın?	NEC;PRS;PROG;NOM(2,PL);ACC(2,PL,RFLX);DAT(3,SG)	kendinizi ona takıyor olmalısınız.
+INFR;LGSPEC1;PST;NOM(3,PL);ACC(3,PL);DAT(3,PL,RFLX)	onları kendilerine takmışlarmış.	IND;FUT;PROG;NOM(2,PL);NEG;Q;ACC(3,SG);DAT(2,SG)	onu sana takıyor olmayacak mısınız?
+INFR;FUT;NOM(1,PL);Q;ACC(3,SG);DAT(3,SG)	onu ona takacak mıymışız?	NEC;PRS;PROG;NOM(1,PL);NEG;Q;ACC(1,SG)	beni tanıyor olmamalı mıyız?
+NEC;PRS;PROG;NOM(2,SG);NEG;ACC(2,SG,RFLX);DAT(3,PL)	kendini onlara takıyor olmamalısın.	IND;PRS;HAB;NOM(1,SG);ACC(3,PL);DAT(3,PL)	onları onlara takarım.
+NEC;PRS;PROG;NOM(2,PL);ACC(3,SG);DAT(3,PL)	onu onlara takıyor olmalısınız.	IND;PST;PERF;NOM(3,SG);NEG;ACC(1,PL);DAT(3,SG,RFLX)	bizi kendine tıkmadıydı.
+IND;PST;HAB;PROG;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini takıyor olur muydu?	IND;PRS;HAB;NOM(3,SG);NEG;Q;ACC(3,SG);DAT(1,PL)	onu bize tıkmaz mı?
+IND;FUT;NOM(1,PL);NEG;ACC(1,PL,RFLX);DAT(3,SG)	kendimizi ona takmayacağız.	INFR;FUT;PROG;NOM(2,PL);NEG;ACC(1,SG);DAT(3,PL)	beni onlara tanıyor olmayacakmışsınız.
+IND;PST;PERF;NOM(2,SG);NEG;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine takmadıydın.	IND;FUT;NOM(3,SG);Q;ACC(1,SG);DAT(3,PL)	beni onlara takacak mı?
+INFR;FUT;PROG;NOM(1,PL);NEG;Q;ACC(2,PL);DAT(2,SG)	sizi sana takıyor olmayacak mıymışız?	IND;FUT;PROG;NOM(3,SG);NEG;Q;ACC(1,PL);DAT(3,PL)	bizi onlara tıkıyor olmayacak mı?
+IND;PST;HAB;NOM(3,PL);ACC(1,SG);DAT(3,SG)	beni ona takarlardı.	NEC;INFR;PRS;PROG;NOM(2,SG);NEG;Q;ACC(3,SG);DAT(1,PL)	onu bize takıyor olmamalı mıymışsın?
+IND;PST;NOM(2,SG);ACC(1,SG);DAT(2,SG,RFLX)	beni kendine taktın.	NEC;INFR;PRS;PROG;NOM(3,PL);Q;ACC(3,SG);DAT(1,SG)	onu bana tanıyor olmalılar mıymış?
+IND;PST;HAB;PROG;NOM(2,SG);NEG;Q;ACC(1,SG);DAT(3,PL)	beni onlara takıyor olmaz mıydın?	INFR;LGSPEC1;PST;NOM(1,PL);NEG;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine takmamışmışız.
+NEC;PRS;PROG;NOM(3,SG);ACC(3,SG,RFLX);DAT(3,PL)	kendini onlara takıyor olmalı.	INFR;FUT;PERF;NOM(2,PL);NEG;ACC(3,SG)	onu takmış olmayacaksınız.
+IND;FUT;NOM(3,PL);NEG;ACC(2,PL);DAT(1,PL)	sizi bize takmayacaklar.	INFR;LGSPEC1;PST;NOM(2,SG);ACC(1,SG);DAT(1,SG,RFLX)	beni kendime takmışmışsın.
+NEC;PRS;NOM(2,SG);NEG;ACC(3,PL);DAT(3,SG)	onları ona takmamalısın.	IND;FUT;PRSP;NOM(1,PL);Q;ACC(3,PL);DAT(1,PL,RFLX)	onları kendimize takacak olacak mıyız?
+INFR;PST;PRSP;NOM(3,SG);ACC(1,SG);DAT(2,PL)	beni size takmış olacaktı.	IND;PRS;HAB;NOM(2,SG);NEG;Q;ACC(3,PL);DAT(3,SG)	onları ona takmaz mısın?
+INFR;PST;NOM(2,PL);NEG;ACC(3,PL);DAT(1,PL)	onları bize takmamışsınız.	NEC;INFR;PRS;PROG;NOM(1,PL);ACC(2,SG)	seni takıyor olmalıymışız.
+NEC;PRS;PROG;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini tarıyor olmamalılar.	IND;PST;HAB;PROG;NOM(2,SG);NEG;ACC(2,PL)	sizi tartıyor olmazdın.
+IND;PRS;PROG;NOM(3,SG);NEG;Q;ACC(3,SG)	onu taramıyor mu?	INFR;PST;PERF;NOM(3,SG);NEG;Q;ACC(3,SG,RFLX)	kendini tartmamış mıydı?
+INFR;FUT;PROG;NOM(2,PL);ACC(1,PL)	bizi tarıyor olacakmışsınız.	NEC;PST;PROG;NOM(3,PL);NEG;Q;ACC(3,PL)	onları tarıyor olmamalılar mıydı?
+IND;PST;PRSP;NOM(3,SG);ACC(3,PL)	onları tarayacaktı.	NEC;PRS;PROG;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi tartıyor olmamalı mıyım?
+INFR;FUT;PRSP;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi taraacak olmayacak mıymışız?	INFR;PRS;HAB;NOM(2,SG);Q;ACC(3,SG)	onu tarar mıymışsın?
+INFR;FUT;NOM(1,PL);NEG;ACC(1,SG)	beni taramayacakmışız.	INFR;LGSPEC1;PST;NOM(2,SG);NEG;Q;ACC(3,PL)	onları tartmamış mıymışsın?
+IND;PRS;HAB;NOM(3,SG);Q;ACC(3,PL)	onları tarar mı?	IND;FUT;PROG;NOM(1,SG);NEG;ACC(2,SG)	seni tartıyor olmayacağım.
+INFR;PST;PRSP;NOM(2,PL);Q;ACC(1,PL)	bizi taramış olacak mıydınız?	IND;PST;PRSP;NOM(3,SG);Q;ACC(3,SG)	onu taracak mıydı?
+NEC;PRS;NOM(3,PL);ACC(3,SG)	onu taramalılar.	IND;PST;PRSP;PROG;NOM(2,SG);ACC(1,PL)	bizi tarıyor olacaktın.
+IND;FUT;PRSP;NOM(3,PL);ACC(1,PL)	bizi tarayacak olacaklar.	IND;PRS;PROG;NOM(3,PL);ACC(3,PL,RFLX)	kendilerini tarıyorlar.
+IND;PRS;PROG;NOM(1,PL);NEG;Q;ACC(3,PL)	onları taramıyor muyuz?	IND;PST;HAB;NOM(3,SG);ACC(3,PL)	onları tarardı.
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;ACC(3,PL)	onları tarıyor olmamalıymış.	IND;FUT;PROG;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi tartıyor olmayacak mıyız?
+IND;PST;PERF;NOM(2,PL);NEG;Q;ACC(1,PL)	bizi taramadı mıydınız?	NEC;INFR;PST;NOM(1,SG);Q;ACC(2,SG)	seni tartmalı mıymışım?
+INFR;FUT;NOM(3,SG);Q;ACC(1,PL)	bizi tarayacak mıymış?	IND;FUT;PRSP;NOM(1,PL);NEG;ACC(2,SG)	seni taracak olmayacağız.
+IND;PST;PERF;NOM(1,PL);ACC(1,PL,RFLX)	kendimizi taradıydık.	INFR;FUT;PERF;NOM(3,SG);NEG;ACC(1,SG)	beni tartmış olmayacak.
+IND;PST;PROG;NOM(3,PL);NEG;ACC(3,PL)	onları taramıyorlardı.	INFR;PST;PRSP;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi tartmış olmayacak mıydı?
+NEC;INFR;PST;NOM(3,SG);NEG;Q;ACC(2,SG)	seni taramamalı mıymış?	NEC;INFR;PST;NOM(3,PL);NEG;ACC(3,PL)	onları tartmamalılarmış.
+IND;PST;PROG;NOM(3,SG);ACC(2,PL)	sizi tarıyordu.	NEC;PRS;PROG;NOM(2,SG);NEG;Q;ACC(3,PL)	onları tarıyor olmamalı mısın?
+INFR;PRS;HAB;NOM(2,PL);ACC(2,PL,RFLX)	kendinizi tararmışsınız.	NEC;INFR;PRS;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi tarıyor olmamalıymışsınız.
+IND;PST;PRSP;PROG;NOM(1,SG);NEG;Q;ACC(3,SG)	onu tarıyor olmayacak mıydım?	IND;PRS;HAB;NOM(3,SG);NEG;ACC(1,PL)	bizi tartmaz.
+INFR;PRS;HAB;NOM(1,PL);NEG;Q;ACC(3,SG)	onu taramaz mıymışız?	INFR;FUT;HAB;NOM(3,PL);ACC(2,SG)	seni tarar olacaklarmış.
+INFR;PRS;HAB;NOM(1,SG);ACC(3,PL)	onları toplarmışım.	INFR;PRS;HAB;NOM(2,SG);NEG;Q;ACC(1,SG)	beni tepmez miymişsin?
+IND;PST;PRSP;PROG;NOM(1,SG);ACC(2,PL)	sizi topluyor olacaktım.	IND;FUT;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi tepiyor olmayacağım.
+INFR;LGSPEC1;PST;NOM(1,PL);NEG;Q;ACC(2,PL)	sizi toplamamış mıymışız?	IND;PST;PERF;NOM(1,PL);NEG;Q;ACC(3,SG)	onu tepmedi miydik?
+NEC;INFR;PST;NOM(2,SG);ACC(1,PL)	bizi toplamalıymışsın.	IND;PST;HAB;PROG;NOM(2,SG);ACC(1,PL)	bizi tepiyor olurdun.
+INFR;FUT;HAB;NOM(1,SG);NEG;ACC(3,PL)	onları toplar olmayacakmışım.	INFR;PRS;HAB;NOM(2,SG);Q;ACC(3,SG)	onu teper miymişsin?
+INFR;PRS;HAB;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi toplamaz mıymışsın?	INFR;FUT;PERF;NOM(2,PL);ACC(1,PL)	bizi tepmiş olacaksınız.
+IND;PRS;HAB;NOM(1,SG);NEG;ACC(1,SG,RFLX)	kendimi toplamam.	IND;PRS;HAB;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	kendini tepmez misin?
+IND;PST;PROG;NOM(1,SG);ACC(1,SG,RFLX)	kendimi topluyordum.	INFR;FUT;HAB;NOM(3,SG);Q;ACC(1,SG)	beni teper olacak mıymış?
+NEC;PRS;PROG;NOM(1,SG);NEG;ACC(2,SG)	seni topluyor olmamalıyım.	NEC;INFR;PRS;PROG;NOM(1,PL);NEG;Q;ACC(2,SG)	seni tepiyor olmamalı mıymışız?
+INFR;PRS;HAB;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi toplamaz mıymışız?	INFR;PST;NOM(3,PL);NEG;Q;ACC(3,PL)	onları tepmemişler mi?
+INFR;PRS;HAB;NOM(3,PL);ACC(1,SG)	beni toplarlarmış.	NEC;PST;PROG;NOM(2,PL);Q;ACC(1,SG)	beni tepiyor olmalı mıydınız?
+NEC;PST;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi toplamamalılar mıydı?	IND;FUT;PROG;NOM(3,PL);NEG;ACC(1,PL)	bizi tepiyor olmayacaklar.
+INFR;PST;PRSP;NOM(3,PL);NEG;Q;ACC(3,PL,RFLX)	kendilerini toplamış olmayacaklar mıydı?	INFR;FUT;HAB;NOM(3,SG);Q;ACC(1,PL)	bizi teper olacak mıymış?
+IND;PRS;PROG;NOM(3,PL);Q;ACC(2,PL)	sizi topluyorlar mı?	INFR;PST;PERF;NOM(2,SG);Q;ACC(1,SG)	beni tepmiş miydin?
+NEC;PRS;NOM(3,SG);NEG;Q;ACC(3,PL)	onları toplamamalı mı?	IND;PST;NOM(3,SG);ACC(3,SG,RFLX)	kendini teptı.
+INFR;FUT;HAB;NOM(2,SG);NEG;Q;ACC(1,SG)	beni toplar olmayacak mıymışsın?	IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(3,SG)	onu tepmiyorlar mı?
+INFR;PST;PRSP;NOM(2,PL);Q;ACC(3,SG)	onu toplamış olacak mıydınız?	IND;FUT;PRSP;NOM(1,PL);ACC(2,PL)	sizi tepecek olacağız.
+NEC;PST;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi toplamamalı mıydı?	IND;PST;PRSP;PROG;NOM(3,SG);Q;ACC(3,PL)	onları tepiyor olacak mıydı?
+NEC;PRS;NOM(2,PL);NEG;ACC(2,SG)	seni tükürmemelisiniz.	INFR;FUT;NOM(1,PL);NEG;Q;ACC(2,SG)	seni türemeyecek miymişiz?
+INFR;FUT;PRSP;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini tükürecek olmayacaklarmış.	IND;FUT;NOM(1,SG);ACC(1,PL)	bizi türeceğim.
+INFR;FUT;PROG;NOM(2,PL);Q;ACC(1,PL)	bizi tükürüyor olacak mıymışsınız?	IND;PST;PROG;NOM(2,SG);ACC(3,SG)	onu türüyordun.
+IND;PST;HAB;NOM(1,SG);Q;ACC(3,PL)	onları tükürür müydüm?	NEC;PST;NOM(1,SG);ACC(2,SG)	seni türmeliydim.
+IND;PST;NOM(3,PL);Q;ACC(3,PL)	onları tükürdüler mi?	INFR;PST;NOM(3,PL);NEG;ACC(1,SG)	beni türmemişler.
+IND;PRS;PROG;NOM(2,SG);ACC(3,PL)	onları tükürüyorsun.	IND;PST;PROG;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi türümüyorlar mıydı?
+INFR;FUT;PERF;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi tükürmüş olacak mıyım?	INFR;FUT;PROG;NOM(1,SG);Q;ACC(2,PL)	sizi türüyor olacak mıymışım?
+IND;PST;PROG;NOM(3,SG);NEG;Q;ACC(3,PL)	onları tükürmüyor muydu?	INFR;FUT;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi türmeyecekmişsiniz.
+IND;PST;HAB;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi tükürüyor olmazdınız.	IND;FUT;PRSP;NOM(1,SG);ACC(2,SG)	seni türecek olacağım.
+INFR;FUT;HAB;NOM(2,PL);NEG;ACC(3,SG)	onu tükürür olmayacakmışsınız.	INFR;PST;PERF;NOM(1,SG);NEG;ACC(2,PL)	sizi türümemiştim.
+IND;PST;PERF;NOM(1,PL);Q;ACC(3,PL)	onları tükürdü müydük?	IND;FUT;NOM(2,PL);Q;ACC(2,SG)	seni türecek misiniz?
+IND;PST;NOM(2,PL);NEG;Q;ACC(1,PL)	bizi tükürmediniz mi?	NEC;INFR;PST;NOM(1,PL);Q;ACC(2,SG)	seni türemeli miymişiz?
+IND;FUT;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi tükürmeyecek misin?	IND;PST;PROG;NOM(2,PL);NEG;Q;ACC(1,PL)	bizi türmüyor muydunuz?
+INFR;PST;NOM(3,PL);Q;ACC(1,PL)	bizi tükürmüşler mi?	IND;FUT;NOM(2,SG);ACC(1,SG)	beni türeceksin.
+IND;FUT;PROG;NOM(1,PL);NEG;Q;ACC(2,SG)	seni tükürüyor olmayacak mıyız?	IMP;NOM(2,PL);NEG;ACC(1,SG)	beni türemeyin!
+INFR;PRS;PROG;NOM(1,PL);NEG;ACC(3,PL)	onları tükürmüyormuşuz.	NEC;PRS;PROG;NOM(3,PL);ACC(1,PL)	bizi türüyor olmalılar.
+INFR;PRS;HAB;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi tükürür müymüşüm?	IND;PST;PROG;NOM(2,PL);ACC(2,SG)	seni türüyordunuz.
+INFR;PRS;PROG;NOM(3,SG);ACC(2,PL)	sizi tükürüyormuş.	INFR;PST;PERF;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi türmemiş miydik?
+NEC;INFR;PST;NOM(2,SG);Q;ACC(2,PL)	sizi tükürmeli miymişsin?	NEC;INFR;PRS;PROG;NOM(3,SG);ACC(1,PL)	bizi türüyor olmalıymış.
+INFR;PST;PRSP;NOM(1,SG)	uyumuş olacaktım.	INFR;LGSPEC1;PST;NOM(2,PL);Q	yulmuş muymuşsunuz?
+NEC;PRS;NOM(3,SG);Q	uyumalı mı?	IND;PST;HAB;NOM(2,SG);Q	uyular mıydın?
+IND;FUT;PRSP;NOM(1,SG)	uyuyacak olacağım.	IND;PRS;PROG;NOM(2,SG);NEG;Q	yulmuyor musun?
+NEC;PST;PROG;NOM(1,PL);Q	uyuyor olmalı mıydık?	NEC;PST;PROG;NOM(1,SG)	yuyor olmalıydım.
+NEC;PRS;NOM(1,SG);NEG	uyumamalıyım.	NEC;PST;NOM(3,PL)	yulmalılardı.
+INFR;FUT;PERF;NOM(3,PL);Q	uyumuş olacaklar mı?	NEC;INFR;PST;NOM(3,SG)	uuymalıymış.
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;Q	uyuyor olmamalı mıymış?	NEC;INFR;PST;NOM(2,SG);NEG	yumamalıymışsın.
+IND;PRS;HAB;NOM(2,SG)	uyursun.	NEC;PST;PROG;NOM(1,SG);NEG	unuyor olmamalıydım.
+INFR;PST;NOM(2,SG)	uyumuşsun.	IMP;NOM(2,PL);NEG	yulmayın!
+INFR;FUT;NOM(2,PL);NEG	uyumayacakmışsınız.	IND;PRS;HAB;NOM(1,SG);NEG;Q	yumaz mıyım?
+IND;PST;PERF;NOM(3,SG);Q	uyudu muydu?	IND;FUT;PRSP;NOM(3,SG);NEG	yulacak olmayacak.
+INFR;PRS;HAB;NOM(1,PL);NEG	uyumazmışız.	IND;PST;PROG;NOM(2,SG);NEG	uyumuyordun.
+INFR;FUT;PRSP;NOM(1,SG)	uyuacak olacakmışım.	NEC;PRS;PROG;NOM(1,PL);NEG	uuyor olmamalıyız.
+NEC;PST;NOM(1,SG)	uyumalıydım.	INFR;LGSPEC1;PST;NOM(2,SG);Q	yulmuş muymuşsun?
+IND;PST;PRSP;NOM(1,PL);NEG	uyumayacaktık.	INFR;PST;NOM(1,SG)	yumuşum.
+NEC;INFR;PRS;PROG;NOM(3,SG);NEG;Q	uyuyor olmamalı mıymış?	IND;PST;PROG;NOM(3,PL);Q	yumuyorlar mıydı?
+IND;FUT;PROG;NOM(1,PL);NEG	uyuyor olmayacağız.	IND;FUT;PROG;NOM(1,PL);Q	yuyor olacak mıyız?
+IND;PST;PERF;NOM(2,SG);NEG	uyumadıydın.	IND;PRS;PROG;NOM(1,SG)	yumuyorum.
+IND;PST;PROG;NOM(2,PL);Q	uyuyor muydunuz?	INFR;FUT;HAB;NOM(1,PL)	yumuşuz.
+IND;FUT;PROG;NOM(1,PL)	uyuyor olacağız.	IND;PST;PERF;NOM(1,PL);NEG	yumadıydık.
+IND;PRS;HAB;NOM(1,SG);Q;ACC(3,PL)	onları verimsizleştirir miyim?	IND;PST;NOM(2,SG);NEG;ACC(1,PL)	bizi sevirmedin.
+INFR;PRS;HAB;NOM(3,PL);ACC(1,SG)	beni verimsizleştirirlermiş.	IND;PST;NOM(2,SG);NEG;ACC(1,SG)	beni ateşe vermedin.
+INFR;PRS;HAB;NOM(3,PL);Q;ACC(3,PL)	onları verimsizleştirirler miymiş?	INFR;PST;PRSP;NOM(3,PL);NEG;ACC(2,SG)	seni verleştirmiş olmayacaklardı.
+INFR;FUT;HAB;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi verimsizleştirir olmayacak mıymışım?	IND;PST;HAB;PROG;NOM(1,SG);ACC(3,SG)	onu seviriyor olurdum.
+INFR;FUT;HAB;NOM(2,PL);Q;ACC(1,SG)	beni verimsizleştirir olacak mıymışsınız?	INFR;PST;PRSP;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi sevirmiş olmayacak mıydık?
+INFR;FUT;PRSP;NOM(2,SG);ACC(1,SG)	beni verimsizleştirecek olacakmışsın.	IND;PRS;PROG;NOM(1,PL);ACC(3,SG)	onu seviriyoruz.
+IND;PST;HAB;PROG;NOM(3,SG);NEG;ACC(3,PL)	onları verimsizleştiriyor olmazdı.	INFR;PST;PERF;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi sevirmemiş miydik?
+NEC;PST;PROG;NOM(3,PL);NEG;ACC(2,SG)	seni verimsizleştiriyor olmamalılardı.	NEC;INFR;PST;NOM(2,SG);ACC(3,PL)	onları sevirmeliymişsin.
+NEC;INFR;PRS;PROG;NOM(3,PL);NEG;ACC(1,SG)	beni verimsizleştiriyor olmamalılarmış.	IND;PST;NOM(2,SG);Q;ACC(2,SG,RFLX)	kendini ateşe verdin mi?
+INFR;PST;PRSP;NOM(2,PL);Q;ACC(3,PL)	onları verimsizleştirmiş olacak mıydınız?	INFR;PST;PERF;NOM(2,PL);ACC(3,PL)	onları ateşe verdiydiniz.
+NEC;INFR;PRS;PROG;NOM(3,PL);ACC(3,SG)	onu verimsizleştiriyor olmalılarmış.	INFR;FUT;PROG;NOM(3,SG);NEG;Q;ACC(2,PL)	sizi ateşe veriyor olmayacak mıymış?
+INFR;PST;NOM(1,SG);ACC(3,PL)	onları verimsizleştirmişim.	INFR;PRS;HAB;NOM(3,PL);ACC(2,SG)	seni sevirirleştirirlermiş.
+IND;FUT;PRSP;NOM(1,SG);Q;ACC(1,PL)	bizi verimsizleştirecek olacak mıyım?	INFR;FUT;NOM(3,PL);NEG;Q;ACC(3,PL)	onları ateşe vermeyecekler miymiş?
+IND;PST;PRSP;PROG;NOM(1,PL);NEG;Q;ACC(1,PL,RFLX)	kendimizi verimsizleştiriyor olmayacak mıydık?	IND;PST;PROG;NOM(3,SG);ACC(2,PL)	sizi keşfediyordu.
+IND;FUT;PRSP;NOM(3,SG);Q;ACC(3,SG,RFLX)	kendini verimsizleştirecek olacak mı?	IND;PST;HAB;PROG;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi seviriyor olmaz mıydım?
+IND;PST;PRSP;PROG;NOM(3,PL);ACC(2,SG);DAT(2,SG,RFLX)	seni kendine yaptırtıyor olacaklardı.	NEC;PRS;PROG;NOM(1,SG);NEG;Q;ACC(1,PL);DAT(2,SG)	bizi sana yaptırıyor olmamalı mıyım?
+NEC;PRS;PROG;NOM(1,PL);ACC(3,PL);DAT(3,SG)	onları ona yaptırtıyor olmalıyız.	IND;PST;PRSP;NOM(3,SG);Q;ACC(1,SG);DAT(1,PL)	beni bize yaptıracak mıydı?
+IND;PST;NOM(3,PL);NEG;ACC(2,PL);DAT(2,SG)	sizi sana yaptırtmadılar.	INFR;LGSPEC1;PST;NOM(1,PL);NEG;ACC(2,SG);DAT(3,PL)	seni onlara yaptırtmamışmışız.
+INFR;FUT;PROG;NOM(1,PL);ACC(2,PL)	sizi yaptırtıyor olacakmışız.	IND;PST;NOM(3,SG);NEG;Q;ACC(3,SG);DAT(1,SG)	onu bana yaptırmadı mı?
+NEC;INFR;PRS;PROG;NOM(3,PL);Q;ACC(3,PL,RFLX);DAT(3,SG)	kendilerini ona yaptırtıyor olmalılar mıymış?	IND;PST;PERF;NOM(1,SG);NEG;Q;ACC(2,SG);DAT(1,SG,RFLX)	seni kendime yaptırmadı mıydım?
+IND;PRS;HAB;NOM(2,SG);ACC(2,PL);DAT(1,PL)	sizi bize yaptırtırsın.	IND;PST;PROG;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX);DAT(1,SG)	kendini bana yaptırmıyor muydun?
+NEC;PST;NOM(3,PL);Q;ACC(3,PL);DAT(3,SG)	onları ona yaptırtmalılar mıydı?	INFR;PST;PRSP;NOM(3,SG);Q;ACC(3,PL);DAT(3,SG)	onları ona yaptırmış olacak mıydı?
+INFR;FUT;PRSP;NOM(2,SG);NEG;ACC(1,SG)	beni yaptırtacak olmayacakmışsın.	IND;PST;HAB;PROG;NOM(2,SG);NEG;ACC(1,PL);DAT(2,SG,RFLX)	bizi kendine yaptırıyor olmazdın.
+INFR;FUT;NOM(3,PL);NEG;ACC(3,SG);DAT(1,SG)	onu bana yaptırtmayacaklarmış.	NEC;INFR;PST;NOM(1,SG);Q;ACC(3,SG);DAT(2,PL)	onu size yaptırmalı mıymışım?
+INFR;PRS;PROG;NOM(1,PL);NEG;Q;ACC(3,PL);DAT(3,SG)	onları ona yaptırtmıyor muymuşuz?	INFR;FUT;PERF;NOM(1,PL);ACC(2,SG);DAT(3,SG)	seni ona yaptırmış olacağız.
+INFR;FUT;HAB;NOM(2,PL);NEG;ACC(3,SG);DAT(2,SG)	onu sana yaptırtır olmayacakmışsınız.	INFR;PST;NOM(1,PL);ACC(1,PL,RFLX);DAT(1,SG)	kendimizi bana yaptırmışız.
+NEC;INFR;PST;NOM(2,SG);ACC(3,PL);DAT(2,PL)	onları size yaptırtmalıymışsın.	IND;PST;PRSP;NOM(3,PL);NEG;ACC(3,PL,RFLX);DAT(2,PL)	kendilerini size yaptırmayacaklardı.
+INFR;FUT;PERF;NOM(1,PL);Q;ACC(2,SG);DAT(2,SG,RFLX)	seni kendine yaptırtmış olacak mıyız?	IND;PST;PRSP;PROG;NOM(1,PL);Q;ACC(3,PL);DAT(1,SG)	onları bana yaptırıyor olacak mıydık?
+IND;FUT;NOM(1,SG);NEG;ACC(2,SG)	seni yaptırtmayacağım.	IND;PST;NOM(3,PL);NEG;Q;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine yaptırmadılar mı?
+INFR;PRS;PROG;NOM(2,SG);Q;ACC(2,SG,RFLX);DAT(3,PL)	kendini onlara yaptırtıyor muymuşsun?	IND;PRS;PROG;NOM(3,SG);NEG;ACC(2,PL);DAT(3,SG)	sizi ona yaptırmıyor.
+IND;PST;NOM(3,PL);Q;ACC(2,PL);DAT(3,PL)	sizi onlara yaptırttılar mı?	IND;FUT;PROG;NOM(3,SG);NEG;ACC(3,SG);DAT(1,SG)	onu bana yaptırtıyor olmayacak.
+INFR;PRS;HAB;NOM(1,PL);NEG;Q;ACC(3,SG);DAT(3,SG,RFLX)	onu kendine yaptırtmaz mıymışız?	IND;FUT;NOM(3,PL);ACC(3,PL,RFLX);DAT(2,SG)	kendilerini sana yaptıracaklar.
+INFR;FUT;NOM(2,SG);ACC(3,SG)	onu yaptırtacakmışsın.	NEC;PST;PROG;NOM(3,SG);NEG;Q;ACC(1,SG);DAT(1,PL)	beni bize yaptırtıyor olmamalı mıydı?
+INFR;PST;PERF;NOM(3,SG);ACC(2,SG);DAT(3,PL)	seni onlara yaptırtmıştı.	INFR;FUT;PROG;NOM(2,PL);ACC(2,SG);DAT(1,SG)	seni bana yaptırıyor olacakmışsınız.
+IND;PST;HAB;NOM(1,PL);NEG;ACC(3,SG);DAT(3,SG)	onu ona yaptırtmazdık.	INFR;FUT;PRSP;NOM(1,SG);Q;ACC(1,SG,RFLX);DAT(2,SG)	kendimi sana yaptıracak olacak mıymışım?
+IND;FUT;PROG;NOM(3,PL);NEG;Q;ACC(1,PL);DAT(2,SG)	bizi sana yaptırtıyor olmayacaklar mı?	IND;PST;PERF;NOM(1,PL);NEG;ACC(1,SG);DAT(3,PL)	beni onlara yaptırmadıydık.
+IND;PST;PROG;NOM(3,PL);Q;ACC(3,PL)	onları yaptırtıyorlar mıydı?	INFR;PRS;PROG;NOM(3,PL);NEG;ACC(1,PL)	bizi yaptırmıyorlarmış.
+IND;PST;HAB;NOM(1,SG);ACC(1,PL)	bizi yarardım.	NEC;PST;NOM(1,SG);NEG;Q;ACC(3,SG)	onu yaramalı mıydım?
+INFR;FUT;PRSP;NOM(2,SG);NEG;ACC(3,PL)	onları yaracak olmayacakmışsın.	NEC;INFR;PST;NOM(3,PL);ACC(3,PL)	onları yaramalılarmış.
+IND;PST;HAB;PROG;NOM(1,SG);NEG;ACC(2,PL)	sizi yarıyor olmazdım.	IND;FUT;PROG;NOM(2,PL);Q;ACC(2,PL,RFLX)	kendinizi yarıyor olacak mısınız?
+NEC;PRS;NOM(1,SG);NEG;ACC(2,PL)	sizi yarmamalıyım.	INFR;FUT;PRSP;NOM(2,SG);NEG;Q;ACC(1,PL)	bizi yaracak olmayacak mıymışsın?
+IND;PST;HAB;PROG;NOM(1,PL);Q;ACC(3,SG)	onu yarıyor olur muyduk?	INFR;PST;NOM(1,SG);ACC(1,SG,RFLX)	kendimi yaramışım.
+IND;PST;PROG;NOM(3,SG);Q;ACC(2,SG)	seni yarıyor muydu?	NEC;PST;PROG;NOM(2,PL);NEG;ACC(3,PL)	onları yarıyor olmamalıydınız.
+NEC;INFR;PRS;PROG;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	kendini yarıyor olmamalı mıymışsın?	IND;PST;PROG;NOM(1,PL);Q;ACC(1,SG)	beni yarıyor muyduk?
+NEC;PST;PROG;NOM(3,SG);ACC(3,SG)	onu yarıyor olmalıydı.	INFR;PST;NOM(2,PL);Q;ACC(2,SG)	seni yaramış mısınız?
+IND;PST;PRSP;NOM(2,SG);NEG;Q;ACC(3,SG)	onu yarmayacak mıydın?	IND;PST;PERF;NOM(3,SG);ACC(2,SG)	seni yaradıydı.
+INFR;FUT;PERF;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi yarmış olmayacaklar mı?	INFR;FUT;PRSP;NOM(2,PL);ACC(2,SG)	seni yaracak olacakmışsınız.
+NEC;PST;PROG;NOM(3,SG);ACC(3,SG)	onu yarıyor olmalıydı.	IND;PST;HAB;PROG;NOM(3,SG);Q;ACC(1,SG)	beni yarıyor olur muydu?
+INFR;FUT;PRSP;NOM(1,PL);NEG;ACC(1,SG)	beni yaracak olmayacakmışız.	NEC;PRS;NOM(3,SG);Q;ACC(1,SG)	beni yaramalı mı?
+NEC;PRS;NOM(3,PL);ACC(2,PL)	sizi yarmalılar.	INFR;PST;NOM(3,SG);NEG;Q;ACC(3,SG)	onu yaramamış mı?
+INFR;FUT;PRSP;NOM(2,PL);Q;ACC(1,PL)	bizi yaracak olacak mıymışsınız?	INFR;FUT;PROG;NOM(3,PL);NEG;Q;ACC(3,SG)	onu yarıyor olmayacaklar mıymış?
+INFR;FUT;PERF;NOM(3,PL);Q;ACC(3,PL,RFLX)	kendilerini yarmış olacaklar mı?	INFR;PRS;PROG;NOM(3,SG);NEG;ACC(1,PL)	bizi yazmıyormuş.
+IND;FUT;PROG;NOM(1,SG);ACC(2,SG)	seni yarıyor olacağım.	NEC;PRS;NOM(3,SG);NEG;Q;ACC(1,SG)	beni yaramalı mı?
+NEC;PRS;NOM(3,PL);Q;ACC(2,SG)	seni yarmalılar mı?	IND;FUT;PRSP;NOM(2,PL);NEG;Q;ACC(2,SG)	seni yarayacak olmayacak mısınız?
+INFR;PRS;PROG;NOM(1,SG);Q;ACC(3,SG)	onu yarıyor muymuşum?	INFR;PST;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi yarmamışlar mı?
+NEC;PRS;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi yarmamalı mıyım?	IND;PRS;HAB;NOM(3,SG);NEG;ACC(3,SG)	onu yaramaz.
+NEC;INFR;PRS;PROG;NOM(1,PL);ACC(3,PL)	onları yıkıyor olmalıymışız.	IND;PST;PROG;NOM(1,SG);ACC(2,PL)	sizi yıkıyordum.
+IND;PST;PROG;NOM(3,SG);Q;ACC(3,PL)	onları yıkıyor muydu?	INFR;FUT;PERF;NOM(3,SG);Q;ACC(1,PL)	bizi yıkmış olacak mı?
+INFR;PST;PRSP;NOM(2,PL);NEG;ACC(3,SG)	onu yıkamış olmayacaktınız.	IND;PRS;HAB;NOM(2,PL);NEG;ACC(2,SG)	seni yıkmazsınız.
+IND;PST;PERF;NOM(2,SG);ACC(3,SG)	onu yıkadıydın.	IND;PST;HAB;NOM(1,SG);NEG;Q;ACC(2,SG)	seni yıkmaz mıydım?
+INFR;PRS;HAB;NOM(3,PL);NEG;Q;ACC(2,PL)	sizi yıkamazlar mıymış?	IMP;NOM(2,PL);NEG;ACC(3,SG)	onu yıkmayın!
+IND;PST;PERF;NOM(1,PL);NEG;ACC(2,PL)	sizi yıkamadıydık.	INFR;PRS;HAB;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi yıkmaz mıymışım?
+IND;PST;HAB;NOM(3,SG);NEG;ACC(2,SG)	seni yıkamazdı.	IND;PST;PERF;NOM(3,PL);NEG;Q;ACC(3,PL)	onları yıkmadılar mıydı?
+IND;FUT;PRSP;NOM(2,SG);NEG;Q;ACC(2,PL)	sizi yıkayacak olmayacak mısın?	IND;FUT;PRSP;NOM(2,PL);NEG;Q;ACC(1,SG)	beni yıkacak olmayacak mısınız?
+INFR;PST;PRSP;NOM(1,PL);ACC(2,PL)	sizi yıkamış olacaktık.	IND;FUT;PRSP;NOM(2,PL);Q;ACC(2,SG)	seni yıkacak olacak mısınız?
+IND;PST;PROG;NOM(3,SG);NEG;Q;ACC(3,SG)	onu yıkamıyor muydu?	IND;FUT;PROG;NOM(3,SG);Q;ACC(2,PL)	sizi yıkıyor olacak mı?
+INFR;LGSPEC1;PST;NOM(2,SG);NEG;ACC(2,SG,RFLX)	kendini yıkamamışmışsın.	INFR;FUT;NOM(1,SG);ACC(3,PL)	onları yıkacakmışım.
+NEC;PRS;NOM(1,SG);ACC(3,PL)	onları yıkamalıyım.	NEC;INFR;PST;NOM(1,SG);ACC(2,PL)	sizi yıkmalıymışım.
+INFR;FUT;HAB;NOM(3,SG);ACC(2,PL)	sizi yıkar olacakmış.	INFR;FUT;PROG;NOM(2,PL);NEG;Q;ACC(1,PL)	bizi yıkıyor olmayacak mıymışsınız?
+IND;PST;PRSP;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi yıkamayacak mıydım?	INFR;PST;PERF;NOM(2,SG);NEG;Q;ACC(2,SG,RFLX)	kendini yıkmamış mıydın?
+NEC;INFR;PRS;PROG;NOM(2,PL);ACC(3,SG)	onu yıkıyor olmalıymışsınız.	INFR;PST;PRSP;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi yıkmış olmayacaklar mıydı?
+INFR;FUT;PROG;NOM(3,PL);NEG;ACC(1,PL)	bizi yıkıyor olmayacaklarmış.	IND;PST;PRSP;NOM(2,SG);NEG;Q;ACC(3,PL)	onları yıkmayacak mıydın?
+INFR;PST;PRSP;NOM(3,SG);ACC(3,SG)	onu yıkamış olacaktı.	INFR;FUT;HAB;NOM(3,PL);NEG;Q;ACC(2,SG)	seni yıkar olmayacaklar mıymış?
+INFR;PST;PERF;NOM(3,PL);NEG;Q	yıpranmamışlar mıydı?	INFR;PRS;HAB;NOM(2,SG)	yapırmışsın.
+IND;PRS;PROG;NOM(2,PL);NEG	yıpranmıyorsunuz.	INFR;PST;PERF;NOM(2,SG);Q	yapınmış mıydın?
+NEC;PRS;PROG;NOM(1,SG);Q	yıpranıyor olmalı mıyım?	INFR;FUT;PERF;NOM(3,PL);NEG;Q	yapışmış olmayacaklar mı?
+IND;PST;NOM(1,SG)	yıprandım.	INFR;PST;PERF;NOM(3,SG);NEG;Q	yapıramamış mıydı?
+INFR;FUT;HAB;NOM(3,SG);NEG;Q	yıpranır olmayacak mıymış?	INFR;PST;PERF;NOM(3,PL)	yapırmışlardı.
+INFR;FUT;HAB;NOM(1,SG);NEG;Q	yıpranır olmayacak mıymışım?	IND;PST;NOM(2,PL)	yapırdınız.
+INFR;FUT;PERF;NOM(2,PL);NEG	yıpranmış olmayacaksınız.	NEC;PRS;PROG;NOM(3,PL);Q	yapıyor olmalılar mı?
+NEC;INFR;PRS;PROG;NOM(3,PL)	yıpranıyor olmalılarmış.	IND;FUT;PROG;NOM(3,SG);NEG;Q	yapırıyor olmayacak mı?
+IND;PRS;PROG;NOM(3,PL);NEG	yıpranmıyorlar.	INFR;PRS;HAB;NOM(2,PL)	yapırmışsınız.
+IND;PRS;PROG;NOM(1,SG);NEG;Q	yıpranmıyor muyum?	NEC;PST;PROG;NOM(3,PL);NEG	yapırıyor olmamalılardı.
+IND;PST;PRSP;NOM(2,PL);NEG;Q	yıpranmayacak mıydınız?	INFR;FUT;HAB;NOM(3,SG);NEG	yapırır olmayacakmış.
+INFR;FUT;PROG;NOM(2,SG)	yıpranıyor olacakmışsın.	IND;PST;HAB;NOM(1,PL);NEG;Q	yapırınmaz mıydık?
+INFR;FUT;PRSP;NOM(2,SG);NEG	yıpranacak olmayacakmışsın.	INFR;PST;NOM(3,SG);NEG	yapırmamış.
+NEC;PST;NOM(1,SG);Q	yıpranmalı mıydım?	IND;PST;PERF;NOM(3,PL);NEG;Q	yapışmadılar mıydı?
+INFR;FUT;PERF;NOM(1,PL)	yıpranmış olacağız.	IND;PST;HAB;PROG;NOM(3,SG);Q	yapışıyor olur muydu?
+IND;PST;PROG;NOM(3,SG)	yıpranıyordu.	IND;PST;PRSP;PROG;NOM(3,PL);Q	yapınıyor olacaklar mıydı?
+IND;PST;PROG;NOM(2,PL);NEG;Q	yıpranmıyor muydunuz?	NEC;INFR;PST;NOM(3,PL);NEG;Q	yapıramalılar mıymış?
+IND;PST;PRSP;PROG;NOM(3,PL);NEG	yıpranıyor olmayacaklardı.	IND;PRS;HAB;NOM(2,SG)	yapırsın.
+NEC;PRS;PROG;NOM(2,PL);NEG;Q	yıpranıyor olmamalı mısınız?	IND;PST;PERF;NOM(2,SG);NEG;Q	yapışmadı mıydın?
+IND;PST;PRSP;NOM(3,PL);NEG;Q	yıpranmayacaklar mıydı?	IND;PST;HAB;PROG;NOM(3,PL)	yapırıyor olurlardı.
+IND;FUT;NOM(1,SG);NEG;Q	yıpranmayacak mıyım?	IND;PST;NOM(2,PL)	yapınız.
+IND;PRS;HAB;NOM(3,PL);NEG;Q;ACC(2,SG)	seni çizmezler mi?	IND;PRS;HAB;NOM(1,SG);NEG;Q;ACC(3,SG)	onu çemez miyim?
+IND;FUT;NOM(3,PL);NEG;ACC(3,PL,RFLX)	kendilerini çizmeyecekler.	NEC;PRS;PROG;NOM(1,SG);NEG;Q;ACC(2,PL)	sizi çeriyor olmamalı mıyım?
+INFR;FUT;HAB;NOM(1,SG);NEG;Q;ACC(1,SG,RFLX)	kendimi çizer olmayacak mıymışım?	INFR;PST;PERF;NOM(3,SG);NEG;Q;ACC(2,SG)	seni çermemiş miydi?
+IND;PST;NOM(2,PL);NEG;Q;ACC(3,PL)	onları çizmediniz mi?	INFR;PRS;PROG;NOM(3,SG);NEG;Q;ACC(1,PL)	bizi çevmiyor muymuş?
+NEC;INFR;PRS;PROG;NOM(2,PL);ACC(3,PL)	onları çiziyor olmalıymışsınız.	INFR;FUT;HAB;NOM(3,SG);NEG;Q;ACC(2,SG)	seni çerir olmayacak mıymış?
+INFR;FUT;PERF;NOM(2,PL);NEG;Q;ACC(3,SG)	onu çizmiş olmayacak mısınız?	INFR;PRS;HAB;NOM(3,PL);ACC(1,SG)	beni çerlermiş.
+IND;PST;HAB;PROG;NOM(3,PL);NEG;ACC(2,SG)	seni çiziyor olmazlardı.	IND;PRS;PROG;NOM(1,SG);NEG;ACC(3,SG)	onu çevmiyorum.
+IND;PST;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi çizmediler mi?	IND;PST;PROG;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi çevmiyor muydum?
+IND;PST;NOM(1,SG);NEG;Q;ACC(1,PL)	bizi çizmedim mi?	IND;FUT;PROG;NOM(2,PL);NEG;ACC(2,PL,RFLX)	kendinizi çeviyor olmayacaksınız.
+IND;FUT;NOM(1,SG);Q;ACC(1,SG,RFLX)	kendimi çizecek miyim?	IND;PRS;PROG;NOM(3,PL);NEG;ACC(3,PL)	onları içmiyorlar.
+INFR;PRS;PROG;NOM(3,SG);ACC(3,SG)	onu çiziyormuş.	NEC;PRS;NOM(3,SG);NEG;ACC(3,PL)	onları çekmemeli.
+IND;PRS;PROG;NOM(2,SG);Q;ACC(2,PL)	sizi çiziyor musun?	IND;PST;HAB;NOM(1,PL);NEG;ACC(2,SG)	seni çevmezdik.
+IND;PRS;PROG;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi çizmiyorlar mı?	NEC;PST;NOM(2,SG);ACC(1,SG)	beni çermeliydin.
+IND;FUT;NOM(3,PL);ACC(1,SG)	beni çizecekler.	INFR;FUT;HAB;NOM(3,SG);NEG;ACC(3,SG)	onu çerir olmayacakmış.
+IND;FUT;PROG;NOM(3,PL);ACC(3,SG)	onu çiziyor olacaklar.	IND;PST;PRSP;PROG;NOM(1,SG);ACC(1,PL)	bizi çiyor olacaktım.
+IND;FUT;NOM(1,PL);NEG;Q;ACC(3,SG)	onu çizmeyecek miyiz?	NEC;INFR;PRS;PROG;NOM(3,PL);NEG;Q;ACC(1,PL)	bizi çeviyor olmamalılar mıymış?
+INFR;PST;PRSP;NOM(3,SG);NEG;ACC(1,PL)	bizi çizmiş olmayacaktı.	INFR;LGSPEC1;PST;NOM(2,PL);ACC(1,PL)	bizi çmişmişsiniz.
+IND;PST;PRSP;NOM(3,PL);ACC(2,PL)	sizi çizeceklerdi.	IND;PST;HAB;NOM(1,SG);NEG;ACC(2,SG)	seni çevmezdim.
+IND;FUT;PROG;NOM(1,SG);Q	ürüyor olacak mıyım?	INFR;PRS;HAB;NOM(2,PL);NEG	ürümezmişsiniz.
+INFR;FUT;PROG;NOM(1,SG);Q	ürüyor olacak mıymışım?	IND;PST;PERF;NOM(3,PL);Q	ürüdüler miydi?
+INFR;PRS;PROG;NOM(2,PL);NEG;Q	üremiyor muymuşsunuz?	INFR;LGSPEC1;PST;NOM(2,SG);Q	ürümüş müymüşsün?
+IND;PST;PROG;NOM(2,PL);Q	ürüyor muydunuz?	IND;PST;HAB;PROG;NOM(3,PL);NEG	ürüyor olmazlardı.
+IND;FUT;PRSP;NOM(1,PL)	üreyecek olacağız.	INFR;FUT;PERF;NOM(1,SG)	ürümüş olacağım.
+IND;PST;HAB;PROG;NOM(3,SG);Q	ürüyor olur muydu?	IND;PST;PRSP;NOM(2,PL)	ürüyecektiniz.
+NEC;PST;NOM(2,PL);Q	üremeli miydiniz?	IND;PRS;PROG;NOM(2,PL)	ürüyorsunuz.
+IND;PST;HAB;NOM(2,PL)	ürerdiniz.	NEC;PST;NOM(3,SG)	ürümeliydi.
+IND;PRS;PROG;NOM(2,SG);Q	ürüyor musun?	INFR;PST;NOM(2,SG);Q	ürümüş müsün?
+IMP;NOM(2,PL);NEG	üremeyin!	NEC;PST;PROG;NOM(2,PL);Q	ürüyor olmalı mıydınız?
+NEC;INFR;PST;NOM(2,SG);Q	üremeli miymişsin?	INFR;FUT;NOM(3,PL);Q	ürüyecekler miymiş?
+IND;PRS;HAB;NOM(2,SG);NEG;Q	üremez misin?	INFR;FUT;PROG;NOM(3,PL);NEG	ürüyor olmayacaklarmış.
+INFR;FUT;HAB;NOM(2,SG);Q	ürer olacak mıymışsın?	IND;PST;PRSP;PROG;NOM(2,SG);NEG	ürüyor olmayacaktın.
+NEC;PST;PROG;NOM(3,PL);Q	ürüyor olmalılar mıydı?	INFR;LGSPEC1;PST;NOM(1,SG);Q	ürümüş müymüşüm?
+INFR;FUT;HAB;NOM(1,PL)	ürer olacakmışız.	IND;PST;PRSP;NOM(2,PL)	ürüyecektiniz.
+IND;PST;HAB;PROG;NOM(1,SG);NEG	ürüyor olmazdım.	NEC;PRS;NOM(3,PL)	ürümeliler.
+INFR;PST;NOM(1,PL)	üremişiz.	INFR;PST;PRSP;NOM(1,SG);NEG	ürümüş olmayacaktım.
+NEC;INFR;PRS;PROG;NOM(1,PL);Q	ürüyor olmalı mıymışız?	NEC;PST;NOM(3,PL);Q	ürümeliler miydi?
+IND;PST;PRSP;NOM(1,SG);Q	üreyecek miydim?	IND;PRS;HAB;NOM(3,PL);NEG;Q	ürümezler mi?
+INFR;FUT;HAB;NOM(2,SG)	ürer olacakmışsın.	INFR;PST;PERF;NOM(1,SG);NEG;Q	ürümemiş miydim?
+NEC;PRS;NOM(3,PL);Q	üşenmeliler mi?	NEC;INFR;PST;NOM(2,SG)	üşümeliymişsin.
+IND;FUT;PROG;NOM(3,PL);NEG;Q	üşeniyor olmayacaklar mı?	IND;FUT;PROG;NOM(2,SG);NEG	üşüyor olmayacaksın.
+INFR;PST;PERF;NOM(2,PL)	üşenmiştiniz.	NEC;INFR;PST;NOM(2,SG);Q	üşünmeli miymişsin?
+IND;FUT;NOM(2,PL);NEG;Q	üşenmeyecek misiniz?	NEC;PST;NOM(2,SG)	üşünmeliydin.
+INFR;PRS;HAB;NOM(3,SG);Q	üşenir miymiş?	IND;PST;NOM(2,SG);NEG;Q	üşümedin mi?
+INFR;PRS;HAB;NOM(1,SG);NEG;Q	üşenmez miymişim?	INFR;FUT;NOM(2,SG);Q	üşünecek miymişsin?
+IND;PST;PRSP;PROG;NOM(3,PL);NEG;Q	üşeniyor olmayacaklar mıydı?	NEC;INFR;PRS;PROG;NOM(2,SG);NEG	üşünüyor olmamalıymışsın.
+NEC;PRS;PROG;NOM(1,PL);Q	üşeniyor olmalı mıyız?	NEC;PST;NOM(3,PL)	üşünmelilerdi.
+NEC;PST;NOM(3,PL);Q	üşenmeliler miydi?	INFR;FUT;PERF;NOM(3,SG);NEG	üşünmüş olmayacak.
+IND;PST;HAB;NOM(1,SG)	üşenirdim.	NEC;PRS;NOM(1,SG)	üşünmeliyim.
+IND;PST;HAB;PROG;NOM(2,SG);NEG;Q	üşeniyor olmaz mıydın?	IND;PST;PROG;NOM(2,SG);NEG;Q	üşünmüyor muydun?
+IND;FUT;NOM(1,PL);NEG;Q	üşenmeyecek miyiz?	IND;FUT;NOM(2,PL);Q	üşünecek misiniz?
+IND;FUT;PROG;NOM(3,PL);NEG	üşeniyor olmayacaklar.	INFR;FUT;NOM(1,PL);NEG	üşünmeyecekmişiz.
+INFR;FUT;HAB;NOM(1,PL)	üşenir olacakmışız.	INFR;PST;NOM(3,SG);NEG	üşünmemiş.
+INFR;PRS;HAB;NOM(3,SG);NEG;Q	üşenmez miymiş?	INFR;FUT;HAB;NOM(3,SG);NEG	üşüner olmayacakmış.
+INFR;PRS;HAB;NOM(1,PL)	üşenirmişiz.	IND;PST;HAB;NOM(2,SG);Q	üşür müydün?
+INFR;FUT;PRSP;NOM(2,PL);NEG;Q	üşenecek olmayacak mıymışsınız?	INFR;FUT;PROG;NOM(1,PL);Q	üşüyor olacak mıymışız?
+IND;PST;PROG;NOM(1,SG);NEG;Q	üşenmiyor muydum?	INFR;PRS;PROG;NOM(1,SG)	üşünüyormuşum.
+INFR;FUT;PROG;NOM(2,PL);Q	üşeniyor olacak mıymışsınız?	INFR;FUT;HAB;NOM(1,PL);NEG	üşür olmayacakmışız.
+IND;PST;HAB;NOM(3,PL);Q	üşenirler miydi?	IND;PRS;PROG;NOM(1,SG)	üşünüyorum.
+NEC;INFR;PST;NOM(2,PL)	üşenmeliymişsiniz.	IND;FUT;PRSP;NOM(1,PL)	üşüyecek olacağız.
+IND;PST;PRSP;NOM(3,SG);Q	üşenecek miydi?	NEC;PST;NOM(1,SG);Q	üşünmeli miydim?
+IND;PST;PROG;NOM(2,SG);Q	üşeniyor muydun?	NEC;PST;NOM(3,SG);NEG	üşünmemeliydi.

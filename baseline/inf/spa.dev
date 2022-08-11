@@ -1,0 +1,1000 @@
+acabar	SBJV;FUT;PRF;NOM(2,SG,INFM);Q;LOC(1,PL,MASC)	¿tú hubieres acabado en nosotros?
+acabar	IND;PRS;PRF;NOM(3,PL,MASC);Q;COM(2,SG,FORM)	¿ellos han acabado con usted?
+acabar	IND;FUT;NOM(3,PL,FEM);NEG;COM(1,PL,FEM)	ellas no acabarán con nosotras.
+acabar	SBJV;FUT;NOM(2,PL,FORM);ACC(2,SG,FORM,FEM)	ustedes la acabaren.
+acabar	IND;PST;PRF;NOM(2,PL,INFM,MASC);Q;ACC(3,SG,FEM)	¿vosotros la habíais acabado?
+acabar	SBJV;PRS;PRF;NOM(3,PL,MASC);NEG;COM(2,PL,INFM,MASC)	ellos no hayan acabado con vosotros.
+acabar	IND;FUT;PRF;NOM(2,PL,INFM,FEM);COM(2,PL,INFM,FEM)	vosotras habréis acabado con vosotras.
+acabar	SBJV;PST;PRF;LGSPEC2;NOM(1,SG);COM(1,SG)	yo hubiese acabado conmigo.
+acabar	SBJV;PRS;NOM(1,PL,FEM);NEG;Q	¿nosotras no acabemos?
+acabar	IND;PRS;PRF;NOM(2,PL,FORM);Q;ACC(1,PL)	¿ustedes nos han acabado?
+acabar	IND;FUT;NOM(2,PL,INFM,MASC);NEG;COM(1,PL,MASC)	vosotros no acabaréis con nosotros.
+acabar	SBJV;PST;LGSPEC2;NOM(3,SG,FEM);ACC(2,SG,INFM)	ella te acabase.
+acabar	IND;FUT;NOM(2,SG,INFM,LGSPEC3);ACC(3,SG,MASC)	vos lo acabarás.
+acabar	COND;NOM(2,PL,FORM);NEG;COM(2,SG,INFM,LGSPEC3)	ustedes no acabarían con vos.
+acabar	SBJV;PRS;NOM(2,PL,INFM,MASC);NEG;COM(3,SG,MASC)	vosotros no acabéis con él.
+acabar	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);ACC(1,SG)	ellas me acabasen.
+acabar	SBJV;PST;PRF;LGSPEC2;NOM(1,SG);COM(1,SG)	yo hubiese acabado conmigo.
+acabar	IND;PST;PFV;NOM(2,SG,INFM);NEG;Q;COM(1,SG)	¿tú no acabaste conmigo?
+acabar	IND;FUT;NOM(2,SG,FORM);NEG;COM(3,SG,MASC)	usted no acabará con él.
+acabar	SBJV;PRS;PRF;NOM(1,SG);Q;COM(2,SG,INFM)	¿yo haya acabado contigo?
+acabar	SBJV;PST;PRF;LGSPEC2;NOM(1,SG);Q;LOC(2,PL,FORM)	¿yo hubiese acabado en ustedes?
+acabar	SBJV;PST;LGSPEC1;NOM(2,SG,INFM);NEG;COM(2,PL,FORM)	tú no acabaras con ustedes.
+acudir	SBJV;PST;LGSPEC1;NOM(2,SG,INFM);NEG;Q;ALL(2,PL,INFM,MASC)	¿tú no acudieras a vosotros?
+acudir	SBJV;PST;LGSPEC1;NOM(2,SG,FORM);Q;ALL(1,SG)	¿usted acudiera a mí?
+acudir	COND;NOM(1,PL,MASC);NEG;Q;ALL(3,PL,MASC)	¿nosotros no acudiríamos a ellos?
+acudir	IND;PST;PRF;NOM(1,PL,MASC);ALL(3,SG,FEM)	nosotros habíamos acudido a ella.
+acudir	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);NEG;Q;ALL(1,SG)	¿ustedes no acudieran a mí?
+acudir	IND;FUT;PRF;NOM(2,PL,FORM);NEG;Q;ALL(3,SG,MASC)	¿ustedes no habrán acudido a él?
+acudir	IND;FUT;NOM(3,PL,FEM);ALL(3,PL,MASC)	ellas acudirán a ellos.
+acudir	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,MASC);ALL(1,PL,FEM)	vosotros hubieseis acudido a nosotras.
+acudir	IND;PST;PFV;NOM(3,SG,FEM);NEG;Q;ALL(2,SG,INFM)	¿ella no acudió a ti?
+acudir	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);Q;ALL(1,SG)	¿ellas acudiesen a mí?
+acudir	IND;PRS;PRF;NOM(3,SG,MASC);NEG;Q;ALL(2,PL,INFM,MASC)	¿él no ha acudido a vosotros?
+acudir	IND;PST;PRF;IMMED;NOM(3,PL,FEM);Q;ALL(3,SG,FEM)	¿ellas hubieron acudido a ella?
+acudir	SBJV;PST;LGSPEC1;NOM(3,PL,MASC);Q;ALL(2,SG,INFM)	¿ellos acudieran a ti?
+acudir	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,MASC);NEG;ALL(1,PL,MASC)	él no hubiese acudido a nosotros.
+acudir	SBJV;PST;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ALL(3,SG,FEM)	¿vos no acudieses a ella?
+acudir	IND;PRS;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ALL(2,PL,FORM)	¿vos no acudís a ustedes?
+acudir	IND;PRS;PRF;NOM(3,PL,FEM);Q;ALL(2,SG,FORM)	¿ellas han acudido a usted?
+acudir	IND;PST;PRF;IMMED;NOM(3,PL,MASC);NEG;ALL(2,SG,INFM)	ellos no hubieron acudido a ti.
+acudir	IND;FUT;NOM(1,SG);Q;ALL(1,PL,FEM)	¿yo acudiré a nosotras?
+acudir	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,FEM);ALL(1,SG)	vosotras hubieseis acudido a mí.
+ahorrar	SBJV;FUT;PRF;NOM(1,SG);NEG;Q;ACC(3,PL,FEM);DAT(2,PL,FORM)	¿yo no se las hubiere ahorrado?
+ahorrar	COND;PRF;NOM(1,PL,FEM);Q;ACC(2,SG,INFM);DAT(1,PL)	¿nosotras nos habríamos ahorrado a ti?
+ahorrar	IND;PST;PRF;NOM(3,SG,MASC);Q;ACC(2,SG,INFM);DAT(3,PL,FEM)	¿él te había ahorrado a ellas?
+ahorrar	IND;PST;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,MASC);DAT(3,SG)	¿vosotras no se lo habíais ahorrado?
+ahorrar	SBJV;PST;LGSPEC2;NOM(1,PL,MASC);Q;ACC(3,SG,FEM);DAT(2,PL,FORM)	¿nosotros se la ahorrásemos?
+ahorrar	IND;FUT;PRF;NOM(3,PL,FEM);Q;ACC(3,PL,FEM,RFLX);DAT(2,PL,FORM)	¿ellas se les habrán ahorrado?
+ahorrar	IND;PRS;PRF;NOM(1,SG);ACC(3,SG,FEM);DAT(2,SG,FORM)	yo se la he ahorrado.
+ahorrar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,MASC);DAT(2,SG,FORM)	¿nosotros se los ahorráramos?
+ahorrar	IND;PST;PRF;IMMED;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,MASC);DAT(3,PL)	¿nosotros se los hubimos ahorrado?
+ahorrar	SBJV;PRS;NOM(2,SG,INFM);NEG;ACC(2,PL,FORM,FEM)	tú no las ahorres.
+ahorrar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,FORM);NEG;Q;ACC(3,SG,FEM)	¿usted no la hubiese ahorrado?
+ahorrar	IND;PST;PFV;NOM(2,SG,INFM);ACC(3,SG,MASC)	tú lo ahorraste.
+ahorrar	SBJV;PRS;NOM(2,PL,FORM);Q;ACC(3,SG,FEM);DAT(3,PL)	¿ustedes se la ahorren?
+ahorrar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);Q;ACC(3,PL,FEM);DAT(2,SG,FORM)	¿ustedes se las ahorraran?
+ahorrar	IND;PRS;NOM(1,SG);NEG;ACC(2,PL,INFM,FEM);DAT(1,SG)	yo no me ahorro a vosotras.
+ahorrar	SBJV;PRS;NOM(3,PL,FEM);NEG;ACC(2,PL,FORM,FEM)	ellas no las ahorren.
+ahorrar	COND;PRF;NOM(1,PL,MASC);ACC(3,SG,FEM);DAT(2,SG,FORM)	nosotros se la habríamos ahorrado.
+aliviar	IND;FUT;NOM(2,SG,INFM);Q;ACC(1,PL);GEN(3,PL,FEM)	¿tú nos aliviarás de ellas?
+aliviar	SBJV;FUT;NOM(2,SG,INFM,LGSPEC3);Q;ACC(2,PL,FORM,MASC);GEN(2,PL,FORM)	¿vos los aliviares de ustedes?
+aliviar	IND;PST;IPFV;NOM(1,SG);Q;ACC(2,PL,FORM,FEM);GEN(2,SG,FORM)	¿yo las aliviaba de usted?
+aliviar	SBJV;PRS;PRF;NOM(3,PL,MASC);Q;ACC(2,PL,FORM,MASC);GEN(1,PL,FEM)	¿ellos los hayan aliviado de nosotras?
+aliviar	IND;FUT;NOM(1,SG);NEG;Q;ACC(3,PL,MASC);GEN(3,PL,MASC)	¿yo no los aliviaré de ellos?
+aliviar	SBJV;FUT;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,PL,MASC);GEN(3,SG,MASC)	¿vosotros no los aliviareis de él?
+aliviar	IND;PRS;PRF;NOM(1,PL,FEM);NEG;ACC(3,SG,MASC);GEN(1,PL,FEM)	nosotras no lo hemos aliviado de nosotras.
+aliviar	SBJV;PRS;NOM(2,PL,INFM,FEM);NEG;ACC(1,SG);GEN(3,SG,MASC)	vosotras no me aliviéis de él.
+aliviar	SBJV;PRS;NOM(3,SG,MASC);ACC(1,SG);GEN(2,SG,INFM)	él me alivie de ti.
+aliviar	IND;PST;IPFV;NOM(1,SG);Q;ACC(3,PL,MASC);GEN(3,SG,FEM)	¿yo los aliviaba de ella?
+aliviar	SBJV;PST;LGSPEC1;NOM(1,SG);NEG;Q;ACC(1,PL);GEN(2,PL,INFM,MASC)	¿yo no nos aliviara de vosotros?
+aliviar	IND;FUT;PRF;NOM(2,SG,FORM);NEG;ACC(1,SG);GEN(2,PL,FORM)	usted no me habrá aliviado de ustedes.
+aliviar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);Q;ACC(3,SG,MASC);GEN(1,PL,FEM)	¿nosotros lo hubiésemos aliviado de nosotras?
+aliviar	IND;PRS;NOM(1,PL,MASC);ACC(1,PL);GEN(1,SG)	nosotros nos aliviamos de mí.
+aliviar	SBJV;PRS;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,FORM,FEM);GEN(2,SG,FORM)	¿ellas no la alivien de usted?
+aliviar	IND;PRS;PRF;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC)	¿ellos no los han aliviado?
+aliviar	COND;PRF;NOM(1,SG);ACC(3,SG,FEM);GEN(1,SG)	yo la habría aliviado de mí.
+aliviar	SBJV;PRS;NOM(2,SG,FORM);ACC(3,PL,FEM);GEN(2,PL,FORM)	usted las alivie de ustedes.
+aliviar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;Q;ACC(3,PL,FEM);GEN(1,SG)	¿nosotros no las hemos aliviado de mí?
+aliviar	IND;FUT;PRF;NOM(3,SG,FEM);Q;ACC(2,SG,FORM,MASC);GEN(3,PL,FEM)	¿ella lo habrá aliviado de ellas?
+aliviar	IND;PST;PRF;IMMED;NOM(1,PL,MASC);Q;ACC(3,PL,MASC);GEN(1,PL,FEM)	¿nosotros los hubimos aliviado de nosotras?
+andar	IND;PST;PRF;IMMED;NOM(3,SG,FEM);GEN(3,PL,MASC);LOC(3,SG,FEM)	ella hubo andado de ellos en ella.
+andar	IND;PST;PRF;NOM(1,PL,FEM);NEG;GEN(2,SG,INFM,LGSPEC3);LOC(3,SG,FEM)	nosotras no habíamos andado de vos en ella.
+andar	IND;PST;IPFV;NOM(2,PL,INFM,FEM);NEG;GEN(2,PL,INFM,FEM);ALL(3,SG,FEM)	vosotras no andabais de vosotras a ella.
+andar	SBJV;PRS;PRF;NOM(3,PL,FEM);Q;GEN(3,SG,MASC);BEN(1,PL,MASC)	¿ellas hayan andado de él para nosotros?
+andar	IND;PST;PRF;NOM(2,SG,INFM,LGSPEC3);PER(1,PL,FEM)	vos habías andado por nosotras.
+andar	IND;PST;PFV;NOM(1,PL,MASC);Q;GEN(3,SG,MASC);BEN(2,PL,INFM,MASC)	¿nosotros anduvimos de él para vosotros?
+andar	IND;PRS;PRF;NOM(2,SG,FORM);COM(3,PL,FEM)	usted ha andado con ellas.
+andar	IND;PST;IPFV;NOM(1,SG);NEG;GEN(3,SG,FEM);BEN(3,SG,MASC)	yo no andaba de ella para él.
+andar	IND;PST;PRF;NOM(3,PL,FEM);GEN(1,SG);LOC(2,SG,INFM,LGSPEC3)	ellas habían andado de mí en vos.
+andar	IND;PST;PFV;NOM(2,PL,INFM,MASC);Q;GEN(2,SG,INFM);ALL(3,PL,FEM)	¿vosotros anduvisteis de ti a ellas?
+andar	COND;NOM(2,SG,INFM);GEN(2,SG,INFM);ALL(3,PL,MASC)	tú andarías de ti a ellos.
+andar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);Q;GEN(3,PL,MASC,RFLX);LOC(3,SG,MASC)	¿ellos hubiesen andado de sí en él?
+andar	IND;PRS;PRF;NOM(2,PL,INFM,FEM);GEN(1,PL,MASC);BEN(2,PL,INFM,FEM)	vosotras habéis andado de nosotros para vosotras.
+andar	IND;PST;IPFV;NOM(1,SG);NEG;Q;GEN(2,SG,INFM,LGSPEC3);ALL(3,PL,MASC)	¿yo no andaba de vos a ellos?
+andar	SBJV;FUT;NOM(2,PL,FORM);NEG;Q;GEN(1,PL,FEM);ALL(1,SG)	¿ustedes no anduvieren de nosotras a mí?
+andar	IND;PST;PRF;IMMED;NOM(2,SG,INFM);NEG;Q;GEN(1,PL,FEM);ALL(1,PL,MASC)	¿tú no hubiste andado de nosotras a nosotros?
+andar	IND;FUT;NOM(3,PL,FEM);GEN(2,PL,INFM,FEM);BEN(3,SG,MASC)	ellas andarán de vosotras para él.
+andar	COND;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;GEN(1,SG);ALL(2,SG,INFM,LGSPEC3)	¿vos no habrías andado de mí a vos?
+andar	IND;PST;PRF;IMMED;NOM(3,PL,FEM);Q;GEN(2,PL,INFM,FEM);LOC(3,PL,FEM)	¿ellas hubieron andado de vosotras en ellas?
+andar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;GEN(2,SG,INFM,LGSPEC3);LOC(2,SG,INFM,LGSPEC3)	nosotros no hemos andado de vos en vos.
+animar	IND;PRS;NOM(2,SG,INFM);NEG;ACC(3,PL,FEM);ALL(1,PL,FEM)	tú no las animas a nosotras.
+animar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);Q;ACC(1,PL);ALL(1,SG)	¿ella nos hubiese animado a mí?
+animar	IND;FUT;NOM(2,SG,FORM);NEG;Q;ACC(3,SG,MASC);ALL(1,PL,FEM)	¿usted no lo animará a nosotras?
+animar	SBJV;PST;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);ACC(2,PL,FORM,MASC);ALL(3,PL,MASC)	vos los animases a ellos.
+animar	SBJV;FUT;PRF;NOM(2,SG,FORM);NEG;ACC(1,SG);COM(3,PL,MASC)	usted no me hubiere animado con ellos.
+animar	COND;NOM(3,SG,FEM);Q;ACC(1,PL)	¿ella nos animaría?
+animar	IND;PST;IPFV;NOM(2,PL,FORM);NEG;Q;ACC(2,PL,FORM,RFLX);COM(1,PL,FEM)	¿ustedes no se animaban con nosotras?
+animar	COND;PRF;NOM(1,SG);Q;ACC(3,PL,FEM);COM(3,PL,MASC)	¿yo las habría animado con ellos?
+animar	SBJV;FUT;PRF;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);ALL(1,PL,FEM)	ellas no la hubieren animado a nosotras.
+animar	IMP;NOM(1,PL);NEG;ACC(1,SG);COM(2,SG,INFM)	¡no me animemos contigo!
+animar	IND;PST;PRF;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,PL,MASC);COM(2,PL,INFM,MASC)	¿vosotros no los habíais animado con vosotros?
+animar	SBJV;PST;LGSPEC2;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,FEM,RFLX);COM(2,SG,INFM)	¿ustedes se animasen contigo?
+animar	IND;PST;PRF;NOM(2,PL,INFM,FEM);NEG;ACC(1,PL);COM(3,PL,FEM)	vosotras no nos habíais animado con ellas.
+animar	SBJV;PST;LGSPEC1;NOM(3,SG,MASC);Q;ACC(3,SG,FEM);COM(3,SG,MASC)	¿él la animara con él?
+animar	IND;FUT;PRF;NOM(3,PL,FEM);Q;ACC(2,SG,FORM,MASC);ALL(3,PL,FEM,RFLX)	¿ellas lo habrán animado a sí?
+animar	SBJV;PRS;NOM(1,SG);NEG;Q;ACC(3,PL,FEM);COM(2,PL,FORM)	¿yo no las anime con ustedes?
+animar	COND;NOM(1,PL,MASC);NEG;Q;ACC(2,SG,INFM);COM(2,PL,INFM,MASC)	¿nosotros no te animaríamos con vosotros?
+animar	IND;PRS;PRF;NOM(2,PL,FORM);ACC(2,PL,FORM,MASC,RFLX);ALL(3,PL,FEM)	ustedes se han animado a ellas.
+animar	IND;PST;IPFV;NOM(3,SG,FEM);ACC(2,SG,INFM);ALL(1,SG)	ella te animaba a mí.
+animar	IND;PST;PFV;NOM(1,SG);NEG;ACC(3,PL,FEM);COM(2,PL,FORM)	yo no las animé con ustedes.
+animar	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(3,PL,MASC);COM(3,SG,FEM)	vosotros no los hubiereis animado con ella.
+animar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,FEM);Q;ACC(2,SG,FORM,MASC);ALL(3,PL,MASC)	¿nosotras lo hubiéramos animado a ellos?
+armar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);NEG;Q;ACC(3,PL,MASC);COM(3,SG,FEM)	¿ustedes no los hubiesen armado con ella?
+armar	SBJV;FUT;NOM(2,PL,INFM,FEM);ACC(1,SG);COM(2,SG,INFM)	vosotras me armareis contigo.
+armar	SBJV;FUT;PRF;NOM(3,SG,MASC);Q;ACC(3,SG,FEM);COM(2,PL,INFM,MASC)	¿él la hubiere armado con vosotros?
+armar	IND;PST;IPFV;NOM(1,PL,FEM);Q;ACC(1,SG);GEN(2,PL,INFM,FEM)	¿nosotras me armábamos de vosotras?
+armar	SBJV;PRS;PRF;NOM(3,PL,MASC);Q;ACC(3,PL,MASC,RFLX);GEN(2,SG,FORM)	¿ellos se hayan armado de usted?
+armar	IND;PRS;NOM(1,PL,MASC);ACC(1,PL);GEN(1,SG)	nosotros nos armamos de mí.
+armar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(3,PL,MASC);GEN(1,PL,MASC)	vos no los hubieses armado de nosotros.
+armar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;ACC(3,PL,MASC);GEN(3,SG,FEM)	vosotros no los armaseis de ella.
+armar	COND;NOM(3,SG,FEM);NEG;Q;ACC(1,SG);COM(3,SG,MASC)	¿ella no me armaría con él?
+armar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,MASC);Q;ACC(2,SG,FORM,MASC);COM(1,SG)	¿él lo hubiese armado conmigo?
+armar	COND;NOM(2,PL,FORM);ACC(1,PL);COM(2,SG,FORM)	ustedes nos armarían con usted.
+armar	SBJV;PRS;NOM(2,SG,FORM);NEG;Q;ACC(1,PL);COM(2,PL,FORM)	¿usted no nos arme con ustedes?
+armar	IND;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(3,SG,FEM);GEN(1,SG)	vosotros no la habréis armado de mí.
+armar	IND;PST;PRF;IMMED;NOM(1,SG);NEG;ACC(2,PL,FORM,FEM);COM(1,PL,FEM)	yo no las hube armado con nosotras.
+armar	SBJV;PRS;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC);GEN(1,PL,MASC)	ellos no los armen de nosotros.
+armar	SBJV;PRS;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(2,PL,FORM,FEM);COM(3,SG,MASC)	¿vos no las hayás armado con él?
+armar	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);NEG;ACC(2,PL,FORM,MASC);COM(2,SG,FORM)	él no los armase con usted.
+armar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,MASC);Q;ACC(3,SG,MASC);GEN(3,PL,MASC)	¿vosotros lo hubieseis armado de ellos?
+armar	IND;PRS;PRF;NOM(2,PL,INFM,FEM);NEG;ACC(3,PL,FEM);GEN(3,PL,MASC)	vosotras no las habéis armado de ellos.
+armar	SBJV;FUT;NOM(2,PL,FORM);NEG;ACC(2,SG,INFM)	ustedes no te armaren.
+armar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;ACC(3,SG,MASC);GEN(1,PL,MASC)	vosotros no lo hubieseis armado de nosotros.
+armar	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);ACC(3,PL,MASC);COM(1,PL,FEM)	él los armase con nosotras.
+armar	COND;PRF;NOM(1,SG);Q;ACC(3,PL,FEM);GEN(3,SG,FEM)	¿yo las habría armado de ella?
+asumir	IND;PRS;NOM(3,PL,FEM);ACC(2,PL,INFM)	ellas os asumen.
+asumir	SBJV;PST;LGSPEC2;NOM(2,SG,FORM);ACC(3,SG,FEM)	usted la asumiese.
+asumir	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);ACC(2,SG,INFM)	vos te hubieses asumido.
+asumir	COND;PRF;NOM(1,PL,FEM);ACC(2,SG,INFM)	nosotras te habríamos asumido.
+asumir	IND;PST;PRF;IMMED;NOM(1,SG);NEG;ACC(2,PL,FORM,MASC)	yo no los hube asumido.
+asumir	IND;FUT;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC,RFLX)	¿ellos no se asumirán?
+asumir	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(2,SG,INFM)	él no te asuma.
+asumir	SBJV;PST;PRF;LGSPEC1;NOM(2,SG,INFM,LGSPEC3);Q;ACC(1,PL)	¿vos nos hubieras asumido?
+asumir	IND;PST;PFV;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	¿yo no lo asumí?
+asumir	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,FEM)	nosotros no la asumiéramos.
+asumir	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);Q;ACC(1,PL)	¿tú nos hubieses asumido?
+asumir	COND;PRF;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,FEM,RFLX)	ustedes no se habrían asumido.
+asumir	SBJV;PST;LGSPEC2;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC)	ella no lo asumiese.
+asumir	SBJV;PST;LGSPEC2;NOM(2,SG,FORM);ACC(2,PL,FORM,MASC)	usted los asumiese.
+asumir	SBJV;FUT;NOM(2,SG,FORM);ACC(2,SG,FORM,FEM,RFLX)	usted se asumiere.
+asumir	SBJV;PRS;NOM(3,PL,MASC);Q;ACC(1,PL)	¿ellos nos asuman?
+asumir	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,FEM)	ella la asumiera.
+atraer	SBJV;PRS;NOM(1,SG);ACC(2,SG,FORM,MASC);ALL(3,PL,FEM)	yo lo atraiga a ellas.
+atraer	IND;PRS;NOM(1,PL,MASC);Q;ACC(1,SG);COM(2,SG,INFM)	¿nosotros me atraemos contigo?
+atraer	IND;PRS;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,MASC);ALL(1,PL,FEM)	¿nosotras no lo atraemos a nosotras?
+atraer	COND;NOM(2,PL,FORM);Q;ACC(3,PL,FEM);COM(2,PL,FORM,RFLX)	¿ustedes las atraerían consigo?
+atraer	SBJV;FUT;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC,RFLX);ON(2,SG,INFM)	¿ellos no se atrajeren sobre ti?
+atraer	IND;PST;IPFV;NOM(2,PL,FORM);NEG;Q;ACC(3,SG,MASC);COM(1,PL,FEM)	¿ustedes no lo atraían con nosotras?
+atraer	SBJV;FUT;NOM(3,SG,FEM);Q;ACC(3,SG,MASC);COM(3,SG,FEM)	¿ella lo atrajere con ella?
+atraer	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,FEM);Q;ACC(2,PL,INFM);ON(3,PL,FEM)	¿vosotras os atrajerais sobre ellas?
+atraer	SBJV;PRS;PRF;NOM(3,PL,MASC);Q;ACC(2,SG,FORM,FEM);ON(3,PL,MASC,RFLX)	¿ellos la hayan atraído sobre sí?
+atraer	IND;PST;PRF;NOM(3,PL,MASC);ACC(3,PL,MASC);ALL(2,SG,INFM)	ellos los habían atraído a ti.
+atraer	SBJV;FUT;PRF;NOM(2,SG,INFM);Q;ACC(2,SG,INFM);ON(3,PL,FEM)	¿tú te hubieres atraído sobre ellas?
+atraer	SBJV;FUT;PRF;NOM(3,SG,FEM);ACC(2,PL,FORM,FEM);ON(3,PL,MASC)	ella las hubiere atraído sobre ellos.
+atraer	SBJV;PST;LGSPEC2;NOM(1,SG);NEG;Q;ACC(3,PL,MASC);ALL(2,SG,FORM)	¿yo no los atrajese a usted?
+atraer	IND;PST;PRF;IMMED;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC);ON(3,SG,FEM)	¿él no lo hubo atraído sobre ella?
+atraer	IND;PST;PFV;NOM(2,SG,FORM);ACC(2,SG,FORM,RFLX);ON(3,PL,FEM)	usted se atrajo sobre ellas.
+atraer	SBJV;FUT;NOM(2,SG,INFM);Q;ACC(2,PL,INFM);ON(2,SG,INFM)	¿tú os atrajeres sobre ti?
+atraer	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);ACC(1,SG);ALL(3,SG,FEM)	ella me atrajera a ella.
+atraer	COND;PRF;NOM(2,SG,INFM);ACC(1,PL);VERS(3,SG,MASC)	tú nos habrías atraído hacia él.
+atraer	SBJV;FUT;PRF;NOM(2,SG,INFM);NEG;Q;ACC(3,SG,FEM);COM(2,PL,INFM,MASC)	¿tú no la hubieres atraído con vosotros?
+atraer	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);NEG;ACC(3,SG,FEM);COM(2,PL,INFM,MASC)	ellas no la atrajesen con vosotros.
+calificar	IND;PST;PRF;IMMED;NOM(3,PL,FEM);ACC(3,PL,MASC)	ellas los hubieron calificado.
+calificar	IND;PRS;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,PL,FEM)	¿vosotras no las calificáis?
+calificar	SBJV;FUT;PRF;NOM(2,PL,INFM,FEM);Q;ACC(3,PL,FEM)	¿vosotras las hubiereis calificado?
+calificar	IND;FUT;NOM(3,PL,MASC);Q;ACC(2,PL,INFM)	¿ellos os calificarán?
+calificar	SBJV;PRS;NOM(3,PL,FEM);Q;ACC(2,PL,FORM,FEM)	¿ellas las califiquen?
+calificar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);NEG;Q;ACC(3,PL,MASC)	¿ella no los hubiese calificado?
+calificar	COND;PRF;NOM(2,SG,INFM);ACC(2,PL,INFM)	tú os habrías calificado.
+calificar	IND;PRS;PRF;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,PL,INFM)	¿vosotros no os habéis calificado?
+calificar	IND;FUT;NOM(2,SG,FORM);Q;ACC(2,PL,FORM,FEM)	¿usted las calificará?
+calificar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,MASC);NEG;Q;ACC(3,SG,FEM)	¿ellos no la hubieran calificado?
+calificar	IND;FUT;NOM(1,SG);ACC(1,PL)	yo nos calificaré.
+calificar	SBJV;FUT;NOM(1,PL,FEM);Q;ACC(3,SG,MASC)	¿nosotras lo calificáremos?
+calificar	IND;FUT;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,MASC)	¿nosotras no lo calificaremos?
+calificar	SBJV;PRS;PRF;NOM(1,PL,FEM);ACC(2,PL,FORM,FEM)	nosotras las hayamos calificado.
+calificar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,SG,INFM)	¿vosotros no te calificaseis?
+calificar	SBJV;FUT;NOM(3,SG,MASC);NEG;ACC(2,PL,FORM,FEM)	él no las calificare.
+calificar	IND;PRS;PRF;NOM(1,SG);NEG;Q;ACC(3,PL,FEM)	¿yo no las he calificado?
+calificar	SBJV;PST;LGSPEC2;NOM(2,PL,FORM);ACC(3,PL,MASC)	ustedes los calificasen.
+calificar	COND;PRF;NOM(2,PL,INFM,FEM);NEG;ACC(2,PL,INFM)	vosotras no os habríais calificado.
+caminar	IND;PST;PRF;IMMED;NOM(2,PL,INFM,FEM);NEG;GEN(3,PL,MASC);BEN(2,SG,INFM)	vosotras no hubisteis caminado de ellos para ti.
+caminar	IND;PRS;NOM(3,PL,FEM);GEN(2,PL,FORM);ALL(3,PL,MASC)	ellas caminan de ustedes a ellos.
+caminar	IND;PST;PRF;IMMED;NOM(3,SG,MASC);GEN(1,PL,MASC);ALL(1,PL,FEM)	él hubo caminado de nosotros a nosotras.
+caminar	IND;PRS;PRF;NOM(2,SG,INFM);GEN(1,PL,MASC);BEN(1,SG)	tú has caminado de nosotros para mí.
+caminar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);GEN(1,SG);ALL(2,SG,INFM)	nosotras camináramos de mí a ti.
+caminar	SBJV;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;GEN(1,SG);ALL(2,PL,FORM)	¿vos no hubieres caminado de mí a ustedes?
+caminar	IND;FUT;PRF;NOM(1,PL,FEM);Q;GEN(2,PL,INFM,MASC);BEN(3,SG,FEM)	¿nosotras habremos caminado de vosotros para ella?
+caminar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);NEG;Q;GEN(2,SG,INFM,LGSPEC3);BEN(1,PL,FEM)	¿ustedes no hubiesen caminado de vos para nosotras?
+caminar	IND;PST;IPFV;NOM(3,SG,MASC);Q;GEN(2,SG,FORM);ALL(2,PL,FORM)	¿él caminaba de usted a ustedes?
+caminar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);GEN(3,PL,FEM);BEN(1,PL,MASC)	ella caminara de ellas para nosotros.
+caminar	COND;NOM(3,SG,FEM);NEG;GEN(2,PL,INFM,FEM);ALL(1,PL,MASC)	ella no caminaría de vosotras a nosotros.
+caminar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);GEN(3,PL,MASC);ALL(2,PL,INFM,MASC)	vosotros caminaseis de ellos a vosotros.
+caminar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);NEG;GEN(1,PL,MASC)	ella no caminara de nosotros.
+caminar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);Q;BEN(2,SG,INFM,LGSPEC3)	¿ustedes caminaran para vos?
+caminar	IND;PST;IPFV;NOM(3,PL,FEM);NEG;Q;GEN(1,PL,MASC);ALL(1,PL,FEM)	¿ellas no caminaban de nosotros a nosotras?
+caminar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,MASC);NEG;GEN(3,PL,MASC);ALL(3,SG,FEM)	ellos no hubieran caminado de ellos a ella.
+caminar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);NEG;Q;ALL(2,SG,FORM)	¿ella no caminara a usted?
+caminar	IND;PST;PFV;NOM(3,SG,FEM);GEN(1,PL,FEM);ALL(2,SG,INFM,LGSPEC3)	ella caminó de nosotras a vos.
+caminar	IND;PST;PRF;IMMED;NOM(2,SG,INFM,LGSPEC3);Q;GEN(3,PL,MASC);BEN(1,SG)	¿vos hubiste caminado de ellos para mí?
+caminar	IND;PST;IPFV;NOM(3,SG,FEM);NEG;Q;GEN(2,SG,INFM);BEN(2,PL,INFM,FEM)	¿ella no caminaba de ti para vosotras?
+caminar	COND;NOM(3,SG,FEM);NEG;GEN(2,PL,INFM,FEM);ALL(1,PL,FEM)	ella no caminaría de vosotras a nosotras.
+caminar	IND;PST;PFV;NOM(3,PL,MASC);Q;GEN(3,PL,FEM);BEN(3,SG,MASC)	¿ellos caminaron de ellas para él?
+cenar	IND;PST;PRF;NOM(2,PL,INFM,FEM);NEG	vosotras no habíais cenado.
+cenar	SBJV;PRS;NOM(2,SG,INFM);NEG;Q	¿tú no cenes?
+cenar	SBJV;PRS;NOM(3,PL,MASC);Q	¿ellos cenen?
+cenar	IND;PRS;NOM(3,SG,FEM);NEG	ella no cena.
+cenar	IND;FUT;NOM(2,SG,INFM,LGSPEC3);Q	¿vos cenarás?
+cenar	SBJV;FUT;PRF;NOM(3,PL,MASC);Q	¿ellos hubieren cenado?
+cenar	COND;PRF;NOM(2,PL,INFM,MASC);NEG;Q	¿vosotros no habríais cenado?
+cenar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);NEG;Q	¿tú no hubieses cenado?
+cenar	IND;PRS;NOM(2,SG,FORM);NEG	usted no cena.
+cenar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);NEG;Q	¿ustedes no hubiesen cenado?
+cenar	IND;PRS;PRF;NOM(2,SG,INFM)	tú has cenado.
+cenar	IND;PST;PRF;NOM(1,PL,FEM);NEG;Q	¿nosotras no habíamos cenado?
+cenar	IND;PST;IPFV;NOM(2,PL,FORM);Q	¿ustedes cenaban?
+cenar	SBJV;PST;LGSPEC2;NOM(2,SG,INFM)	tú cenases.
+cenar	SBJV;PST;LGSPEC1;NOM(1,SG);NEG	yo no cenara.
+cenar	IND;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q	¿vos no habrás cenado?
+cenar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,MASC);Q	¿nosotros hubiéramos cenado?
+cenar	SBJV;PRS;PRF;NOM(2,PL,FORM)	ustedes hayan cenado.
+cenar	IND;PST;IPFV;NOM(3,SG,MASC);Q	¿él cenaba?
+cenar	COND;NOM(2,PL,FORM);Q	¿ustedes cenarían?
+cenar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM)	ella cenara.
+cerrar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);NEG;Q;ACC(2,SG,INFM);ALL(2,PL,INFM,FEM)	¿tú no te hubieses cerrado a vosotras?
+cerrar	IND;PST;PRF;IMMED;NOM(3,SG,FEM);NEG;Q;ACC(2,PL,FORM,FEM)	¿ella no las hubo cerrado?
+cerrar	SBJV;FUT;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(2,SG,INFM);ALL(2,SG,INFM,LGSPEC3)	vos no te cerrares a vos.
+cerrar	IND;PST;IPFV;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,MASC,RFLX)	ustedes no se cerraban.
+cerrar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);NEG;ACC(2,SG,INFM);ALL(1,SG)	tú no te hubieses cerrado a mí.
+cerrar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);Q;ACC(3,SG,MASC)	¿vosotros lo cerraseis?
+cerrar	IND;PST;IPFV;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,PL,INFM);ALL(3,SG,FEM)	¿vosotros no os cerrabais a ella?
+cerrar	IND;PRS;PRF;NOM(1,PL,FEM);NEG;ACC(1,SG)	nosotras no me hemos cerrado.
+cerrar	IND;PST;PRF;IMMED;NOM(2,SG,FORM);NEG;Q	¿usted no hubo cerrado?
+cerrar	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);Q;ACC(3,SG,MASC)	¿él lo cerrase?
+cerrar	SBJV;FUT;NOM(2,SG,INFM);ACC(2,PL,FORM,FEM)	tú las cerrares.
+cerrar	SBJV;PST;LGSPEC1;NOM(2,SG,FORM);NEG;Q;ACC(2,PL,FORM,FEM)	¿usted no las cerrara?
+cerrar	COND;PRF;NOM(1,PL,FEM);Q;ACC(1,PL);ALL(2,SG,INFM)	¿nosotras nos habríamos cerrado a ti?
+cerrar	IND;PST;IPFV;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,RFLX);ALL(3,PL,FEM)	ustedes no se cerraban a ellas.
+cerrar	IND;FUT;PRF;NOM(2,PL,FORM);NEG;Q;ACC(2,SG,FORM,MASC)	¿ustedes no lo habrán cerrado?
+cerrar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,MASC);ACC(2,SG,FORM,FEM)	él la hubiera cerrado.
+cerrar	IND;PST;IPFV;NOM(2,PL,FORM);NEG;Q;ACC(2,PL,FORM,RFLX);ALL(2,SG,INFM)	¿ustedes no se cerraban a ti?
+cerrar	IND;PRS;NOM(3,PL,FEM);NEG;Q	¿ellas no cierran?
+cerrar	SBJV;PST;LGSPEC2;NOM(3,SG,FEM);NEG;Q;ACC(2,PL,INFM)	¿ella no os cerrase?
+cerrar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);NEG;Q;ACC(1,PL);ALL(3,SG,FEM)	¿nosotros no nos cerráramos a ella?
+coger	SBJV;PST;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);ACC(2,SG,INFM);PER(1,PL,FEM)	vos te cogieses por nosotras.
+coger	SBJV;PRS;PRF;NOM(2,SG,FORM);NEG;Q;ACC(2,PL,FORM,MASC);PER(3,SG,FEM)	¿usted no los haya cogido por ella?
+coger	IND;FUT;PRF;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,FEM);PER(1,PL,FEM)	¿nosotras no la habremos cogido por nosotras?
+coger	COND;PRF;NOM(3,PL,MASC);Q;ACC(3,PL,MASC,RFLX);PER(2,SG,FORM)	¿ellos se habrían cogido por usted?
+coger	COND;PRF;NOM(1,PL,MASC);Q;ACC(2,SG,INFM)	¿nosotros te habríamos cogido?
+coger	COND;PRF;NOM(1,SG);NEG;ACC(3,PL,MASC);PER(2,PL,INFM,MASC)	yo no los habría cogido por vosotros.
+coger	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);NEG;Q;ACC(3,SG,MASC);GEN(2,PL,FORM,RFLX)	¿ustedes no lo hubiesen cogido de sí?
+coger	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);NEG;Q;ACC(1,PL);PER(1,PL,MASC)	¿ellas no nos cogieran por nosotros?
+coger	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,FORM);NEG;Q;ACC(3,SG,FEM);PER(1,PL,FEM)	¿usted no la hubiese cogido por nosotras?
+coger	SBJV;PRS;PRF;NOM(2,SG,INFM);NEG;ACC(3,PL,FEM);PER(2,PL,INFM,FEM)	tú no las hayas cogido por vosotras.
+coger	IND;PST;PRF;NOM(2,SG,FORM);NEG;ACC(3,SG,MASC);GEN(2,PL,FORM)	usted no lo había cogido de ustedes.
+coger	IND;PRS;NOM(3,PL,MASC);NEG;ACC(1,PL);GEN(1,PL,MASC)	ellos no nos cogen de nosotros.
+coger	SBJV;PST;PRF;LGSPEC1;NOM(1,SG);ACC(2,SG,FORM,MASC);GEN(3,PL,MASC)	yo lo hubiera cogido de ellos.
+coger	IND;PRS;PRF;NOM(2,SG,INFM);NEG;Q;ACC(2,SG,INFM);GEN(3,SG,MASC)	¿tú no te has cogido de él?
+coger	SBJV;FUT;NOM(3,PL,FEM);Q;ACC(1,SG);GEN(2,PL,INFM,FEM)	¿ellas me cogieren de vosotras?
+coger	IND;PRS;NOM(3,SG,MASC);ACC(3,SG,MASC);PER(1,PL,MASC)	él lo coge por nosotros.
+coger	SBJV;PRS;PRF;NOM(1,SG);Q;ACC(3,SG,MASC);GEN(3,PL,FEM)	¿yo lo haya cogido de ellas?
+coger	IND;PST;PRF;NOM(2,PL,FORM);Q;ACC(3,PL,MASC);GEN(1,PL,MASC)	¿ustedes los habían cogido de nosotros?
+coger	SBJV;FUT;NOM(3,PL,MASC);NEG;Q;ACC(3,SG,MASC);GEN(2,PL,INFM,FEM)	¿ellos no lo cogieren de vosotras?
+coger	IND;PST;IPFV;NOM(2,SG,FORM);Q;ACC(3,PL,FEM);PER(2,PL,FORM)	¿usted las cogía por ustedes?
+coger	IND;PST;IPFV;NOM(2,SG,INFM);NEG;Q;ACC(2,SG,INFM);PER(1,PL,FEM)	¿tú no te cogías por nosotras?
+coger	IND;PST;PRF;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,RFLX);GEN(3,PL,MASC)	¿ustedes se habían cogido de ellos?
+colocar	SBJV;PRS;NOM(2,SG,FORM);NEG;ACC(2,PL,FORM,FEM);LOC(2,SG,FORM,RFLX)	usted no las coloque en sí.
+colocar	IND;FUT;PRF;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,INFM);LOC(3,SG,MASC)	¿ellas no te habrán colocado en él?
+colocar	SBJV;FUT;NOM(2,PL,INFM,FEM);NEG;ACC(3,SG,FEM);LOC(1,SG)	vosotras no la colocareis en mí.
+colocar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);ACC(3,PL,FEM);LOC(2,PL,INFM,MASC)	nosotros las hubiésemos colocado en vosotros.
+colocar	SBJV;PRS;PRF;NOM(1,SG);NEG;Q;ACC(1,PL);LOC(3,SG,MASC)	¿yo no nos haya colocado en él?
+colocar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM);LOC(1,PL,MASC)	ellas no las hubiesen colocado en nosotros.
+colocar	IND;FUT;PRF;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,FEM);LOC(2,SG,FORM)	nosotros no la habremos colocado en usted.
+colocar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,FEM);NEG;ACC(2,PL,INFM);LOC(2,PL,INFM,FEM)	ella no os hubiera colocado en vosotras.
+colocar	SBJV;PST;LGSPEC1;NOM(2,SG,FORM);NEG;Q;ACC(3,PL,MASC);LOC(1,PL,FEM)	¿usted no los colocara en nosotras?
+colocar	IND;PRS;PRF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX);LOC(3,SG,MASC)	ella no se ha colocado en él.
+colocar	IND;PST;PRF;IMMED;NOM(2,SG,INFM);NEG;ACC(1,PL);LOC(1,PL,FEM)	tú no nos hubiste colocado en nosotras.
+colocar	COND;NOM(1,PL,FEM);ACC(2,SG,INFM);LOC(1,SG)	nosotras te colocaríamos en mí.
+colocar	IND;PST;PRF;IMMED;NOM(1,PL,MASC);Q;ACC(3,PL,MASC);LOC(3,SG,FEM)	¿nosotros los hubimos colocado en ella?
+colocar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,MASC);ACC(2,SG,INFM);LOC(2,SG,INFM)	vosotros te hubieseis colocado en ti.
+colocar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);NEG;ACC(1,SG);LOC(2,PL,INFM,MASC)	nosotras no me colocáramos en vosotros.
+colocar	COND;PRF;NOM(1,SG);ACC(1,PL);LOC(2,SG,INFM,LGSPEC3)	yo nos habría colocado en vos.
+colocar	SBJV;PRS;PRF;NOM(3,SG,MASC);ACC(2,PL,INFM);LOC(3,SG,MASC)	él os haya colocado en él.
+colocar	SBJV;FUT;NOM(2,SG,INFM);Q;ACC(1,SG);LOC(2,SG,INFM)	¿tú me colocares en ti?
+colocar	IND;PST;PFV;NOM(3,SG,FEM);NEG;Q;ACC(3,PL,FEM);LOC(2,PL,INFM,MASC)	¿ella no las colocó en vosotros?
+comentar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);Q;ACC(3,PL,FEM);COM(3,SG,FEM)	¿ustedes las comentaran con ella?
+comentar	IND;PST;PRF;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM);DAT(3,PL)	él no se la había comentado.
+comentar	SBJV;PRS;NOM(2,SG,INFM);ACC(3,PL,FEM);COM(1,SG)	tú las comentes conmigo.
+comentar	COND;PRF;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);COM(2,PL,FORM)	ella no los habría comentado con ustedes.
+comentar	COND;PRF;NOM(1,SG);NEG;Q;ACC(2,SG,FORM,FEM);COM(3,SG,MASC)	¿yo no la habría comentado con él?
+comentar	SBJV;PRS;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,SG,FEM);COM(3,SG,FEM)	¿vosotros no la comentéis con ella?
+comentar	SBJV;FUT;PRF;NOM(1,PL,MASC);Q;ON(2,PL,INFM,MASC)	¿nosotros hubiéremos comentado sobre vosotros?
+comentar	SBJV;PRS;NOM(3,PL,FEM);ACC(3,PL,FEM);DAT(3,PL,RFLX)	ellas se las comenten.
+comentar	IND;PST;IPFV;NOM(3,SG,FEM);Q;ACC(2,PL,FORM,FEM)	¿ella las comentaba?
+comentar	IND;PRS;NOM(3,PL,FEM);NEG;ACC(1,SG);DAT(2,PL,INFM,FEM)	ellas no me comentan a vosotras.
+comentar	IND;PST;PFV;NOM(2,PL,FORM);NEG;Q;ACC(1,PL);COM(2,SG,INFM)	¿ustedes no nos comentaron contigo?
+comentar	COND;PRF;NOM(3,PL,FEM);NEG;ACC(2,PL,FORM,FEM);COM(3,SG,MASC)	ellas no las habrían comentado con él.
+comentar	SBJV;PRS;PRF;NOM(3,SG,FEM);NEG;ACC(2,SG,FORM,FEM)	ella no la haya comentado.
+comentar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);Q;ACC(3,SG,MASC);COM(2,SG,FORM)	¿nosotras lo comentáramos con usted?
+comentar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,FEM);COM(3,SG,FEM)	¿nosotras no la comentáramos con ella?
+comentar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);ACC(2,PL,INFM);COM(3,PL,FEM)	nosotros os comentáramos con ellas.
+comentar	IND;PRS;PRF;NOM(1,PL,FEM);ACC(2,PL,INFM);DAT(3,PL,MASC)	nosotras os hemos comentado a ellos.
+comentar	IND;PRS;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(2,SG,INFM);COM(2,SG,INFM)	¿vosotras no te habéis comentado contigo?
+comentar	IND;PST;PFV;NOM(1,PL,MASC);Q;ACC(3,SG,MASC);DAT(2,PL,INFM)	¿nosotros os lo comentamos?
+comentar	IND;PST;PFV;NOM(3,SG,MASC);ACC(2,PL,FORM,FEM);COM(2,SG,INFM)	él las comentó contigo.
+comentar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,MASC);DAT(2,SG,FORM)	¿nosotros se lo hubiéramos comentado?
+comentar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,FEM);NEG;Q;ACC(3,PL,FEM);DAT(2,PL,INFM)	¿ellas no os las hubiesen comentado?
+comunicar	SBJV;PRS;NOM(2,PL,FORM);ACC(1,SG);DAT(3,SG,MASC)	ustedes me comuniquen a él.
+comunicar	COND;NOM(2,SG,FORM);NEG;ACC(1,PL);DAT(1,SG)	usted no nos comunicaría a mí.
+comunicar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);NEG;ACC(2,SG,INFM);COM(3,SG,MASC)	ustedes no te comunicaran con él.
+comunicar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);Q;ACC(1,PL);DAT(1,SG)	¿tú nos hubieses comunicado a mí?
+comunicar	IND;PST;PRF;NOM(2,SG,FORM);NEG;ACC(3,PL,FEM);COM(2,SG,FORM,RFLX)	usted no las había comunicado consigo.
+comunicar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);ACC(3,SG,MASC);PER(1,SG)	vos lo hubieses comunicado por mí.
+comunicar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,MASC);PER(3,PL,FEM)	nosotros no lo comunicáramos por ellas.
+comunicar	IND;PST;IPFV;NOM(3,PL,MASC);ACC(2,PL,FORM,MASC);PER(3,PL,MASC,RFLX)	ellos los comunicaban por sí.
+comunicar	COND;PRF;NOM(3,PL,MASC);NEG;ACC(1,SG);COM(2,PL,FORM)	ellos no me habrían comunicado con ustedes.
+comunicar	SBJV;PRS;NOM(3,PL,FEM);ACC(2,SG,FORM,MASC);PER(1,PL,FEM)	ellas lo comuniquen por nosotras.
+comunicar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);ACC(2,PL,FORM,RFLX);COM(2,SG,INFM)	ustedes se hubiesen comunicado contigo.
+comunicar	IND;PRS;PRF;NOM(3,SG,MASC);NEG;ACC(2,PL,FORM,MASC);PER(3,PL,MASC)	él no los ha comunicado por ellos.
+comunicar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,FEM);Q;ACC(1,SG);COM(2,PL,INFM,FEM)	¿ella me hubiera comunicado con vosotras?
+comunicar	IND;PST;PFV;NOM(3,PL,FEM);ACC(3,PL,FEM,RFLX);COM(2,SG,FORM)	ellas se comunicaron con usted.
+comunicar	IND;FUT;PRF;NOM(1,SG);ACC(2,SG,FORM,MASC);DAT(2,PL,FORM)	yo se lo habré comunicado.
+comunicar	IND;PST;PRF;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,INFM);DAT(2,PL,INFM,FEM)	¿ellos no te habían comunicado a vosotras?
+comunicar	SBJV;FUT;PRF;NOM(3,SG,FEM);ACC(3,PL,FEM);PER(2,PL,FORM)	ella las hubiere comunicado por ustedes.
+comunicar	IND;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(1,SG);DAT(2,PL,FORM)	¿vos no me habrás comunicado a ustedes?
+comunicar	IND;PST;PRF;IMMED;NOM(3,SG,MASC);Q;ACC(2,SG,FORM,FEM);PER(3,PL,MASC)	¿él la hubo comunicado por ellos?
+comunicar	SBJV;FUT;NOM(1,PL,FEM);NEG;Q;ACC(2,SG,FORM,FEM);PER(1,PL,FEM)	¿nosotras no la comunicáremos por nosotras?
+comunicar	IND;PST;PRF;IMMED;NOM(3,PL,MASC);NEG;Q;ACC(3,SG,MASC);PER(1,PL,FEM)	¿ellos no lo hubieron comunicado por nosotras?
+comunicar	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,FEM);COM(3,PL,MASC)	¿vosotras no la comunicarais con ellos?
+comunicar	SBJV;PRS;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(2,SG,INFM);PER(1,SG)	¿vosotras no te hayáis comunicado por mí?
+comunicar	IND;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,SG,INFM);DAT(3,SG,MASC)	¿vosotros no te habréis comunicado a él?
+conectar	IND;PST;PRF;IMMED;NOM(2,PL,INFM,FEM);Q;ACC(3,PL,MASC);ALL(1,PL,FEM)	¿vosotras los hubisteis conectado a nosotras?
+conectar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,FEM);ACC(1,PL,FEM);DAT(2,PL,INFM)	vosotras os conectaseis a nosotras.
+conectar	SBJV;PST;LGSPEC1;NOM(1,SG);Q;ACC(1,PL);COM(2,PL,INFM,MASC)	¿yo nos conectara con vosotros?
+conectar	SBJV;PST;LGSPEC1;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);ALL(2,SG,INFM,LGSPEC3)	¿él lo conectara a vos?
+conectar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);Q;ACC(2,PL,INFM);ALL(3,PL,MASC)	¿vosotros os conectaseis a ellos?
+conectar	SBJV;PRS;NOM(3,SG,MASC);Q;ACC(3,PL,MASC);DAT(2,SG,INFM)	¿él te los conecte?
+conectar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,INFM,FEM);Q;ACC(2,PL,INFM)	¿vosotras os hubierais conectado?
+conectar	IND;PST;PRF;NOM(1,PL,MASC);ACC(2,SG,INFM);COM(1,SG)	nosotros te habíamos conectado conmigo.
+conectar	COND;NOM(2,SG,FORM);NEG;Q;ACC(3,SG,FEM);DAT(1,PL)	¿usted no nos la conectaría?
+conectar	COND;PRF;NOM(2,PL,FORM);ACC(2,PL,FORM,RFLX);DAT(2,PL,FORM,RFLX)	ustedes se habrían conectado a sí.
+conectar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,INFM);COM(2,PL,INFM,FEM)	¿ellos no te hubiesen conectado con vosotras?
+conectar	IND;PST;PRF;NOM(3,PL,FEM);NEG;Q;ACC(2,PL,FORM,FEM);ALL(3,PL,MASC)	¿ellas no las habían conectado a ellos?
+conectar	IND;PRS;NOM(1,SG);Q;ACC(3,SG,MASC);COM(1,PL,FEM)	¿yo lo conecto con nosotras?
+conectar	IND;FUT;NOM(3,SG,FEM);ACC(3,SG,MASC);ALL(2,PL,FORM)	ella lo conectará a ustedes.
+conectar	IND;PRS;NOM(2,PL,INFM,MASC);NEG;ACC(1,PL);COM(2,PL,INFM,MASC)	vosotros no nos conectáis con vosotros.
+conectar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,FEM);DAT(2,SG,FORM)	¿nosotras no se la conectáramos?
+conectar	SBJV;PRS;PRF;NOM(2,SG,FORM);NEG;Q;ACC(2,SG,FORM,MASC,RFLX);ALL(3,PL,MASC)	¿usted no se haya conectado a ellos?
+conectar	IND;FUT;NOM(2,PL,INFM,MASC);Q;ACC(2,SG,INFM)	¿vosotros te conectaréis?
+conectar	IND;FUT;PRF;NOM(3,SG,FEM);ACC(3,PL,MASC);ALL(3,SG,MASC)	ella los habrá conectado a él.
+conectar	COND;PRF;NOM(1,SG);Q;ACC(1,SG);DAT(3,SG,FEM)	¿yo me habría conectado a ella?
+conectar	IND;FUT;NOM(1,SG);NEG;Q;ACC(2,PL,INFM)	¿yo no os conectaré?
+conectar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);ACC(3,PL,FEM);COM(2,PL,FORM,RFLX)	ustedes las conectaran consigo.
+conectar	IND;PST;PRF;NOM(3,PL,MASC);NEG;ACC(2,PL,FORM,FEM);ALL(3,PL,MASC,RFLX)	ellos no las habían conectado a sí.
+conquistar	COND;PRF;NOM(1,SG);NEG;ACC(2,PL,INFM);DAT(3,SG,MASC)	yo no os habría conquistado a él.
+conquistar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);Q;ACC(2,PL,FORM,MASC);DAT(1,SG)	¿vos me los hubieses conquistado?
+conquistar	IND;PRS;PRF;NOM(3,SG,FEM);ACC(3,PL,FEM);DAT(3,SG,RFLX)	ella se las ha conquistado.
+conquistar	SBJV;FUT;PRF;NOM(1,SG);NEG;Q;ACC(3,PL,MASC);DAT(2,PL,FORM)	¿yo no se los hubiere conquistado?
+conquistar	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,INFM);NEG;Q;ACC(3,PL,MASC);DAT(1,SG)	¿tú no me los hubieses conquistado?
+conquistar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,MASC);Q;ACC(3,PL,FEM);DAT(1,SG)	¿ellos me las hubieran conquistado?
+conquistar	SBJV;PST;PRF;LGSPEC1;NOM(1,SG);NEG;ACC(2,PL,FORM,MASC);DAT(3,PL)	yo no se los hubiera conquistado.
+conquistar	IND;PST;PRF;IMMED;NOM(3,PL,FEM);NEG;ACC(1,PL);DAT(2,PL,INFM,FEM)	ellas no nos hubieron conquistado a vosotras.
+conquistar	IND;PST;PRF;IMMED;NOM(1,PL,MASC);NEG;Q;ACC(3,SG,MASC);DAT(3,PL)	¿nosotros no se lo hubimos conquistado?
+conquistar	IND;FUT;NOM(1,PL,MASC);NEG;ACC(1,SG);DAT(3,SG,FEM)	nosotros no me conquistaremos a ella.
+conquistar	SBJV;FUT;PRF;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,INFM);DAT(3,PL,RFLX)	¿ellos no se te hubieren conquistado?
+conquistar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);DAT(2,SG,FORM)	ella no se lo hubiese conquistado.
+conquistar	IND;FUT;NOM(3,SG,MASC);NEG;ACC(1,SG);DAT(1,PL,FEM)	él no me conquistará a nosotras.
+conquistar	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(1,PL);DAT(3,SG,MASC)	él no nos conquiste a él.
+conquistar	IND;FUT;NOM(3,PL,MASC);Q;ACC(3,PL,FEM);DAT(3,SG)	¿ellos se las conquistarán?
+conquistar	IND;FUT;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX);DAT(1,PL)	ellas no se nos conquistarán.
+conquistar	IND;PST;IPFV;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,MASC)	nosotros no lo conquistábamos.
+conquistar	IND;PST;IPFV;NOM(3,PL,FEM);NEG;ACC(2,SG,FORM,FEM);DAT(3,PL,RFLX)	ellas no se la conquistaban.
+conquistar	COND;NOM(1,PL,FEM);Q;ACC(3,PL,FEM);DAT(1,SG)	¿nosotras me las conquistaríamos?
+constituir	COND;NOM(2,SG,INFM,LGSPEC3);Q;ACC(2,SG,INFM);LOC(3,PL,MASC)	¿vos te constituirías en ellos?
+constituir	SBJV;FUT;NOM(1,PL,FEM);NEG;ACC(2,PL,INFM)	nosotras no os constituyéremos.
+constituir	IND;PST;PRF;NOM(2,PL,FORM);ACC(3,SG,FEM)	ustedes la habían constituido.
+constituir	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);NEG;Q;ACC(2,PL,FORM,RFLX);LOC(2,SG,FORM)	¿ustedes no se hubieran constituido en usted?
+constituir	COND;PRF;NOM(2,SG,INFM);ACC(3,SG,MASC)	tú lo habrías constituido.
+constituir	SBJV;FUT;NOM(3,PL,MASC);ACC(1,SG)	ellos me constituyeren.
+constituir	SBJV;PST;LGSPEC2;NOM(3,PL,MASC);NEG;ACC(2,SG,FORM,MASC)	ellos no lo constituyesen.
+constituir	IND;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);ACC(3,PL,MASC)	vos los habrás constituido.
+constituir	IND;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(2,PL,FORM,FEM)	¿vos no las habrás constituido?
+constituir	IND;FUT;PRF;NOM(3,PL,FEM);Q;ACC(3,SG,MASC)	¿ellas lo habrán constituido?
+constituir	SBJV;PRS;NOM(2,SG,INFM);ACC(2,SG,INFM)	tú te constituyas.
+constituir	IND;PST;PRF;NOM(1,SG);ACC(2,SG,FORM,FEM)	yo la había constituido.
+constituir	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC)	ellos no los hubieran constituido.
+constituir	IND;PRS;PRF;NOM(2,SG,FORM);NEG;ACC(1,SG)	usted no me ha constituido.
+constituir	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,MASC);NEG;ACC(2,PL,INFM);LOC(2,PL,INFM,FEM)	vosotros no os constituyerais en vosotras.
+constituir	SBJV;PRS;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(1,PL)	¿vosotras no nos hayáis constituido?
+constituir	IND;PST;PRF;IMMED;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,PL,INFM);LOC(3,SG,FEM)	¿vosotros no os hubisteis constituido en ella?
+constituir	COND;NOM(3,SG,FEM);Q;ACC(3,SG,MASC)	¿ella lo constituiría?
+constituir	IND;FUT;PRF;NOM(1,SG);NEG;ACC(1,SG)	yo no me habré constituido.
+debatir	COND;NOM(2,PL,FORM);Q;ACC(1,SG);COM(2,PL,FORM,RFLX)	¿ustedes me debatirían consigo?
+debatir	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);Q;ACC(2,PL,INFM);COM(2,PL,INFM,MASC)	¿ellas os debatiesen con vosotros?
+debatir	IND;FUT;NOM(1,SG);NEG;Q;ACC(3,SG,FEM);COM(2,PL,INFM,MASC)	¿yo no la debatiré con vosotros?
+debatir	IND;PST;PFV;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC,RFLX);COM(1,SG)	¿ellos no se debatieron conmigo?
+debatir	SBJV;FUT;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,PL,MASC);COM(3,PL,MASC)	¿vosotras no los debatiereis con ellos?
+debatir	SBJV;PST;LGSPEC1;NOM(3,SG,MASC);NEG;Q;ACC(2,PL,FORM,MASC);COM(1,PL,MASC)	¿él no los debatiera con nosotros?
+debatir	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);NEG;Q;ACC(2,PL,FORM,FEM);COM(1,PL,MASC)	¿nosotros no las debatiéramos con nosotros?
+debatir	SBJV;PRS;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);COM(1,SG)	ellos no lo debatan conmigo.
+debatir	SBJV;PST;LGSPEC1;NOM(3,PL,MASC);ACC(1,SG);COM(2,SG,INFM)	ellos me debatieran contigo.
+debatir	IND;PRS;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,PL,MASC)	¿vosotras no los debatís?
+debatir	IND;PRS;PRF;NOM(3,PL,MASC);NEG;ACC(3,PL,MASC,RFLX);COM(3,PL,MASC)	ellos no se han debatido con ellos.
+debatir	IND;PRS;PRF;NOM(3,SG,FEM);ACC(1,SG);COM(3,PL,FEM)	ella me ha debatido con ellas.
+debatir	IND;PST;PFV;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,RFLX);PER(2,PL,FORM,RFLX)	¿ustedes se debatieron por sí?
+debatir	IND;FUT;PRF;NOM(2,SG,INFM);ACC(3,SG,FEM);COM(2,PL,INFM,MASC)	tú la habrás debatido con vosotros.
+debatir	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);NEG;Q;ACC(2,PL,FORM,RFLX);CONTR(3,PL,MASC)	¿ustedes no se hubiesen debatido contra ellos?
+debatir	IND;FUT;PRF;NOM(3,PL,MASC);Q;ACC(1,SG);COM(1,PL,MASC)	¿ellos me habrán debatido con nosotros?
+debatir	IND;PST;PFV;NOM(2,PL,INFM,FEM);ACC(3,PL,FEM);COM(2,PL,INFM,FEM)	vosotras las debatisteis con vosotras.
+debatir	IND;PRS;NOM(2,SG,FORM);Q;ACC(1,SG);COM(2,SG,FORM,RFLX)	¿usted me debate consigo?
+debatir	SBJV;FUT;NOM(2,PL,INFM,FEM);NEG;Q;ACC(1,PL);COM(3,PL,FEM)	¿vosotras no nos debatiereis con ellas?
+dirigir	SBJV;PRS;PRF;NOM(2,PL,FORM);NEG;Q;ACC(3,PL,MASC);ALL(2,PL,FORM,RFLX)	¿ustedes no los hayan dirigido a sí?
+dirigir	SBJV;PST;LGSPEC2;NOM(3,PL,MASC);NEG;ACC(2,SG,FORM,MASC);BEN(3,SG,FEM)	ellos no lo dirigiesen para ella.
+dirigir	SBJV;FUT;PRF;NOM(1,PL,FEM);ACC(3,PL,FEM);DAT(2,SG,INFM)	nosotras te las hubiéremos dirigido.
+dirigir	IND;PST;PFV;NOM(1,SG);NEG;Q;ACC(2,PL,INFM);DAT(3,PL,FEM)	¿yo no os dirigí a ellas?
+dirigir	SBJV;PRS;PRF;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);ALL(2,SG,INFM)	ellos no lo hayan dirigido a ti.
+dirigir	SBJV;PRS;PRF;NOM(2,SG,FORM);NEG;Q;ACC(1,PL);BEN(3,SG,MASC)	¿usted no nos haya dirigido para él?
+dirigir	COND;PRF;NOM(2,PL,INFM,MASC);ACC(3,SG,MASC);BEN(1,PL,MASC)	vosotros lo habríais dirigido para nosotros.
+dirigir	SBJV;PRS;NOM(2,PL,FORM);NEG;Q;ACC(1,PL);DAT(3,SG,MASC)	¿ustedes no nos dirijan a él?
+dirigir	IND;PST;PFV;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,FEM);VERS(1,PL,MASC)	¿nosotros la dirigimos hacia nosotros?
+dirigir	SBJV;FUT;NOM(2,PL,INFM,FEM);ACC(1,SG);CONTR(1,SG)	vosotras me dirigiereis contra mí.
+dirigir	SBJV;FUT;NOM(2,PL,INFM,MASC);Q;ACC(1,PL);VERS(3,PL,MASC)	¿vosotros nos dirigiereis hacia ellos?
+dirigir	COND;NOM(2,PL,INFM,FEM);ACC(1,PL);DAT(3,SG,FEM)	vosotras nos dirigiríais a ella.
+dirigir	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;ACC(1,PL);BEN(2,PL,INFM,FEM)	vosotros no nos dirigieseis para vosotras.
+dirigir	IND;FUT;NOM(3,SG,MASC);NEG;ACC(2,SG,FORM,FEM);VERS(2,SG,FORM)	él no la dirigirá hacia usted.
+dirigir	SBJV;PST;PRF;LGSPEC1;NOM(2,SG,FORM);ACC(1,SG);CONTR(1,PL,FEM)	usted me hubiera dirigido contra nosotras.
+dirigir	COND;NOM(2,PL,FORM);Q;ACC(3,PL,FEM);DAT(3,PL)	¿ustedes se las dirigirían?
+dirigir	COND;PRF;NOM(2,SG,INFM);ACC(3,PL,MASC);ALL(3,SG,MASC)	tú los habrías dirigido a él.
+dirigir	IND;PST;PFV;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,FEM);BEN(3,SG,MASC)	¿vosotras no la dirigisteis para él?
+dirigir	IND;PRS;NOM(2,SG,FORM);NEG;Q;ACC(2,PL,FORM,FEM);CONTR(3,PL,MASC)	¿usted no las dirige contra ellos?
+dirigir	COND;NOM(1,PL,MASC);ACC(3,SG,FEM);ALL(1,SG)	nosotros la dirigiríamos a mí.
+diseñar	IND;PST;PFV;NOM(2,PL,INFM,FEM);ACC(2,PL,INFM)	vosotras os diseñasteis.
+diseñar	IND;FUT;NOM(1,PL,MASC);ACC(2,SG,FORM,FEM)	nosotros la diseñaremos.
+diseñar	IND;PST;IPFV;NOM(2,SG,FORM);NEG;ACC(3,SG,FEM)	usted no la diseñaba.
+diseñar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;Q;ACC(2,PL,FORM,FEM)	¿ellas no las hubieran diseñado?
+diseñar	IND;FUT;PRF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM,RFLX)	¿ella no se habrá diseñado?
+diseñar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;ACC(2,PL,FORM,FEM)	nosotros no las hemos diseñado.
+diseñar	SBJV;PRS;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM)	ella no las diseñe.
+diseñar	IND;PST;PRF;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM)	ellos no la habían diseñado.
+diseñar	SBJV;PST;PRF;LGSPEC2;NOM(1,SG);NEG;Q;ACC(3,SG,MASC)	¿yo no lo hubiese diseñado?
+diseñar	IND;PST;PRF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC)	¿él lo había diseñado?
+diseñar	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);ACC(2,PL,INFM)	él os diseñase.
+diseñar	IND;FUT;PRF;NOM(2,SG,FORM);NEG;Q;ACC(2,SG,FORM,RFLX)	¿usted no se habrá diseñado?
+diseñar	IMP;NOM(2,SG,INFM);ACC(3,PL,MASC)	¡diséñalos!
+diseñar	SBJV;FUT;PRF;NOM(3,PL,MASC);NEG;ACC(2,SG,FORM,FEM)	ellos no la hubieren diseñado.
+diseñar	IND;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);ACC(1,SG)	vos me habrás diseñado.
+diseñar	IND;PRS;NOM(1,PL,MASC);Q;ACC(3,PL,FEM)	¿nosotros las diseñamos?
+diseñar	IND;PST;IPFV;NOM(3,PL,MASC);ACC(3,SG,MASC)	ellos lo diseñaban.
+diseñar	SBJV;FUT;NOM(2,SG,INFM);Q;ACC(2,PL,FORM,MASC)	¿tú los diseñares?
+diseñar	IND;PST;PRF;IMMED;NOM(3,PL,FEM);NEG;Q;ACC(2,PL,FORM,FEM)	¿ellas no las hubieron diseñado?
+diseñar	SBJV;FUT;PRF;NOM(2,PL,FORM);NEG;Q;ACC(3,PL,MASC)	¿ustedes no los hubieren diseñado?
+diseñar	SBJV;PRS;NOM(3,PL,MASC);ACC(3,PL,MASC,RFLX)	ellos se diseñen.
+diseñar	IND;PST;PRF;NOM(1,SG);NEG;Q;ACC(3,PL,FEM)	¿yo no las había diseñado?
+diseñar	COND;NOM(1,PL,MASC);ACC(3,SG,MASC)	nosotros lo diseñaríamos.
+disputar	SBJV;PST;PRF;LGSPEC1;NOM(2,SG,FORM);ACC(3,PL,MASC);DAT(1,PL)	usted nos los hubiera disputado.
+disputar	COND;NOM(2,PL,INFM,FEM);Q;ACC(1,SG);DAT(1,PL,FEM)	¿vosotras me disputaríais a nosotras?
+disputar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;ACC(2,PL,FORM,FEM);DAT(2,PL,FORM)	ellas no se las hubieran disputado.
+disputar	SBJV;PST;LGSPEC2;NOM(2,SG,FORM);ACC(2,PL,FORM,MASC);DAT(3,SG)	usted se los disputase.
+disputar	IND;FUT;NOM(3,SG,MASC);Q;PER(2,SG,INFM,LGSPEC3)	¿él disputará por vos?
+disputar	SBJV;PST;LGSPEC1;NOM(3,SG,MASC);NEG;Q;ON(3,SG,FEM)	¿él no disputara sobre ella?
+disputar	IND;FUT;NOM(1,PL,MASC);NEG;Q;ACC(3,PL,MASC);DAT(2,PL,INFM)	¿nosotros no os los disputaremos?
+disputar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,MASC);NEG;Q;ACC(3,PL,FEM);DAT(2,SG,FORM)	¿nosotros no se las hubiéramos disputado?
+disputar	IND;PST;PFV;NOM(1,SG);NEG;ACC(3,SG,MASC);DAT(3,SG)	yo no se lo disputé.
+disputar	IND;PST;PRF;NOM(3,PL,FEM);ON(2,SG,FORM)	ellas habían disputado sobre usted.
+disputar	SBJV;FUT;PRF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);DAT(2,SG,INFM)	¿él te lo hubiere disputado?
+disputar	IND;FUT;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,INFM);DAT(2,PL,FORM)	¿ellos no te disputarán a ustedes?
+disputar	IND;FUT;NOM(3,PL,FEM);ACC(3,PL,FEM);DAT(3,PL)	ellas se las disputarán.
+disputar	IND;FUT;PRF;NOM(2,PL,FORM);NEG;Q;ACC(1,PL);DAT(3,PL,FEM)	¿ustedes no nos habrán disputado a ellas?
+disputar	IND;PST;PFV;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM)	ella no las disputó.
+disputar	IND;FUT;PRF;NOM(3,SG,MASC);ACC(3,PL,MASC)	él los habrá disputado.
+disputar	IND;FUT;PRF;NOM(3,SG,FEM);ACC(2,PL,FORM,FEM)	ella las habrá disputado.
+disputar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,MASC);ACC(1,SG);DAT(3,PL,MASC)	nosotros me hubiéramos disputado a ellos.
+disputar	COND;NOM(1,SG);ACC(2,SG,INFM);DAT(3,PL,MASC)	yo te disputaría a ellos.
+distinguir	SBJV;FUT;NOM(1,PL,MASC);NEG;Q;ACC(1,PL);INTER(2,PL,INFM,FEM)	¿nosotros no nos distinguiéremos entre vosotras?
+distinguir	IND;FUT;NOM(3,SG,FEM);Q;ACC(2,PL,FORM,MASC);GEN(1,PL,FEM)	¿ella los distinguirá de nosotras?
+distinguir	SBJV;PRS;NOM(3,PL,MASC);ACC(3,SG,FEM);INTER(2,PL,INFM,MASC)	ellos la distingan entre vosotros.
+distinguir	COND;NOM(3,PL,MASC);ACC(2,SG,FORM,FEM);PER(2,PL,FORM)	ellos la distinguirían por ustedes.
+distinguir	SBJV;FUT;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);INTER(3,PL,FEM)	ella no los distinguiere entre ellas.
+distinguir	COND;PRF;NOM(2,SG,FORM);ACC(2,PL,FORM,MASC);PER(3,SG,MASC)	usted los habría distinguido por él.
+distinguir	IND;FUT;NOM(2,SG,INFM);Q;ACC(2,PL,FORM,MASC);PER(2,SG,INFM)	¿tú los distinguirás por ti?
+distinguir	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);COM(2,PL,INFM,FEM)	¿él lo distinguiese con vosotras?
+distinguir	SBJV;PRS;NOM(1,PL,FEM);ACC(1,PL);GEN(2,SG,FORM);LOC(1,PL,FEM)	nosotras nos distingamos de usted en nosotras.
+distinguir	IND;PST;PFV;NOM(3,SG,MASC);ACC(3,PL,FEM);INTER(1,SG)	él las distinguió entre mí.
+distinguir	IND;PST;PRF;IMMED;NOM(2,SG,INFM);NEG;Q;ACC(2,PL,FORM,MASC);INTER(2,SG,INFM)	¿tú no los hubiste distinguido entre ti?
+distinguir	SBJV;PRS;NOM(3,SG,MASC);Q;ACC(2,PL,INFM);PER(2,SG,INFM)	¿él os distinga por ti?
+distinguir	SBJV;PRS;PRF;NOM(2,SG,FORM);Q;ACC(2,SG,FORM,FEM,RFLX);PER(1,PL,FEM)	¿usted se haya distinguido por nosotras?
+distinguir	IND;FUT;PRF;NOM(3,SG,FEM);Q;ACC(1,PL);PER(2,PL,FORM)	¿ella nos habrá distinguido por ustedes?
+distinguir	SBJV;FUT;PRF;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);GEN(2,SG,FORM)	ella no lo hubiere distinguido de usted.
+distinguir	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);Q;ACC(3,SG,FEM,RFLX);PER(3,SG,FEM)	¿ella se hubiese distinguido por ella?
+distinguir	COND;NOM(2,PL,INFM,MASC);Q;ACC(1,PL);COM(3,PL,FEM)	¿vosotros nos distinguiríais con ellas?
+distinguir	IND;PST;PFV;NOM(3,PL,FEM);NEG;ACC(1,PL);PER(3,PL,FEM,RFLX)	ellas no nos distinguieron por sí.
+distinguir	SBJV;FUT;PRF;NOM(2,SG,FORM);ACC(2,PL,FORM,MASC);PER(3,PL,MASC)	usted los hubiere distinguido por ellos.
+distinguir	IND;PRS;PRF;NOM(1,PL,FEM);NEG;ACC(3,SG,MASC);PER(2,PL,FORM)	nosotras no lo hemos distinguido por ustedes.
+distribuir	IND;PST;PFV;NOM(3,SG,FEM);Q;ACC(2,PL,FORM,FEM);LOC(3,SG,FEM,RFLX)	¿ella las distribuyó en sí?
+distribuir	SBJV;FUT;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM);DAT(3,PL)	nosotras no se la distribuyéremos.
+distribuir	IND;PST;PFV;NOM(3,PL,MASC);NEG;Q;ACC(2,PL,FORM,FEM);PER(2,SG,INFM)	¿ellos no las distribuyeron por ti?
+distribuir	COND;NOM(3,PL,MASC);Q;ACC(1,PL);PER(3,PL,MASC,RFLX)	¿ellos nos distribuirían por sí?
+distribuir	IND;FUT;PRF;NOM(3,SG,MASC);ACC(2,SG,FORM,FEM);LOC(3,SG,MASC)	él la habrá distribuido en él.
+distribuir	IND;PST;PRF;NOM(3,SG,MASC);NEG;ACC(2,PL,FORM,FEM);PER(3,PL,MASC)	él no las había distribuido por ellos.
+distribuir	SBJV;FUT;NOM(1,PL,MASC);ACC(1,SG);ALL(3,SG,FEM)	nosotros me distribuyéremos a ella.
+distribuir	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM);ALL(2,SG,FORM)	ellas no las distribuyeran a usted.
+distribuir	IND;PST;PRF;NOM(3,PL,FEM);NEG;Q;ACC(3,PL,MASC);ALL(1,SG)	¿ellas no los habían distribuido a mí?
+distribuir	IND;PST;PRF;IMMED;NOM(1,SG);ACC(3,PL,MASC);LOC(2,PL,INFM,MASC)	yo los hube distribuido en vosotros.
+distribuir	IND;PST;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(3,SG,FEM);INTER(1,SG)	vos no la habías distribuido entre mí.
+distribuir	IND;PST;IPFV;NOM(2,PL,INFM,MASC);Q;ACC(1,SG);INTER(1,PL,MASC)	¿vosotros me distribuíais entre nosotros?
+distribuir	IND;PST;PRF;IMMED;NOM(1,PL,MASC);Q;ACC(3,SG,MASC);ALL(3,SG,FEM)	¿nosotros lo hubimos distribuido a ella?
+distribuir	SBJV;PRS;NOM(1,SG);ACC(3,PL,MASC);INTER(2,PL,INFM,FEM)	yo los distribuya entre vosotras.
+distribuir	IND;FUT;NOM(2,SG,INFM);Q;ACC(3,PL,MASC);INTER(2,PL,INFM,FEM)	¿tú los distribuirás entre vosotras?
+distribuir	SBJV;PST;LGSPEC1;NOM(2,SG,FORM);Q;ACC(3,SG,FEM);DAT(3,PL)	¿usted se la distribuyera?
+distribuir	SBJV;PST;LGSPEC2;NOM(1,PL,FEM);ACC(1,SG);LOC(2,PL,FORM)	nosotras me distribuyésemos en ustedes.
+distribuir	IND;PST;PRF;NOM(2,SG,FORM);NEG;ACC(2,PL,FORM,MASC);PER(1,PL,FEM)	usted no los había distribuido por nosotras.
+distribuir	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);Q;ACC(2,PL,FORM,MASC);PER(2,SG,INFM)	¿ellos los hubiesen distribuido por ti?
+distribuir	SBJV;PRS;NOM(2,PL,FORM);NEG;Q;ACC(3,PL,MASC);PER(2,SG,INFM)	¿ustedes no los distribuyan por ti?
+distribuir	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,MASC);NEG;Q;ACC(2,PL,FORM,FEM);LOC(3,SG,FEM)	¿él no las hubiera distribuido en ella?
+distribuir	IMP;NOM(1,PL);ACC(2,PL,FORM,MASC);LOC(2,SG,INFM)	¡distribuyámoslos en ti!
+dividir	IND;PRS;PRF;NOM(1,SG);NEG;ACC(2,PL,INFM);PER(3,SG,MASC)	yo no os he dividido por él.
+dividir	SBJV;FUT;NOM(2,SG,INFM);ACC(3,SG,MASC);PER(3,SG,FEM)	tú lo dividieres por ella.
+dividir	SBJV;PRS;NOM(1,PL,FEM);NEG;ACC(1,PL);LOC(2,SG,INFM)	nosotras no nos dividamos en ti.
+dividir	IND;PST;IPFV;NOM(1,PL,MASC);ACC(2,PL,FORM,FEM);LOC(3,PL,FEM)	nosotros las dividíamos en ellas.
+dividir	IND;PST;PRF;IMMED;NOM(2,PL,FORM);NEG;ACC(1,PL);INTER(2,SG,INFM,LGSPEC3)	ustedes no nos hubieron dividido entre vos.
+dividir	COND;PRF;NOM(1,SG);ACC(2,PL,INFM);PER(2,PL,INFM,FEM)	yo os habría dividido por vosotras.
+dividir	COND;NOM(2,SG,INFM);NEG;Q;ACC(1,SG);PER(1,PL,MASC)	¿tú no me dividirías por nosotros?
+dividir	IND;FUT;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,INFM);COM(2,SG,INFM)	¿ellas no te dividirán contigo?
+dividir	IND;FUT;NOM(3,SG,MASC);ACC(3,PL,FEM)	él las dividirá.
+dividir	SBJV;PRS;PRF;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC,RFLX);GEN(3,SG,FEM)	¿ellos no se hayan dividido de ella?
+dividir	IND;PRS;PRF;NOM(3,SG,MASC);NEG;Q;ACC(3,PL,FEM);INTER(1,SG)	¿él no las ha dividido entre mí?
+dividir	IND;PRS;NOM(3,PL,FEM);NEG;Q;ACC(2,PL,FORM,FEM);PER(3,PL,FEM)	¿ellas no las dividen por ellas?
+dividir	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,SG,FEM);LOC(1,PL,FEM)	¿vosotros no la hubieseis dividido en nosotras?
+dividir	IND;PST;PRF;NOM(1,SG);NEG;Q;ACC(1,SG);LOC(1,PL,FEM)	¿yo no me había dividido en nosotras?
+dividir	COND;NOM(3,SG,MASC);Q;ACC(3,PL,MASC);GEN(2,SG,FORM)	¿él los dividiría de usted?
+dividir	SBJV;PRS;PRF;NOM(3,PL,MASC);Q;ACC(2,PL,INFM);GEN(3,SG,FEM)	¿ellos os hayan dividido de ella?
+dividir	COND;NOM(3,SG,FEM);NEG;Q;ACC(2,SG,FORM,MASC);LOC(3,SG,FEM,RFLX)	¿ella no lo dividiría en sí?
+dividir	SBJV;FUT;NOM(3,PL,MASC);ACC(2,PL,FORM,FEM);PER(2,SG,FORM)	ellos las dividieren por usted.
+dividir	IND;PST;PFV;NOM(1,PL,FEM);Q;ACC(3,PL,FEM);LOC(1,SG)	¿nosotras las dividimos en mí?
+educar	COND;PRF;NOM(3,PL,FEM);NEG;Q;ACC(3,PL,FEM,RFLX);LOC(2,PL,INFM,MASC)	¿ellas no se habrían educado en vosotros?
+educar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,FEM);Q;ACC(1,PL);LOC(1,SG)	¿nosotras nos hubiéramos educado en mí?
+educar	IND;PST;IPFV;NOM(2,SG,INFM);NEG;ACC(3,PL,MASC);BEN(3,SG,MASC)	tú no los educabas para él.
+educar	COND;PRF;NOM(1,PL,FEM);NEG;ACC(2,SG,INFM);BEN(1,PL,FEM)	nosotras no te habríamos educado para nosotras.
+educar	IND;PRS;NOM(3,PL,FEM);ACC(2,SG,FORM,FEM);LOC(3,PL,FEM,RFLX)	ellas la educan en sí.
+educar	IND;FUT;NOM(2,SG,FORM);ACC(2,PL,FORM,MASC);LOC(1,PL,MASC)	usted los educará en nosotros.
+educar	IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,FORM,MASC);BEN(1,PL,MASC)	nosotras no los educamos para nosotros.
+educar	IND;FUT;NOM(1,SG);NEG;ACC(2,SG,INFM);LOC(2,SG,INFM)	yo no te educaré en ti.
+educar	IND;FUT;NOM(3,SG,MASC);ACC(3,SG,FEM);BEN(2,SG,INFM,LGSPEC3)	él la educará para vos.
+educar	SBJV;PST;LGSPEC1;NOM(1,SG);NEG;Q;ACC(3,SG,FEM);BEN(3,SG,MASC)	¿yo no la educara para él?
+educar	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,FEM);NEG;Q;ACC(2,PL,FORM,FEM);BEN(3,SG,FEM)	¿nosotras no las hubiéramos educado para ella?
+educar	IND;PST;PRF;IMMED;NOM(3,SG,FEM);ACC(3,PL,MASC);BEN(3,PL,MASC)	ella los hubo educado para ellos.
+educar	SBJV;PRS;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,FEM);BEN(3,PL,FEM)	¿vosotras no la hayáis educado para ellas?
+educar	SBJV;PST;LGSPEC2;NOM(1,PL,MASC);NEG;ACC(2,PL,FORM,FEM);BEN(1,SG)	nosotros no las educásemos para mí.
+educar	SBJV;FUT;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,FEM);BEN(3,PL,FEM)	¿nosotras no la educáremos para ellas?
+educar	SBJV;PST;LGSPEC1;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(3,SG,FEM);BEN(1,PL,MASC)	¿vos no la educaras para nosotros?
+educar	IND;PRS;NOM(1,PL,MASC);ACC(1,SG);BEN(3,SG,MASC)	nosotros me educamos para él.
+educar	COND;PRF;NOM(2,SG,FORM);NEG;Q;ACC(2,SG,FORM,MASC,RFLX);BEN(1,SG)	¿usted no se habría educado para mí?
+educar	IND;PST;PFV;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,MASC);BEN(2,PL,INFM,FEM)	¿vosotras no lo educasteis para vosotras?
+educar	IND;PST;PRF;IMMED;NOM(2,SG,INFM);Q;ACC(2,SG,INFM);BEN(2,PL,INFM,MASC)	¿tú te hubiste educado para vosotros?
+enfrentar	SBJV;PRS;NOM(2,PL,FORM);NEG;Q;ACC(2,PL,FORM,MASC,RFLX);ALL(1,SG)	¿ustedes no se enfrenten a mí?
+enfrentar	SBJV;PST;LGSPEC1;NOM(2,SG,INFM);Q;ACC(3,SG,FEM);ALL(1,PL,FEM)	¿tú la enfrentaras a nosotras?
+enfrentar	IND;PST;IPFV;NOM(2,PL,FORM);Q;ACC(3,SG,MASC);ALL(3,SG,MASC)	¿ustedes lo enfrentaban a él?
+enfrentar	COND;PRF;NOM(2,SG,INFM);ACC(2,PL,INFM);ALL(2,SG,INFM)	tú os habrías enfrentado a ti.
+enfrentar	IND;PST;IPFV;NOM(3,SG,FEM);NEG;ACC(3,PL,FEM);ALL(2,SG,INFM,LGSPEC3)	ella no las enfrentaba a vos.
+enfrentar	IND;PST;PRF;IMMED;NOM(3,SG,FEM);NEG;Q;ACC(2,PL,INFM);ALL(3,SG,FEM,RFLX)	¿ella no os hubo enfrentado a sí?
+enfrentar	COND;PRF;NOM(2,PL,FORM);ACC(3,SG,FEM);ALL(2,SG,INFM)	ustedes la habrían enfrentado a ti.
+enfrentar	SBJV;FUT;PRF;NOM(2,SG,FORM);Q;ACC(3,SG,MASC);ALL(3,PL,MASC)	¿usted lo hubiere enfrentado a ellos?
+enfrentar	IND;FUT;NOM(2,SG,FORM);Q;ACC(1,SG);ALL(3,SG,MASC)	¿usted me enfrentará a él?
+enfrentar	IND;PST;PRF;NOM(2,PL,INFM,FEM);ACC(3,SG,MASC);ALL(3,SG,FEM)	vosotras lo habíais enfrentado a ella.
+enfrentar	IND;PST;PFV;NOM(2,PL,INFM,FEM);ACC(3,PL,MASC);ALL(3,SG,FEM)	vosotras los enfrentasteis a ella.
+enfrentar	IND;PST;PRF;IMMED;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(3,PL,FEM);ALL(2,SG,INFM,LGSPEC3)	¿vos no las hubiste enfrentado a vos?
+enfrentar	SBJV;PST;LGSPEC2;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(2,SG,INFM);DAT(2,SG,INFM,LGSPEC3)	¿vos no te enfrentases a vos?
+enfrentar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);NEG;ACC(3,SG,FEM);ALL(3,PL,FEM)	ellos no la hubiesen enfrentado a ellas.
+enfrentar	SBJV;FUT;PRF;NOM(3,SG,FEM);NEG;Q;ACC(2,PL,FORM,FEM);ALL(2,SG,INFM,LGSPEC3)	¿ella no las hubiere enfrentado a vos?
+frenar	IND;PRS;PRF;NOM(2,PL,INFM,FEM);ACC(3,PL,MASC)	vosotras los habéis frenado.
+frenar	COND;PRF;NOM(3,SG,FEM);NEG;ACC(2,SG,INFM)	ella no te habría frenado.
+frenar	IND;PRS;NOM(2,SG,INFM);NEG;Q;ACC(2,PL,INFM)	¿tú no os frenas?
+frenar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,MASC);NEG;ACC(2,PL,FORM,FEM)	ellos no las hubieran frenado.
+frenar	IND;FUT;PRF;NOM(3,PL,MASC);Q;ACC(2,PL,FORM,MASC)	¿ellos los habrán frenado?
+frenar	COND;PRF;NOM(2,PL,INFM,FEM);ACC(2,PL,INFM)	vosotras os habríais frenado.
+frenar	IND;PST;PFV;NOM(1,PL,MASC);NEG;ACC(2,PL,INFM)	nosotros no os frenamos.
+frenar	SBJV;FUT;PRF;NOM(1,PL,MASC);Q;ACC(3,SG,MASC)	¿nosotros lo hubiéremos frenado?
+frenar	SBJV;PRS;NOM(1,SG);NEG;ACC(2,SG,FORM,FEM)	yo no la frene.
+frenar	SBJV;FUT;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,FEM)	¿nosotros la frenáremos?
+frenar	SBJV;PST;LGSPEC2;NOM(3,SG,FEM);NEG;Q;ACC(2,SG,INFM)	¿ella no te frenase?
+frenar	IND;PST;IPFV;NOM(3,SG,MASC);ACC(3,PL,MASC)	él los frenaba.
+frenar	IND;PRS;PRF;NOM(3,PL,MASC);Q;ACC(2,PL,FORM,FEM)	¿ellos las han frenado?
+frenar	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(2,PL,FORM,MASC)	él no los frene.
+frenar	IND;FUT;PRF;NOM(1,PL,FEM);NEG;ACC(2,PL,FORM,FEM)	nosotras no las habremos frenado.
+frenar	IND;FUT;PRF;NOM(3,PL,FEM);NEG;ACC(2,SG,FORM,MASC)	ellas no lo habrán frenado.
+frenar	COND;PRF;NOM(2,PL,INFM,MASC);Q;ACC(2,PL,INFM)	¿vosotros os habríais frenado?
+frenar	IND;FUT;PRF;NOM(1,PL,FEM);ACC(2,SG,FORM,MASC)	nosotras lo habremos frenado.
+frenar	SBJV;PRS;NOM(1,SG);NEG;ACC(3,SG,FEM)	yo no la frene.
+frenar	SBJV;FUT;PRF;NOM(2,SG,FORM);NEG;Q;ACC(2,PL,FORM,FEM)	¿usted no las hubiere frenado?
+frenar	COND;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC)	ella no los frenaría.
+frenar	SBJV;PST;LGSPEC1;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC)	él no los frenara.
+gestionar	SBJV;FUT;PRF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC,RFLX)	¿él se hubiere gestionado?
+gestionar	SBJV;FUT;NOM(2,PL,INFM,MASC);Q;ACC(3,PL,FEM)	¿vosotros las gestionareis?
+gestionar	SBJV;FUT;PRF;NOM(2,SG,FORM);NEG;Q;ACC(1,PL)	¿usted no nos hubiere gestionado?
+gestionar	SBJV;PST;PRF;LGSPEC1;NOM(2,SG,INFM);NEG;Q;ACC(2,PL,FORM,MASC)	¿tú no los hubieras gestionado?
+gestionar	IND;PST;PRF;NOM(3,SG,MASC);Q;ACC(3,SG,MASC,RFLX)	¿él se había gestionado?
+gestionar	IND;FUT;PRF;NOM(3,SG,MASC);NEG;ACC(2,SG,INFM)	él no te habrá gestionado.
+gestionar	COND;NOM(1,PL,MASC);NEG;Q;ACC(1,SG)	¿nosotros no me gestionaríamos?
+gestionar	IND;PST;PRF;IMMED;NOM(1,SG);ACC(2,PL,FORM,FEM)	yo las hube gestionado.
+gestionar	IND;PRS;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(2,PL,INFM)	vosotros no os habéis gestionado.
+gestionar	SBJV;FUT;NOM(2,PL,FORM);Q;ACC(3,SG,FEM)	¿ustedes la gestionaren?
+gestionar	IND;PST;PRF;NOM(2,PL,FORM);ACC(2,PL,FORM,FEM,RFLX)	ustedes se habían gestionado.
+gestionar	IND;PST;PRF;IMMED;NOM(2,PL,INFM,MASC);Q;ACC(1,SG)	¿vosotros me hubisteis gestionado?
+gestionar	COND;PRF;NOM(3,PL,FEM);NEG;Q;ACC(3,SG,FEM)	¿ellas no la habrían gestionado?
+gestionar	IND;PRS;PRF;NOM(3,SG,MASC);NEG;ACC(2,SG,FORM,FEM)	él no la ha gestionado.
+gestionar	COND;PRF;NOM(3,SG,FEM);NEG;ACC(2,PL,FORM,MASC)	ella no los habría gestionado.
+gestionar	COND;NOM(3,SG,FEM);Q;ACC(1,PL)	¿ella nos gestionaría?
+gestionar	IND;PST;IPFV;NOM(3,PL,FEM);Q;ACC(3,PL,FEM,RFLX)	¿ellas se gestionaban?
+gestionar	SBJV;PRS;NOM(2,PL,FORM);ACC(2,PL,FORM,FEM,RFLX)	ustedes se gestionen.
+gestionar	IND;PRS;PRF;NOM(1,PL,FEM);NEG;ACC(1,SG)	nosotras no me hemos gestionado.
+gestionar	IND;PRS;PRF;NOM(3,PL,MASC);ACC(2,PL,FORM,FEM)	ellos las han gestionado.
+hacer	IND;FUT;PRF;NOM(3,SG,MASC);NEG;Q;ACC(1,PL);GEN(2,PL,INFM,MASC)	¿él no nos habrá hecho de vosotros?
+hacer	IND;FUT;PRF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,FEM);PER(3,SG,FEM)	¿él no la habrá hecho por ella?
+hacer	IND;PST;IPFV;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,MASC);PER(3,PL,FEM)	¿nosotros lo hacíamos por ellas?
+hacer	COND;NOM(1,PL,MASC);Q;ACC(1,SG);DAT(2,PL,FORM)	¿nosotros me haríamos a ustedes?
+hacer	SBJV;PRS;NOM(1,PL,FEM);NEG;Q;ACC(2,PL,FORM,MASC);DAT(2,SG,FORM)	¿nosotras no se los hagamos?
+hacer	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(2,SG,FORM,FEM);DAT(2,SG,FORM)	él no se la haga.
+hacer	IND;PST;IPFV;NOM(1,PL,FEM);Q;ACC(3,SG,MASC);COM(1,SG)	¿nosotras lo hacíamos conmigo?
+hacer	COND;PRF;NOM(3,SG,MASC);Q;ACC(2,SG,INFM);GEN(3,SG,FEM)	¿él te habría hecho de ella?
+hacer	COND;PRF;NOM(3,PL,MASC);ACC(3,PL,FEM);DAT(3,SG)	ellos se las habrían hecho.
+hacer	COND;PRF;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,SG,MASC);DAT(1,PL)	¿vosotros no nos lo habríais hecho?
+hacer	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);ACC(3,PL,MASC);GEN(3,SG,MASC)	él los hiciese de él.
+hacer	IND;PRS;PRF;NOM(1,SG);NEG;Q;ACC(2,PL,FORM,FEM);PER(2,SG,FORM)	¿yo no las he hecho por usted?
+hacer	IND;PST;PRF;IMMED;NOM(1,PL,FEM);NEG;Q;ACC(2,SG,FORM,MASC);DAT(3,PL)	¿nosotras no se lo hubimos hecho?
+hacer	IND;PST;PRF;NOM(3,PL,MASC);ACC(3,SG,MASC);DAT(3,SG)	ellos se lo habían hecho.
+hacer	IND;FUT;PRF;NOM(1,PL,MASC);NEG;ACC(1,PL)	nosotros no nos habremos hecho.
+hacer	SBJV;FUT;NOM(1,PL,MASC);NEG;ACC(1,PL);DAT(1,PL,FEM)	nosotros no nos hiciéremos a nosotras.
+hacer	IND;PRS;PRF;NOM(2,PL,FORM);Q;ACC(3,PL,FEM);COM(1,PL,MASC)	¿ustedes las han hecho con nosotros?
+hacer	IND;FUT;NOM(3,PL,MASC);NEG;Q;ACC(2,PL,INFM);GEN(1,SG)	¿ellos no os harán de mí?
+hacer	SBJV;PRS;PRF;NOM(1,PL,MASC);Q;ACC(3,SG,MASC);DAT(1,SG)	¿nosotros me lo hayamos hecho?
+hacer	SBJV;PRS;NOM(3,SG,MASC);NEG;Q;ACC(2,SG,FORM,MASC);COM(1,SG)	¿él no lo haga conmigo?
+intercambiar	IND;PRS;PRF;NOM(1,SG);ACC(3,SG,MASC);PER(2,PL,INFM,MASC)	yo lo he intercambiado por vosotros.
+intercambiar	COND;NOM(1,SG);ACC(2,SG,INFM);PER(3,PL,MASC)	yo te intercambiaría por ellos.
+intercambiar	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,PL,MASC);PER(3,PL,FEM)	¿vosotros no los hubiereis intercambiado por ellas?
+intercambiar	IND;PRS;PRF;NOM(3,SG,MASC);NEG;Q;ACC(1,SG);COM(3,PL,FEM)	¿él no me ha intercambiado con ellas?
+intercambiar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,FEM);ACC(3,SG,FEM)	vosotras la intercambiaseis.
+intercambiar	IND;PST;PRF;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,FEM,RFLX)	¿ustedes se habían intercambiado?
+intercambiar	COND;NOM(1,SG);ACC(2,PL,INFM);PER(1,SG)	yo os intercambiaría por mí.
+intercambiar	IND;FUT;PRF;NOM(1,PL,MASC);ACC(2,SG,INFM);COM(2,SG,INFM)	nosotros te habremos intercambiado contigo.
+intercambiar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);Q;ACC(3,PL,MASC);PER(3,SG,MASC)	¿ustedes los hubieran intercambiado por él?
+intercambiar	IND;PRS;PRF;NOM(1,PL,FEM);ACC(2,SG,INFM);COM(3,SG,FEM)	nosotras te hemos intercambiado con ella.
+intercambiar	SBJV;PST;LGSPEC2;NOM(2,PL,FORM);ACC(2,PL,FORM,MASC,RFLX);PER(3,SG,FEM)	ustedes se intercambiasen por ella.
+intercambiar	SBJV;PRS;PRF;NOM(1,PL,FEM);Q;ACC(2,SG,INFM)	¿nosotras te hayamos intercambiado?
+intercambiar	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);NEG;ACC(2,PL,FORM,MASC);COM(3,PL,MASC)	ellas no los intercambiaran con ellos.
+intercambiar	SBJV;PRS;NOM(2,SG,INFM,LGSPEC3);ACC(3,PL,FEM)	vos las intercambiés.
+intercambiar	IND;FUT;PRF;NOM(1,PL,FEM);NEG;ACC(2,SG,FORM,FEM);PER(2,SG,FORM)	nosotras no la habremos intercambiado por usted.
+intercambiar	SBJV;PRS;PRF;NOM(2,SG,INFM);NEG;ACC(2,PL,INFM);PER(2,SG,INFM)	tú no os hayas intercambiado por ti.
+intercambiar	SBJV;PRS;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(3,SG,FEM);COM(2,PL,FORM)	¿vos no la hayás intercambiado con ustedes?
+intercambiar	IND;PST;PFV;NOM(1,PL,FEM);NEG;ACC(3,PL,FEM);COM(2,SG,INFM,LGSPEC3)	nosotras no las intercambiamos con vos.
+intercambiar	SBJV;FUT;NOM(2,PL,INFM,MASC);ACC(3,SG,MASC);COM(3,PL,FEM)	vosotros lo intercambiareis con ellas.
+intercambiar	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);ACC(1,PL);COM(1,PL,FEM)	ellas nos intercambiaran con nosotras.
+investigar	SBJV;PRS;NOM(2,PL,INFM,MASC);Q;ACC(3,PL,FEM)	¿vosotros las investiguéis?
+investigar	SBJV;FUT;NOM(2,PL,INFM,MASC);ACC(2,SG,INFM)	vosotros te investigareis.
+investigar	SBJV;FUT;PRF;NOM(2,SG,FORM);NEG;ACC(3,PL,FEM)	usted no las hubiere investigado.
+investigar	IND;FUT;PRF;NOM(2,SG,FORM);NEG;LOC(2,PL,FORM)	usted no habrá investigado en ustedes.
+investigar	COND;PRF;NOM(1,SG);ACC(2,SG,FORM,MASC)	yo lo habría investigado.
+investigar	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,SG,FEM)	¿vosotros no la investigarais?
+investigar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,MASC);LOC(2,PL,FORM)	él hubiera investigado en ustedes.
+investigar	COND;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ON(3,SG,MASC)	¿vosotras no habríais investigado sobre él?
+investigar	SBJV;FUT;NOM(1,PL,MASC);NEG;Q;LOC(1,PL,MASC)	¿nosotros no investigáremos en nosotros?
+investigar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);Q;LOC(3,PL,MASC)	¿ellos hubiesen investigado en ellos?
+investigar	IND;PST;PRF;NOM(3,PL,FEM);ACC(2,PL,FORM,MASC)	ellas los habían investigado.
+investigar	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,MASC);NEG;LOC(1,PL,MASC)	vosotros no investigarais en nosotros.
+investigar	IND;FUT;PRF;NOM(3,SG,MASC);NEG;Q;ON(1,PL,FEM)	¿él no habrá investigado sobre nosotras?
+investigar	SBJV;FUT;PRF;NOM(3,SG,MASC);NEG;LOC(2,SG,INFM,LGSPEC3)	él no hubiere investigado en vos.
+investigar	IND;PST;PRF;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX)	¿él no se había investigado?
+llegar	IND;PRS;PRF;NOM(1,PL,FEM);Q;GEN(1,PL,FEM);ALL(3,PL,MASC)	¿nosotras hemos llegado de nosotras a ellos?
+llegar	COND;NOM(3,SG,FEM);NEG;GEN(2,SG,FORM);ALL(1,SG)	ella no llegaría de usted a mí.
+llegar	IND;FUT;PRF;NOM(1,PL,MASC);NEG;Q;GEN(1,PL,MASC);ALL(2,PL,INFM,FEM)	¿nosotros no habremos llegado de nosotros a vosotras?
+llegar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,FEM);NEG;Q;GEN(1,PL,MASC);ALL(3,SG,FEM)	¿ellas no hubiesen llegado de nosotros a ella?
+llegar	COND;NOM(2,SG,FORM);NEG;Q;GEN(3,SG,MASC);ALL(3,SG,FEM)	¿usted no llegaría de él a ella?
+llegar	IND;FUT;PRF;NOM(3,SG,MASC);NEG;GEN(3,SG,FEM);ALL(2,PL,FORM)	él no habrá llegado de ella a ustedes.
+llegar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;GEN(2,SG,INFM,LGSPEC3)	ellas no hubieran llegado de vos.
+llegar	SBJV;FUT;PRF;NOM(1,PL,MASC);NEG;GEN(1,PL,FEM);ALL(1,PL,MASC)	nosotros no hubiéremos llegado de nosotras a nosotros.
+llegar	IND;PRS;PRF;NOM(1,PL,FEM);NEG;ALL(1,SG)	nosotras no hemos llegado a mí.
+llegar	SBJV;PRS;PRF;NOM(3,PL,FEM);NEG;DAT(3,PL,RFLX)	ellas no se hayan llegado.
+llegar	IND;PRS;NOM(1,PL,FEM);Q;GEN(1,PL,MASC);ALL(3,PL,MASC)	¿nosotras llegamos de nosotros a ellos?
+llegar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,MASC);ALL(1,PL,FEM)	él hubiese llegado a nosotras.
+llegar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,FEM);NEG;GEN(1,SG);ALL(3,PL,FEM,RFLX)	ellas no hubiesen llegado de mí a sí.
+llegar	SBJV;FUT;NOM(3,PL,MASC);Q;GEN(3,PL,FEM);ALL(3,PL,MASC,RFLX)	¿ellos llegaren de ellas a sí?
+llegar	SBJV;PRS;NOM(3,SG,MASC);NEG;GEN(1,SG);ALL(2,PL,INFM,MASC)	él no llegue de mí a vosotros.
+llegar	IND;PST;IPFV;NOM(1,PL,MASC);NEG;Q;GEN(3,SG,MASC);ALL(2,SG,INFM)	¿nosotros no llegábamos de él a ti?
+llegar	COND;PRF;NOM(1,SG);NEG;GEN(3,SG,FEM);ALL(2,SG,INFM)	yo no habría llegado de ella a ti.
+llegar	IND;PST;PRF;IMMED;NOM(3,SG,MASC);NEG;Q;GEN(1,SG);ALL(3,PL,MASC)	¿él no hubo llegado de mí a ellos?
+llegar	SBJV;PRS;PRF;NOM(1,PL,FEM);Q;TERM(3,SG,FEM)	¿nosotras hayamos llegado hasta ella?
+llevar	SBJV;FUT;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,MASC,RFLX);DAT(3,PL)	ustedes no se les llevaren.
+llevar	IND;PST;PFV;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX);DAT(3,PL,RFLX);COM(2,PL,INFM,FEM)	ellas no se llevaron a sí con vosotras.
+llevar	IND;PST;PFV;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC,RFLX);COM(1,PL,MASC)	¿él no se llevó con nosotros?
+llevar	SBJV;PRS;PRF;NOM(2,PL,INFM,MASC);Q;ACC(3,SG,FEM);DAT(2,PL,INFM);GEN(2,SG,INFM)	¿vosotros os la hayáis llevado de ti?
+llevar	SBJV;PRS;NOM(3,PL,MASC);Q;ACC(3,SG,MASC);DAT(3,PL,RFLX);COM(2,PL,INFM,FEM)	¿ellos se lo lleven con vosotras?
+llevar	SBJV;PRS;NOM(1,PL,FEM);Q;ACC(1,PL);GEN(3,SG,MASC)	¿nosotras nos llevemos de él?
+llevar	COND;PRF;NOM(3,PL,FEM);ACC(2,SG,INFM);DAT(3,PL,RFLX);COM(3,SG,FEM)	ellas se te habrían llevado con ella.
+llevar	SBJV;PRS;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,RFLX);DAT(2,PL,FORM,RFLX);ALL(3,PL,MASC)	ustedes no se lleven a sí a ellos.
+llevar	COND;PRF;NOM(2,SG,INFM);ACC(2,PL,INFM,MASC);DAT(2,SG,INFM);GEN(1,PL,FEM)	tú te habrías llevado a vosotros de nosotras.
+llevar	COND;NOM(2,PL,FORM);NEG;Q;ACC(1,SG)	¿ustedes no me llevarían?
+llevar	SBJV;PST;LGSPEC2;NOM(2,PL,FORM);Q;ACC(1,PL);COM(3,PL,FEM)	¿ustedes nos llevasen con ellas?
+llevar	COND;PRF;NOM(2,PL,FORM);Q;ACC(2,SG,INFM);DAT(3,SG,FEM)	¿ustedes te habrían llevado a ella?
+llevar	IND;PST;PRF;NOM(3,PL,FEM);NEG;Q;ACC(3,PL,FEM);DAT(3,PL,RFLX);COM(2,PL,INFM,MASC)	¿ellas no se las habían llevado con vosotros?
+llevar	SBJV;FUT;PRF;NOM(3,SG,FEM);NEG;ACC(3,SG,MASC);DAT(3,SG,RFLX);ALL(2,PL,INFM,FEM)	ella no se lo hubiere llevado a vosotras.
+llevar	IND;PRS;NOM(1,PL,FEM);NEG;ACC(2,PL,FORM,MASC);ALL(2,SG,INFM)	nosotras no los llevamos a ti.
+llevar	IND;PST;PRF;IMMED;NOM(1,PL,FEM);NEG;ACC(1,PL,FEM);DAT(1,PL);GEN(3,PL,FEM)	nosotras no nos hubimos llevado a nosotras de ellas.
+llevar	SBJV;FUT;PRF;NOM(3,PL,MASC);Q;ACC(2,SG,FORM,MASC);DAT(3,PL,RFLX);GEN(2,SG,FORM)	¿ellos se lo hubieren llevado de usted?
+llevar	IND;PST;PRF;IMMED;NOM(3,PL,FEM);NEG;Q;ACC(3,PL,FEM,RFLX);DAT(2,SG,FORM)	¿ellas no se le hubieron llevado?
+mejorar	IND;PRS;PRF;NOM(3,PL,MASC);Q;ACC(1,SG)	¿ellos me han mejorado?
+mejorar	IND;PRS;PRF;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,MASC)	¿nosotros los hemos mejorado?
+mejorar	SBJV;FUT;PRF;NOM(1,PL,FEM);NEG;Q;ACC(2,SG,INFM)	¿nosotras no te hubiéremos mejorado?
+mejorar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,RFLX);GEN(1,SG)	¿ustedes se mejoraran de mí?
+mejorar	SBJV;FUT;PRF;NOM(1,PL,FEM);ACC(3,SG,MASC)	nosotras lo hubiéremos mejorado.
+mejorar	SBJV;FUT;NOM(2,SG,INFM,LGSPEC3);ACC(2,SG,INFM);COM(3,SG,FEM)	vos te mejorares con ella.
+mejorar	IND;PST;PRF;IMMED;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,FEM,RFLX)	ustedes no se hubieron mejorado.
+mejorar	IND;FUT;PRF;NOM(1,PL,MASC);Q;ACC(1,PL);GEN(2,SG,INFM)	¿nosotros nos habremos mejorado de ti?
+mejorar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,PL,INFM);COM(3,PL,MASC)	¿vosotros no os hubierais mejorado con ellos?
+mejorar	IND;FUT;NOM(1,SG);NEG;ACC(1,SG);GEN(1,PL,MASC)	yo no me mejoraré de nosotros.
+mejorar	SBJV;PRS;PRF;NOM(3,PL,FEM);ACC(3,SG,FEM)	ellas la hayan mejorado.
+mejorar	IND;PST;PRF;IMMED;NOM(2,PL,INFM,FEM);NEG;Q;ACC(2,PL,INFM);GEN(3,PL,FEM)	¿vosotras no os hubisteis mejorado de ellas?
+mejorar	IND;FUT;PRF;NOM(1,SG);Q;ACC(1,SG);GEN(2,PL,INFM,MASC)	¿yo me habré mejorado de vosotros?
+mejorar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);ACC(2,PL,FORM,RFLX);GEN(3,SG,MASC)	ustedes se hubieran mejorado de él.
+mejorar	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(3,PL,MASC)	vosotros no los hubiereis mejorado.
+mejorar	IND;PRS;NOM(2,SG,INFM);NEG;ACC(2,SG,INFM);COM(3,SG,MASC)	tú no te mejoras con él.
+mejorar	SBJV;FUT;NOM(1,SG);Q;ACC(1,SG);GEN(3,PL,FEM)	¿yo me mejorare de ellas?
+mejorar	COND;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(2,SG,INFM);GEN(2,SG,INFM,LGSPEC3)	vos no te habrías mejorado de vos.
+mejorar	SBJV;PRS;NOM(1,PL,MASC);NEG;ACC(1,PL);COM(3,SG,FEM)	nosotros no nos mejoremos con ella.
+mejorar	COND;NOM(1,PL,FEM);ACC(1,PL);COM(2,PL,FORM)	nosotras nos mejoraríamos con ustedes.
+mostrar	IND;FUT;PRF;NOM(3,PL,MASC);Q;ACC(2,PL,INFM);DAT(3,SG,MASC)	¿ellos os habrán mostrado a él?
+mostrar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);NEG;Q;ACC(2,PL,FORM,FEM)	¿ella no las hubiese mostrado?
+mostrar	COND;PRF;NOM(1,PL,FEM);ACC(3,SG,FEM);DAT(1,PL)	nosotras nos la habríamos mostrado.
+mostrar	IND;FUT;NOM(3,SG,MASC);NEG;Q;ACC(2,PL,INFM);DAT(3,SG,MASC)	¿él no os mostrará a él?
+mostrar	IND;PST;IPFV;NOM(2,PL,FORM);NEG;ACC(2,PL,FORM,RFLX);DAT(3,SG)	ustedes no se le mostraban.
+mostrar	IND;PST;IPFV;NOM(3,PL,FEM);NEG;Q;ACC(1,SG);DAT(2,PL,INFM,MASC)	¿ellas no me mostraban a vosotros?
+mostrar	IND;PST;PFV;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,RFLX);DAT(1,PL)	¿ustedes se nos mostraron?
+mostrar	COND;NOM(3,SG,MASC);NEG;ACC(2,SG,INFM);DAT(2,PL,INFM,FEM)	él no te mostraría a vosotras.
+mostrar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);Q;ACC(2,SG,FORM,MASC);DAT(3,SG)	¿ella se lo mostrara?
+mostrar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,MASC);NEG;ACC(1,PL);DAT(3,PL,MASC)	él no nos hubiera mostrado a ellos.
+mostrar	COND;PRF;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM);DAT(1,PL)	nosotras no nos la habríamos mostrado.
+mostrar	IND;PST;PRF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,MASC);DAT(2,PL,INFM)	¿ella no os lo había mostrado?
+mostrar	IND;PST;PRF;IMMED;NOM(3,PL,MASC);ACC(2,PL,FORM,MASC);DAT(3,PL,RFLX)	ellos se los hubieron mostrado.
+mostrar	COND;PRF;NOM(1,PL,MASC);ACC(2,SG,INFM);DAT(1,PL)	nosotros nos habríamos mostrado a ti.
+mostrar	SBJV;PRS;PRF;NOM(1,PL,FEM);ACC(1,PL);DAT(1,PL,FEM)	nosotras nos hayamos mostrado a nosotras.
+mostrar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;Q;ACC(1,PL);DAT(3,SG,FEM)	¿nosotros no nos hemos mostrado a ella?
+mostrar	IND;PST;PRF;NOM(3,SG,FEM);Q;ACC(1,SG);DAT(1,PL,MASC)	¿ella me había mostrado a nosotros?
+mostrar	SBJV;FUT;PRF;NOM(3,PL,MASC);NEG;ACC(3,SG,MASC);DAT(2,PL,FORM)	ellos no se lo hubieren mostrado.
+mostrar	COND;PRF;NOM(2,SG,INFM);NEG;ACC(3,SG,FEM);DAT(1,SG)	tú no me la habrías mostrado.
+mostrar	IND;FUT;PRF;NOM(2,SG,FORM);NEG;Q;ACC(3,SG,FEM);DAT(3,SG)	¿usted no se la habrá mostrado?
+mostrar	COND;NOM(2,PL,INFM,MASC);ACC(3,SG,MASC);DAT(3,PL)	vosotros se lo mostraríais.
+organizar	COND;NOM(1,SG);NEG;Q;ACC(2,PL,INFM);LOC(3,SG,MASC)	¿yo no os organizaría en él?
+organizar	SBJV;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(2,SG,INFM);LOC(3,PL,MASC)	vos no te hubieres organizado en ellos.
+organizar	SBJV;FUT;PRF;NOM(1,PL,MASC);NEG;ACC(2,SG,INFM);LOC(3,PL,FEM)	nosotros no te hubiéremos organizado en ellas.
+organizar	IND;FUT;NOM(1,PL,FEM);Q;ACC(2,SG,INFM);LOC(1,SG)	¿nosotras te organizaremos en mí?
+organizar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;ACC(1,SG);LOC(1,PL,FEM)	nosotros no me hemos organizado en nosotras.
+organizar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,FEM);LOC(2,SG,INFM)	¿nosotros las hubiésemos organizado en ti?
+organizar	COND;PRF;NOM(3,PL,FEM);Q;ACC(3,PL,FEM,RFLX);LOC(2,SG,FORM)	¿ellas se habrían organizado en usted?
+organizar	IND;PRS;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,MASC);LOC(3,SG,FEM)	nosotros no lo organizamos en ella.
+organizar	IND;PST;PFV;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM);LOC(1,PL,MASC)	¿ella no la organizó en nosotros?
+organizar	IND;PST;PRF;IMMED;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,FORM,FEM);LOC(3,PL,MASC)	¿ellos no la hubieron organizado en ellos?
+organizar	IND;PRS;NOM(3,SG,FEM);Q;ACC(3,SG,FEM);LOC(2,SG,INFM,LGSPEC3)	¿ella la organiza en vos?
+organizar	COND;NOM(2,PL,INFM,MASC);NEG;Q;ACC(2,PL,INFM);LOC(1,SG)	¿vosotros no os organizaríais en mí?
+organizar	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;Q;ACC(3,SG,FEM);LOC(3,PL,FEM)	¿ellas no la hubieran organizado en ellas?
+organizar	IND;FUT;NOM(1,PL,FEM);NEG;ACC(2,SG,INFM);LOC(2,SG,INFM,LGSPEC3)	nosotras no te organizaremos en vos.
+organizar	SBJV;PRS;PRF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM,RFLX);LOC(3,SG,MASC)	ella no se haya organizado en él.
+organizar	IND;PST;PRF;IMMED;NOM(3,SG,MASC);ACC(3,SG,MASC,RFLX);LOC(2,PL,INFM,FEM)	él se hubo organizado en vosotras.
+organizar	IND;PST;IPFV;NOM(3,PL,FEM);Q;ACC(3,SG,FEM);LOC(2,SG,FORM)	¿ellas la organizaban en usted?
+organizar	SBJV;PRS;NOM(2,PL,FORM);NEG;Q;ACC(3,PL,FEM);LOC(3,PL,FEM)	¿ustedes no las organicen en ellas?
+organizar	IND;PST;PFV;NOM(1,PL,FEM);ACC(2,PL,FORM,FEM);LOC(3,SG,FEM)	nosotras las organizamos en ella.
+organizar	COND;PRF;NOM(1,PL,MASC);ACC(3,PL,MASC);LOC(2,SG,INFM)	nosotros los habríamos organizado en ti.
+pegar	SBJV;FUT;NOM(3,SG,MASC);NEG;Q;ACC(2,SG,INFM);DAT(1,SG)	¿él no te pegare a mí?
+pegar	SBJV;PRS;NOM(1,PL,MASC);NEG;ACC(3,PL,FEM);LOC(2,PL,INFM,MASC)	nosotros no las peguemos en vosotros.
+pegar	IND;PRS;PRF;NOM(1,PL,MASC);NEG;Q;ACC(1,SG);DAT(3,SG,FEM)	¿nosotros no me hemos pegado a ella?
+pegar	IND;PST;PFV;NOM(1,PL,FEM);NEG;Q;DAT(2,SG,INFM)	¿nosotras no te pegamos?
+pegar	COND;PRF;NOM(3,SG,FEM);Q;ACC(2,PL,FORM,MASC);CONTR(1,SG)	¿ella los habría pegado contra mí?
+pegar	SBJV;FUT;PRF;NOM(1,SG);Q;ACC(2,SG,FORM,FEM);LOC(3,PL,FEM)	¿yo la hubiere pegado en ellas?
+pegar	IND;PST;PRF;NOM(1,PL,FEM);ACC(2,PL,INFM);DAT(2,SG,INFM)	nosotras os habíamos pegado a ti.
+pegar	SBJV;PST;LGSPEC2;NOM(3,SG,MASC);NEG;Q;ACC(2,SG,FORM,FEM);CONTR(3,PL,FEM)	¿él no la pegase contra ellas?
+pegar	IND;PRS;PRF;NOM(2,SG,FORM);Q;ACC(3,SG,MASC);LOC(3,PL,MASC)	¿usted lo ha pegado en ellos?
+pegar	IND;PST;PRF;NOM(2,PL,INFM,FEM);ACC(3,PL,MASC);ALL(1,PL,FEM)	vosotras los habíais pegado a nosotras.
+pegar	SBJV;PRS;PRF;NOM(3,SG,MASC);NEG;ACC(3,PL,MASC);DAT(2,PL,FORM)	él no se los haya pegado.
+pegar	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);NEG;ACC(2,SG,FORM,MASC);ALL(1,PL,MASC)	ellas no lo pegasen a nosotros.
+pegar	COND;PRF;NOM(2,PL,INFM,MASC);Q;ACC(3,PL,MASC);LOC(1,PL,FEM)	¿vosotros los habríais pegado en nosotras?
+pegar	SBJV;PST;PRF;LGSPEC1;NOM(3,SG,FEM);NEG;Q;ACC(1,PL);CONTR(2,SG,INFM)	¿ella no nos hubiera pegado contra ti?
+pegar	SBJV;PST;LGSPEC1;NOM(2,PL,INFM,FEM);ACC(3,SG,MASC);CONTR(3,SG,MASC)	vosotras lo pegarais contra él.
+pegar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);Q;DAT(2,SG,INFM)	¿ustedes te hubieran pegado?
+pegar	COND;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,INFM);ALL(1,PL,FEM)	¿ellas no te pegarían a nosotras?
+pegar	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,MASC);NEG;ACC(3,PL,MASC);CONTR(2,PL,INFM,MASC)	vosotros no los pegaseis contra vosotros.
+pegar	IND;PRS;PRF;NOM(1,PL,FEM);NEG;Q;ACC(3,PL,MASC)	¿nosotras no los hemos pegado?
+pegar	IND;PRS;NOM(1,SG);NEG;ACC(2,SG,INFM);CONTR(3,SG,MASC)	yo no te pego contra él.
+poseer	SBJV;PST;LGSPEC2;NOM(2,PL,INFM,FEM);ACC(1,SG)	vosotras me poseyeseis.
+poseer	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,FEM)	¿nosotros las poseyéramos?
+poseer	SBJV;FUT;PRF;NOM(3,SG,MASC);NEG;Q;ACC(2,SG,FORM,MASC)	¿él no lo hubiere poseído?
+poseer	COND;NOM(3,PL,MASC);NEG;Q;ACC(2,SG,FORM,MASC)	¿ellos no lo poseerían?
+poseer	SBJV;PRS;NOM(2,SG,INFM);NEG;Q;ACC(2,SG,INFM)	¿tú no te poseas?
+poseer	SBJV;FUT;NOM(3,SG,FEM);NEG;ACC(2,PL,FORM,MASC)	ella no los poseyere.
+poseer	SBJV;FUT;NOM(3,SG,FEM);ACC(3,SG,MASC)	ella lo poseyere.
+poseer	IND;PST;PRF;NOM(3,PL,FEM);NEG;ACC(3,PL,FEM,RFLX)	ellas no se habían poseído.
+poseer	SBJV;PRS;NOM(2,SG,INFM);Q;ACC(1,PL)	¿tú nos poseas?
+poseer	IND;PRS;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM)	él no la posee.
+poseer	SBJV;PST;PRF;LGSPEC2;NOM(2,SG,FORM);NEG;ACC(3,SG,MASC)	usted no lo hubiese poseído.
+poseer	IND;PST;PRF;NOM(3,SG,FEM);Q;ACC(3,SG,FEM,RFLX)	¿ella se había poseído?
+poseer	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,FEM);ACC(1,PL)	nosotras nos hubiéramos poseído.
+poseer	IND;PST;PFV;NOM(2,SG,INFM,LGSPEC3);ACC(3,SG,FEM)	vos la poseíste.
+poseer	IND;PST;PRF;IMMED;NOM(1,SG);ACC(2,SG,FORM,MASC)	yo lo hube poseído.
+poseer	IND;PST;PFV;NOM(1,PL,MASC);ACC(2,SG,INFM)	nosotros te poseímos.
+poseer	SBJV;FUT;PRF;NOM(3,SG,FEM);NEG;ACC(3,SG,FEM)	ella no la hubiere poseído.
+poseer	IND;PRS;PRF;NOM(1,SG);NEG;Q;ACC(2,SG,INFM)	¿yo no te he poseído?
+poseer	SBJV;PST;LGSPEC1;NOM(3,PL,MASC);ACC(3,PL,MASC,RFLX)	ellos se poseyeran.
+poseer	SBJV;PST;LGSPEC2;NOM(1,PL,FEM);NEG;Q;ACC(3,PL,MASC)	¿nosotras no los poseyésemos?
+poseer	IND;PST;PRF;NOM(3,PL,MASC);ACC(2,SG,INFM)	ellos te habían poseído.
+potenciar	SBJV;FUT;PRF;NOM(1,PL,FEM);ACC(1,SG)	nosotras me hubiéremos potenciado.
+potenciar	IND;PRS;NOM(2,SG,INFM);NEG;ACC(3,SG,FEM)	tú no la potencias.
+potenciar	SBJV;PRS;PRF;NOM(1,SG);Q;ACC(2,SG,FORM,FEM)	¿yo la haya potenciado?
+potenciar	IMP;NOM(2,PL,FORM);ACC(3,SG,FEM)	¡poténcienla!
+potenciar	IND;PST;IPFV;NOM(2,PL,INFM,FEM);NEG;ACC(2,PL,INFM)	vosotras no os potenciabais.
+potenciar	IND;PRS;NOM(2,SG,FORM);NEG;Q;ACC(1,SG)	¿usted no me potencia?
+potenciar	COND;NOM(2,SG,FORM);Q;ACC(3,PL,FEM)	¿usted las potenciaría?
+potenciar	SBJV;PRS;NOM(2,SG,FORM);NEG;ACC(2,SG,FORM,RFLX)	usted no se potencie.
+potenciar	IND;PST;IPFV;NOM(1,PL,FEM);ACC(3,PL,FEM)	nosotras las potenciábamos.
+potenciar	SBJV;FUT;NOM(1,PL,MASC);NEG;Q;ACC(2,SG,FORM,MASC)	¿nosotros no lo potenciáremos?
+potenciar	IND;FUT;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,FORM,FEM)	¿ellas no la potenciarán?
+potenciar	IMP;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(3,PL,MASC)	¡no los potencies!
+potenciar	IND;PRS;PRF;NOM(3,PL,FEM);NEG;Q;ACC(2,SG,FORM,FEM)	¿ellas no la han potenciado?
+potenciar	COND;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,PL,MASC)	¿vosotras no los potenciaríais?
+potenciar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);ACC(1,PL)	ustedes nos hubieran potenciado.
+potenciar	IND;PST;IPFV;NOM(3,PL,MASC);NEG;Q;ACC(2,PL,FORM,MASC)	¿ellos no los potenciaban?
+potenciar	COND;NOM(3,SG,MASC);NEG;Q;ACC(2,PL,FORM,MASC)	¿él no los potenciaría?
+preguntar	SBJV;PST;PRF;LGSPEC2;NOM(1,SG);NEG;Q;PER(1,PL,FEM)	¿yo no hubiese preguntado por nosotras?
+preguntar	SBJV;FUT;PRF;NOM(1,PL,FEM);Q;ACC(2,SG,FORM,MASC);DAT(2,PL,FORM)	¿nosotras se lo hubiéremos preguntado?
+preguntar	COND;PRF;NOM(2,SG,INFM);NEG;Q;ACC(3,SG,FEM);DAT(3,PL)	¿tú no se la habrías preguntado?
+preguntar	IND;PST;PFV;NOM(3,PL,MASC);NEG;Q;ACC(1,SG);DAT(2,SG,INFM,LGSPEC3)	¿ellos no me preguntaron a vos?
+preguntar	IND;FUT;PRF;NOM(3,PL,FEM);Q;ACC(2,SG,FORM,FEM);DAT(3,PL,RFLX)	¿ellas se la habrán preguntado?
+preguntar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,FEM);NEG;Q;ON(2,PL,FORM)	¿nosotras no hubiésemos preguntado sobre ustedes?
+preguntar	IND;FUT;PRF;NOM(2,SG,FORM);ACC(2,SG,FORM,RFLX);DAT(3,SG)	usted se le habrá preguntado.
+preguntar	COND;PRF;NOM(3,PL,MASC);Q;ACC(2,SG,INFM);DAT(3,SG,MASC)	¿ellos te habrían preguntado a él?
+preguntar	IND;PST;PRF;NOM(2,PL,INFM,FEM);NEG;ACC(2,SG,INFM);DAT(1,PL,MASC)	vosotras no te habíais preguntado a nosotros.
+preguntar	SBJV;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ON(3,PL,MASC)	¿vos no hubieres preguntado sobre ellos?
+preguntar	COND;PRF;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,FEM);DAT(2,SG,FORM)	¿nosotros se la habríamos preguntado?
+preguntar	IND;PRS;PRF;NOM(3,SG,MASC);NEG;ACC(3,SG,FEM);DAT(2,SG,FORM)	él no se la ha preguntado.
+preguntar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);NEG;ON(3,SG,MASC)	nosotros no hubiésemos preguntado sobre él.
+preguntar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,MASC);DAT(1,SG)	¿nosotras no me lo hubiésemos preguntado?
+preguntar	SBJV;PST;LGSPEC2;NOM(3,PL,FEM);NEG;ACC(1,SG);DAT(2,PL,FORM)	ellas no me preguntasen a ustedes.
+preguntar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);PER(3,SG,FEM)	nosotros hubiésemos preguntado por ella.
+preguntar	IND;FUT;PRF;NOM(2,PL,INFM,FEM);NEG;PER(3,SG,FEM)	vosotras no habréis preguntado por ella.
+preguntar	COND;PRF;NOM(2,PL,INFM,FEM);NEG;ACC(3,PL,MASC);DAT(3,SG)	vosotras no se los habríais preguntado.
+preguntar	IND;PST;IPFV;NOM(3,SG,MASC);NEG;ON(3,SG,MASC,RFLX)	él no preguntaba sobre sí.
+proporcionar	SBJV;PRS;NOM(1,PL,MASC);Q;ACC(1,SG);DAT(2,PL,FORM)	¿nosotros me proporcionemos a ustedes?
+proporcionar	IND;PST;PFV;NOM(2,SG,INFM);NEG;Q;ACC(2,SG,INFM);DAT(3,PL,FEM)	¿tú no te proporcionaste a ellas?
+proporcionar	IND;PRS;PRF;NOM(2,PL,FORM);NEG;ACC(3,SG,FEM);DAT(2,SG,INFM)	ustedes no te la han proporcionado.
+proporcionar	IND;PST;IPFV;NOM(3,SG,FEM);ACC(2,PL,FORM,FEM);DAT(2,PL,FORM)	ella se las proporcionaba.
+proporcionar	IND;PST;PRF;NOM(3,SG,FEM);Q;ACC(2,SG,FORM,MASC);DAT(2,SG,FORM)	¿ella se lo había proporcionado?
+proporcionar	SBJV;FUT;PRF;NOM(2,SG,INFM,LGSPEC3);NEG;ACC(1,SG);DAT(3,SG,FEM)	vos no me hubieres proporcionado a ella.
+proporcionar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,FORM);Q;ACC(2,PL,FORM,FEM,RFLX);DAT(1,SG)	¿ustedes se me hubiesen proporcionado?
+proporcionar	IND;PRS;PRF;NOM(3,SG,MASC);NEG;ACC(2,SG,INFM);DAT(1,PL,MASC)	él no te ha proporcionado a nosotros.
+proporcionar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,INFM,FEM);NEG;Q;ACC(2,PL,INFM);DAT(3,SG,MASC)	¿vosotras no os hubierais proporcionado a él?
+proporcionar	IND;FUT;PRF;NOM(1,SG);NEG;ACC(2,PL,INFM);DAT(3,SG,MASC)	yo no os habré proporcionado a él.
+proporcionar	SBJV;PRS;PRF;NOM(3,SG,FEM);Q;ACC(1,PL);DAT(2,PL,FORM)	¿ella nos haya proporcionado a ustedes?
+proporcionar	COND;NOM(3,SG,MASC);NEG;ACC(2,SG,FORM,MASC);DAT(2,SG,FORM)	él no se lo proporcionaría.
+proporcionar	IND;PRS;NOM(3,SG,FEM);ACC(2,SG,FORM,MASC);DAT(2,SG,FORM)	ella se lo proporciona.
+proporcionar	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(3,PL,FEM);DAT(2,SG,FORM)	él no se las proporcione.
+proporcionar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);NEG;Q;ACC(3,PL,MASC,RFLX);DAT(2,PL,FORM)	¿ellos no se les hubiesen proporcionado?
+proporcionar	SBJV;FUT;NOM(3,PL,FEM);NEG;Q;ACC(3,SG,FEM);DAT(2,PL,INFM)	¿ellas no os la proporcionaren?
+proporcionar	COND;PRF;NOM(1,PL,MASC);NEG;Q;ACC(2,SG,INFM);DAT(3,PL,MASC)	¿nosotros no te habríamos proporcionado a ellos?
+regalar	SBJV;PST;LGSPEC2;NOM(3,PL,MASC);Q;ACC(1,PL);DAT(3,PL,MASC)	¿ellos nos regalasen a ellos?
+regalar	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);NEG;ACC(1,SG);COM(3,SG,FEM)	ellas no me regalaran con ella.
+regalar	IND;FUT;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,MASC);DAT(3,SG,RFLX)	¿ella no se lo regalará?
+regalar	IND;FUT;PRF;NOM(3,SG,MASC);NEG;ACC(1,SG);COM(2,PL,FORM)	él no me habrá regalado con ustedes.
+regalar	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);NEG;ACC(1,SG);COM(3,SG,FEM)	ellas no me regalaran con ella.
+regalar	SBJV;FUT;NOM(2,PL,INFM,FEM);NEG;ACC(3,SG,FEM);COM(2,SG,INFM)	vosotras no la regalareis contigo.
+regalar	IND;PRS;NOM(2,SG,INFM,LGSPEC3);ACC(2,SG,INFM);COM(3,PL,MASC)	vos te regalás con ellos.
+regalar	COND;NOM(3,PL,FEM);ACC(1,PL);DAT(2,SG,INFM)	ellas nos regalarían a ti.
+regalar	IND;PST;PFV;NOM(2,PL,INFM,FEM);NEG;Q;ACC(1,SG);DAT(3,SG,FEM)	¿vosotras no me regalasteis a ella?
+regalar	IND;PST;PRF;NOM(1,PL,MASC);Q;ACC(1,PL)	¿nosotros nos habíamos regalado?
+regalar	SBJV;FUT;NOM(2,SG,INFM,LGSPEC3);NEG;Q;ACC(1,PL);DAT(3,PL,MASC)	¿vos no nos regalares a ellos?
+regalar	SBJV;PST;PRF;LGSPEC2;NOM(3,PL,MASC);NEG;Q;ACC(1,PL);COM(2,SG,INFM)	¿ellos no nos hubiesen regalado contigo?
+regalar	SBJV;FUT;PRF;NOM(1,PL,FEM);NEG;Q;ACC(3,SG,FEM);COM(2,PL,FORM)	¿nosotras no la hubiéremos regalado con ustedes?
+regalar	IND;PST;PRF;IMMED;NOM(1,SG);NEG;Q;ACC(3,PL,MASC);DAT(2,SG,INFM)	¿yo no te los hube regalado?
+regalar	IND;PST;PRF;IMMED;NOM(2,SG,FORM);Q;ACC(2,SG,FORM,RFLX);DAT(2,PL,FORM)	¿usted se les hubo regalado?
+regalar	IND;PRS;PRF;NOM(1,SG);ACC(2,SG,FORM,FEM);COM(3,SG,MASC)	yo la he regalado con él.
+regalar	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM);DAT(1,PL)	¿ella no nos la regalara?
+regalar	SBJV;PRS;PRF;NOM(1,PL,MASC);ACC(2,PL,INFM);DAT(3,SG,MASC)	nosotros os hayamos regalado a él.
+regalar	IND;FUT;PRF;NOM(3,PL,FEM);NEG;ACC(1,SG);DAT(2,SG,INFM)	ellas no me habrán regalado a ti.
+regalar	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,MASC);NEG;Q;ACC(3,SG,MASC);COM(2,SG,INFM)	¿él no lo hubiese regalado contigo?
+renovar	IND;PST;PRF;NOM(3,SG,MASC);NEG;ACC(1,PL)	él no nos había renovado.
+renovar	SBJV;PRS;PRF;NOM(1,PL,MASC);NEG;ACC(2,SG,FORM,FEM)	nosotros no la hayamos renovado.
+renovar	SBJV;PST;PRF;LGSPEC2;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,PL,MASC)	¿vosotras no los hubieseis renovado?
+renovar	SBJV;PST;LGSPEC1;NOM(1,PL,FEM);NEG;ACC(3,SG,FEM)	nosotras no la renováramos.
+renovar	IND;FUT;NOM(1,PL,FEM);Q;ACC(2,PL,FORM,MASC)	¿nosotras los renovaremos?
+renovar	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);Q;ACC(2,SG,FORM,MASC)	¿ustedes lo renovaran?
+renovar	SBJV;FUT;NOM(1,SG);NEG;Q;ACC(2,SG,FORM,FEM)	¿yo no la renovare?
+renovar	SBJV;PST;LGSPEC2;NOM(1,PL,FEM);NEG;Q;ACC(2,SG,FORM,MASC)	¿nosotras no lo renovásemos?
+renovar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);Q;ACC(2,SG,FORM,MASC)	¿nosotros lo renováramos?
+renovar	SBJV;PST;LGSPEC1;NOM(3,PL,FEM);Q;ACC(2,PL,INFM)	¿ellas os renovaran?
+renovar	IND;PST;PFV;NOM(1,PL,FEM);NEG;ACC(2,PL,INFM)	nosotras no os renovamos.
+renovar	IND;PRS;NOM(3,SG,FEM);ACC(2,PL,FORM,FEM)	ella las renueva.
+renovar	IND;PST;PRF;NOM(1,SG);ACC(2,SG,FORM,MASC)	yo lo había renovado.
+renovar	IND;PRS;NOM(2,SG,INFM,LGSPEC3);ACC(2,PL,FORM,FEM)	vos las renovás.
+renovar	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);ACC(2,PL,INFM)	nosotros os hubiésemos renovado.
+renovar	IMP;NOM(2,SG,INFM);ACC(2,SG,INFM)	¡renuévate!
+renovar	IND;FUT;NOM(3,PL,FEM);ACC(2,PL,FORM,FEM)	ellas las renovarán.
+renovar	IND;PRS;PRF;NOM(2,SG,INFM);NEG;Q;ACC(2,PL,FORM,FEM)	¿tú no las has renovado?
+renovar	SBJV;PRS;NOM(2,PL,INFM,MASC);NEG;Q;ACC(3,SG,MASC)	¿vosotros no lo renovéis?
+renovar	COND;NOM(3,PL,MASC);NEG;ACC(2,SG,INFM)	ellos no te renovarían.
+renovar	IND;PRS;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(1,PL)	vosotros no nos habéis renovado.
+renovar	SBJV;PST;LGSPEC2;NOM(1,SG);NEG;Q;ACC(2,SG,INFM)	¿yo no te renovase?
+renovar	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(2,SG,INFM)	vosotros no te hubiereis renovado.
+retroceder	IND;PST;PRF;IMMED;NOM(1,PL,FEM);GEN(2,PL,INFM,FEM);ALL(3,PL,FEM)	nosotras hubimos retrocedido de vosotras a ellas.
+retroceder	SBJV;FUT;PRF;NOM(2,PL,FORM);Q;GEN(2,PL,FORM,RFLX);ALL(1,SG)	¿ustedes hubieren retrocedido de sí a mí?
+retroceder	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,MASC);GEN(2,SG,INFM);ALL(2,PL,FORM)	nosotros hubiésemos retrocedido de ti a ustedes.
+retroceder	IMP;NOM(2,PL,FORM);NEG;GEN(1,PL,FEM);ALL(1,PL,MASC)	¡no retrocedan de nosotras a nosotros!
+retroceder	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;GEN(1,PL,MASC);ALL(1,PL,FEM)	ellas no hubieran retrocedido de nosotros a nosotras.
+retroceder	SBJV;FUT;NOM(1,PL,FEM);NEG;Q;GEN(2,SG,FORM);ALL(2,PL,FORM)	¿nosotras no retrocediéremos de usted a ustedes?
+retroceder	IND;PST;PRF;NOM(2,PL,FORM);NEG;GEN(2,SG,FORM);ALL(1,PL,MASC)	ustedes no habían retrocedido de usted a nosotros.
+retroceder	IMP;NOM(2,SG,FORM);VERS(1,PL,FEM)	¡retroceda hacia nosotras!
+retroceder	SBJV;FUT;PRF;NOM(2,PL,INFM,FEM);GEN(1,SG);ALL(2,PL,INFM,FEM)	vosotras hubiereis retrocedido de mí a vosotras.
+retroceder	IND;PST;PRF;NOM(3,PL,MASC);NEG;Q;GEN(3,SG,FEM);ALL(2,PL,INFM,MASC)	¿ellos no habían retrocedido de ella a vosotros?
+retroceder	COND;NOM(3,SG,MASC);NEG;Q;GEN(3,SG,MASC,RFLX);ALL(1,SG)	¿él no retrocedería de sí a mí?
+retroceder	SBJV;PST;LGSPEC1;NOM(2,SG,INFM);Q;GEN(1,PL,FEM);ALL(3,SG,MASC)	¿tú retrocedieras de nosotras a él?
+retroceder	IND;PST;IPFV;NOM(3,PL,FEM);GEN(2,PL,INFM,FEM);ALL(3,PL,FEM,RFLX)	ellas retrocedían de vosotras a sí.
+retroceder	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;GEN(1,SG);ALL(3,SG,MASC)	vosotros no hubiereis retrocedido de mí a él.
+retroceder	SBJV;PST;PRF;LGSPEC1;NOM(2,SG,FORM);Q;GEN(2,SG,FORM,RFLX);ALL(3,SG,FEM)	¿usted hubiera retrocedido de sí a ella?
+retroceder	IND;FUT;PRF;NOM(2,SG,FORM);GEN(1,PL,FEM);ALL(2,PL,FORM)	usted habrá retrocedido de nosotras a ustedes.
+retroceder	SBJV;PST;PRF;LGSPEC1;NOM(1,PL,FEM);ON(3,PL,MASC)	nosotras hubiéramos retrocedido sobre ellos.
+retroceder	IND;PST;PRF;NOM(1,SG);Q;GEN(3,SG,MASC);ALL(3,SG,MASC)	¿yo había retrocedido de él a él?
+retroceder	IND;PST;PFV;NOM(1,SG);Q;GEN(3,PL,MASC);ALL(1,SG)	¿yo retrocedí de ellos a mí?
+retroceder	IND;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;Q;LOC(2,PL,INFM,MASC)	¿vosotros no habréis retrocedido en vosotros?
+salvar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);NEG;ACC(3,PL,MASC);GEN(1,PL,FEM)	ustedes no los hubieran salvado de nosotras.
+salvar	IND;FUT;NOM(2,PL,INFM,MASC);ACC(3,SG,MASC)	vosotros lo salvaréis.
+salvar	IND;FUT;PRF;NOM(3,SG,FEM);NEG;ACC(1,SG);GEN(2,SG,INFM,LGSPEC3)	ella no me habrá salvado de vos.
+salvar	SBJV;FUT;NOM(3,PL,MASC);NEG;ACC(2,SG,INFM);GEN(1,PL,MASC)	ellos no te salvaren de nosotros.
+salvar	COND;NOM(1,PL,MASC);Q;ACC(2,PL,FORM,MASC);GEN(3,PL,FEM)	¿nosotros los salvaríamos de ellas?
+salvar	SBJV;PST;LGSPEC2;NOM(3,PL,MASC);NEG;ACC(2,PL,FORM,FEM);GEN(3,PL,FEM)	ellos no las salvasen de ellas.
+salvar	SBJV;FUT;PRF;NOM(3,PL,FEM);ACC(2,SG,FORM,FEM);GEN(1,PL,MASC)	ellas la hubieren salvado de nosotros.
+salvar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,INFM,FEM);ACC(3,SG,FEM);GEN(2,PL,INFM,FEM)	vosotras la hubierais salvado de vosotras.
+salvar	SBJV;FUT;NOM(1,PL,FEM);NEG;Q;ACC(2,SG,FORM,MASC);GEN(3,PL,FEM)	¿nosotras no lo salváremos de ellas?
+salvar	IND;PST;PRF;IMMED;NOM(2,PL,FORM);Q;ACC(2,SG,FORM,FEM);GEN(3,PL,FEM)	¿ustedes la hubieron salvado de ellas?
+salvar	IND;PST;IPFV;NOM(3,PL,MASC);ACC(3,SG,MASC)	ellos lo salvaban.
+salvar	IND;PRS;NOM(3,SG,MASC);NEG;Q;ACC(3,PL,FEM);GEN(2,SG,FORM)	¿él no las salva de usted?
+salvar	IND;PRS;PRF;NOM(3,PL,MASC);ACC(3,PL,MASC);GEN(2,PL,INFM,MASC)	ellos los han salvado de vosotros.
+salvar	SBJV;FUT;NOM(1,SG);NEG;ACC(2,PL,INFM);GEN(3,SG,FEM)	yo no os salvare de ella.
+salvar	IND;FUT;NOM(3,SG,MASC);Q;ACC(3,SG,MASC);GEN(3,PL,FEM)	¿él lo salvará de ellas?
+salvar	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);ACC(2,SG,FORM,MASC);GEN(3,SG,MASC)	ustedes lo hubieran salvado de él.
+salvar	SBJV;PRS;NOM(2,PL,INFM,FEM);NEG;Q;ACC(3,SG,FEM);GEN(2,PL,INFM,FEM)	¿vosotras no la salvéis de vosotras?
+salvar	SBJV;PST;LGSPEC1;NOM(2,SG,FORM);NEG;Q;ACC(2,SG,FORM,FEM,RFLX);GEN(3,PL,MASC)	¿usted no se salvara de ellos?
+salvar	COND;PRF;NOM(2,PL,INFM,FEM);NEG;Q;ACC(1,PL);GEN(3,PL,FEM)	¿vosotras no nos habríais salvado de ellas?
+salvar	IND;PST;PRF;NOM(3,SG,FEM);Q;ACC(2,SG,FORM,MASC);GEN(1,SG)	¿ella lo había salvado de mí?
+salvar	IND;PST;PFV;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);GEN(3,PL,MASC)	ella no los salvó de ellos.
+salvar	SBJV;PST;LGSPEC1;NOM(1,PL,MASC);NEG;Q;ACC(3,SG,FEM);GEN(1,PL,MASC)	¿nosotros no la salváramos de nosotros?
+servir	COND;PRF;NOM(3,PL,MASC);BEN(2,SG,FORM)	ellos habrían servido para usted.
+servir	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,MASC);NEG;BEN(3,SG,MASC,RFLX)	él no hubiese servido para sí.
+servir	IND;PST;IPFV;NOM(1,PL,MASC);NEG;ACC(2,PL,FORM,FEM);DAT(1,PL)	nosotros no nos las servíamos.
+servir	IND;PST;PRF;NOM(3,PL,FEM);NEG;DAT(3,PL,RFLX);GEN(3,PL,MASC)	ellas no se habían servido de ellos.
+servir	SBJV;FUT;NOM(1,SG);Q;ACC(3,PL,MASC)	¿yo los sirviere?
+servir	SBJV;FUT;NOM(3,SG,MASC);DAT(3,SG,RFLX);GEN(1,PL,FEM)	él se sirviere de nosotras.
+servir	SBJV;PST;LGSPEC2;NOM(1,PL,MASC);NEG;Q;DAT(3,SG)	¿nosotros no le sirviésemos?
+servir	SBJV;FUT;NOM(1,PL,FEM);Q;ACC(2,PL,INFM)	¿nosotras os sirviéremos?
+servir	SBJV;PST;PRF;LGSPEC2;NOM(1,PL,FEM);NEG;BEN(2,PL,FORM)	nosotras no hubiésemos servido para ustedes.
+servir	IND;FUT;PRF;NOM(2,PL,FORM);NEG;BEN(2,SG,INFM,LGSPEC3)	ustedes no habrán servido para vos.
+servir	IMP;NOM(1,PL);NEG;ACC(3,PL,MASC)	¡no los sirvamos!
+servir	IND;PRS;NOM(3,SG,MASC);BEN(2,SG,FORM)	él sirve para usted.
+servir	IND;PST;PRF;IMMED;NOM(1,PL,MASC);Q;DAT(1,PL);GEN(3,SG,FEM)	¿nosotros nos hubimos servido de ella?
+servir	SBJV;PST;PRF;LGSPEC1;NOM(3,PL,FEM);NEG;BEN(2,SG,FORM)	ellas no hubieran servido para usted.
+servir	IND;PRS;NOM(3,PL,FEM);Q;DAT(3,PL,RFLX);GEN(1,PL,MASC)	¿ellas se sirven de nosotros?
+servir	SBJV;PST;LGSPEC1;NOM(3,PL,MASC);BEN(2,PL,INFM,MASC)	ellos sirvieran para vosotros.
+servir	SBJV;PRS;NOM(3,SG,MASC);NEG;ACC(2,SG,FORM,FEM)	él no la sirva.
+vencer	IND;PRS;PRF;NOM(3,SG,FEM);NEG;Q;ACC(3,SG,FEM,RFLX);VERS(2,SG,FORM)	¿ella no se ha vencido hacia usted?
+vencer	IND;PST;PFV;NOM(1,PL,FEM);Q;ACC(1,SG);VERS(2,PL,INFM,FEM)	¿nosotras me vencimos hacia vosotras?
+vencer	IND;PRS;NOM(2,PL,FORM);LOC(2,PL,FORM,RFLX)	ustedes vencen en sí.
+vencer	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,FORM);NEG;Q;ACC(1,SG);VERS(3,PL,FEM)	¿ustedes no me hubieran vencido hacia ellas?
+vencer	COND;PRF;NOM(3,PL,FEM);ACC(3,SG,MASC);VERS(2,SG,INFM)	ellas lo habrían vencido hacia ti.
+vencer	IND;PST;PRF;IMMED;NOM(1,PL,FEM);NEG;Q;LOC(2,SG,INFM)	¿nosotras no hubimos vencido en ti?
+vencer	SBJV;PST;LGSPEC1;NOM(2,PL,FORM);ACC(1,PL);VERS(1,SG)	ustedes nos vencieran hacia mí.
+vencer	SBJV;FUT;PRF;NOM(3,PL,MASC);ON(3,SG,MASC)	ellos hubieren vencido sobre él.
+vencer	COND;NOM(3,SG,MASC);NEG;ACC(3,SG,MASC,RFLX);VERS(1,PL,MASC)	él no se vencería hacia nosotros.
+vencer	SBJV;PST;PRF;LGSPEC1;NOM(1,SG);ACC(2,SG,FORM,FEM)	yo la hubiera vencido.
+vencer	IND;PST;PRF;NOM(3,PL,FEM);NEG;ACC(3,SG,MASC);VERS(1,SG)	ellas no lo habían vencido hacia mí.
+vencer	COND;PRF;NOM(1,SG);NEG;Q;ACC(3,SG,MASC);VERS(3,PL,MASC)	¿yo no lo habría vencido hacia ellos?
+vencer	SBJV;PST;LGSPEC1;NOM(3,SG,FEM);ACC(3,SG,FEM,RFLX);VERS(2,PL,INFM,FEM)	ella se venciera hacia vosotras.
+vencer	SBJV;PST;PRF;LGSPEC2;NOM(3,SG,FEM);Q;ACC(1,PL);VERS(3,SG,MASC)	¿ella nos hubiese vencido hacia él?
+vencer	IND;PRS;NOM(3,PL,MASC);NEG;ON(3,PL,MASC,RFLX)	ellos no vencen sobre sí.
+vencer	IND;PRS;NOM(3,PL,FEM);NEG;ACC(2,SG,FORM,MASC);VERS(2,SG,FORM)	ellas no lo vencen hacia usted.
+vencer	SBJV;PST;PRF;LGSPEC1;NOM(2,PL,INFM,FEM);ACC(2,PL,INFM);VERS(1,PL,MASC)	vosotras os hubierais vencido hacia nosotros.
+vencer	COND;NOM(3,SG,FEM);NEG;ON(3,PL,MASC)	ella no vencería sobre ellos.
+vencer	COND;NOM(3,SG,FEM);NEG;ACC(3,PL,MASC);VERS(2,PL,FORM)	ella no los vencería hacia ustedes.
+vencer	SBJV;FUT;PRF;NOM(2,PL,INFM,MASC);NEG;ACC(2,PL,INFM);VERS(2,SG,INFM)	vosotros no os hubiereis vencido hacia ti.
